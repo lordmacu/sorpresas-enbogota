@@ -55,7 +55,7 @@ export function Header({ whatsapp }: HeaderProps) {
             </Link>
 
             <Link href="/blog" className="nav-link px-3 py-2">
-              Blog & Guías
+              Blog
             </Link>
 
             <Link href="/cobertura-bogota" className="nav-link px-3 py-2">
@@ -138,7 +138,7 @@ export function Header({ whatsapp }: HeaderProps) {
                 onClick={() => setIsMenuOpen(false)}
                 className="py-3 px-2 text-[#2D2A26] font-medium hover:text-[#8B2635]"
               >
-                Blog & Guías
+                Blog
               </Link>
 
               <Link
