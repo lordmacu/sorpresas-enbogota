@@ -54,12 +54,8 @@ export function Header({ whatsapp }: HeaderProps) {
               Categorías
             </Link>
 
-            <Link href="/guias" className="nav-link px-3 py-2">
-              Guías
-            </Link>
-
             <Link href="/blog" className="nav-link px-3 py-2">
-              Blog
+              Blog & Guías
             </Link>
 
             <Link href="/cobertura-bogota" className="nav-link px-3 py-2">
@@ -138,19 +134,11 @@ export function Header({ whatsapp }: HeaderProps) {
               </Link>
 
               <Link
-                href="/guias"
-                onClick={() => setIsMenuOpen(false)}
-                className="py-3 px-2 text-[#2D2A26] font-medium hover:text-[#8B2635]"
-              >
-                Guías e ideas para regalar
-              </Link>
-
-              <Link
                 href="/blog"
                 onClick={() => setIsMenuOpen(false)}
                 className="py-3 px-2 text-[#2D2A26] font-medium hover:text-[#8B2635]"
               >
-                Blog de regalos
+                Blog & Guías
               </Link>
 
               <Link

@@ -13,8 +13,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: SITE_URL, lastModified: now, changeFrequency: "daily", priority: 1 },
     { url: `${SITE_URL}/categorias`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
     { url: `${SITE_URL}/cobertura-bogota`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/guias`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
-    { url: `${SITE_URL}/blog`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
+    { url: `${SITE_URL}/blog`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/guias`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
     { url: `${SITE_URL}/como-funciona`, lastModified: now, changeFrequency: "monthly", priority: 0.5 },
     { url: `${SITE_URL}/nosotros`, lastModified: now, changeFrequency: "monthly", priority: 0.5 },
     { url: `${SITE_URL}/opiniones`, lastModified: now, changeFrequency: "monthly", priority: 0.5 },
@@ -30,7 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const guiaUrls: MetadataRoute.Sitemap = guias.guias.map((g) => ({
-    url: `${SITE_URL}/guias/${g.slug}`,
+    url: `${SITE_URL}/blog/guias/${g.slug}`,
     lastModified: now,
     changeFrequency: "monthly",
     priority: 0.6,
