@@ -7,7 +7,8 @@
       "texto": "Mi mamá lloró de felicidad cuando recibió el ramo. Las flores estaban increíbles y el empaque era precioso.",
       "producto": "Ramo de 12 Rosas Rojas",
       "rating": 5,
-      "fecha": "2026-02-14"
+      "fecha": "2026-02-14",
+      "producto_slug": "regalo-cumpleanos-camino-rosas"
     },
     {
       "id": "test-2",
@@ -25,7 +26,8 @@
       "texto": "El combo novia fue un éxito. Mi pareja amó cada detalle. Definitivamente volveré a comprar.",
       "producto": "Combo Novia Romántica",
       "rating": 5,
-      "fecha": "2026-04-10"
+      "fecha": "2026-04-10",
+      "producto_slug": "regalo-mama-corazon-romantico"
     },
     {
       "id": "test-4",
@@ -43,7 +45,8 @@
       "texto": "Llevé el desayuno sorpresa a mi oficina y todo estaba fresco y delicioso. El servicio de WhatsApp es genial.",
       "producto": "Canasta Desayuno Premium",
       "rating": 5,
-      "fecha": "2026-05-15"
+      "fecha": "2026-05-15",
+      "producto_slug": "promo-fresas"
     }
   ]
 }

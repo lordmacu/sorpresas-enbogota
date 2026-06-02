@@ -72,6 +72,7 @@ const organizationLd = {
   "@context": "https://schema.org",
   "@type": "Store",
   "@id": `${SITE_URL}/#store`,
+  inLanguage: "es-CO",
   name: SITE_NAME,
   url: SITE_URL,
   image: `${SITE_URL}/opengraph-image`,

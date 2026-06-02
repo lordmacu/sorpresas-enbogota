@@ -9,6 +9,8 @@ import { SITE_URL, SITE_NAME, formatCOP, waLink } from "@/lib/site";
 import { loadSeo } from "@/lib/seo";
 import productos from "@/data/productos.json";
 import categorias from "@/data/categorias.json";
+import landings from "@/data/landings.json";
+import testimonios from "@/data/testimonios.json";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -36,10 +38,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const metaTitle = seo?.metaTitle || producto.nombre;
   const metaDescription = seo?.metaDescription || fallbackDescripcion;
+  const metaKeywords = (producto as any).keywords || "";
 
   return {
     title: metaTitle,
     description: metaDescription,
+    keywords: metaKeywords || undefined,
     alternates: { canonical: `/producto/${slug}` },
     openGraph: {
       title: metaTitle,
@@ -81,6 +85,14 @@ export default async function ProductPage({ params }: PageProps) {
 
   const seo = await loadSeo(slug);
   const categoria = categorias.categorias.find((c) => c.id === producto.categoria);
+
+  // Detecta la ocasión del producto (busca en landings por slug o categoría)
+  const ocasion = landings.landings.find(
+    (l) =>
+      l.tipo === "ocasion" &&
+      (slug.includes(l.slug.split("-")[0]) || producto.categoria.includes(l.slug.split("-")[0]))
+  );
+
   const relatedProducts = productos.productos
     .filter((p) => p.categoria === producto.categoria && p.slug !== slug && p.visible)
     .slice(0, 4);
@@ -108,10 +120,16 @@ export default async function ProductPage({ params }: PageProps) {
   const hasDiscount =
     producto.precioAnterior && producto.precioAnterior > producto.precio;
 
+  // Busca testimonios relacionados a este producto
+  const productReviews = (testimonios.testimonios as any[]).filter(
+    (t) => t.producto_slug === slug
+  );
+
   // === Datos estructurados (JSON-LD) para SEO ===
-  const productLd = {
+  const productLd: any = {
     "@context": "https://schema.org",
     "@type": "Product",
+    inLanguage: "es-CO",
     name: producto.nombre,
     description: producto.descripcion,
     image: producto.imagen ? [producto.imagen] : undefined,
@@ -133,16 +151,55 @@ export default async function ProductPage({ params }: PageProps) {
     },
   };
 
+  // Agrega testimonios como Review schema si existen
+  if (productReviews.length > 0) {
+    productLd.review = productReviews.map((t: any) => ({
+      "@type": "Review",
+      author: { "@type": "Person", name: t.nombre },
+      datePublished: t.fecha,
+      reviewBody: t.texto,
+      reviewRating: {
+        "@type": "Rating",
+        ratingValue: t.rating,
+        bestRating: 5,
+        worstRating: 1,
+      },
+    }));
+
+    // Calcula aggregate rating si hay reviews
+    const avgRating = (
+      productReviews.reduce((sum: number, t: any) => sum + t.rating, 0) /
+      productReviews.length
+    ).toFixed(1);
+    productLd.aggregateRating = {
+      "@type": "AggregateRating",
+      ratingValue: avgRating,
+      reviewCount: productReviews.length,
+      bestRating: 5,
+      worstRating: 1,
+    };
+  }
+
   const breadcrumbLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Inicio", item: SITE_URL },
-      { "@type": "ListItem", position: 2, name: "Categorías", item: `${SITE_URL}/categorias` },
-      ...(categoria
-        ? [{ "@type": "ListItem", position: 3, name: categoria.nombre, item: `${SITE_URL}/categorias/${categoria.slug}` }]
+      ...(ocasion
+        ? [{ "@type": "ListItem", position: 2, name: ocasion.h1, item: `${SITE_URL}/${ocasion.slug}` }]
         : []),
-      { "@type": "ListItem", position: categoria ? 4 : 3, name: producto.nombre, item: `${SITE_URL}/producto/${slug}` },
+      {
+        "@type": "ListItem",
+        position: ocasion ? 3 : 2,
+        name: categoria?.nombre || "Categorías",
+        item: categoria ? `${SITE_URL}/categorias/${categoria.slug}` : `${SITE_URL}/categorias`,
+      },
+      {
+        "@type": "ListItem",
+        position: ocasion ? 4 : 3,
+        name: producto.nombre,
+        item: `${SITE_URL}/producto/${slug}`,
+      },
     ],
   };
 
@@ -175,11 +232,22 @@ export default async function ProductPage({ params }: PageProps) {
       {/* Breadcrumb */}
       <div className="bg-white border-b border-[#F5E6D3]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <nav className="flex items-center gap-2 text-sm text-[#6B6560]">
+          <nav className="flex items-center gap-2 text-sm text-[#6B6560] flex-wrap">
             <Link href="/" className="hover:text-[#8B2635] transition-colors">
               Inicio
             </Link>
             <span>/</span>
+            {ocasion && (
+              <>
+                <Link
+                  href={`/${ocasion.slug}`}
+                  className="hover:text-[#8B2635] transition-colors"
+                >
+                  {ocasion.h1}
+                </Link>
+                <span>/</span>
+              </>
+            )}
             <Link
               href={`/categorias/${producto.categoria}`}
               className="hover:text-[#8B2635] transition-colors"

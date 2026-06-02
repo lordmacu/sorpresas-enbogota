@@ -140,6 +140,7 @@ export default async function GuiaPage({
       ? {
           "@context": "https://schema.org",
           "@type": "FAQPage",
+    inLanguage: "es-CO",
           mainEntity: guia.faq.map((f) => ({
             "@type": "Question",
             name: f.pregunta,

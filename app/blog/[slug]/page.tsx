@@ -26,6 +26,7 @@ interface Post {
   fecha: string;
   etiqueta: string;
   heroProductSlug: string;
+  heroImagen?: string;
   lead: string;
   intro: string[];
   items: BlogItem[];
@@ -63,7 +64,7 @@ export async function generateMetadata({
   const post = getPost(slug);
   if (!post) return { title: "Artículo no encontrado" };
 
-  const img = getProducto(post.heroProductSlug)?.imagen;
+  const img = post.heroImagen || getProducto(post.heroProductSlug)?.imagen;
   return {
     title: post.metaTitle,
     description: post.metaDescription,
@@ -156,7 +157,7 @@ export default async function BlogPostPage({
   if (!post) notFound();
 
   const heroProd = getProducto(post.heroProductSlug) || getProducto(post.items[0]?.productoSlug);
-  const heroImagen = heroProd?.imagen;
+  const heroImagen = post.heroImagen || heroProd?.imagen;
   const cats = post.categoriasRelacionadas
     .map(getCategoria)
     .filter((c): c is NonNullable<typeof c> => Boolean(c));
@@ -203,6 +204,7 @@ export default async function BlogPostPage({
       ? {
           "@context": "https://schema.org",
           "@type": "FAQPage",
+    inLanguage: "es-CO",
           mainEntity: post.faq.map((f) => ({
             "@type": "Question",
             name: f.pregunta,

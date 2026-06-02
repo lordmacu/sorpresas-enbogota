@@ -34,6 +34,7 @@ export default function NosotrosPage() {
   const aboutLd = {
     "@context": "https://schema.org",
     "@type": "AboutPage",
+    inLanguage: "es-CO",
     name: TITLE,
     url: `${SITE_URL}/nosotros`,
     mainEntity: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },

@@ -27,6 +27,7 @@ export default function ContactoPage() {
   const contactLd = {
     "@context": "https://schema.org",
     "@type": "ContactPage",
+    inLanguage: "es-CO",
     name: TITLE,
     url: `${SITE_URL}/contacto`,
     mainEntity: {

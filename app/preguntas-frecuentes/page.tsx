@@ -37,6 +37,7 @@ export default function PreguntasFrecuentesPage() {
   const faqLd = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
+    inLanguage: "es-CO",
     mainEntity: FAQ.map(([q, a]) => ({
       "@type": "Question",
       name: q,

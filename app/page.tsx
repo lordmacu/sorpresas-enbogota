@@ -424,7 +424,7 @@ export default function Home() {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {blogHome.map((post) => {
-                const img = postImg(post.heroProductSlug);
+                const img = post.heroImagen || postImg(post.heroProductSlug);
                 return (
                   <Link
                     key={post.slug}

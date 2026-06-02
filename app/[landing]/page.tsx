@@ -127,6 +127,7 @@ export default async function LandingPage({
   const faqLd = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
+    inLanguage: "es-CO",
     mainEntity: landing.faq.map((f) => ({
       "@type": "Question",
       name: f.pregunta,

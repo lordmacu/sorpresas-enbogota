@@ -13,6 +13,7 @@ interface Post {
   fecha: string;
   etiqueta: string;
   heroProductSlug: string;
+  heroImagen?: string;
   items: { productoSlug: string }[];
 }
 const POSTS = blogData.posts as Post[];
@@ -33,6 +34,7 @@ export const metadata: Metadata = {
 
 const img = (slug: string) =>
   productos.productos.find((p) => p.slug === slug)?.imagen || "";
+const heroOf = (post: Post): string => post.heroImagen || img(post.heroProductSlug);
 
 function formatFecha(iso: string): string {
   const [y, m, d] = iso.split("-").map(Number);
@@ -90,9 +92,9 @@ export default function BlogIndexPage() {
               className="group grid lg:grid-cols-2 gap-0 rounded-3xl overflow-hidden border border-[#F5E6D3] bg-white card-hover"
             >
               <div className="relative aspect-[16/10] lg:aspect-auto lg:min-h-[340px] img-zoom overflow-hidden">
-                {img(featured.heroProductSlug) && (
+                {heroOf(featured) && (
                   <Image
-                    src={img(featured.heroProductSlug)}
+                    src={heroOf(featured)}
                     alt={featured.h1}
                     fill
                     priority
@@ -135,9 +137,9 @@ export default function BlogIndexPage() {
                 className="group flex flex-col bg-white rounded-3xl overflow-hidden border border-[#F5E6D3] card-hover"
               >
                 <div className="relative aspect-[16/10] img-zoom overflow-hidden">
-                  {img(post.heroProductSlug) && (
+                  {heroOf(post) && (
                     <Image
-                      src={img(post.heroProductSlug)}
+                      src={heroOf(post)}
                       alt={post.h1}
                       fill
                       className="object-cover"
