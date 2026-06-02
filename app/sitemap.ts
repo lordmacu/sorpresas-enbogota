@@ -48,7 +48,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: now,
     changeFrequency: "weekly",
     priority: 0.8,
-    images: c.imagen ? [c.imagen] : undefined,
+    images: c.imagen ? [`${SITE_URL}${c.imagen}`] : undefined,
   }));
 
   const productoUrls: MetadataRoute.Sitemap = productos.productos.map((p) => ({
@@ -56,7 +56,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: now,
     changeFrequency: "weekly",
     priority: 0.7,
-    images: p.imagen ? [p.imagen] : undefined,
+    images: p.imagen ? [`${SITE_URL}${p.imagen}`] : undefined,
   }));
 
   return [...estaticas, ...landingUrls, ...guiaUrls, ...blogUrls, ...categoriaUrls, ...productoUrls];
