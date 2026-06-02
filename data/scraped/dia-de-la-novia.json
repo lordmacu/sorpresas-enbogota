@@ -1,0 +1,830 @@
+{
+  "categoria": "dia-de-la-novia",
+  "nombre": "Día de la Novia",
+  "slug": "dia-de-la-novia",
+  "descripcion": "Día de la Novia: flores, arreglos y regalos a domicilio para el 1 de agosto. Sorpréndela con detalles únicos y entrega rápida. ¡Compra ahora!",
+  "imagen": "/images/shop/WhatsApp_Image_2025-07-30_at_09.44.30_fc2c9edf.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "bouquet-de-24-rosas",
+      "nombre": "Bouquet de 24 Rosas",
+      "slug": "dia-de-la-mujer-bouquet-rosas",
+      "precio": 89900,
+      "precioAnterior": 104396,
+      "descripcion": "Contenido:\nRosas Rojas o Surtidas\n1 Moño de cinta\n1 Tarjeta\n1 Ruana de floristería\n**El diseño de la ruana y la tarjeta, el color de la ruana y la cinta está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/image-2024-03-23-at-12-24-38-pm-1_1.webp",
+      "galeria": [
+        "/images/shop/image-2024-03-23-at-12-24-38-pm-1_1.webp"
+      ],
+      "contenido": [
+        "Rosas Rojas o Surtidas",
+        "1 Moño de cinta",
+        "1 Tarjeta",
+        "1 Ruana de floristería"
+      ],
+      "tags": [
+        "para-ella",
+        "promo",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "desayuno-bouquet",
+      "nombre": "Brunch bouquet",
+      "slug": "amor-amistad-brunch-bouquet",
+      "precio": 119900,
+      "precioAnterior": 149900,
+      "descripcion": "Contenido\n1 sándwich\n1 waffle por 4\n1 mini Nutella\n1 jugo pequeño\nPorción de galletas\nPorción de papas\nPorción de miel\nPorción de masmelos\n1 yogour\n6 fresas\n1 porción de uchuvas\n1 porción de froot loops\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/ImagendeWhatsApp2025-02-10alas08.51.02_a91c3c3b.webp",
+      "galeria": [
+        "/images/shop/ImagendeWhatsApp2025-02-10alas08.51.02_a91c3c3b.webp"
+      ],
+      "contenido": [
+        "1 sándwich",
+        "1 waffle por 4",
+        "1 mini Nutella",
+        "1 jugo pequeño",
+        "Porción de galletas",
+        "Porción de papas",
+        "Porción de miel",
+        "Porción de masmelos",
+        "1 yogour",
+        "6 fresas",
+        "1 porción de uchuvas",
+        "1 porción de froot loops"
+      ],
+      "tags": [
+        "Amor y Amistad",
+        "brunch",
+        "cumpleanos",
+        "desayunos",
+        "para-el",
+        "para-ella",
+        "promo",
+        "promociones",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "pink-bouquet",
+      "nombre": "Pink Bouquet",
+      "slug": "regalo-amor-pink-bouquet",
+      "precio": 125296,
+      "precioAnterior": 146196,
+      "descripcion": "Contenido:\n24 rosas\n1 peluche mediano\n1 tarjeta\n1 ruana de floristeria",
+      "imagen": "/images/shop/ImagendeWhatsApp2024-10-18alas17.56.06_245a9ef3.webp",
+      "galeria": [
+        "/images/shop/ImagendeWhatsApp2024-10-18alas17.56.06_245a9ef3.webp"
+      ],
+      "contenido": [
+        "24 rosas",
+        "1 peluche mediano",
+        "1 tarjeta",
+        "1 ruana de floristeria"
+      ],
+      "tags": [
+        "amor",
+        "cumpleanos",
+        "para-ella",
+        "promo",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_67548fba-199c-c064-05df-5628db1a8f93",
+      "nombre": "Bouquet Girasoles (R087)",
+      "slug": "dia-de-la-novia-bouquet-girasoles",
+      "precio": 143061,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n12 Girasoles\n1 Moño de cinta\n1 Tarjeta\n1 Ruana de floristeria\nEl diseño de la ruana y la tarjeta, el color de la ruana y la cinta está sujeto a disponibilidad de la tienda,",
+      "imagen": "/images/shop/BouquetdeGiraoles.webp",
+      "galeria": [
+        "/images/shop/BouquetdeGiraoles.webp"
+      ],
+      "contenido": [
+        "12 Girasoles",
+        "1 Moño de cinta",
+        "1 Tarjeta",
+        "1 Ruana de floristeria"
+      ],
+      "tags": [
+        "flores-frutas",
+        "perdoname"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bouquet-flor-de-sol",
+      "nombre": "Bouquet Flor de Sol",
+      "slug": "dia-de-la-mujer-bouquet-flor-sol",
+      "precio": 181726,
+      "precioAnterior": 371916,
+      "descripcion": "Contenido:\nBalde de madera envuelto en papel\nGirasoles\nMargaritas\nPiñitas\nTarjeta\nRusco pintado\n**El contenido, decoración y productos están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/BouquetFlordeSol.webp",
+      "galeria": [
+        "/images/shop/BouquetFlordeSol.webp"
+      ],
+      "contenido": [
+        "Balde de madera envuelto en papel",
+        "Girasoles",
+        "Margaritas",
+        "Piñitas",
+        "Tarjeta",
+        "Rusco pintado"
+      ],
+      "tags": [
+        "flores-frutas",
+        "para-ella",
+        "para-mama"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_803a88c3-1911-3142-0bb5-5f4515b5ad21",
+      "nombre": "Bouquet Armonía",
+      "slug": "amor-amistad-bouquet-armonia",
+      "precio": 233976,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n24 fresas naturales\n24 fresas con chocolate decoradas\npapel decorativo\n1 moño\n1 tarjeta personalizada",
+      "imagen": "/images/shop/674055_a053c8e8e2d44f759cba8f3a31d09396_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_a053c8e8e2d44f759cba8f3a31d09396_mv2.webp"
+      ],
+      "contenido": [
+        "24 fresas naturales",
+        "24 fresas con chocolate decoradas",
+        "papel decorativo",
+        "1 moño",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "fresas-con-chocolate"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_398e1813-437e-4e0c-5987-ebf7f88b3e53",
+      "nombre": "Bouquet de Ensueño",
+      "slug": "amor-amistad-bouquet-ensueno",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nArreglo de aprox 60 rosas\n1 Tiara\nPapel coreano\nMoño decorativo\nTarjeta Personalizada\nEl color de la decoración y las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_ff857fcab2764962894a57d4c8cc015f_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_ff857fcab2764962894a57d4c8cc015f_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo de aprox 60 rosas",
+        "1 Tiara",
+        "Papel coreano",
+        "Moño decorativo",
+        "Tarjeta Personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "para-ella",
+        "quinceanera",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bouquet-calm-stitch",
+      "nombre": "Bouquet Calm Stitch",
+      "slug": "dia-de-la-novia-bouquet-calm-stitch",
+      "precio": 380276,
+      "precioAnterior": 411626,
+      "descripcion": "Contenido:\nPeluche de Stitch que respira\n48 Rosas (24 Naturales y 24 Pintadas)\nDecoración doble follaje pintado\nMoño\nTarjeta",
+      "imagen": "/images/shop/ImagendeWhatsApp2024-11-20alas14.04.37_5fd457e6.webp",
+      "galeria": [
+        "/images/shop/ImagendeWhatsApp2024-11-20alas14.04.37_5fd457e6.webp"
+      ],
+      "contenido": [
+        "Peluche de Stitch que respira",
+        "48 Rosas (24 Naturales y 24 Pintadas)",
+        "Decoración doble follaje pintado",
+        "Moño",
+        "Tarjeta"
+      ],
+      "tags": [
+        "cumpleanos",
+        "para-el",
+        "para-ella",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_ee7eac9d-f7f2-511b-cf99-005ce3dcc9dd",
+      "nombre": "Big Bouquet",
+      "slug": "dia-de-la-novia-big-bouquet",
+      "precio": 594900,
+      "precioAnterior": 859000,
+      "descripcion": "Contiene:\nBouquet 110 rosas\n9 chocolatinas Hersheys\n1 moño decorativo\n1 tarjeta personalizada\nEl color de las rosas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_9099a31f51cc4fb7a0bf56ce1a4ec6e4_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_9099a31f51cc4fb7a0bf56ce1a4ec6e4_mv2.webp"
+      ],
+      "contenido": [
+        "Bouquet 110 rosas",
+        "9 chocolatinas Hersheys",
+        "1 moño decorativo",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "flores-frutas",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_1fb4feb9-3107-758e-af32-c66ecc459c26",
+      "nombre": "Bouquet Supremo Red",
+      "slug": "dia-de-la-novia-bouquet-supremo-red",
+      "precio": 639436,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n150 rosas\n1 Tiara\nPapel coreano\nMoño decorativo\nTarjeta Personalizada\nEl color de las rosas y la decoración esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/68A9048C-E56F-413E-BFFB-9FF4282D0642.webp",
+      "galeria": [
+        "/images/shop/68A9048C-E56F-413E-BFFB-9FF4282D0642.webp"
+      ],
+      "contenido": [
+        "150 rosas",
+        "1 Tiara",
+        "Papel coreano",
+        "Moño decorativo",
+        "Tarjeta Personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "flores-frutas",
+        "para-ella",
+        "perdoname",
+        "quinceanera",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "giant-bouquet",
+      "nombre": "Giant Bouquet",
+      "slug": "dia-de-la-novia-giant-bouquet",
+      "precio": 2088851,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n450 Rosas aprox.\n1 Base de madera\n7 Set de luces\n1 Moño\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2024-02-02at10.40.39AM_11zon.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2024-02-02at10.40.39AM_11zon.webp"
+      ],
+      "contenido": [
+        "450 Rosas aprox.",
+        "1 Base de madera",
+        "7 Set de luces",
+        "1 Moño"
+      ],
+      "tags": [
+        "amor",
+        "flores-frutas",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "dia-de-la-novia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

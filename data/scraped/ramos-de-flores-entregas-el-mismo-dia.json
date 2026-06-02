@@ -1,0 +1,325 @@
+{
+  "categoria": "ramos-de-flores-entregas-el-mismo-dia",
+  "nombre": "Ramos de Flores - Entregas el mismo día",
+  "slug": "ramos-de-flores-entregas-el-mismo-dia",
+  "descripcion": "¡Tenemos ramos de flores para entrega hoy mismo! Descubre arreglos atemporales y elegantes en nuestros productos.",
+  "imagen": "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "petite-love-gold",
+      "nombre": "Petite love gold",
+      "slug": "desayuno-petite-love-gold",
+      "precio": 198446,
+      "precioAnterior": 250696,
+      "descripcion": "1 bandeja de madera natural\n1 ramo de 24 rosas (rosas a disponibilidad )\n1 Sandwich doble jamon doble queso\n1 bonyurt\n1 manzana verde\n1 manzana roja\n1 jugo de naranja\n1 granadilla\n1 queso pera\n1 kiwi\n1 peluche pequeño\n2 globos sin helio\n3 globos con helio\n1 globo burbuja 18 con mensaje",
+      "imagen": "/images/shop/ChatGPTImageMay5_2026_12_37_40PM.webp",
+      "galeria": [
+        "/images/shop/ChatGPTImageMay5_2026_12_37_40PM.webp",
+        "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.35_AM.webp",
+        "/images/shop/00974DDC-C113-4B77-99AF-41C2DBB4DBB7.webp",
+        "/images/shop/ChatGPT_Image_May_5_2026_12_57_46_PM.webp",
+        "/images/shop/ChatGPT_Image_May_5_2026_12_55_52_PM_2.webp",
+        "/images/shop/ChatGPT_Image_May_5_2026_12_55_55_PM_3.webp",
+        "/images/shop/ChatGPT_Image_May_5_2026_12_55_56_PM_4.webp",
+        "/images/shop/ChatGPT_Image_May_5_2026_12_55_56_PM_5.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "desayunos",
+        "desayunos-sorpresas",
+        "desayunos_gpt",
+        "globo burbuja",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-entregas-el-mismo-dia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "big-roses",
+      "nombre": "Big Roses",
+      "slug": "ramo-flores-big-roses",
+      "precio": 195900,
+      "precioAnterior": 289900,
+      "descripcion": "Contenido:\n48 Rosas aprox.\nBase decorada\n**El contenido, productos, flores y colores están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp",
+      "galeria": [
+        "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp"
+      ],
+      "contenido": [
+        "48 Rosas aprox.",
+        "Base decorada"
+      ],
+      "tags": [
+        "flores-frutas",
+        "mama",
+        "mas-vendidos",
+        "promo",
+        "promociones",
+        "rosas"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-entregas-el-mismo-dia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "corona-love",
+      "nombre": "Corona Love",
+      "slug": "amor-amistad-corona-love",
+      "precio": 179900,
+      "precioAnterior": 229900,
+      "descripcion": "Contenido:\nArreglo de rosas\nFresas con chocolate\n1 Botella de Baileys de 375 ml\n1 Set de luces\n**El color de los globos, los productos, contenidos y flores están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/WhatsAppImage2023-10-12at2.58.09PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-10-12at2.58.09PM.webp"
+      ],
+      "contenido": [
+        "Arreglo de rosas",
+        "Fresas con chocolate",
+        "1 Botella de Baileys de 375 ml",
+        "1 Set de luces"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "promo",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-entregas-el-mismo-dia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_b58a9396-2aa6-8ba5-6a1a-4dc865783d74",
+      "nombre": "Love Gold (D039)",
+      "slug": "balloon-surprise-love-gold",
+      "precio": 313396,
+      "precioAnterior": 407446,
+      "descripcion": "Contenido:\n1 Oso de peluche mediano\n32 Rosas en arreglo floral semi esfera\n1 Sandwich de pan, jamón y queso\n1 Vaso de vidrio relleno de granola\n1 Yogurt griego Alpina\n1 Caja de jugo\n1 Paquete de chocolates Ferrero Rocher x 3 unidades\n1 Queso pera\n2 Manzanas Rojas\n2 Peras\n1 Kiwi\n3 Chocolatinas Hershey's mini\n1 Globo burbuja con mensaje prediseñado\n8 Bombas mini o 3 Bombas R12\n9 Bombas R12 inflados con helio\n1 Mesa de madera plegable para desayuno en la cama\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_51a17ecd623d4feebf87f8a7073965c0_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_51a17ecd623d4feebf87f8a7073965c0_mv2.webp",
+        "/images/shop/Screenshot-2024-04-13-08-47-56-041_com.android.chrome-edit.webp"
+      ],
+      "contenido": [
+        "1 Oso de peluche mediano",
+        "32 Rosas en arreglo floral semi esfera",
+        "1 Sandwich de pan, jamón y queso",
+        "1 Vaso de vidrio relleno de granola",
+        "1 Yogurt griego Alpina",
+        "1 Caja de jugo",
+        "1 Paquete de chocolates Ferrero Rocher x 3 unidades",
+        "1 Queso pera",
+        "2 Manzanas Rojas",
+        "2 Peras",
+        "1 Kiwi",
+        "3 Chocolatinas Hershey's mini",
+        "1 Globo burbuja con mensaje prediseñado",
+        "8 Bombas mini o 3 Bombas R12",
+        "9 Bombas R12 inflados con helio",
+        "1 Mesa de madera plegable para desayuno en la cama"
+      ],
+      "tags": [
+        "desayunos",
+        "desayunos-sorpresas",
+        "desayunos_gpt",
+        "flores-frutas",
+        "globo burbuja",
+        "globos",
+        "promo",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-entregas-el-mismo-dia",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

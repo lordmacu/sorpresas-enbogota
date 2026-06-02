@@ -1,0 +1,1117 @@
+{
+  "categoria": "ramo-de-flores-amor",
+  "nombre": "Ramos de Flores",
+  "slug": "ramo-de-flores-amor",
+  "descripcion": "💐 Descubre los mejores Ramos de Flores en Bogotá con Momentos para regalar a tu Amor. Ofrecemos entrega el mismo día, calidad excepcional y garantía en cada compra. ¡Sorprende a tus seres queridos hoy mismo!",
+  "imagen": "/images/shop/ramos-de-flores.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "caja-sorpresas-rosas-y-fresas",
+      "nombre": "Caja Sorpresas, Rosas y Fresas",
+      "slug": "caja-sorpresas-rosas-y-fresas",
+      "precio": 103351,
+      "precioAnterior": 135746,
+      "descripcion": "Contenido:\nRosas variadas de color de acuerdo a disponibilidad (No garantizamos un solo color)\n1 Caja Sorpresa\n6 Fresas con chocolate\n1 Tarjeta personalizada\n** El producto, contenido y decoración están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/dise195177o-sin-t195173tulo-13.webp",
+      "galeria": [
+        "/images/shop/dise195177o-sin-t195173tulo-13.webp"
+      ],
+      "contenido": [
+        "Rosas variadas de color de acuerdo a disponibilidad (No garantizamos un solo color)",
+        "1 Caja Sorpresa",
+        "6 Fresas con chocolate",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "entrega-hoy",
+        "flores-frutas",
+        "para-ella",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5a1e908d-8dcd-9350-1c1f-01fb17f9642e",
+      "nombre": "Bouquet fresas con chocolate",
+      "slug": "amor-amistad-bouquet-fresas-con",
+      "precio": 143061,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n5 Rosas\n6 fresas cubiertas de chocolate con mani y coco\n6 fresas cubiertas de chocolate\n8 chocolates ferrero",
+      "imagen": "/images/shop/674055_85f31f77e9b446dab3085d0bcb4247bc_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_85f31f77e9b446dab3085d0bcb4247bc_mv2.webp"
+      ],
+      "contenido": [
+        "5 Rosas",
+        "6 fresas cubiertas de chocolate con mani y coco",
+        "6 fresas cubiertas de chocolate",
+        "8 chocolates ferrero"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "flores-frutas",
+        "fresas-con-chocolate",
+        "mismo-dia",
+        "para-ella",
+        "quinceanera",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_2787b81a-88bf-6752-c387-3e05fa44eaac",
+      "nombre": "Hershey´s Roses",
+      "slug": "amor-amistad-hershey-s-roses",
+      "precio": 181726,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n4 Hershey´s\n6 Mini Hershey´s\nArreglo de 28 rosas aprox\n1 Base de cartón piedra\n1 Tarjeta Personalizada\nEl color de las rosas y del corazón de madera están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/WhatsAppImage2023-10-15at7.53.48PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-10-15at7.53.48PM.webp"
+      ],
+      "contenido": [
+        "4 Hershey´s",
+        "6 Mini Hershey´s",
+        "Arreglo de 28 rosas aprox",
+        "1 Base de cartón piedra",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "flores-frutas",
+        "para-ella",
+        "perdoname",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_ca020602-6039-3307-2f8c-150399e2cac7",
+      "nombre": "Ancheta Primera Dama (A120)",
+      "slug": "amor-amistad-ancheta-primera-dama",
+      "precio": 173366,
+      "precioAnterior": 204716,
+      "descripcion": "Contenido:\nArreglo floral diseño corazón\n1 Frasco de Nutella 325g\n2 Chocolatina Hershey’s Cookies & Cream\n1 Chocolatina Kinder Bueno\n2 Huevo sorpresa Kinder\n1 Caja de cartón corrugado decorada en forma de corazón\nEl diseño del mensaje, el color de las bombas y la decoración está sujeta en disponibilidad de la tienda*",
+      "imagen": "/images/shop/f527ed_b2c30a38881243fbae4a16871258a8dd_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_b2c30a38881243fbae4a16871258a8dd_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo floral diseño corazón",
+        "1 Frasco de Nutella 325g",
+        "2 Chocolatina Hershey’s Cookies & Cream",
+        "1 Chocolatina Kinder Bueno",
+        "2 Huevo sorpresa Kinder",
+        "1 Caja de cartón corrugado decorada en forma de corazón"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "mismo-dia",
+        "para-ella",
+        "promociones",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_7f1e73e4-94c3-ed34-6186-df03545c6761",
+      "nombre": "Chocoberry",
+      "slug": "amor-amistad-chocoberry",
+      "precio": 189041,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Arreglo de Rosas 30 aprox\n6 Fresas con Chocolate Decoradas\n1 Base en Cartón en Forma de Corazón\n1 Tarjeta Personalizada\nLa decoración, el color de rosas y diseño de las fresas esta sujeto a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_0bdbbea5cb5b4c04b0737a86deadc12e_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_0bdbbea5cb5b4c04b0737a86deadc12e_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de Rosas 30 aprox",
+        "6 Fresas con Chocolate Decoradas",
+        "1 Base en Cartón en Forma de Corazón",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "fresas-con-chocolate",
+        "para-ella",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_187f8a17-2877-efaf-eb20-91ca40d5bf7d",
+      "nombre": "Sweet Roses",
+      "slug": "amor-amistad-sweet-roses",
+      "precio": 129476,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Caja de cartón en forma de corazón\n1 Arreglo de Rosas\n12 Mini Nutellas\n1 Tarjeta Personalizadas",
+      "imagen": "/images/shop/674055_2c897f92a4734f45ac53fc78387216fb_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_2c897f92a4734f45ac53fc78387216fb_mv2.webp"
+      ],
+      "contenido": [
+        "1 Caja de cartón en forma de corazón",
+        "1 Arreglo de Rosas",
+        "12 Mini Nutellas",
+        "1 Tarjeta Personalizadas"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "para-ella",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_cd18496d-eefe-f1ec-cc33-9d9a5dbb8e4c",
+      "nombre": "Rosa Preservada",
+      "slug": "amor-amistad-rosa-preservada",
+      "precio": 90811,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Rosa con tallo preservada empacada\n1 moño decorativo\n1 tarjeta personalizada",
+      "imagen": "/images/shop/fff53a_88ded8d862d8451293849d7412495823_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_88ded8d862d8451293849d7412495823_mv2.webp"
+      ],
+      "contenido": [
+        "1 Rosa con tallo preservada empacada",
+        "1 moño decorativo",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "mismo-dia",
+        "para-ella",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "red-feeling",
+      "nombre": "Red Feeling",
+      "slug": "red-feeling",
+      "precio": 208896,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n42 Rosas aprox.\n2 Girasoles\nBaúl prediseñado\n** El contenido, producto y decoración está sujeta a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2023-12-15at3.45.36PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-12-15at3.45.36PM.webp"
+      ],
+      "contenido": [
+        "42 Rosas aprox.",
+        "2 Girasoles",
+        "Baúl prediseñado"
+      ],
+      "tags": [],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_39e8f3a9-1d3e-fd7e-9f16-28569974a8a4",
+      "nombre": "Luxury Roses",
+      "slug": "amor-amistad-luxury-roses",
+      "precio": 262191,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Bouquet de 24 rosas\n1 Foto Impresa en papel fotográfico Full color\n1 Caja decorada\n1 Caja de chocolate Ferrero x 8 unidades\n1 Chocolatina Italo\n1 Tarjeta personalizada\n**\nEl color de las rosas y cofre están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/674055_7367e1ab341f484da65f7e9d060540de_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_7367e1ab341f484da65f7e9d060540de_mv2.webp"
+      ],
+      "contenido": [
+        "1 Bouquet de 24 rosas",
+        "1 Foto Impresa en papel fotográfico Full color",
+        "1 Caja decorada",
+        "1 Caja de chocolate Ferrero x 8 unidades",
+        "1 Chocolatina Italo",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_364465f4-636f-2a39-2788-c991414f8c5a",
+      "nombre": "Ohana!",
+      "slug": "amor-amistad-ohana",
+      "precio": 233976,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nArreglo de 48 rosas y Gipso pintado\n2 Peluches\n1 Set de luces\nMoño\n1 Tarjeta Personalizada\nEl color de las rosas y el tipo de peluche esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_c03f4205844348fa8baf6eb520b8ac45_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_c03f4205844348fa8baf6eb520b8ac45_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo de 48 rosas y Gipso pintado",
+        "2 Peluches",
+        "1 Set de luces",
+        "Moño",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_2bf05d37-d43d-01a2-bda4-b7a56df3584f",
+      "nombre": "Blue Hearth",
+      "slug": "amor-amistad-blue-hearth",
+      "precio": 227706,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Arreglo de rosas 25 aprox. plateadas\n13 Fresas con Chocolate Decoradas\n1 Corazón de Cartón Grande\n1 Tarjeta Personalizada\nLa decoración, el color de rosas y diseño de las fresas esta sujeto a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_2ecb46c4b2504c589832bc7228f74de8_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_2ecb46c4b2504c589832bc7228f74de8_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de rosas 25 aprox. plateadas",
+        "13 Fresas con Chocolate Decoradas",
+        "1 Corazón de Cartón Grande",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "flores-frutas",
+        "fresas-con-chocolate",
+        "para-ella",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_898d19f6-53bc-44b2-414d-0f414af9c25f",
+      "nombre": "Love sensation (A073)",
+      "slug": "amor-amistad-love-sensation",
+      "precio": 124251,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Botella de vino Gato Negro185ml\n1 Caja de Chocolates Ferrero Rocher x 8 und.\n1 Tarjeta prediseñada\n1 Cama de petalos de rosa\n1 Caja en forma de corazón\nEl color de los petalos esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_d397fab2cf384b56955a175bcdb9ff50_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_d397fab2cf384b56955a175bcdb9ff50_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de vino Gato Negro185ml",
+        "1 Caja de Chocolates Ferrero Rocher x 8 und.",
+        "1 Tarjeta prediseñada",
+        "1 Cama de petalos de rosa",
+        "1 Caja en forma de corazón"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "para-ella"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_21ea1f2e-0e66-0abc-bbd8-5610a3603a26",
+      "nombre": "Cupido (R089)",
+      "slug": "amor-amistad-cupido",
+      "precio": 181726,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n24 Rosas tipo exportación en arreglo floral diseño corazon\n1 Caja de Chocolates x 8 unidades\n6 Bombas R12 infladas con helio\n1 Base de cartón corrudado e icopor decorada\nEl color de las rosas y las bombas está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_5e9d3363fcb141c9bddf12750828e9b9_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_5e9d3363fcb141c9bddf12750828e9b9_mv2.webp"
+      ],
+      "contenido": [
+        "24 Rosas tipo exportación en arreglo floral diseño corazon",
+        "1 Caja de Chocolates x 8 unidades",
+        "6 Bombas R12 infladas con helio",
+        "1 Base de cartón corrudado e icopor decorada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_b993c654-62f0-3087-3ff1-edffc1df78cd",
+      "nombre": "Roses heart",
+      "slug": "amor-amistad-roses-heart",
+      "precio": 207851,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo de 40 rosas aprox en forma de corazón\n2 copas de vino con monedas de chocolate\n1 botella de vino gato negro 750ml\n1 Guacal de madera 30 cm\n1 moño decorativo\n1 tarjeta personalizada\nEl color de la rosa esta sujeta a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_2415febd0b8b4b9a96ba2e532086df09_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_2415febd0b8b4b9a96ba2e532086df09_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo de 40 rosas aprox en forma de corazón",
+        "2 copas de vino con monedas de chocolate",
+        "1 botella de vino gato negro 750ml",
+        "1 Guacal de madera 30 cm",
+        "1 moño decorativo",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "para-ella",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_2a2db195-1e08-b77e-0024-a705ab70624f",
+      "nombre": "Rose Queen",
+      "slug": "amor-amistad-rose-queen",
+      "precio": 181726,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Arreglo de rosas\n1 Base de madera\n8 Fresas con chocolate\n1 Set de luces\n1 Tarjeta Personaliza\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_dc0376fcac0c464c9c81b402e12b4133_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_dc0376fcac0c464c9c81b402e12b4133_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de rosas",
+        "1 Base de madera",
+        "8 Fresas con chocolate",
+        "1 Set de luces",
+        "1 Tarjeta Personaliza"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "fresas-con-chocolate",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-amor",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

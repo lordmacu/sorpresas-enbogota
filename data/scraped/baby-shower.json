@@ -1,0 +1,715 @@
+{
+  "categoria": "baby-shower",
+  "nombre": "Baby Shower",
+  "slug": "baby-shower",
+  "descripcion": "Regalos para Baby Shower, regalos para la familia. Bienvenido, bebé ¡OMG! Llega un nuevo integrante a la familia, felicitaciones para papá y mamá que reciben con ansias, felicidad y expectativa a su nuevo bebé.",
+  "imagen": "/images/shop/Baby_shower_-_Sorpresas_a_tiempo.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "product_eccdd0ee-6946-1af8-0784-366f5c24394e",
+      "nombre": "Baby horse (A017)",
+      "slug": "baby-shower-baby-horse",
+      "precio": 312351,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Oso de peluche mediano\n1 Conjunto de primera muda para bebé\n1 Set de semanario para bebé 7 piezas\n1 Paquete de pañitos húmedos\n1 Set de 3 teteros para bebé\n1 Set de cubiertos para bebé\n1 Caja prediseñada\n5 Bombas R12 cromadas infladas con helio\n1 Globo metalizado 34\"\nEl diseño del peluche, el globo metalizado, las bombas, los sets y la caja esta sujeto a disponibilidad de la tienda.",
+      "imagen": "/images/shop/WhatsAppImage2023-10-19at6.18.27PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-10-19at6.18.27PM.webp"
+      ],
+      "contenido": [
+        "1 Oso de peluche mediano",
+        "1 Conjunto de primera muda para bebé",
+        "1 Set de semanario para bebé 7 piezas",
+        "1 Paquete de pañitos húmedos",
+        "1 Set de 3 teteros para bebé",
+        "1 Set de cubiertos para bebé",
+        "1 Caja prediseñada",
+        "5 Bombas R12 cromadas infladas con helio",
+        "1 Globo metalizado 34\""
+      ],
+      "tags": [
+        "bebe",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "baby-shower",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_7dc303d5-8644-b3fd-aa1b-2c4dd3ec3955",
+      "nombre": "Balloon Retoño (B015)",
+      "slug": "baby-shower-balloon-retono",
+      "precio": 139926,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo floral con 8 rosas y follaje\n4 Chocolates con rellenos\n1 Globo burbuja grande con mensaje prediseñado\n6 Bombas mini o 3 Bombas R12\n1 Balde decorado\nEl color de las rosas, diseño del mensaje y el balde esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_d344c7642bc44b8096f424b0358edc49_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_d344c7642bc44b8096f424b0358edc49_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo floral con 8 rosas y follaje",
+        "4 Chocolates con rellenos",
+        "1 Globo burbuja grande con mensaje prediseñado",
+        "6 Bombas mini o 3 Bombas R12",
+        "1 Balde decorado"
+      ],
+      "tags": [
+        "bebe",
+        "globo burbuja",
+        "globos",
+        "ninos",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "baby-shower",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_891b26a4-02a2-52f2-a8e6-b78adb035040",
+      "nombre": "Lecho de Flores (R026)",
+      "slug": "baby-shower-lecho-flores",
+      "precio": 143061,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Peluche mediano\n1 Arreglo en flores tropicales\n3 Rosas tipo exportación\n1 Globo burbuja pequeño con mensaje prediseñado\n1 Bomba de color sin estampado\n1 Caja en cartón corrugado\nEl diseño del peluche, el mensaje del globo, el color de las floresy la caja está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_a61fc178d1c840db96c42c6e3ebf9117_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_a61fc178d1c840db96c42c6e3ebf9117_mv2.webp"
+      ],
+      "contenido": [
+        "1 Peluche mediano",
+        "1 Arreglo en flores tropicales",
+        "3 Rosas tipo exportación",
+        "1 Globo burbuja pequeño con mensaje prediseñado",
+        "1 Bomba de color sin estampado",
+        "1 Caja en cartón corrugado"
+      ],
+      "tags": [
+        "bebe",
+        "globo burbuja",
+        "globos",
+        "ninos",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "baby-shower",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_c2956c8e-c12c-afd0-4acd-8e5d8b665b00",
+      "nombre": "Amor de dos (A005)",
+      "slug": "baby-shower-amor-dos",
+      "precio": 273686,
+      "precioAnterior": 309216,
+      "descripcion": "Contenido:\n28 rosas en arreglo floral decoradas con tinta vegetal\n1 Sandwich de pan, jamón y queso.\n1 Jugo en botella\n1 Caja de chocolates\n1 Chocolatina Hershey's Milk chocolate\n1 Paquete de chocolates M&M Penaut\n1 Manzana roja\n1 Manzana Verde\n1 Pera\n1 Kiwi\n8 Bombas R12 infladas con helio\n1 Globo burbuja con nesahe personalizado incluye 3 bombas R12 cromadas internas\n1 Guacal de madera decorado\nEl diseño del mensaje, el color de las bombas y las flores está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_d1b5523a8b554f4bb33759c489ebd1c3_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_d1b5523a8b554f4bb33759c489ebd1c3_mv2.webp"
+      ],
+      "contenido": [
+        "28 rosas en arreglo floral decoradas con tinta vegetal",
+        "1 Sandwich de pan, jamón y queso.",
+        "1 Jugo en botella",
+        "1 Caja de chocolates",
+        "1 Chocolatina Hershey's Milk chocolate",
+        "1 Paquete de chocolates M&M Penaut",
+        "1 Manzana roja",
+        "1 Manzana Verde",
+        "1 Pera",
+        "1 Kiwi",
+        "8 Bombas R12 infladas con helio",
+        "1 Globo burbuja con nesahe personalizado incluye 3 bombas R12 cromadas internas",
+        "1 Guacal de madera decorado"
+      ],
+      "tags": [
+        "bebe",
+        "globo burbuja",
+        "globos",
+        "ninos",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "baby-shower",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_054e1b2d-1a71-0809-e6bb-92c77a098776",
+      "nombre": "Balloon Chocolate (B028)",
+      "slug": "regalo-amor-balloon-chocolate",
+      "precio": 195311,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Chocolatina Kinder Bueno\n1 Chocolatina Hershey's Milk Chocolate\n1 Paquete de chocolates M&M Milk chocolate\n2 Chocolatinas Italo\n2 Barras de chocolate Snickers\n2 Barras de Chocolate Milky Way\n2 Barras de Choco Stop\n1 Peluche mediano\n1 Tarjeta\n1 Globo burbuja con mensaje personalizado, incluye 3 Bombas R12 internas\n1 Base decorada\nEl diseño del mensaje personalizado, el peluche y la tarjeta está sujeta a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_224a4c9a765d4c098acdd1c761a500fd_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_224a4c9a765d4c098acdd1c761a500fd_mv2.webp"
+      ],
+      "contenido": [
+        "1 Chocolatina Kinder Bueno",
+        "1 Chocolatina Hershey's Milk Chocolate",
+        "1 Paquete de chocolates M&M Milk chocolate",
+        "2 Chocolatinas Italo",
+        "2 Barras de chocolate Snickers",
+        "2 Barras de Chocolate Milky Way",
+        "2 Barras de Choco Stop",
+        "1 Peluche mediano",
+        "1 Tarjeta",
+        "1 Globo burbuja con mensaje personalizado, incluye 3 Bombas R12 internas",
+        "1 Base decorada"
+      ],
+      "tags": [
+        "amor",
+        "bebe",
+        "globo burbuja",
+        "globos",
+        "ninos",
+        "para-ella"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "baby-shower",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_51f8e802-0390-cabf-d662-bf1b48f7b6ac",
+      "nombre": "Balloon Welcome (B029)",
+      "slug": "baby-shower-balloon-welcome",
+      "precio": 169186,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Peluche pequeño\n1 Lata de papas Pringles Original\n1 Paquete de maní salado La Especial\n1 Chocolatina Hershey's Milk Chocolate\n1 Barra de chocolate Snicker\n2 Chocostops\n2 Chocolates surtidos\n1 Globo burbuja con mensaje prediseñado incluye 3 bombas R12 internas o 5 Bombas mini\n1 Base de madera decorada\nEl diseño del peluche y el color de los globos está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_4ae6564594584a7898387a0dda0a03b0_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_4ae6564594584a7898387a0dda0a03b0_mv2.webp"
+      ],
+      "contenido": [
+        "1 Peluche pequeño",
+        "1 Lata de papas Pringles Original",
+        "1 Paquete de maní salado La Especial",
+        "1 Chocolatina Hershey's Milk Chocolate",
+        "1 Barra de chocolate Snicker",
+        "2 Chocostops",
+        "2 Chocolates surtidos",
+        "1 Globo burbuja con mensaje prediseñado incluye 3 bombas R12 internas o 5 Bombas mini",
+        "1 Base de madera decorada"
+      ],
+      "tags": [
+        "bebe",
+        "cumpleanos",
+        "globo burbuja",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "baby-shower",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_573fd095-9d29-de15-cb6d-ceacd950f73a",
+      "nombre": "Balloon Stitch",
+      "slug": "baby-shower-balloon-stitch",
+      "precio": 262191,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Globo perla R24 con mensaje prediseñado\n1 Peluche Stitch de 35 cm apróx.\n1 Chocolatina Snickers\n1 Barquillos Piazza\n1 Chocolatina Hershey´s milk chocolate\n1 Chocolatina Hershey´s cookie and cream\n1 Papas Pringles familiar\n1 M & M milk chocolate\n1 M & M penuats\n1 Té Hatsu\n1 Caja de chocolate Ferrero x 8 unidades\n1 Chocolatina Milkyway\n1 Chocolatina Kinder bueno\n1 Balde # 3\n5 Bombitas R6\n1 Tarjeta Personalizada\nEl diseño, color de globos, bombas y peluche están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_97a85a7b10d94cf089736184bc97ed1a_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_97a85a7b10d94cf089736184bc97ed1a_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo perla R24 con mensaje prediseñado",
+        "1 Peluche Stitch de 35 cm apróx.",
+        "1 Chocolatina Snickers",
+        "1 Barquillos Piazza",
+        "1 Chocolatina Hershey´s milk chocolate",
+        "1 Chocolatina Hershey´s cookie and cream",
+        "1 Papas Pringles familiar",
+        "1 M & M milk chocolate",
+        "1 M & M penuats",
+        "1 Té Hatsu",
+        "1 Caja de chocolate Ferrero x 8 unidades",
+        "1 Chocolatina Milkyway",
+        "1 Chocolatina Kinder bueno",
+        "1 Balde # 3",
+        "5 Bombitas R6",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "bebe",
+        "globos",
+        "ninos",
+        "para-ella",
+        "quinceanera"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "baby-shower",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5673419f-9957-6768-5830-e7459fae9757",
+      "nombre": "Magic Mickey Mouse",
+      "slug": "baby-shower-magic-mickey-mouse",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo orgánico de globos 120 aprox\n1 peluche Mickey Mouse 40 cm\n1 Botella de jugo\n1 paquete de chocolate ferrero x 3\n1 chocolatina snicker\n1 chocolatina milky way\n1 paquete de mym\n1 paquete barquillo piazza\n1 tarjeta personalizada\nLa decoración y el tipo de peluche esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_e3ec131feb274f06b47aa54639bbd4a9_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_e3ec131feb274f06b47aa54639bbd4a9_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo orgánico de globos 120 aprox",
+        "1 peluche Mickey Mouse 40 cm",
+        "1 Botella de jugo",
+        "1 paquete de chocolate ferrero x 3",
+        "1 chocolatina snicker",
+        "1 chocolatina milky way",
+        "1 paquete de mym",
+        "1 paquete barquillo piazza",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "bebe",
+        "globos",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "baby-shower",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_c0cc12e0-ced4-cd43-9e8e-eab88f1e9c7b",
+      "nombre": "Infinity Gold",
+      "slug": "baby-shower-infinity-gold",
+      "precio": 312351,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n10 globos r12 cromados en helio\n1 Arreglo orgánico de bombas\n1 Peluche pequeño\n1 Chocolatina Snickers\n1 Chocolatina Milkyway\n1 Paquete de M & M\n1 Chocolate Ferrero x 3 unidades\n1 Piazza\n1 Cerveza o Jugo\n1 Balde de madera\n1 Moño decorativo\n1 Tarjeta Personalizada\nLa decoración, color de bombas y peluche están sujetos a disponibilidad de la Tienda",
+      "imagen": "/images/shop/fff53a_2da550a726db463dbf0c551979375442_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_2da550a726db463dbf0c551979375442_mv2.webp"
+      ],
+      "contenido": [
+        "10 globos r12 cromados en helio",
+        "1 Arreglo orgánico de bombas",
+        "1 Peluche pequeño",
+        "1 Chocolatina Snickers",
+        "1 Chocolatina Milkyway",
+        "1 Paquete de M & M",
+        "1 Chocolate Ferrero x 3 unidades",
+        "1 Piazza",
+        "1 Cerveza o Jugo",
+        "1 Balde de madera",
+        "1 Moño decorativo",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "bebe",
+        "cumpleanos",
+        "ninos",
+        "para-ella"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "baby-shower",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

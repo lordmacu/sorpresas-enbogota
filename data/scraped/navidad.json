@@ -1,0 +1,5070 @@
+{
+  "categoria": "navidad",
+  "nombre": "Navidad",
+  "slug": "navidad",
+  "descripcion": "Celebra la temporada de Navidad con nosotros. Tenemos todo lo que necesitas para sorprender a tus seres queridos en estas fechas especiales. Envía un mensaje de amor y alegría con nuestros regalos cuidadosamente seleccionados y personalizados para hacer de esta Navidad una celebración inolvidable. ¡Feliz Navidad!",
+  "imagen": "/images/shop/Navidad_-_Sopresas_a_tiempo.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "combo-ejecutiva",
+      "nombre": "Combo Ejecutiva",
+      "slug": "amor-amistad-combo-ejecutiva",
+      "precio": 169900,
+      "precioAnterior": 199900,
+      "descripcion": "Contenido:\nCaja de 6 Fresas\nBouquet de Flor variada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2026-03-04at10.22.36PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2026-03-04at10.22.36PM.webp"
+      ],
+      "contenido": [
+        "Caja de 6 Fresas",
+        "Bouquet de Flor variada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "Aniversario",
+        "catalogo",
+        "corporativos",
+        "cumpleanos",
+        "Dama",
+        "desayunos",
+        "desayunos-mas-vendidos",
+        "desayunos-sorpresas",
+        "Dia de la mujer",
+        "dia-madre-top",
+        "entrega-hoy",
+        "flores-frutas",
+        "fresas-con-chocolate",
+        "grados",
+        "mama",
+        "mejorate",
+        "mismo-dia",
+        "navidad",
+        "para-ella",
+        "para-mama",
+        "promo",
+        "promociones",
+        "quinceanera",
+        "rosas",
+        "San valentin"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "canasta-frutal-fin-de-ano",
+      "nombre": "Canasta Frutal Fin de Año",
+      "slug": "canasta-frutal-fin-de-ano",
+      "precio": 289900,
+      "precioAnterior": 361900,
+      "descripcion": "Contenido:\nBandeja metálica\n6 bananos\nRacimo de uva morada\nRaciono de uva verde\n2 manzanas rojas\n2 peras\n2 duraznos\n2 kiwis\nPorción de fresas\nPorción de. Ciruela\nVino tinto 750 ml\nCanasta\nMargaritas\nTarjeta con mensaje personalizado\nPiropo\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2025-12-26at6.03.47PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2025-12-26at6.03.47PM.webp"
+      ],
+      "contenido": [
+        "Bandeja metálica",
+        "6 bananos",
+        "Racimo de uva morada",
+        "Raciono de uva verde",
+        "2 manzanas rojas",
+        "2 peras",
+        "2 duraznos",
+        "2 kiwis",
+        "Porción de fresas",
+        "Porción de. Ciruela",
+        "Vino tinto 750 ml",
+        "Canasta",
+        "Margaritas",
+        "Tarjeta con mensaje personalizado",
+        "Piropo"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "compartimos-juntos-navideno",
+      "nombre": "Compartimos Juntos Navideño",
+      "slug": "compartimos-juntos-navideno",
+      "precio": 184900,
+      "precioAnterior": 221900,
+      "descripcion": "Contenido:\nTabla de quesos\nFrutas variadas, Fresa, Kiwi, Uvas y Uchuvas\nCerveza corona\nAcompañamiento de pan y tostadas\nCaja decorada prediseñada\nEl diseño, color y productos estan sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2025-12-26at4.40.01PM_1.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2025-12-26at4.40.01PM_1.webp"
+      ],
+      "contenido": [
+        "Tabla de quesos",
+        "Frutas variadas, Fresa, Kiwi, Uvas y Uchuvas",
+        "Cerveza corona",
+        "Acompañamiento de pan y tostadas",
+        "Caja decorada prediseñada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bouquet-gorro-de-navidad",
+      "nombre": "Bouquet Gorro de Navidad",
+      "slug": "navidad-bouquet-gorro-navidad",
+      "precio": 189900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n2 Snickers\n2 Milky Way\n2 botellas mini Jack Daniel's de colección\n1 cocacola en lata\n1 hershey\n2 chocolates\nGorro de navidad\nTarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/72aa0fe5-7ab6-4b5f-8ac0-b57453227d4e.webp",
+      "galeria": [
+        "/images/shop/72aa0fe5-7ab6-4b5f-8ac0-b57453227d4e.webp"
+      ],
+      "contenido": [
+        "2 Snickers",
+        "2 Milky Way",
+        "2 botellas mini Jack Daniel's de colección",
+        "1 cocacola en lata",
+        "1 hershey",
+        "2 chocolates",
+        "Gorro de navidad",
+        "Tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tienda."
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bouquet-purple",
+      "nombre": "Bouquet Purple",
+      "slug": "navidad-bouquet-purple",
+      "precio": 218900,
+      "precioAnterior": 429900,
+      "descripcion": "Contiene:\nBotella de vino tinto 750 ml\nChocolate Mont BlancBaileys\nQueso madurado holandes\nPaquete de jamón Serrano\n1 Porción de uvas moradas\nSet de luces\nTarjeta Personalizada\n**El contenido, decoración, rosas y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/postinstgrambyangela_75cb4072-eaff-4796-9011-326288eb640b.webp",
+      "galeria": [
+        "/images/shop/postinstgrambyangela_75cb4072-eaff-4796-9011-326288eb640b.webp"
+      ],
+      "contenido": [
+        "Botella de vino tinto 750 ml",
+        "Chocolate Mont BlancBaileys",
+        "Queso madurado holandes",
+        "Paquete de jamón Serrano",
+        "1 Porción de uvas moradas",
+        "Set de luces",
+        "Tarjeta Personalizada **El contenido, decoración, rosas y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "7-de-velitas",
+      "nombre": "Compartir de Navidad",
+      "slug": "7-de-velitas",
+      "precio": 139900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Caja de Velitas diseñadas\n1 Tabla de Quesos papa noel mini\n1 Snack honlandes\n1 Chocolatina Stop\nFresas con chocolate navideñas\nCaja decorada\nTarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/WhatsAppImage2025-12-03at5.37.13PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2025-12-03at5.37.13PM.webp"
+      ],
+      "contenido": [
+        "1 Caja de Velitas diseñadas",
+        "1 Tabla de Quesos papa noel mini",
+        "1 Snack honlandes",
+        "1 Chocolatina Stop",
+        "Fresas con chocolate navideñas",
+        "Caja decorada",
+        "Tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tienda."
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "caja-magica-de-navidad-ted",
+      "nombre": "Caja Magica de Navidad TED",
+      "slug": "caja-magica-de-navidad-ted",
+      "precio": 313450,
+      "precioAnterior": 349900,
+      "descripcion": "Contiene:\n1 peluche de 40cm con cobija\n1 caja de 50x50cm\n1 gorro de navidad\n4 Cervezas importadas o nacionales\nDecoracion navidad ( hoja )\nSet de luces\nTarjeta personalizada (2)\n**El contenido, decoración y productos están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/WhatsAppImage2025-12-03at11.24.27AM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2025-12-03at11.24.27AM.webp"
+      ],
+      "contenido": [
+        "1 peluche de 40cm con cobija",
+        "1 caja de 50x50cm",
+        "1 gorro de navidad",
+        "4 Cervezas importadas o nacionales",
+        "Decoracion navidad ( hoja )",
+        "Set de luces",
+        "Tarjeta personalizada (2) **El contenido, decoración y productos están sujetos a disponibilidad de la tienda."
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "caja-magica-de-navidad-snoopy",
+      "nombre": "Caja Magica de Navidad Snoopy",
+      "slug": "caja-magica-de-navidad-snoopy",
+      "precio": 344900,
+      "precioAnterior": 379910,
+      "descripcion": "Contiene:\n1 peluche de 40cm\n1 caja de 50x50cm\n1 gorro de navidad\n1 lampara en forma de luna\n3 Chocolates Raffaello\nDecoracion navidad ( hoja y piñas)\nSet de luces\nTarjeta personalizada (2)\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/WhatsAppImage2025-12-03at11.24.27AM_1.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2025-12-03at11.24.27AM_1.webp"
+      ],
+      "contenido": [
+        "1 peluche de 40cm",
+        "1 caja de 50x50cm",
+        "1 gorro de navidad",
+        "1 lampara en forma de luna",
+        "3 Chocolates Raffaello",
+        "Decoracion navidad ( hoja y piñas)",
+        "Set de luces",
+        "Tarjeta personalizada (2) **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "pesebre-de-navidad",
+      "nombre": "Pesebre de Navidad",
+      "slug": "pesebre-de-navidad",
+      "precio": 159900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 porcion de frutos secos\n1 porcion de frutos deshidratados\n1 queso 7 cueros\n1 botella de vino gato negro 375ml\n4 bombones de chocolate\nGuacal de madera\nSilueta impresa de nacimiento\nSet de luces\nTarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/WhatsAppImage2025-12-02at3.18.59PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2025-12-02at3.18.59PM.webp"
+      ],
+      "contenido": [
+        "1 porcion de frutos secos",
+        "1 porcion de frutos deshidratados",
+        "1 queso 7 cueros",
+        "1 botella de vino gato negro 375ml",
+        "4 bombones de chocolate",
+        "Guacal de madera",
+        "Silueta impresa de nacimiento",
+        "Set de luces",
+        "Tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "tabla-de-quesos-noel",
+      "nombre": "Tabla de quesos Noel",
+      "slug": "tabla-de-quesos-noel",
+      "precio": 219900,
+      "precioAnterior": 269900,
+      "descripcion": "Contenido:\nChorizo curado\n1 Baggetina\nJamón\nQueso ibérico\nTomate cherry\nKiwi\nPorción de tostadas\nPorción de uchuvas\nZanahoria\nQueso tilsit\nCabano\nQueso brie\nPorción de aceitunas\nFresa\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/La_Navidad_se_vive_mejor_con_detalles_unicos_En_Sorpresas_a_Tiempo_tenemos_para_ti_las_mejores_anchetas_navidenas_y_tablas_de_queso_al_mejor_precio._Sorprende_a_tus_seres_queridos_con.webp",
+      "galeria": [
+        "/images/shop/La_Navidad_se_vive_mejor_con_detalles_unicos_En_Sorpresas_a_Tiempo_tenemos_para_ti_las_mejores_anchetas_navidenas_y_tablas_de_queso_al_mejor_precio._Sorprende_a_tus_seres_queridos_con.webp"
+      ],
+      "contenido": [
+        "Chorizo curado",
+        "1 Baggetina",
+        "Jamón",
+        "Queso ibérico",
+        "Tomate cherry",
+        "Kiwi",
+        "Porción de tostadas",
+        "Porción de uchuvas",
+        "Zanahoria",
+        "Queso tilsit",
+        "Cabano",
+        "Queso brie",
+        "Porción de aceitunas",
+        "Fresa **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ancheta-frontera-n029",
+      "nombre": "Ancheta Frontera (N029)",
+      "slug": "ancheta-frontera-n029",
+      "precio": 539900,
+      "precioAnterior": 599900,
+      "descripcion": "Contenido:\n1 Caja de galletas Europeas\n1 Botella de vino tinto\n1 Botella de dulces\n1 Paquete de mani La Especial cervecero\n1 Queso Holandes\n1 Panetón\n1 Frasco de duraznos en almibar\n7 Bombas R12 cromadas infladas con helio\n1 Balde de madera decorado\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/dfb815_603b1146cba544a48f5100586.webp",
+      "galeria": [
+        "/images/shop/dfb815_603b1146cba544a48f5100586.webp",
+        "/images/shop/dfb815_624ead3e28e04209ac1b58ead.webp"
+      ],
+      "contenido": [
+        "1 Caja de galletas Europeas",
+        "1 Botella de vino tinto",
+        "1 Botella de dulces",
+        "1 Paquete de mani La Especial cervecero",
+        "1 Queso Holandes",
+        "1 Panetón",
+        "1 Frasco de duraznos en almibar",
+        "7 Bombas R12 cromadas infladas con helio",
+        "1 Balde de madera decorado"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ancheta-felices-fiestas",
+      "nombre": "Ancheta felices Fiestas",
+      "slug": "ancheta-felices-fiestas",
+      "precio": 282900,
+      "precioAnterior": 315900,
+      "descripcion": "Contiene:\n1 caja de galletas artesanales\n1 muñeco santa Claus pequeño en tela\n1 botella de Ballantines 750 ml\n2 mini Baileys\n2 vasos de Whisky con monedas de chocolate\n2 botella d chocolates\n1 set de luces\n2 bastones de dulces\n1 mantel estilo picnic\n1 guacal en madera decorado\n1 tarjeta personalizada\nEl diseño, están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_047541967e944df49220fc5f3.webp",
+      "galeria": [
+        "/images/shop/f527ed_047541967e944df49220fc5f3.webp"
+      ],
+      "contenido": [
+        "1 caja de galletas artesanales",
+        "1 muñeco santa Claus pequeño en tela",
+        "1 botella de Ballantines 750 ml",
+        "2 mini Baileys",
+        "2 vasos de Whisky con monedas de chocolate",
+        "2 botella d chocolates",
+        "1 set de luces",
+        "2 bastones de dulces",
+        "1 mantel estilo picnic",
+        "1 guacal en madera decorado",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "balloon-copo-de-nieve",
+      "nombre": "Balloon Copo de Nieve",
+      "slug": "balloon-copo-de-nieve",
+      "precio": 372900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Globo burbuja 24\" con mensaje personalizado incluye 3 globos r12 internos\n1 caja de chocolates ferrero x 8 und\n1 caja de galletas artesanales\n1 paquete de galletas wafer\n1 botella de Baileys 750 ml\n1 porción de frutos secos\n1 paquete de mym milk chocolate\n1 chocolatina hershey´s cookies and cream\n1 chocolatina hershey´s milk chocolate\n1 frasco de barquillos piroulines\n1 paquete de barquillos piazza\n1 frasco de duraznos en almibar\n1 caja de galletas danish\n1 chocolatina snicker\n1 chocolatina milkyway\n1 set de luces\n1 balde negro #3 decorado\n1 moño personalizado\n1 tarjeta con mensaje personalizado\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/fff53a_49aa96c928104cd3867be5c45.webp",
+      "galeria": [
+        "/images/shop/fff53a_49aa96c928104cd3867be5c45.webp"
+      ],
+      "contenido": [
+        "1 Globo burbuja 24\" con mensaje personalizado incluye 3 globos r12 internos",
+        "1 caja de chocolates ferrero x 8 und",
+        "1 caja de galletas artesanales",
+        "1 paquete de galletas wafer",
+        "1 botella de Baileys 750 ml",
+        "1 porción de frutos secos",
+        "1 paquete de mym milk chocolate",
+        "1 chocolatina hershey´s cookies and cream",
+        "1 chocolatina hershey´s milk chocolate",
+        "1 frasco de barquillos piroulines",
+        "1 paquete de barquillos piazza",
+        "1 frasco de duraznos en almibar",
+        "1 caja de galletas danish",
+        "1 chocolatina snicker",
+        "1 chocolatina milkyway",
+        "1 set de luces",
+        "1 balde negro #3 decorado",
+        "1 moño personalizado",
+        "1 tarjeta con mensaje personalizado **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "deseos-de-ano-nuevo",
+      "nombre": "Deseos de año nuevo",
+      "slug": "deseos-de-ano-nuevo",
+      "precio": 272900,
+      "precioAnterior": 278910,
+      "descripcion": "Contenido:\n40 fresas (30 negras y 10 blancas, de las cuales hay 12 con Licor Baileys)\n1 Bandeja\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/Gemini_Generated_Image_t920t9t920t9t920.webp",
+      "galeria": [
+        "/images/shop/Gemini_Generated_Image_t920t9t920t9t920.webp"
+      ],
+      "contenido": [
+        "40 fresas (30 negras y 10 blancas, de las cuales hay 12 con Licor Baileys)",
+        "1 Bandeja"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "tabla-de-quesos-corazon",
+      "nombre": "Tabla de quesos corazón",
+      "slug": "tabla-de-quesos-corazon",
+      "precio": 224900,
+      "precioAnterior": 260000,
+      "descripcion": "contenido:\nTabla de Quesos, Jamones y Frutas\n** El contenido, productos y decoración está sujeta a disponibilidad de la tienda",
+      "imagen": "/images/shop/Disenosintitulo_4_1.webp",
+      "galeria": [
+        "/images/shop/Disenosintitulo_4_1.webp"
+      ],
+      "contenido": [
+        "Tabla de Quesos, Jamones y Frutas"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "espectaculo-amarillo",
+      "nombre": "Espectáculo amarillo",
+      "slug": "espectaculo-amarillo",
+      "precio": 352061,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nArreglo floral\nCaja de chocolates Ferrero x24\nVino gato negro 750 ml\nGuacal decorado\n** El contenido, producto y decoración está sujeta a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2023-12-15at3.50.18PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-12-15at3.50.18PM.webp",
+        "/images/shop/WhatsApp_Image_2025-12-26_at_6.28.54_PM.webp"
+      ],
+      "contenido": [
+        "Arreglo floral",
+        "Caja de chocolates Ferrero x24",
+        "Vino gato negro 750 ml",
+        "Guacal decorado"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "christmas-house",
+      "nombre": "Christmas House",
+      "slug": "christmas-house",
+      "precio": 244900,
+      "precioAnterior": 269900,
+      "descripcion": "Contenido:\nCaja de madera casita decorada\nBotella de vino tinto Marqués de León 750 ml\nMix de Madurado Lomo, Salami y Pepperoni villaseca 60 gr\nLata de maní Golden 150 gr\nQueso Holandés Alpina 250 gr\nAntipasto\nDurazno en almíbar 280 gr\nChocolates Cherrísimo 142 gr\nGalletas para untar 30 gr\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2023-12-07at3.36.35PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-12-07at3.36.35PM.webp"
+      ],
+      "contenido": [
+        "Caja de madera casita decorada",
+        "Botella de vino tinto Marqués de León 750 ml",
+        "Mix de Madurado Lomo, Salami y Pepperoni villaseca 60 gr",
+        "Lata de maní Golden 150 gr",
+        "Queso Holandés Alpina 250 gr",
+        "Antipasto",
+        "Durazno en almíbar 280 gr",
+        "Chocolates Cherrísimo 142 gr",
+        "Galletas para untar 30 gr"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "christmas-bouquet",
+      "nombre": "Christmas Bouquet",
+      "slug": "navidad-christmas-bouquet",
+      "precio": 103900,
+      "precioAnterior": 104396,
+      "descripcion": "Contenido\n1 Bouquet 24 rosas\n1 Pin navideño\n1 Tarjeta personalizada\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2023-12-05at1.13.13PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-12-05at1.13.13PM.webp"
+      ],
+      "contenido": [
+        "1 Bouquet 24 rosas",
+        "1 Pin navideño",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ancheta-navidena-gigante",
+      "nombre": "Ancheta Navideña Gigante",
+      "slug": "ancheta-navidena-gigante",
+      "precio": 257900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nBotella de vino tinto 750 ml\nChocolate Mont Blanc Baileys\n1 Paquete de jamón Serrano\n1 queso madurado holandés\n1 porción de aceitunas\n1 Barquillos Pirouline\n1 porción mix frutos secos\n1 set de luces\n1 base cuadrada en cartón decorado con papel navideño\n** El contenido, productos y colores están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2023-11-23at11.11.47AM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-11-23at11.11.47AM.webp"
+      ],
+      "contenido": [
+        "Botella de vino tinto 750 ml",
+        "Chocolate Mont Blanc Baileys",
+        "1 Paquete de jamón Serrano",
+        "1 queso madurado holandés",
+        "1 porción de aceitunas",
+        "1 Barquillos Pirouline",
+        "1 porción mix frutos secos",
+        "1 set de luces",
+        "1 base cuadrada en cartón decorado con papel navideño"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "christmas-cookie",
+      "nombre": "Christmas pancake",
+      "slug": "christmas-cookie",
+      "precio": 113900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nPancake con banano y crema\nPorción de fresa\nPorción de kiwi\nJugo de naranja\nPorción de papas chips\n2 pinchos de jamón y queso\n1 naranja\n1 manzana\n1 granadilla\nPorción de Masmelos\nCaja con mensaje prediseñado\n** El contenido, productos y colores están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/WhatsAppImage2023-11-24at3.55.28PM_1.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-11-24at3.55.28PM_1.webp",
+        "/images/shop/WhatsAppImage2023-11-25at11.00.22AM.webp"
+      ],
+      "contenido": [
+        "Pancake con banano y crema",
+        "Porción de fresa",
+        "Porción de kiwi",
+        "Jugo de naranja",
+        "Porción de papas chips",
+        "2 pinchos de jamón y queso",
+        "1 naranja",
+        "1 manzana",
+        "1 granadilla",
+        "Porción de Masmelos",
+        "Caja con mensaje prediseñado"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "cesta-navidena",
+      "nombre": "Cesta Navideña",
+      "slug": "cesta-navidena",
+      "precio": 99900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Vino gato negro tinto 187 ml\n1 Galletas moments\n1 Queso holandés\n1 Papas Pringles personal\n1 Duraznos en almíbar\n1 Lata de salchichas viena\n1 Hielera en madera\n1 Tarjeta personalizada\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/IMG-20231115-WA0007.webp",
+      "galeria": [
+        "/images/shop/IMG-20231115-WA0007.webp",
+        "/images/shop/WhatsAppImage2023-12-07at7.15.34PM.webp"
+      ],
+      "contenido": [
+        "1 Vino gato negro tinto 187 ml",
+        "1 Galletas moments",
+        "1 Queso holandés",
+        "1 Papas Pringles personal",
+        "1 Duraznos en almíbar",
+        "1 Lata de salchichas viena",
+        "1 Hielera en madera",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "sweet-christmas",
+      "nombre": "Sweet Christmas",
+      "slug": "navidad-sweet-christmas",
+      "precio": 64268,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Guacal 20*20 decorado con papel y moño\n1 Cerveza Heineken 330 ml\n1 Arequipe\n1 Galletas Danish\n1 Ponqué de vino 245 gr\n1 Paquete de maní personal\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/IMG-20231115-WA0008.webp",
+      "galeria": [
+        "/images/shop/IMG-20231115-WA0008.webp"
+      ],
+      "contenido": [
+        "1 Guacal 20*20 decorado con papel y moño",
+        "1 Cerveza Heineken 330 ml",
+        "1 Arequipe",
+        "1 Galletas Danish",
+        "1 Ponqué de vino 245 gr",
+        "1 Paquete de maní personal"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "christmas-fruits",
+      "nombre": "Christmas Fruits",
+      "slug": "christmas-fruits",
+      "precio": 247900,
+      "precioAnterior": null,
+      "descripcion": "Contenido\n:\nFigura en yeso de Bendición de los Alimentos\n500 gramos de Uvas\n1 Manzana roja\n1 Manzana verde\n1 Naranja\n1 Granadilla\n1 Mandarina\n1 Pera\n200gr Uchuvas\n200gr Arandanos\n200gr Ciruela\n200 gr Fresas\n1 Set de luces\nBase circular\nTarjeta personalizada\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2025-11-27at6.26.47PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2025-11-27at6.26.47PM.webp"
+      ],
+      "contenido": [
+        "Figura en yeso de Bendición de los Alimentos",
+        "500 gramos de Uvas",
+        "1 Manzana roja",
+        "1 Manzana verde",
+        "1 Naranja",
+        "1 Granadilla",
+        "1 Mandarina",
+        "1 Pera",
+        "200gr Uchuvas",
+        "200gr Arandanos",
+        "200gr Ciruela",
+        "200 gr Fresas",
+        "1 Set de luces",
+        "Base circular",
+        "Tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "happy-christmas-box",
+      "nombre": "Happy Christmas Box",
+      "slug": "navidad-happy-christmas-box",
+      "precio": 85586,
+      "precioAnterior": null,
+      "descripcion": "Contenido\n:\nAplique personalizado\n2 cervezas alemanas\n1 vaso cervecero\n1 maní limón y pimienta\n5 monedas de chocolate\n1 set de luces\n1 tarjeta personalizada\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/IMG-20231114-WA0031.webp",
+      "galeria": [
+        "/images/shop/IMG-20231114-WA0031.webp"
+      ],
+      "contenido": [
+        "Aplique personalizado",
+        "2 cervezas alemanas",
+        "1 vaso cervecero",
+        "1 maní limón y pimienta",
+        "5 monedas de chocolate",
+        "1 set de luces",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "christmas-gift",
+      "nombre": "Christmas Gift",
+      "slug": "navidad-christmas-gift",
+      "precio": 234900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Tabla para quesos decorada y empacada\n1 Botella de vino tinto 750 ml\n1 Porción de choriz1 Porcion de jamón Serrano\n1 Queso holandés\n1 Chocolatina mont blanc baileys\n1 Galletas moments\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/IMG-20231114-WA0030.webp",
+      "galeria": [
+        "/images/shop/IMG-20231114-WA0030.webp"
+      ],
+      "contenido": [
+        "1 Tabla para quesos decorada y empacada",
+        "1 Botella de vino tinto 750 ml",
+        "1 Porción de choriz1 Porcion de jamón Serrano",
+        "1 Queso holandés",
+        "1 Chocolatina mont blanc baileys",
+        "1 Galletas moments"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "christmas-tree",
+      "nombre": "Christmas tree 1",
+      "slug": "christmas-tree",
+      "precio": 106900,
+      "precioAnterior": null,
+      "descripcion": "Contenido\n:\n1 Torta navideña\n1 Botella de vino tinto 375 ml\n1 Copa con mensaje navideño\n5 mMonedas de chocolate\n1 Set de luces\n1 Piñita\n1 Guacal en forma de árbol y mensajes prediseñados\n1 Tarjeta personalizada\n**El contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/IMG-20231114-WA0021.webp",
+      "galeria": [
+        "/images/shop/IMG-20231114-WA0021.webp"
+      ],
+      "contenido": [
+        "1 Torta navideña",
+        "1 Botella de vino tinto 375 ml",
+        "1 Copa con mensaje navideño",
+        "5 mMonedas de chocolate",
+        "1 Set de luces",
+        "1 Piñita",
+        "1 Guacal en forma de árbol y mensajes prediseñados",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "box-navidena",
+      "nombre": "Box- Navideña mini",
+      "slug": "navidad-box-navidena-mini",
+      "precio": 56900,
+      "precioAnterior": null,
+      "descripcion": "Contenido\n:\n2 cervezas en lata con sticker navideño\n4 fresas cubiertas de chocolate decoradas\nCaja decorada con mensajes presentados navideños\n1 tarjeta personalizada\nMINIMO DE COMPRA 3 UNIDADES\n**El contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/IMG-20231114-WA0023.webp",
+      "galeria": [
+        "/images/shop/IMG-20231114-WA0023.webp"
+      ],
+      "contenido": [
+        "2 cervezas en lata con sticker navideño",
+        "4 fresas cubiertas de chocolate decoradas",
+        "Caja decorada con mensajes presentados navideños",
+        "1 tarjeta personalizada MINIMO DE COMPRA 3 UNIDADES"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5ada7e9b-8fb2-6bb8-78d1-62349f0575c6",
+      "nombre": "Tabla de quesos (N001)",
+      "slug": "dia-del-hombre-tabla-quesos",
+      "precio": 129900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nTabla de quesos: Rinde 5 Porciones\nJamón Pietrán\nQueso Campesino\nQueso Mozzarella\nQueso Sabana\nQueso Holandés\nUchuvas y Fresas\nBase plástica\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/dfb815_43db71b800eb4fea9e3f752bb5f62695_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_43db71b800eb4fea9e3f752bb5f62695_mv2.webp"
+      ],
+      "contenido": [
+        "Tabla de quesos: Rinde 5 Porciones",
+        "Jamón Pietrán",
+        "Queso Campesino",
+        "Queso Mozzarella",
+        "Queso Sabana",
+        "Queso Holandés",
+        "Uchuvas y Fresas",
+        "Base plástica **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad",
+        "para-el"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5fd3c5f7-d79d-0c46-567d-3d30e3414ea8",
+      "nombre": "Ancheta Antojo (N006)",
+      "slug": "ancheta-cumpleanos-ancheta-antojo",
+      "precio": 142900,
+      "precioAnterior": 149900,
+      "descripcion": "Contiene:\n1 Smirnoff ICE 275 ml\n1 Cerveza Heinecken 330 ml\n1 Cerveza Corona 335 ml\n1 Chocolatina Hershey’s 43gr\n1 Paq. Chocolates M&M Penaut\n1 Frasco Melocotones al Almíbar\n1 Lata de Salchichas 150gr\n1 Frasco Cerezas\n1 Guacal De Madera\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/dfb815_c0670c826a5840b09857abae18d7b084_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_c0670c826a5840b09857abae18d7b084_mv2.webp"
+      ],
+      "contenido": [
+        "1 Smirnoff ICE 275 ml",
+        "1 Cerveza Heinecken 330 ml",
+        "1 Cerveza Corona 335 ml",
+        "1 Chocolatina Hershey’s 43gr",
+        "1 Paq. Chocolates M&M Penaut",
+        "1 Frasco Melocotones al Almíbar",
+        "1 Lata de Salchichas 150gr",
+        "1 Frasco Cerezas",
+        "1 Guacal De Madera **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4b4c0cee-2bd0-f6a2-e79f-e9c187254785",
+      "nombre": "Ancheta Baileys",
+      "slug": "ancheta-cumpleanos-ancheta-baileys",
+      "precio": 215900,
+      "precioAnterior": 239900,
+      "descripcion": "Contiene:\n1 Botella Baileys Original 750 cc\n1 Chocolate Ferrero Roche x 8 Unid\n1 Maní la Especial Tamaño personal\n1 Chocolatina Blanca Hershey 43gr\n1 Lata de Salchichas de 150gr\n1 Papas Pringles Original\n1 Balde de Madera\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/dfb815_c79b03ea5c244517b8405d604a2d60b5_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_c79b03ea5c244517b8405d604a2d60b5_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella Baileys Original 750 cc",
+        "1 Chocolate Ferrero Roche x 8 Unid",
+        "1 Maní la Especial Tamaño personal",
+        "1 Chocolatina Blanca Hershey 43gr",
+        "1 Lata de Salchichas de 150gr",
+        "1 Papas Pringles Original",
+        "1 Balde de Madera **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_90e3b2b7-29e1-1638-b2b2-d3bd74e3df71",
+      "nombre": "Cesta Rubí (N022)",
+      "slug": "navidad-cesta-rubi",
+      "precio": 242900,
+      "precioAnterior": 279900,
+      "descripcion": "Contenido:\n1 Caja de Chocolates Ferrero Roche x 8\n1 Botella de Baileys 700 ml\n1 Caja de Galletas Royal Danish\n1 Frasco de melocotón al almíbar\n1 Frasco de cerezas al almíbar\n1 Guacal de Madera\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/dfb815_b8b93367cc564e9b9d2095a5050116d5_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_b8b93367cc564e9b9d2095a5050116d5_mv2.webp"
+      ],
+      "contenido": [
+        "1 Caja de Chocolates Ferrero Roche x 8",
+        "1 Botella de Baileys 700 ml",
+        "1 Caja de Galletas Royal Danish",
+        "1 Frasco de melocotón al almíbar",
+        "1 Frasco de cerezas al almíbar",
+        "1 Guacal de Madera **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_07f3ae90-b4e9-50e4-3817-4f0c57e73615",
+      "nombre": "Centro de mesa navideño (N026)",
+      "slug": "navidad-centro-mesa-navideno",
+      "precio": 128900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Botella de vino tinto 750ml\n1 Arreglo floral con 6 rosas, piñas y follaje.\n1 Tarjeta de y para\n1 Base plástica\nEl color de las flores esta sujeto a diponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_e5feacf116304947bd56d89ea7c03126_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_e5feacf116304947bd56d89ea7c03126_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de vino tinto 750ml",
+        "1 Arreglo floral con 6 rosas, piñas y follaje.",
+        "1 Tarjeta de y para",
+        "1 Base plástica"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_8f76bf50-a109-0b05-bd91-3ad88bff3ac1",
+      "nombre": "Caja de navidad (N025)",
+      "slug": "navidad-caja-navidad",
+      "precio": 175900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Botella de vino tinto 750ml\n1 Arreglo floral con 8 Rosas Rojas, Piñas y follaje.\n1 Tarjeta de y para\n1 Base de madera decorada\nEsté producto requiere una reserva minima de 2 días habiles, el color de las flores esta sujeto a diponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_86222ec29a3e4ff5afa372c47059c7cf_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_86222ec29a3e4ff5afa372c47059c7cf_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de vino tinto 750ml",
+        "1 Arreglo floral con 8 Rosas Rojas, Piñas y follaje.",
+        "1 Tarjeta de y para",
+        "1 Base de madera decorada"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_bcd72a35-31d8-50f3-518e-3c1b7b25eeb3",
+      "nombre": "Bouquet Europeo",
+      "slug": "navidad-bouquet-europeo",
+      "precio": 228900,
+      "precioAnterior": 269900,
+      "descripcion": "Contenido:\n1 Botella de vino tinto 180ml\n1 Rosa de Salamí\n1 Queso Holandes 450gr\n1 Queso Madurado 250gr\n1 Racimo de uvas verdes de 150gr\n1 Frasco de aderezo o salchichas zenu\n2 Manzanas Rojas\n1 Arreglo en flores naturales tipos surtidos\n1 Nido Bouquet\n1 Ruana en papel craf\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/dfb815_ad2d72d1f2b64f208e21bf7ba6a4124d_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_ad2d72d1f2b64f208e21bf7ba6a4124d_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de vino tinto 180ml",
+        "1 Rosa de Salamí",
+        "1 Queso Holandes 450gr",
+        "1 Queso Madurado 250gr",
+        "1 Racimo de uvas verdes de 150gr",
+        "1 Frasco de aderezo o salchichas zenu",
+        "2 Manzanas Rojas",
+        "1 Arreglo en flores naturales tipos surtidos",
+        "1 Nido Bouquet",
+        "1 Ruana en papel craf"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_fef230ae-a029-046f-9a65-91f8dc2ab838",
+      "nombre": "Bouquet Deleite Baileys (N024)",
+      "slug": "navidad-bouquet-deleite-baileys",
+      "precio": 232900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Botella de Crema de Whiskey Baileys 375ml\n1 Mix de carnes maduradas\n1 Queso Holandes 450gr\n1 Queso Madurado 250gr\n1 Racimo de uvas verdes de 150gr\n2 Manzanas Rojas\n6 Rosas Rojas\n1 Arreglo en flores naturales tipos surtidos\n1 Nido Bouquet\n1 Ruana en papel craf\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/Imagen_de_WhatsApp_2024-12-04_a_las_14.47.51_78f1f58f.webp",
+      "galeria": [
+        "/images/shop/Imagen_de_WhatsApp_2024-12-04_a_las_14.47.51_78f1f58f.webp"
+      ],
+      "contenido": [
+        "1 Botella de Crema de Whiskey Baileys 375ml",
+        "1 Mix de carnes maduradas",
+        "1 Queso Holandes 450gr",
+        "1 Queso Madurado 250gr",
+        "1 Racimo de uvas verdes de 150gr",
+        "2 Manzanas Rojas",
+        "6 Rosas Rojas",
+        "1 Arreglo en flores naturales tipos surtidos",
+        "1 Nido Bouquet",
+        "1 Ruana en papel craf"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_a9ca780e-5ce6-b766-02d6-d89a840e9812",
+      "nombre": "Ancheta Trapiche",
+      "slug": "ancheta-cumpleanos-ancheta-trapiche",
+      "precio": 444900,
+      "precioAnterior": 485900,
+      "descripcion": "Contenido:\n1 Botella de vino Finca las moras\n1 Botella de vinoTrapiche\n1 Copa para vino\n1 Frasco de tomates secos\n1 Chorizo vela 60 g\n1 Porción de Salami 60g\n1 Sobre de Peperoni 60g\n1 Queso Holandés 250g\n1 Queso Ahumado 160g\n1 Queso Bried 160 g\n1 Caja de madera decorada\nEl diseño de la caja y las marcas de los vinos estas sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_f3c2054ed447486498339b9d8007efa8_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_f3c2054ed447486498339b9d8007efa8_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de vino Finca las moras",
+        "1 Botella de vinoTrapiche",
+        "1 Copa para vino",
+        "1 Frasco de tomates secos",
+        "1 Chorizo vela 60 g",
+        "1 Porción de Salami 60g",
+        "1 Sobre de Peperoni 60g",
+        "1 Queso Holandés 250g",
+        "1 Queso Ahumado 160g",
+        "1 Queso Bried 160 g",
+        "1 Caja de madera decorada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_93fb94c4-5dde-76c9-03fd-e843d58a17fd",
+      "nombre": "Ramo Bonanza (R098)",
+      "slug": "navidad-ramo-bonanza",
+      "precio": 353106,
+      "precioAnterior": 384456,
+      "descripcion": "Contenido:\n30 Rosas en arreglo floral\n8 Chocolates rellenos\n1 Botella de vino tinto\n8 Bombas R12 cromadas infladas con helio\n1 Balde de madera pintado de negro y decorado\n1 Globo burbuja metalizado con mensaje personalizado\nEl color de los globos, las bombas, las flores y el diseño del mensaje personalizado están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/dfb815_260f512a2d2c4a54b0cc8f3d9.webp",
+      "galeria": [
+        "/images/shop/dfb815_260f512a2d2c4a54b0cc8f3d9.webp",
+        "/images/shop/WhatsAppImage2023-10-16at9.13.50AM_1.webp"
+      ],
+      "contenido": [
+        "30 Rosas en arreglo floral",
+        "8 Chocolates rellenos",
+        "1 Botella de vino tinto",
+        "8 Bombas R12 cromadas infladas con helio",
+        "1 Balde de madera pintado de negro y decorado",
+        "1 Globo burbuja metalizado con mensaje personalizado"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5def4139-f244-a824-28d8-68196eaa7d36",
+      "nombre": "Ancheta Viñero (N031)",
+      "slug": "ancheta-cumpleanos-ancheta-vinero",
+      "precio": 410900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Botella de vino tinto\n1 Botella de vino blanco\n1 Queso Madurado\n1 Porción de carnes madurada\n1 Frasco de tomates deshidratados\n1 Porcion de frutos secos de 200gr\n1 Base metalica (Sujeta a disponibilidad)\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/dfb815_9a2e128a19e34ef7ac4438616688825f_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_9a2e128a19e34ef7ac4438616688825f_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de vino tinto",
+        "1 Botella de vino blanco",
+        "1 Queso Madurado",
+        "1 Porción de carnes madurada",
+        "1 Frasco de tomates deshidratados",
+        "1 Porcion de frutos secos de 200gr",
+        "1 Base metalica (Sujeta a disponibilidad)"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_3fcd81d3-e519-96b3-3548-697fc35d2f50",
+      "nombre": "Ancheta Prosperidad (N035)",
+      "slug": "ancheta-cumpleanos-ancheta-prosperidad",
+      "precio": 253900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Botella de 1/4 de Whisky\n1 Set de portavasos navideños en arte country\n2 Copas de Whisky\n6 Monedas de chocolate para la abundancia\n1 Guacal de madera decorada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/dfb815_815c101e95b143fea8033b08254a359f_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_815c101e95b143fea8033b08254a359f_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de 1/4 de Whisky",
+        "1 Set de portavasos navideños en arte country",
+        "2 Copas de Whisky",
+        "6 Monedas de chocolate para la abundancia",
+        "1 Guacal de madera decorada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_7e8b4d02-a633-869a-7168-9642d6e724e3",
+      "nombre": "Brindis Navideño (A041-3)",
+      "slug": "navidad-brindis-navideno",
+      "precio": 84900,
+      "precioAnterior": 115900,
+      "descripcion": "Contenido:\n1 Botella de cerveza Smirnoff ICE\n1 Botella de cerveza Estrella de Barcelona\n1 Botella de cerveza Heincken\n1 Botella de cerveza Corona\n1 Base de madera porta cerveza\n1 Bomba R12 decorada\nEl diseño del mensaje del globo está sujeto a disponibilidad",
+      "imagen": "/images/shop/dfb815_08b030a6589449b789d5eef8ebe66717_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_08b030a6589449b789d5eef8ebe66717_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de cerveza Smirnoff ICE",
+        "1 Botella de cerveza Estrella de Barcelona",
+        "1 Botella de cerveza Heincken",
+        "1 Botella de cerveza Corona",
+        "1 Base de madera porta cerveza",
+        "1 Bomba R12 decorada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_1fc86a68-b92d-6584-579f-b0ef4dd496bc",
+      "nombre": "Casa de papá noel",
+      "slug": "navidad-casa-papa-noel",
+      "precio": 329900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n2 Muñecos impresos en tela (Santa Claus –Mamá Claus)\n1 Botella de vino Gato Negro\n1 Copa de vino con monedas de chocolate\n1 Botella de chocolates\n3 Paquetes de chocolates Ferrero x 3\n1 Caja de galletas Danish\n2 Set luces\n1 tarjeta personalizada\nCaja mágica decorada de Santa Claus\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/f527ed_ef67014a294143f2ab4fd8d19fdd6320_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_ef67014a294143f2ab4fd8d19fdd6320_mv2.webp"
+      ],
+      "contenido": [
+        "2 Muñecos impresos en tela (Santa Claus –Mamá Claus)",
+        "1 Botella de vino Gato Negro",
+        "1 Copa de vino con monedas de chocolate",
+        "1 Botella de chocolates",
+        "3 Paquetes de chocolates Ferrero x 3",
+        "1 Caja de galletas Danish",
+        "2 Set luces",
+        "1 tarjeta personalizada",
+        "Caja mágica decorada de Santa Claus"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_a0a55cc3-d375-950f-88f9-fa1d2f877df2",
+      "nombre": "Para Ti Siempre Un Si",
+      "slug": "navidad-para-siempre",
+      "precio": 338476,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Globo burbuja 24 \"transparente con mensaje personalizado\n4 Globos cromados dorados R12 intenrnos\n4 Globos cromados dorados R12\n10 cervezas club colombia dorada o corona\n1 Maní cervecero familiar\n4 Hershey´s\n1 Base de cartón duro\n1 Tarjeta personlizado\n1 Moño\nEl diseño, color de globos,están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_783333e2e8034880a7dfa5fed7873025_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_783333e2e8034880a7dfa5fed7873025_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo burbuja 24 \"transparente con mensaje personalizado",
+        "4 Globos cromados dorados R12 intenrnos",
+        "4 Globos cromados dorados R12",
+        "10 cervezas club colombia dorada o corona",
+        "1 Maní cervecero familiar",
+        "4 Hershey´s",
+        "1 Base de cartón duro",
+        "1 Tarjeta personlizado",
+        "1 Moño"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_eaa43e5b-96d2-4dd0-0602-4d3965b18975",
+      "nombre": "Cascada De Rosas",
+      "slug": "navidad-cascada-rosas",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Arreglo de 35 rosas\n2 set de luces\n1 Botella de vino 187ml\n1 Copa\n1 Peluche de Ellie up\n1 Naranja\n1 Durazno\n2 Kiwi\n2 Manzanas rojas\n1 Pera\n8 Chocolates ferrero\n1 Base en madera 2 pisos\nEl diseño, color de rosas y peluche están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_8a0786bcf6594f7189a818483c948688_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_8a0786bcf6594f7189a818483c948688_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de 35 rosas",
+        "2 set de luces",
+        "1 Botella de vino 187ml",
+        "1 Copa",
+        "1 Peluche de Ellie up",
+        "1 Naranja",
+        "1 Durazno",
+        "2 Kiwi",
+        "2 Manzanas rojas",
+        "1 Pera",
+        "8 Chocolates ferrero",
+        "1 Base en madera 2 pisos"
+      ],
+      "tags": [
+        "navidad",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_519c1706-5bd9-63a2-df49-72083d98c09e",
+      "nombre": "Árbol Navideño",
+      "slug": "navidad-arbol-navideno",
+      "precio": 358900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Arreglo 35 todas en forma de árbol con bastones de dulces\n2 set de luces\n1 botella de vino gato negro 750 ml\n1 porción de frutos secos\n1 queso holandés\n1 queso madurado\n1 ferrero x3\n6 chocolates merci\n1 aplique navideño\n1 caja de chocolates moment\n1 guacal negro en madera\n1 tarjeta personalizada\nEl diseño, color de rosas, están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_dd4ea2e64bc54efcae79339a8f594a14_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_dd4ea2e64bc54efcae79339a8f594a14_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo 35 todas en forma de árbol con bastones de dulces",
+        "2 set de luces",
+        "1 botella de vino gato negro 750 ml",
+        "1 porción de frutos secos",
+        "1 queso holandés",
+        "1 queso madurado",
+        "1 ferrero x3",
+        "6 chocolates merci",
+        "1 aplique navideño",
+        "1 caja de chocolates moment",
+        "1 guacal negro en madera",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_6bcca579-94fa-8b68-2b83-0077a11e82f0",
+      "nombre": "Santa HO HO",
+      "slug": "navidad-santa",
+      "precio": 325936,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Baúl negro decoración temática santa Claus\n1 peluche 30 cm\n1 botella de vino tinto gato negro 750 ml\n1 copa de vino con monedas de chocolate\n1 caja de chocolates moments\n1 caja de almendras dulces\n1 paquete de ferrero x 3\n1 set de luces\n1 tarjeta personalizada\nLa decoración, peluche, color de luces y rosas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_3b67e371534844ab963e395204a704d8_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_3b67e371534844ab963e395204a704d8_mv2.webp"
+      ],
+      "contenido": [
+        "1 Baúl negro decoración temática santa Claus",
+        "1 peluche 30 cm",
+        "1 botella de vino tinto gato negro 750 ml",
+        "1 copa de vino con monedas de chocolate",
+        "1 caja de chocolates moments",
+        "1 caja de almendras dulces",
+        "1 paquete de ferrero x 3",
+        "1 set de luces",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_f590eb04-0e56-cb50-6cfb-c1ccc1aaae73",
+      "nombre": "Merry Christmas Box",
+      "slug": "navidad-merry-christmas-box",
+      "precio": 228900,
+      "precioAnterior": 246900,
+      "descripcion": "Contiene:\n1 Baúl decorado con textura en cuero tex\n1 botella de Baileys 375 ml\n1 copa con monedas de chocolate\n1 botella de chocolate\n1 galletas Danish\n1 esfera navideña con mensaje prediseñado\n1 caja de kisses\n1 set de luces\n2 bastones de dulce\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/f527ed_32a60f7c4ec241de81feca4f674c7d3c_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_32a60f7c4ec241de81feca4f674c7d3c_mv2.webp"
+      ],
+      "contenido": [
+        "1 Baúl decorado con textura en cuero tex",
+        "1 botella de Baileys 375 ml",
+        "1 copa con monedas de chocolate",
+        "1 botella de chocolate",
+        "1 galletas Danish",
+        "1 esfera navideña con mensaje prediseñado",
+        "1 caja de kisses",
+        "1 set de luces",
+        "2 bastones de dulce **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5ba55f2d-4c87-4da5-08b0-bdcda0e95f8f",
+      "nombre": "Christmas Day",
+      "slug": "navidad-christmas-day",
+      "precio": 257900,
+      "precioAnterior": 289900,
+      "descripcion": "Contiene:\n1 Baúl en madera con mensaje navideño pre-diseñado\n1 moño decorativo\n1 vinos tinto Gato negro 750 ml\n1 vino blanco Gato negro 750 ml\n1 tarro de galletas COOKIES\n1 chocolate premium amargo\n2 copas con monedas de chocolates\n1 tarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/f527ed_5cf186a80e7e471ea8e4f27c1440730d_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_5cf186a80e7e471ea8e4f27c1440730d_mv2.webp"
+      ],
+      "contenido": [
+        "1 Baúl en madera con mensaje navideño pre-diseñado",
+        "1 moño decorativo",
+        "1 vinos tinto Gato negro 750 ml",
+        "1 vino blanco Gato negro 750 ml",
+        "1 tarro de galletas COOKIES",
+        "1 chocolate premium amargo",
+        "2 copas con monedas de chocolates",
+        "1 tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_3b47b57d-da45-cbfd-acb6-f157edabcc18",
+      "nombre": "House Merry  Christmas",
+      "slug": "navidad-house-merry-christmas",
+      "precio": 312900,
+      "precioAnterior": 349900,
+      "descripcion": "Contiene:\n1 casa negra en madera estilo guacal decorado\n1 botella de Baileys 750ml\n1 queso holandés 250 gr\n1 galletas danish\n1 papas pringles personal\n2 paquetes de ferrero x 3\n2 copas con monedas de chocolate\n1 chocolatina dolcevita\n1 caja de chocolates moments\n1 muñeco tela santa Claus\n1 caja de galletas artesanales\n1 tarjeta personalizado\nEl diseño, están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_ec76a927ba1b458fba70054d0181de56_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_ec76a927ba1b458fba70054d0181de56_mv2.webp"
+      ],
+      "contenido": [
+        "1 casa negra en madera estilo guacal decorado",
+        "1 botella de Baileys 750ml",
+        "1 queso holandés 250 gr",
+        "1 galletas danish",
+        "1 papas pringles personal",
+        "2 paquetes de ferrero x 3",
+        "2 copas con monedas de chocolate",
+        "1 chocolatina dolcevita",
+        "1 caja de chocolates moments",
+        "1 muñeco tela santa Claus",
+        "1 caja de galletas artesanales",
+        "1 tarjeta personalizado"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_99235659-08ea-81a4-c016-300122692da7",
+      "nombre": "Christmas Winter",
+      "slug": "navidad-christmas-winter",
+      "precio": 372900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Cesta en madera decorada\n3 bombas r12 sin helio\n1 barquillos piroulines\n2 paquetes de chocolates ferrero x 3\n1 caja de galletas danish\n1 Baileys 3 leches (edicion limitada)\n1 caja de chocolates montblanc\n1 caja chocolates moments\n1 chocolatina dolcevita\n1 caja galletas artesanales\n1 caja galletas colaciones\n1 set de luces\n1 moño decorativo\n1 tarjeta personalizada\nEl diseño, están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_c0c7d2b4f74f48fea4f5bbb13ab4125e_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_c0c7d2b4f74f48fea4f5bbb13ab4125e_mv2.webp"
+      ],
+      "contenido": [
+        "1 Cesta en madera decorada",
+        "3 bombas r12 sin helio",
+        "1 barquillos piroulines",
+        "2 paquetes de chocolates ferrero x 3",
+        "1 caja de galletas danish",
+        "1 Baileys 3 leches (edicion limitada)",
+        "1 caja de chocolates montblanc",
+        "1 caja chocolates moments",
+        "1 chocolatina dolcevita",
+        "1 caja galletas artesanales",
+        "1 caja galletas colaciones",
+        "1 set de luces",
+        "1 moño decorativo",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_58d052f9-b759-c782-ab90-5b1bfd0acacc",
+      "nombre": "Canasta Santa Claus",
+      "slug": "navidad-canasta-santa-claus",
+      "precio": 207900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Botella de Baileys 3 leches (agotada) disponible Baileys tradicional\n1 caja de galletas danish\n1 copas con monedas de chocolates\n2 paquetes de maní cervecero\n1 caja de galletas artesanales\n1 caja decorada\n1 tarjeta con mensaje personalizad\nEl diseño, está sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_1cca961dd24b43aa8edf0a1b25a76416_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_1cca961dd24b43aa8edf0a1b25a76416_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de Baileys 3 leches (agotada) disponible Baileys tradicional",
+        "1 caja de galletas danish",
+        "1 copas con monedas de chocolates",
+        "2 paquetes de maní cervecero",
+        "1 caja de galletas artesanales",
+        "1 caja decorada",
+        "1 tarjeta con mensaje personalizad"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_636c9660-336e-11a4-2763-aeffdf401ad0",
+      "nombre": "Ancheta Snow Day",
+      "slug": "ancheta-cumpleanos-ancheta-snow-day",
+      "precio": 177900,
+      "precioAnterior": 200536,
+      "descripcion": "Contiene:\n1 Globo burbuja 18 \" con mensaje personalizado\n1 copa de vino con monedas de chocolates\n1 botella de vino Gato Negro 187 ml\n1 esfera navideña\n1 paquete de chocolates ferrero x3\n1 queso holandés 250 gr\n1 set de luces\n8 monedas de chocolates\n1 base decorada\n1 tarjeta con mensaje personalizado\nEl diseño, está sujeto a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_61cfadaf3e1b49288af8461e96abe08c_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_61cfadaf3e1b49288af8461e96abe08c_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo burbuja 18 \" con mensaje personalizado",
+        "1 copa de vino con monedas de chocolates",
+        "1 botella de vino Gato Negro 187 ml",
+        "1 esfera navideña",
+        "1 paquete de chocolates ferrero x3",
+        "1 queso holandés 250 gr",
+        "1 set de luces",
+        "8 monedas de chocolates",
+        "1 base decorada",
+        "1 tarjeta con mensaje personalizado"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_374e5a92-bafe-d6a4-3420-b4b6e5ee9972",
+      "nombre": "Cesta felices fiestas",
+      "slug": "navidad-cesta-felices-fiestas",
+      "precio": 282900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Globo burbuja 18 \" con mensaje personalizado\n1 botella de vino Gato Negro 750 ml\n1 botella de Whisky red label 375ml\n1 caja de chocolates ferrero x 8 und\n1 caja de galletas danish\n1 caja de chocolates moments\n1 papas pringle familiar\n1 caja e galletas artesanales\n1 set luces\n1 caja de chocolates kisses\n1 base decorada\n1 tarjeta con mensaje personalizado\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/f527ed_8cb7e890867a49268955aa632ee3a6b0_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_8cb7e890867a49268955aa632ee3a6b0_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo burbuja 18 \" con mensaje personalizado",
+        "1 botella de vino Gato Negro 750 ml",
+        "1 botella de Whisky red label 375ml",
+        "1 caja de chocolates ferrero x 8 und",
+        "1 caja de galletas danish",
+        "1 caja de chocolates moments",
+        "1 papas pringle familiar",
+        "1 caja e galletas artesanales",
+        "1 set luces",
+        "1 caja de chocolates kisses",
+        "1 base decorada",
+        "1 tarjeta con mensaje personalizado **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_83e3c7ae-18c5-3d7f-456c-a364db0087a5",
+      "nombre": "Cesta Collection",
+      "slug": "navidad-cesta-collection",
+      "precio": 286900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 botella de vino Gato Negro 750 ml\n1 botella de Whisky red label 375ml\n1 caja de chocolates ferrero x 8 und\n1 esfera navideña con una foto personalizada\n1 caja de galletas danish\n1 caja de chocolates moments\n1 papas pringle familiar\n1 caja de galletas artesanales\n1 caja de chocolates kisses\n1 base decorada\n1 tarjeta con mensaje personalizado\nEl diseño, está sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_726a9785c8f04869afa74837cd1bf77d_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_726a9785c8f04869afa74837cd1bf77d_mv2.webp"
+      ],
+      "contenido": [
+        "1 botella de vino Gato Negro 750 ml",
+        "1 botella de Whisky red label 375ml",
+        "1 caja de chocolates ferrero x 8 und",
+        "1 esfera navideña con una foto personalizada",
+        "1 caja de galletas danish",
+        "1 caja de chocolates moments",
+        "1 papas pringle familiar",
+        "1 caja de galletas artesanales",
+        "1 caja de chocolates kisses",
+        "1 base decorada",
+        "1 tarjeta con mensaje personalizado"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_db54ec59-839f-9d2e-5015-063f5deef585",
+      "nombre": "Christmas Partners",
+      "slug": "navidad-christmas-partners",
+      "precio": 325936,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 canasta en madera con asa\n1 caja de ferreros x 24\n1 chocolatina hershey´s milk chocolate\n1 paquete de barquillos piazza\n1 paquete de mani\n1 botella de Baileys 700 ml\n1 porción de frutos secos\n1 porción de frutos deshidratados\n1 esfera navideña con una foto personalizada\n1 moño decorativo\n1 tarjeta personalizada\nLa decoración, color de globos, bombas, rosas y bombas metalizadas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_996050a1e4b34bef9569967d7d7208ce_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_996050a1e4b34bef9569967d7d7208ce_mv2.webp"
+      ],
+      "contenido": [
+        "1 canasta en madera con asa",
+        "1 caja de ferreros x 24",
+        "1 chocolatina hershey´s milk chocolate",
+        "1 paquete de barquillos piazza",
+        "1 paquete de mani",
+        "1 botella de Baileys 700 ml",
+        "1 porción de frutos secos",
+        "1 porción de frutos deshidratados",
+        "1 esfera navideña con una foto personalizada",
+        "1 moño decorativo",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_65b1f8ee-6656-2199-1c95-4f56b0312c85",
+      "nombre": "Ancheta Corazón",
+      "slug": "ancheta-cumpleanos-ancheta-corazon",
+      "precio": 598681,
+      "precioAnterior": 633166,
+      "descripcion": "Contiene:\n1 Arreglo de 90 rosas aprox.\n1 Globo burbuja mediano con mensaje personalizado\n8 Bombas R12\n1 Portaretrato con foto impresa Full color\n1 Sándwich artesanal de pan, jamón y queso\n1 Botella de té Hatsu\n1 Paquete de galletas Quaker\n1 paquete de galletas Fitness\n1 Queso pera\n1 Botella de jugo\n1 Barra de Cereal Tosh\n1 Bon Yurt\n1 Caja de leche personal Alpina\n1 Sobre de aromática\n1 Sobre de Café instantáneo\n1 Porción de Miel\n1 Chocolate Relleno Bonkie\n1 Set de cubiertos con servilletas\n1 Guacal de madera 30cm decorado\n1 Tarjeta personalizada\nEl diseño del portaretrato, color de rosas , bombas y guacal están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_4c3beeb79dd442b99202bd4228fe6918_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_4c3beeb79dd442b99202bd4228fe6918_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de 90 rosas aprox.",
+        "1 Globo burbuja mediano con mensaje personalizado",
+        "8 Bombas R12",
+        "1 Portaretrato con foto impresa Full color",
+        "1 Sándwich artesanal de pan, jamón y queso",
+        "1 Botella de té Hatsu",
+        "1 Paquete de galletas Quaker",
+        "1 paquete de galletas Fitness",
+        "1 Queso pera",
+        "1 Botella de jugo",
+        "1 Barra de Cereal Tosh",
+        "1 Bon Yurt",
+        "1 Caja de leche personal Alpina",
+        "1 Sobre de aromática",
+        "1 Sobre de Café instantáneo",
+        "1 Porción de Miel",
+        "1 Chocolate Relleno Bonkie",
+        "1 Set de cubiertos con servilletas",
+        "1 Guacal de madera 30cm decorado",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_8ea3a8e3-745d-d7db-48a8-8abe42246359",
+      "nombre": "Christmas Tree 2",
+      "slug": "navidad-christmas-tree",
+      "precio": 286900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo floral 32 rosas aprox\n2 set de luces\n2 manzanas\n1 botella de Baileys 375 ml\n1 porción de frutos deshidratados\n1 frasco de barquillos piroulines\n1 copa con monedas de chocolate\n2 peras\n1 base de 2 niveles decorada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_2796bd370db34354b6b47bb98d6cab10_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_2796bd370db34354b6b47bb98d6cab10_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo floral 32 rosas aprox",
+        "2 set de luces",
+        "2 manzanas",
+        "1 botella de Baileys 375 ml",
+        "1 porción de frutos deshidratados",
+        "1 frasco de barquillos piroulines",
+        "1 copa con monedas de chocolate",
+        "2 peras",
+        "1 base de 2 niveles decorada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_dda1294e-e4c4-ee0f-48aa-406d4c769474",
+      "nombre": "Happy Grinch",
+      "slug": "navidad-happy-grinch",
+      "precio": 286900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo orgánico de globos r6 en forma de arbol 30 aprox\n1 globo estrella r9 metalizado\n1 muñeco en tela (Grinch)\n4 cervezas stella artois\n1 frasco de barquillos piroulines\n1 galletas artesanales\n1 porción de frutos secos\n2 paquetes de mym\n1 caja de galletas danish\n2 chocolatinas hershey´s\n1 caja de chocolates ferrero x 8\n1 set de luces\n1 guacal en madera decorado\n1 moño decorativo\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_e7ff672a62404bfb8f6bca31a8f07d4d_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_e7ff672a62404bfb8f6bca31a8f07d4d_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo orgánico de globos r6 en forma de arbol 30 aprox",
+        "1 globo estrella r9 metalizado",
+        "1 muñeco en tela (Grinch)",
+        "4 cervezas stella artois",
+        "1 frasco de barquillos piroulines",
+        "1 galletas artesanales",
+        "1 porción de frutos secos",
+        "2 paquetes de mym",
+        "1 caja de galletas danish",
+        "2 chocolatinas hershey´s",
+        "1 caja de chocolates ferrero x 8",
+        "1 set de luces",
+        "1 guacal en madera decorado",
+        "1 moño decorativo **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5c0c6914-1b0a-8a4b-4b47-1f908a8d9a02",
+      "nombre": "Christmas wish",
+      "slug": "navidad-christmas-wish",
+      "precio": 502900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo orgánico de globos r6 en forma de arbol 30 aprox\n1 globo estrella r9 metalizado\n1 chocolatina dolcevita\n1 botella whisky Old parr 750 ml\n1 frasco de barquillos piroulines\n1 galletas artesanales\n1 porción de frutos secos\n2 paquetes de mym\n1 caja de galletas danish\n2 chocolatinas hershey´s\n1 caja de chocolates ferrero x 8\n1 set de luces\n1 guacal en madera decorado\n1 moño decorativo\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_c227a58d94cb4c3cb42aed2c5bd7c7a2_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_c227a58d94cb4c3cb42aed2c5bd7c7a2_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo orgánico de globos r6 en forma de arbol 30 aprox",
+        "1 globo estrella r9 metalizado",
+        "1 chocolatina dolcevita",
+        "1 botella whisky Old parr 750 ml",
+        "1 frasco de barquillos piroulines",
+        "1 galletas artesanales",
+        "1 porción de frutos secos",
+        "2 paquetes de mym",
+        "1 caja de galletas danish",
+        "2 chocolatinas hershey´s",
+        "1 caja de chocolates ferrero x 8",
+        "1 set de luces",
+        "1 guacal en madera decorado",
+        "1 moño decorativo **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_260d6417-6001-87fa-1557-28cf8177fc97",
+      "nombre": "Balloon Navideño",
+      "slug": "navidad-balloon-navideno",
+      "precio": 372900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Globo Burbuja 36 \" pintado con apliques navideños pre-diseñados\n1 peluche 45 cm\n1 botella de vino gato negro 750 ml\n1 caja de chocolates mont Blanc\n1 porción de frutos secos\n1 copa con monedas de chocolate\n1 caja de galletas artesanales\n1 balde #6 en madera decorado\nLa decoración esta sujeta a la disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_fb2ff383bc34421dabc30b0708d51b46_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_fb2ff383bc34421dabc30b0708d51b46_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo Burbuja 36 \" pintado con apliques navideños pre-diseñados",
+        "1 peluche 45 cm",
+        "1 botella de vino gato negro 750 ml",
+        "1 caja de chocolates mont Blanc",
+        "1 porción de frutos secos",
+        "1 copa con monedas de chocolate",
+        "1 caja de galletas artesanales",
+        "1 balde #6 en madera decorado"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_b06593ed-6748-19d8-d237-6bfc9773da65",
+      "nombre": "Christmas Couple",
+      "slug": "navidad-christmas-couple",
+      "precio": 525900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo orgánico de globos 120 aprox\n3 set de luces\n1 botella de chocolates\n1 botella de Baileys 750 ml\n1 caja de chocolates moments\n1 peluche mickey 30 cm\n1 peluche Minnie 30 cm\narreglo floral 24 rosas\n1 balde negro en madera\nEl color de la decoración y los tipos de peluches estan sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_f730ac39906143f381a87ac54f44779b_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_f730ac39906143f381a87ac54f44779b_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo orgánico de globos 120 aprox",
+        "3 set de luces",
+        "1 botella de chocolates",
+        "1 botella de Baileys 750 ml",
+        "1 caja de chocolates moments",
+        "1 peluche mickey 30 cm",
+        "1 peluche Minnie 30 cm",
+        "arreglo floral 24 rosas",
+        "1 balde negro en madera"
+      ],
+      "tags": [
+        "navidad",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_28f3cf44-c839-c78e-b093-6739ae1ead25",
+      "nombre": "Grinchs Box",
+      "slug": "navidad-grinchs-box",
+      "precio": 195311,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Baúl pre-diseñado en cuerotex\n1 Muñeco en tela 25 cm (Grinch)\n1 Mug en 3D Artesanal incluye cuchara mini (Sujeto a disponibilidad en tienda)\n2 botellas de mini Baileys\n1 caja de palitos de chocolates pockys\n2 paquetes de barquillos\n1 caja de tictac\n1 paquete de maní cervecero\n2 sobres de dulces\n1 set de luces",
+      "imagen": "/images/shop/fff53a_b395b75ba8d743989faae8342487f844_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_b395b75ba8d743989faae8342487f844_mv2.webp"
+      ],
+      "contenido": [
+        "1 Baúl pre-diseñado en cuerotex",
+        "1 Muñeco en tela 25 cm (Grinch)",
+        "1 Mug en 3D Artesanal incluye cuchara mini (Sujeto a disponibilidad en tienda)",
+        "2 botellas de mini Baileys",
+        "1 caja de palitos de chocolates pockys",
+        "2 paquetes de barquillos",
+        "1 caja de tictac",
+        "1 paquete de maní cervecero",
+        "2 sobres de dulces",
+        "1 set de luces"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_6ab2cc16-6d9a-95ef-5573-000627d0c687",
+      "nombre": "Green Christmas Box",
+      "slug": "navidad-green-christmas-box",
+      "precio": 121900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 mug con diseño especial\n1 botella de vino gato negro personal\n1 galletas danish\n4 chocolates\n1 caja decorada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_69032987b3b4452492d13029e4b6b5e6_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_69032987b3b4452492d13029e4b6b5e6_mv2.webp"
+      ],
+      "contenido": [
+        "1 mug con diseño especial",
+        "1 botella de vino gato negro personal",
+        "1 galletas danish",
+        "4 chocolates",
+        "1 caja decorada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_8e9acf25-8d46-4274-fae6-c61e71eb79f9",
+      "nombre": "Caja De Los Deseos  Fin De  Año",
+      "slug": "navidad-caja-los-deseos",
+      "precio": 329900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 caja mágica de 35 cm con diseño\n1 botella de vino espumoso\n1 velón con leyenda\n1 virgen en yeso\n1 copa con 10 monedas de chocolate\n2 racimos de uvas (2 libras)\n2 chocolatinas hershey´s con imagen de dolar\n1 chocolatina lok chocolate artesanal con imagen de maleta\n1 porción de granos\n2 set de luces\n1 ramita de espiga\n4 chocolates dorados\n1 tarjeta personalizada\nLa decoración, la virgen y luces están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/dfb815_a28b2a31d1c74aa58ff2d117bf122438_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_a28b2a31d1c74aa58ff2d117bf122438_mv2.webp"
+      ],
+      "contenido": [
+        "1 caja mágica de 35 cm con diseño",
+        "1 botella de vino espumoso",
+        "1 velón con leyenda",
+        "1 virgen en yeso",
+        "1 copa con 10 monedas de chocolate",
+        "2 racimos de uvas (2 libras)",
+        "2 chocolatinas hershey´s con imagen de dolar",
+        "1 chocolatina lok chocolate artesanal con imagen de maleta",
+        "1 porción de granos",
+        "2 set de luces",
+        "1 ramita de espiga",
+        "4 chocolates dorados",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_c00d2a1c-3b75-c2e9-4acb-9fa8bdb4e44b",
+      "nombre": "Ángel De La Navidad",
+      "slug": "navidad-angel-navidad",
+      "precio": 502900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Arreglo floral\n1 Ángel en yeso de 45 cm aproximadamente\n1 Caja de chocolates ferrero x8 Unidades\n1 Botella de vino de 750 ml\n1 Esfera navideña con una foto personalizada\n1 Guacal\n1 Tarjeta personalizada\n1 Set luces\nEl diseño, está sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f3554f_589667e1ee6d4169ace536b220a0e2cd_mv2.webp",
+      "galeria": [
+        "/images/shop/f3554f_589667e1ee6d4169ace536b220a0e2cd_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo floral",
+        "1 Ángel en yeso de 45 cm aproximadamente",
+        "1 Caja de chocolates ferrero x8 Unidades",
+        "1 Botella de vino de 750 ml",
+        "1 Esfera navideña con una foto personalizada",
+        "1 Guacal",
+        "1 Tarjeta personalizada",
+        "1 Set luces"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_3ce31587-fcb6-16e1-e5aa-0f266ce5fb6c",
+      "nombre": "The House Anhelo of christmas",
+      "slug": "navidad-the-house-anhelo",
+      "precio": 329900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 casa negra en madera estilo guacal decorado\n1 Ángel en yeso de 45 cm aproximadamente\n1 galletas danish\n1 papas pringles personal\n2 paquetes de ferrero x 3\n2 copas con monedas de chocolate\n1 chocolatina dolcevita\n1 caja de chocolates moments\n1 caja de galletas artesanales\n1 tarjeta personalizado\nEl diseño, están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f3554f_41afd4dd15954bf285b449e9e8b00b74_mv2.webp",
+      "galeria": [
+        "/images/shop/f3554f_41afd4dd15954bf285b449e9e8b00b74_mv2.webp"
+      ],
+      "contenido": [
+        "1 casa negra en madera estilo guacal decorado",
+        "1 Ángel en yeso de 45 cm aproximadamente",
+        "1 galletas danish",
+        "1 papas pringles personal",
+        "2 paquetes de ferrero x 3",
+        "2 copas con monedas de chocolate",
+        "1 chocolatina dolcevita",
+        "1 caja de chocolates moments",
+        "1 caja de galletas artesanales",
+        "1 tarjeta personalizado"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_a33e36f6-9e09-219b-66b4-154d323748da",
+      "nombre": "Christmas with santa",
+      "slug": "navidad-christmas-with-santa",
+      "precio": 181726,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 botella de vino gato negro de 770 ml\n2 copas\npareja de peluche en tela impresa\n1 mini paneton\n1 porcion de fruto secos\n1 porcion de frutos deshidratados\n1 porcion de gomas\n1 esfera\n1 caja de carton\n**El producto, contenido y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_4601b0697df047e5bb320aba36c3d2b5_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_4601b0697df047e5bb320aba36c3d2b5_mv2.webp"
+      ],
+      "contenido": [
+        "1 botella de vino gato negro de 770 ml",
+        "2 copas",
+        "pareja de peluche en tela impresa",
+        "1 mini paneton",
+        "1 porcion de fruto secos",
+        "1 porcion de frutos deshidratados",
+        "1 porcion de gomas",
+        "1 esfera",
+        "1 caja de carton"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_f87c5d6e-6cef-deed-1d45-a6b23d8fc6a3",
+      "nombre": "Blessed strawberries",
+      "slug": "navidad-blessed-strawberries",
+      "precio": 233976,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 figuran en yeso\n12 fresas con chocolate\n4 bastones\n1 caja de carton\n1 Tarjeta Personalizada",
+      "imagen": "/images/shop/674055_cc7a6e772c2a4c7ba6e7238d51296222_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_cc7a6e772c2a4c7ba6e7238d51296222_mv2.webp"
+      ],
+      "contenido": [
+        "1 figuran en yeso",
+        "12 fresas con chocolate",
+        "4 bastones",
+        "1 caja de carton",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4def2252-d1f0-3f3d-5dcb-7c883ad22f16",
+      "nombre": "Rose Gold",
+      "slug": "navidad-rose-gold",
+      "precio": 312350,
+      "precioAnterior": 343700,
+      "descripcion": "Contenido:\n12 fresas con chocolate\nArreglo floral\nSed de luces\nBase de cartón\nGlobo burbuja 24\" con mensaje personalizado\nBomba 24\" de color\nTarjeta personalizada",
+      "imagen": "/images/shop/674055_f1f63eadf8134a2988a8d901a31af00d_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_f1f63eadf8134a2988a8d901a31af00d_mv2.webp"
+      ],
+      "contenido": [
+        "12 fresas con chocolate",
+        "Arreglo floral",
+        "Sed de luces",
+        "Base de cartón",
+        "Globo burbuja 24\" con mensaje personalizado",
+        "Bomba 24\" de color",
+        "Tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "navidad",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "cedula": "1023884027",
+    "holderId": 636453,
+    "name": "CRISTIAN CAMILO GARCIA RAMIREZ",
+    "email": "informacion@cristiangarcia.co",
+    "phone": "3154645370",
+    "personType": "NATURAL",
+    "address": "kr 16 a 143 80",
+    "lastBank": "1051"
+  },
+  {
+    "cedula": "1023884028",
+    "holderId": 1090669,
+    "name": "SUSAN JURADO RAMOS",
+    "email": "susan.jurado89@gmail.com",
+    "phone": "3188501127",
+    "personType": "NATURAL",
+    "address": "CALLE 11 3-110 TR 7 APTO 404",
+    "lastBank": "1051"
+  },
+  {
+    "cedula": "1023884032",
+    "holderId": 882091,
+    "name": "FAIVER EDUARDO DIAZ",
+    "email": "faivereduardodiazpena@gmail.com",
+    "phone": "3186393892",
+    "personType": "NATURAL",
+    "address": "Calle 53 c sur n 11 23 este",
+    "lastBank": "1001"
+  },
+  {
+    "cedula": "1023884044",
+    "holderId": 1509737,
+    "name": "MORENO CHACON KAREN",
+    "email": "karenmoreno3@gmail.com",
+    "phone": "3183917470",
+    "personType": "NATURAL",
+    "address": "CALLE 46 A SUR 12 B 76 ESTE INT 1",
+    "lastBank": "1001"
+  },
+  {
+    "cedula": "1023884054",
+    "holderId": 699258,
+    "name": "CAMILO RAMOS",
+    "email": "camiloandresramospineda@gmail.com",
+    "phone": "3202613549",
+    "personType": "NATURAL",
+    "address": "Calle 19a Sur #420",
+    "lastBank": "1007"
+  },
+  {
+    "cedula": "1023884072",
+    "holderId": 359161,
+    "name": "CAROLINA BOHÓRQUEZ PEÑA",
+    "email": "carolinabp45@gmail.com",
+    "phone": "3177793363",
+    "personType": "NATURAL",
+    "address": "calle 78c # 130 - 55 int 4 apto 501",
+    "lastBank": "1001"
+  },
+  {
+    "cedula": "1023884073",
+    "holderId": 1415935,
+    "name": "JOSTIN FELIPE HERRERA ANTIBAR",
+    "email": "jostinfelipe7@gmail.com",
+    "phone": "3232100256",
+    "personType": "NATURAL",
+    "address": "KRA 11 NUMERO 41 21 SUR ",
+    "lastBank": "1507"
+  },
+  {
+    "cedula": "1023884081",
+    "holderId": 283356,
+    "name": "JAVIER RICARDO CLEVES VALENTIN",
+    "email": "jary1408@gmail.com",
+    "phone": "3138169460",
+    "personType": "NATURAL",
+    "address": "Calle 31 c sur 1-67",
+    "lastBank": "1032"
+  },
+  {
+    "cedula": "1023884091",
+    "holderId": 1438634,
+    "name": "BELLA MARCELA HERNANDEZ SUAZA",
+    "email": "brendatabares20@outlook.com",
+    "phone": "3112557177",
+    "personType": "NATURAL",
+    "address": "kra 15a este #58-68 sur oriente",
+    "lastBank": "1051"
+  },
+  {
+    "cedula": "1023884094",
+    "holderId": 1033634,
+    "name": "RAFAEL ALVAREZ",
+    "email": "alralfa@hotmail.com",
+    "phone": "3123429315",
+    "personType": "NATURAL",
+    "address": "Calle 131 # 58-35",
+    "lastBank": "1507"
+  },
+  {
+    "cedula": "1023884100",
+    "holderId": 1150549,
+    "name": "MARIA TERESA ROJAS CORTEA",
+    "email": "maite8904@hotmail.com",
+    "phone": "3188762854",
+    "personType": "NATURAL",
+    "address": "Calle 78 sur N 94-27",
+    "lastBank": "1507"
+  },
+  {
+    "cedula": "1023884102",
+    "holderId": 618294,
+    "name": "MAGDA ANGÉLICA BARRERA SANABRIA",
+    "email": "mabarrera19@gmail.com",
+    "phone": "3012987011",
+    "personType": "NATURAL",
+    "address": "Calle 13 A sur # 7 A 50",
+    "lastBank": "1051"
+  }
+]

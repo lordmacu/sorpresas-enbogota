@@ -1,0 +1,286 @@
+{
+  "categoria": "cursos-1",
+  "nombre": "Cursos",
+  "slug": "cursos-1",
+  "descripcion": "En Momentos ofrecemos una amplia variedad de cursos virtuales diseñados para ayudarte a aprender y crecer a tu propio ritmo. Ya sea que estés buscando mejorar tus habilidades profesionales, explorar nuevas pasiones o adquirir conocimientos prácticos, nuestros cursos son ideales para todas las edades y niveles.",
+  "imagen": "/images/shop/Mejores-plataformas-de-cursos.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "curso-decoracion-cajas-magicas",
+      "nombre": "Curso virtual en vivo: Decoración de cajas",
+      "slug": "curso-decoracion-cajas-magicas",
+      "precio": 125400,
+      "precioAnterior": 449350,
+      "descripcion": "No te pierdas la oportunidad de aprender las mejores técnicas en decoración de cajas mágicas con arreglos florales y desayunos sorpresa en nuestro\nCURSO VIRTUAL\n, Además, descubre estrategias de ventas efectivas y los mejores proveedores para impulsar tu emprendimiento.\nDuración\n: 5 Horas aproximadamente\nTemario:\n1. Introducción a las Cajas Mágicas\n2. Decoración de Cajas Mágicas con Flores\n3. Decoración de Cajas Mágicas con Globos\n4. Decoración de Cajas Mágicas para Desayunos Sorpresa\n5. Tabla de Costos y Presupuesto\n6. Identificación de Proveedores\n7. Estrategias de Ventas\n8. Marketing fotográfico\nMetodología:\nClases teóricas interactivas\nVIRTUALES.\nDemostraciones prácticas de las técnicas de decoración.\nMaterial complementario disponible para descarga.\nCertificación\n:\nSe otorgará un certificado de participación al completar el curso.\nRecursos Necesarios:\nDispositivo dentro del cuál se verá el curso (Celular, computadora, tablet...)\nIMPORTANTE:\nSi deseas de hacer la compra de forma internacional, puedes pagar por PAYPAL y WESTERN UNION.\nPara mayor información, comúnicate al siguiente número: +57 3203920212",
+      "imagen": "/images/shop/Ultimoscuposdisponibles_Notepierdaslaoportunidaddeaprenderlasmejorestecnicasendecoraciondecajasmagicas_arreglosfloralesydesayunossorpresaennuestroCURSOVIRTUALENVIVO.Ademas_descu_1.webp",
+      "galeria": [
+        "/images/shop/Ultimoscuposdisponibles_Notepierdaslaoportunidaddeaprenderlasmejorestecnicasendecoraciondecajasmagicas_arreglosfloralesydesayunossorpresaennuestroCURSOVIRTUALENVIVO.Ademas_descu_1.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "Cursos",
+        "desayunos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cursos-1",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "curso-virtual-basico-de-floristeria",
+      "nombre": "Curso Virtual Básico de Floristería",
+      "slug": "curso-virtual-basico-de-floristeria",
+      "precio": 180000,
+      "precioAnterior": 240000,
+      "descripcion": "¡Aprende las mejores técnicas para crear impresionantes arreglos florales en nuestro\nCURSO VIRTUAL\nde Floristería! Conoce los secretos de la floristería básica y cómo realizar creaciones únicas para cualquier ocasión. Ideal para emprendedores que desean incursionar en este arte.\nDuración\n: 1 Hora 30 minutos aproximadamente\nTemario:\nPresentación de Materiales y Utensilios\nBouquet de Rosas\n: Técnicas para hacer un ramo de rosas perfecto.\nArreglo de Velas Flotantes\n: Combina flores y velas para un toque especial.\nCanasta Frutal\n: Un diseño creativo con frutas y flores.\nFigura 3D \"Perrito\"\n: Aprende a crear figuras florales con diseño tridimensional.\nRedes Sociales para Promover la Empresa\n: Estrategias de marketing digital para tu negocio floral.\nMetodología:\nClases teóricas\nVIRTUALES EN VIVO\n.\nDemostraciones prácticas de técnicas florales.\nMaterial complementario disponible para descarga.\nCertificación:\nSe otorgará un certificado de participación al completar el curso.\nRecursos Necesarios:\nDispositivo donde puedas acceder al curso (Celular, computadora, tablet...).\nIMPORTANTE:\nSi deseas hacer la compra de forma internacional, puedes pagar por\nPAYPAL\ny\nWESTERN UNION\n.\nPara mayor información, comunícate al siguiente número: +57 3203920212",
+      "imagen": "/images/shop/FLORES1_a8b81c70-5cc7-4c03-b7a6-4d0ddce5325d.webp",
+      "galeria": [
+        "/images/shop/FLORES1_a8b81c70-5cc7-4c03-b7a6-4d0ddce5325d.webp"
+      ],
+      "contenido": [
+        "Presentación de Materiales y Utensilios",
+        "Bouquet de Rosas : Técnicas para hacer un ramo de rosas perfecto.",
+        "Arreglo de Velas Flotantes : Combina flores y velas para un toque especial.",
+        "Canasta Frutal : Un diseño creativo con frutas y flores.",
+        "Figura 3D \"Perrito\" : Aprende a crear figuras florales con diseño tridimensional.",
+        "Redes Sociales para Promover la Empresa : Estrategias de marketing digital para tu negocio floral.",
+        "Clases teóricas VIRTUALES EN VIVO .",
+        "Demostraciones prácticas de técnicas florales.",
+        "Material complementario disponible para descarga."
+      ],
+      "tags": [
+        "Cursos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cursos-1",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "curso-virtual-basico-de-chocolateria-en-colaboracion-con-casa-luker",
+      "nombre": "Curso Virtual Básico de Chocolatería en Colaboración con Casa Luker",
+      "slug": "curso-virtual-basico-de-chocolateria-en-colaboracion-con-casa-luker",
+      "precio": 90000,
+      "precioAnterior": 140000,
+      "descripcion": "¡Explora el delicioso mundo de la chocolatería en este\nCURSO VIRTUAL\n, en colaboración con\nCasa Luker\n! Aprende a crear fresas cubiertas de chocolate, trufas exquisitas y bombones artesanales con técnicas profesionales que te permitirán emprender tu propio negocio chocolatero.\nDuración\n: 1 Hora 10 minutos aproximadamente\nTemario:\nFresas con Chocolate\n: Aprende a preparar fresas cubiertas con chocolate de manera profesional.\nTrufas\n: Descubre cómo hacer trufas artesanales con rellenos variados.\nBombones\n: Técnicas para hacer bombones rellenos y decorados, perfectos para cualquier ocasión.\nMetodología:\nClases teóricas\nVIRTUALES\n.\nDemostraciones prácticas con técnicas de chocolatería.\nMaterial complementario disponible para descarga.\nCertificación:\nSe otorgará un certificado de participación al completar el curso.\nRecursos Necesarios:\nDispositivo donde puedas acceder al curso (Celular, computadora, tablet...).\nIMPORTANTE:\nSi deseas hacer la compra de forma internacional, puedes pagar por\nPAYPAL\ny\nWESTERN UNION\n.\nPara mayor información, comunícate al siguiente número: +57 3203920212",
+      "imagen": "/images/shop/CHOCOLATES.webp",
+      "galeria": [
+        "/images/shop/CHOCOLATES.webp",
+        "/images/shop/CHOCOLATES2.webp"
+      ],
+      "contenido": [
+        "Fresas con Chocolate : Aprende a preparar fresas cubiertas con chocolate de manera profesional.",
+        "Trufas : Descubre cómo hacer trufas artesanales con rellenos variados.",
+        "Bombones : Técnicas para hacer bombones rellenos y decorados, perfectos para cualquier ocasión.",
+        "Clases teóricas VIRTUALES .",
+        "Demostraciones prácticas con técnicas de chocolatería.",
+        "Material complementario disponible para descarga."
+      ],
+      "tags": [
+        "Cursos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cursos-1",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "curso-virtual-en-vivo-decoracion-de-cajas",
+      "nombre": "Curso virtual Decoración de cajas",
+      "slug": "curso-virtual-en-vivo-decoracion-de-cajas",
+      "precio": 125400,
+      "precioAnterior": 450269,
+      "descripcion": "No te pierdas la oportunidad de aprender las mejores técnicas en decoración de cajas mágicas con arreglos florales y desayunos sorpresa en nuestro\nCURSO VIRTUAL\n, Además, descubre estrategias de ventas efectivas y los mejores proveedores para impulsar tu emprendimiento.\nDuración\n: 5 Horas aproximadamente\nTemario:\n1. Introducción a las Cajas Mágicas\n2. Decoración de Cajas Mágicas con Flores\n3. Decoración de Cajas Mágicas con Globos\n4. Decoración de Cajas Mágicas para Desayunos Sorpresa\n5. Tabla de Costos y Presupuesto\n6. Identificación de Proveedores\n7. Estrategias de Ventas\n8. Marketing fotográfico\nMetodología:\nClases teóricas interactivas\nVIRTUALES.\nDemostraciones prácticas de las técnicas de decoración.\nMaterial complementario disponible para descarga.\nCertificación\n:\nSe otorgará un certificado de participación al completar el curso.\nRecursos Necesarios:\nDispositivo dentro del cuál se verá el curso (Celular, computadora, tablet...)\nIMPORTANTE:\nSi deseas de hacer la compra de forma internacional, puedes pagar por PAYPAL y WESTERN UNION.\nPara mayor información, comúnicate al siguiente número: +57 3203920212",
+      "imagen": "/images/shop/WhatsApp-Image-2024-04-16-at-3.27.08-PM-_1.webp",
+      "galeria": [
+        "/images/shop/WhatsApp-Image-2024-04-16-at-3.27.08-PM-_1.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "Cursos",
+        "desayunos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cursos-1",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

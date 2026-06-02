@@ -1,0 +1,427 @@
+{
+  "categorias": [
+    {
+      "id": "amor",
+      "nombre": "Amor",
+      "slug": "amor",
+      "descripcion": "Celebra su amor con un detalle inolvidable. Creamos sorpresas que se convierten en recuerdos. Entregas el mismo día.",
+      "imagen": "/images/shop/674055_4b7030aba3144eb59d674186159e9f46_mv2.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "promociones",
+      "nombre": "Promociones",
+      "slug": "promociones",
+      "descripcion": "Escoge el mejor regalo y al mejor precio para esa persona especial. Recuerda que cuentas con Asesoría Personalizada.",
+      "imagen": "/images/shop/SORPRESAS_A_TIEMPO_-_PROMOCIONES.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "para-mama",
+      "nombre": "Día de las Madres",
+      "slug": "para-mama",
+      "descripcion": "Los mejores regalos para el día de las madres: ¡Sorpréndela, ella se merece todo! ¡Una sorpresa es una experiencia grandiosa e inolvidable que mamá se merece! Ella, que siempre se preocupa por que llegues bien a casa, te da la mano en momentos duros y te puso en el primer lugar es su corazón, es la ganadora del mejor de los regalos y nosotros lo sabemos.",
+      "imagen": "/images/shop/para-mama-sopresas-a-tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "ninos-1",
+      "nombre": "Niños",
+      "slug": "ninos-1",
+      "descripcion": "Celebra Día del Niño, cumpleaños y grados con regalos sorpresa llenos de amor, alegría y detalles inolvidables para hacerlos sonreír.",
+      "imagen": "/images/shop/Para_el_1_e0a03443-419c-4a36-a111-dceaab4f2c67.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "entregas-para-el-mismo-dia",
+      "nombre": "Entregas para el mismo día",
+      "slug": "entregas-para-el-mismo-dia",
+      "descripcion": "¡Pide estos productos entre 10 a.m. a 6 p.m., y te lo entregamos en Bogotá el mismo día! Recuerda contactarte con la asesora para acordar el rango de entrega.",
+      "imagen": "/images/shop/f527ed_c24f471a24824641902cc7cddd9990e8_mv2.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "cumpleanos",
+      "nombre": "Anchetas de Cumpleaños",
+      "slug": "cumpleanos",
+      "descripcion": "Porque cumplir años siempre merece una gran sorpresa. Regalos llenos de color, emoción y sonrisas. Entregas el mismo día.",
+      "imagen": "/images/shop/dfb815_2ae80169e3564875a2084dc1af556dc5_mv2.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "para-papa",
+      "nombre": "Para Papá",
+      "slug": "para-papa",
+      "descripcion": "Celebra el Día del padre con los mejores regalos sorpresa. Reserva tu pedido con tiempo.",
+      "imagen": "/images/shop/Dia_del_Padre.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "para-ella",
+      "nombre": "Para Ella",
+      "slug": "para-ella",
+      "descripcion": "Regalos para ella ¡Todo tipo de regalos sorpresa para ella!",
+      "imagen": "/images/shop/f527ed_62bcf19ddeb047febcdbb435188dba02_mv2.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "para-el",
+      "nombre": "Para Él",
+      "slug": "para-el",
+      "descripcion": "Regalos para él ¡Los mejores regalos sorpresa para él!",
+      "imagen": "/images/shop/dfb815_fa62e7a8699b4dc7be3fa3fd0360d828_mv2.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "quinceanera",
+      "nombre": "Quinceañera",
+      "slug": "quinceanera",
+      "descripcion": "Un regalo inolvidable para una nueva etapa de tu vida.",
+      "imagen": "/images/shop/dfb815_260f512a2d2c4a54b0cc8f3d9ef370fe_mv2.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "dia-de-la-mujer",
+      "nombre": "Día de la Mujer",
+      "slug": "dia-de-la-mujer",
+      "descripcion": "Para esa mujer que ha jugado un papel muy importante en tu vida y ha logrado reconocimiento por su fortaleza, humildad, cariño y paciencia. Conoce nuestra línea de detalles de Día de la Mujer.",
+      "imagen": "/images/shop/dia-de-la-mujer-sopresas-a-tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "dia-del-hombre",
+      "nombre": "Día del Hombre",
+      "slug": "dia-del-hombre",
+      "descripcion": "Celebra el día del Hombre con el mejor detalle sorpresa.",
+      "imagen": "/images/shop/dia-del-hombre-sopresas-a-tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "san-valentin",
+      "nombre": "San Valentín",
+      "slug": "san-valentin",
+      "descripcion": "¡¡¡¡Te adoro!!! Su presencia te llenó de luz, amor y sonrisas, es un sentimiento tan grande e indescriptible que las palabras no son suficientes, así que, decídete a regalarle un instante único y memorable. ¡Una sorpresa que le cambia su vida!",
+      "imagen": "/images/shop/San_Valentin_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "navidad",
+      "nombre": "Navidad",
+      "slug": "navidad",
+      "descripcion": "Celebra la temporada de Navidad con nosotros. Tenemos todo lo que necesitas para sorprender a tus seres queridos en estas fechas especiales. Envía un mensaje de amor y alegría con nuestros regalos cuidadosamente seleccionados y personalizados para hacer de esta Navidad una celebración inolvidable. ¡Feliz Navidad!",
+      "imagen": "/images/shop/Navidad_-_Sopresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "amor-amistad",
+      "nombre": "Amor y Amistad",
+      "slug": "amor-amistad",
+      "descripcion": "Enamora y sorprende con cada detalle Una gran oportunidad para sorprender y enamorar con bellos detalles únicos.",
+      "imagen": "/images/shop/Amor_y_Amistad_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "halloween",
+      "nombre": "Halloween",
+      "slug": "halloween",
+      "descripcion": "¡Prepárate para la temporada de Halloween con nuestra colección de regalos espeluznantes! Sorprende con algo muy especial de nuestra tienda en línea y haz de Halloween una experiencia inolvidable.",
+      "imagen": "/images/shop/Halloween_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "grados",
+      "nombre": "Grados",
+      "slug": "grados",
+      "descripcion": "Hoy no solo celebramos un grado, celebramos todo el camino recorrido. Un detalle para decir: estamos orgullosos de ti. Entregas el mismo día.",
+      "imagen": "/images/shop/Grados_-_Sopresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "pasion-futbolera",
+      "nombre": "Pasión futbolera",
+      "slug": "pasion-futbolera",
+      "descripcion": "¡Mi equipo del alma! Sorpréndelo con una ancheta de su equipo favorito.",
+      "imagen": "/images/shop/Pasion_Futbolera_-_Sorpresa_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "baby-shower",
+      "nombre": "Baby Shower",
+      "slug": "baby-shower",
+      "descripcion": "Regalos para Baby Shower, regalos para la familia. Bienvenido, bebé ¡OMG! Llega un nuevo integrante a la familia, felicitaciones para papá y mamá que reciben con ansias, felicidad y expectativa a su nuevo bebé.",
+      "imagen": "/images/shop/Baby_shower_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "perdoname",
+      "nombre": "Pérdoname",
+      "slug": "perdoname",
+      "descripcion": "Porque reconocer, sentir y pedir perdón también es amor. Un gesto sincero para empezar de nuevo. Entregas el mismo día.",
+      "imagen": "/images/shop/Perdoname_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "mejorate-pronto",
+      "nombre": "Mejórate pronto",
+      "slug": "mejorate-pronto",
+      "descripcion": "Porque incluso en los días difíciles, un detalle reconforta el corazón. Un regalo para enviar fuerza, amor y buenos. Entregas el mismo día.",
+      "imagen": "/images/shop/Mejorate_pronto_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "regalos-corporativos",
+      "nombre": "Regalos corporativos",
+      "slug": "regalos-corporativos",
+      "descripcion": "Porque en tu empresa también se regala con el corazón. Diseñamos regalos corporativos personalizados que transmiten gratitud, cercanía y profesionalismo en cada entrega.",
+      "imagen": "/images/shop/Regalos_corporativos_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "matrimonios-bautizos",
+      "nombre": "Matrimonios y Bautizos",
+      "slug": "matrimonios-bautizos",
+      "descripcion": "Encuentra un regalo perfecto para esas fechas tan especiales. Matrimonios, Bautizos y Primera Comunión.",
+      "imagen": "/images/shop/Matrimonios_y_Bautizos_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "fresas-con-chocolate",
+      "nombre": "Fresas con Chocolate",
+      "slug": "fresas-con-chocolate",
+      "descripcion": "Sorprende a esa persona especial con un detalle Delicioso, encuentra todo tipo de detalles con deliciosas fresas con chocolate.",
+      "imagen": "/images/shop/Fresas_con_Chocolate_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "flores-rosas",
+      "nombre": "Flores & Rosas",
+      "slug": "flores-rosas",
+      "descripcion": "Cuando quieres decir “te quiero”, las rosas lo hacen mejor. Ramos diseñados para enamorar y sorprender. Entregas el mismo día, de lunes a domingo, a toda Bogota.",
+      "imagen": "/images/shop/Flores_Frutas_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "desayunos-sorpresas",
+      "nombre": "Desayunos Sorpresas en Bogotá",
+      "slug": "desayunos-sorpresas",
+      "descripcion": "Desayunos Sorpresa en Bogotá: detalles que acortan distancias. Hazle saber que importa.",
+      "imagen": "/images/shop/Desayunos_sorpresas_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "cajas-magicas",
+      "nombre": "Cajas Mágicas",
+      "slug": "cajas-magicas",
+      "descripcion": "Abre la caja, empieza la magia. Un regalo único, diseñado especialmente para quien más quieres. Entregas el mismo día.",
+      "imagen": "/images/shop/Cajas_Magicas_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "balloon-surprise",
+      "nombre": "Balloon Surprise",
+      "slug": "balloon-surprise",
+      "descripcion": "Decoración con Globos Burbuja, Metalizados, Bombas, Mil Figuras, Satinadas, etc.",
+      "imagen": "/images/shop/Balloon_Surprise_-_Sorpresas_a_tiempo.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "cali-valle-del-cauca",
+      "nombre": "Cali, Valle del Cauca",
+      "slug": "cali-valle-del-cauca",
+      "descripcion": "Envía desayunos, regalos y ramos de flores a domicilio en Bogotá, Colombia con Sorpresas. Sorprende en cumpleaños, matrimonios, el Día de las Madres y mucho más con nuestra amplia selección de productos. ¡Haz felices a tus seres queridos hoy mismo!",
+      "imagen": "/images/shop/410286583037029-968453002516351540-n.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "desayunos-sorpresa-mas-vendidos",
+      "nombre": "Desayunos Sorpresa - Entrega Hoy Mismo",
+      "slug": "desayunos-sorpresa-mas-vendidos",
+      "descripcion": "Conoce los Desayunos Sorpresa más vendidos en Bogotá y sorprende a tu ser amado. Ideal para cumpleaños y fechas especiales. ¡Entrega a domicilio!",
+      "imagen": "/images/shop/app-image-2024-04-01-at-11-10-01-pm.webp",
+      "popular": true,
+      "subcategorias": []
+    },
+    {
+      "id": "dia-de-la-madre-productos-top",
+      "nombre": "Dia de la Madre - Productos Top",
+      "slug": "dia-de-la-madre-productos-top",
+      "descripcion": "Estás apunto de hacer sonreír al ser más maravilloso ¡Máma! Escoge el mejor regalo para mamá y haz de su Día de la Madre inolvidable.",
+      "imagen": "/images/shop/image-2024-04-16-at-10-13-05-am-1.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "productos-mas-vendidos",
+      "nombre": "Productos más vendidos",
+      "slug": "productos-mas-vendidos",
+      "descripcion": "Los más amados, los más regalados. Detalles que siempre sacan sonrisas y crean momentos inolvidables. Entregas el mismo día, de lunes a domingo, a toda Bogota.",
+      "imagen": "/images/shop/WhatsApp_14.webp",
+      "popular": true,
+      "subcategorias": []
+    },
+    {
+      "id": "ramo-de-flores-amor",
+      "nombre": "Ramos de Flores",
+      "slug": "ramo-de-flores-amor",
+      "descripcion": "💐 Descubre los mejores Ramos de Flores en Bogotá con Sorpresas para regalar a tu Amor. Ofrecemos entrega el mismo día, calidad excepcional y garantía en cada compra. ¡Sorprende a tus seres queridos hoy mismo!",
+      "imagen": "/images/shop/ramos-de-flores.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "ramos-de-flores-aniversario",
+      "nombre": "Ramos de Flores",
+      "slug": "ramos-de-flores-aniversario",
+      "descripcion": "💐 Descubre los mejores Ramos de Flores en Bogotá con Sorpresas para tu Aniversario. Ofrecemos entrega el mismo día, calidad excepcional y garantía en cada compra. ¡Sorprende a tus seres queridos hoy mismo!",
+      "imagen": "/images/shop/ramos-de-flores-bogota.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "ramos-de-flores-cumpleanos",
+      "nombre": "Ramos de Flores",
+      "slug": "ramos-de-flores-cumpleanos",
+      "descripcion": "💐 Descubre los mejores Ramos de Flores en Bogotá con Sorpresas para Su Cumpleaños. Ofrecemos entrega el mismo día, calidad excepcional y garantía en cada compra. ¡Sorprende a tus seres queridos hoy mismo!",
+      "imagen": "/images/shop/Bouquetderosasygirasoles.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "ramo-de-flores-agradecimiento",
+      "nombre": "Ramos de Flores",
+      "slug": "ramo-de-flores-agradecimiento",
+      "descripcion": "💐 Descubre los mejores Ramos de Flores en Bogotá con Sorpresas para expresar y decir: ¡Gracias! Ofrecemos entrega el mismo día, calidad excepcional y garantía en cada compra. ¡Sorprende a tus seres queridos hoy mismo!",
+      "imagen": "/images/shop/674055_98e5475f7dea4c8a8b9f72a2a7fb2d3e_mv2.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "ramo-de-flores-graduacion",
+      "nombre": "Ramos de Flores",
+      "slug": "ramo-de-flores-graduacion",
+      "descripcion": "💐Descubre los mejores Ramos de Flores en Bogotá con Sorpresas para celebrar tu Graduación. Ofrecemos entrega el mismo día, calidad excepcional y garantía en cada compra. ¡Sorprende a tus seres queridos hoy mismo!",
+      "imagen": "/images/shop/dfb815_18d89baf423a440ab891d4099f83c74a_mv2.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "ramos-de-flores-entregas-el-mismo-dia",
+      "nombre": "Ramos de Flores - Entregas el mismo día",
+      "slug": "ramos-de-flores-entregas-el-mismo-dia",
+      "descripcion": "¡Tenemos ramos de flores para entrega hoy mismo! Descubre arreglos atemporales y elegantes en nuestros productos.",
+      "imagen": "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "cursos-1",
+      "nombre": "Cursos",
+      "slug": "cursos-1",
+      "descripcion": "En Sorpresas ofrecemos una amplia variedad de cursos virtuales diseñados para ayudarte a aprender y crecer a tu propio ritmo. Ya sea que estés buscando mejorar tus habilidades profesionales, explorar nuevas pasiones o adquirir conocimientos prácticos, nuestros cursos son ideales para todas las edades y niveles.",
+      "imagen": "/images/shop/Mejores-plataformas-de-cursos.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "anchetas-de-cumpleanos",
+      "nombre": "Anchetas de Cumpleaños",
+      "slug": "anchetas-de-cumpleanos",
+      "descripcion": "Las mejores anchetas de cumpleaños las consigues en Sorpresas. Opciones personalizadas para mujeres, hombres y niños, para toda ocasión. Entrega rápida.",
+      "imagen": "/images/shop/ancheta_cumpleanos.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "los-favoritos",
+      "nombre": "Los Favoritos",
+      "slug": "los-favoritos",
+      "descripcion": "🤩Conoce nuestros productos más vendidos, los favoritos de nuestros clientes. 💕Consente hoy a tu persona favorita.",
+      "imagen": "/images/shop/ChatGPT_Image_Jul_27_2025_10_53_54_PM.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "dia-de-la-novia",
+      "nombre": "Día de la Novia",
+      "slug": "dia-de-la-novia",
+      "descripcion": "Día de la Novia: flores, arreglos y regalos a domicilio para el 1 de agosto. Sorpréndela con detalles únicos y entrega rápida. ¡Compra ahora!",
+      "imagen": "/images/shop/WhatsApp_Image_2025-07-30_at_09.44.30_fc2c9edf.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "mejores-desayunos-sorpresa",
+      "nombre": "Mejores Desayunos Sorpresa",
+      "slug": "mejores-desayunos-sorpresa",
+      "descripcion": "Los mejores desayunos sorpresa de Sorpresas en Bogotá. Ideal para cumpleaños y fechas especiales. ¡Entrega a domicilio!",
+      "imagen": "/images/shop/sapp-image-2024-03-27-at-5-20-12-pm_e2163cc3-b541-40ea-aeb2-044a935354c4.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "los-mas-vendidos",
+      "nombre": "LOS MÁS VENDIDOS",
+      "slug": "los-mas-vendidos",
+      "descripcion": "Los más amados, los más regalados. Detalles que siempre sacan sonrisas y crean momentos inolvidables. Entregas el mismo día, de lunes a domingo, a toda Bogota.",
+      "imagen": "/images/shop/WhatsApp_Image_2026-01-02_at_12.38.05_PM.webp",
+      "popular": true,
+      "subcategorias": []
+    },
+    {
+      "id": "entregas-hoy-mismo",
+      "nombre": "Regalos Sorpresa - Entregas Hoy Mismo",
+      "slug": "entregas-hoy-mismo",
+      "descripcion": "💕¡Para ese ser especial! Sácale una sonrisa y llénalo de alegría con un regalo sorpresa para hoy mismo. Encuentra el mejor regalo para tu persona favorita. 😍",
+      "imagen": "/images/shop/dise195177o-sin-t195173tulo-13_09281adb-d500-451b-bafc-c9dde420f5d0.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "los-mas-pedidos",
+      "nombre": "Los más pedidos",
+      "slug": "los-mas-pedidos",
+      "descripcion": "Envía desayunos, regalos y ramos de flores a domicilio en Bogotá, Colombia con Sorpresas. Sorprende en cumpleaños, matrimonios, el Día de las Madres y mucho más con nuestra amplia selección de productos. ¡Haz felices a tus seres queridos hoy mismo!",
+      "imagen": "/images/shop/00974DDC-C113-4B77-99AF-41C2DBB4DBB7_00be32a3-b79c-4636-a698-ec462139ba3f.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "semana-santa",
+      "nombre": "Semana Santa",
+      "slug": "semana-santa",
+      "descripcion": "Encuentra el detalle perfecto para vivir una época de reflexión y unión familiar. Nuestra colección de Semana Santa ha sido creada para honrar las tradiciones más profundas con una estética elegante y natural.",
+      "imagen": "/images/shop/WhatsAppImage2024-05-01at11.57.37PM_de931929-7eb4-4df8-bdeb-95e3f6efa327.webp",
+      "popular": false,
+      "subcategorias": []
+    }
+  ]
+}

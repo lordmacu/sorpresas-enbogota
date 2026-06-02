@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "super-brunch",
+    "nombre": "Super Brunch",
+    "precio": 87900,
+    "url": "https://sorpresas.enbogota.app/producto/super-brunch",
+    "image": "content/instagram/2026-06-02/01-super-brunch/post.png",
+    "caption": "content/instagram/2026-06-02/01-super-brunch/caption.txt",
+    "status": "pending",
+    "publishedAt": null,
+    "batch": "2026-06-02"
+  },
+  {
+    "slug": "amazing-breakfast",
+    "nombre": "Amazing Breakfast",
+    "precio": 103351,
+    "url": "https://sorpresas.enbogota.app/producto/amazing-breakfast",
+    "image": "content/instagram/2026-06-02/02-amazing-breakfast/post.png",
+    "caption": "content/instagram/2026-06-02/02-amazing-breakfast/caption.txt",
+    "status": "pending",
+    "publishedAt": null,
+    "batch": "2026-06-02"
+  },
+  {
+    "slug": "desayunos-sorpresa-sweet-brunch",
+    "nombre": "Sweet Brunch",
+    "precio": 81900,
+    "url": "https://sorpresas.enbogota.app/producto/desayunos-sorpresa-sweet-brunch",
+    "image": "content/instagram/2026-06-02/03-desayunos-sorpresa-sweet-brunch/post.png",
+    "caption": "content/instagram/2026-06-02/03-desayunos-sorpresa-sweet-brunch/caption.txt",
+    "status": "pending",
+    "publishedAt": null,
+    "batch": "2026-06-02"
+  }
+]

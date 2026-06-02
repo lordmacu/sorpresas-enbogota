@@ -1,0 +1,1824 @@
+{
+  "categoria": "ramos-de-flores-cumpleanos",
+  "nombre": "Ramos de Flores",
+  "slug": "ramos-de-flores-cumpleanos",
+  "descripcion": "💐 Descubre los mejores Ramos de Flores en Bogotá con Momentos para Su Cumpleaños. Ofrecemos entrega el mismo día, calidad excepcional y garantía en cada compra. ¡Sorprende a tus seres queridos hoy mismo!",
+  "imagen": "/images/shop/Bouquetderosasygirasoles.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "big-roses",
+      "nombre": "Big Roses",
+      "slug": "ramo-flores-big-roses",
+      "precio": 195900,
+      "precioAnterior": 289900,
+      "descripcion": "Contenido:\n48 Rosas aprox.\nBase decorada\n**El contenido, productos, flores y colores están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp",
+      "galeria": [
+        "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp"
+      ],
+      "contenido": [
+        "48 Rosas aprox.",
+        "Base decorada"
+      ],
+      "tags": [
+        "flores-frutas",
+        "mama",
+        "mas-vendidos",
+        "promo",
+        "promociones",
+        "rosas"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_51d6c699-fc9f-063d-bc23-f64031889d07",
+      "nombre": "Ramo eternidad ferrero (R086)",
+      "slug": "los-mas-pedidos-ramo-eternidad-ferrero",
+      "precio": 162916,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n18 Rosas\nRelleno con Astromelias, Pompones, solidago y follaje.\n1 Caja de Chocolates Ferrero Rocher x 8 Unidades\n1 Base de Madera\nEl color de las flores esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_709d692ac5ac4d3ab01d201d832a1038_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_709d692ac5ac4d3ab01d201d832a1038_mv2.webp"
+      ],
+      "contenido": [
+        "18 Rosas",
+        "Relleno con Astromelias, Pompones, solidago y follaje.",
+        "1 Caja de Chocolates Ferrero Rocher x 8 Unidades",
+        "1 Base de Madera"
+      ],
+      "tags": [],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_c41b1762-1c5b-be2c-652c-8c6aaeaa161e",
+      "nombre": "Ramo Guadalupe",
+      "slug": "dia-de-la-mujer-ramo-guadalupe",
+      "precio": 129476,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Arreglo floral (Rosas, Claveles y 1 Girasol)\n1 Figura de virgen en yeso\n1 Balde metálico decorado\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2024-05-02at5.29.40PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2024-05-02at5.29.40PM.webp"
+      ],
+      "contenido": [
+        "1 Arreglo floral (Rosas, Claveles y 1 Girasol)",
+        "1 Figura de virgen en yeso",
+        "1 Balde metálico decorado"
+      ],
+      "tags": [
+        "mama",
+        "para-ella",
+        "para-mama",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_614bf5a8-83e4-e8cc-e9fa-5aeb6efd568b",
+      "nombre": "Caja de veinticuatro rosas (R003)",
+      "slug": "ramo-flores-caja-veinticuatro-rosas",
+      "precio": 142016,
+      "precioAnterior": 173366,
+      "descripcion": "Contiene:\n24 Rosas\n1 Caja de chocolates x 8 Unidades\n1 Tarjeta\n1 Caja de cartón decorada\n** Recuerde hacer su pedido con dos días de anticipación, el color de las rosas está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2024-04-02at5.10.22PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2024-04-02at5.10.22PM.webp"
+      ],
+      "contenido": [
+        "24 Rosas",
+        "1 Caja de chocolates x 8 Unidades",
+        "1 Tarjeta",
+        "1 Caja de cartón decorada"
+      ],
+      "tags": [
+        "flores-frutas",
+        "mama",
+        "para-mama",
+        "promo",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4dfdeea0-0e50-c4d6-bcf1-c870e3033505",
+      "nombre": "Roses Sweet Box",
+      "slug": "amor-amistad-roses-sweet-box",
+      "precio": 195311,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n16 Rosas\n12 Fresas con chocolate\n1 Girasol\n1 Caja decorada\n1 tarjeta personalizada\nEl color de las rosas esta sujeto a la disponibilidad de la tienda.",
+      "imagen": "/images/shop/Disenosintitulo-2023-09-18T120504.173.webp",
+      "galeria": [
+        "/images/shop/Disenosintitulo-2023-09-18T120504.173.webp"
+      ],
+      "contenido": [
+        "16 Rosas",
+        "12 Fresas con chocolate",
+        "1 Girasol",
+        "1 Caja decorada",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "flores-frutas",
+        "fresas-con-chocolate",
+        "mama",
+        "mismo-dia",
+        "para-mama",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_94fbe0ba-d08d-c477-1cb0-6ae24b6dc07f",
+      "nombre": "Ramo de Flores Freedom",
+      "slug": "balloon-surprise-ramo-flores-freedom",
+      "precio": 260101,
+      "precioAnterior": 365646,
+      "descripcion": "Contiene:\n1 Globo burbuja 24 \" con mensaje personalizado\nArreglo floral 48 rosas aprox\n1 Balde #2 en madera\n1 Tarjeta Personalizada\nEl color de las rosas esta sujeto a la disponibilidad de la tienda",
+      "imagen": "/images/shop/fff53a_aba1e997fac84b79b0209a62a314deca_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_aba1e997fac84b79b0209a62a314deca_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo burbuja 24 \" con mensaje personalizado",
+        "Arreglo floral 48 rosas aprox",
+        "1 Balde #2 en madera",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "cumpleanos",
+        "globo burbuja",
+        "globos",
+        "para-ella",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4fcc267d-9d2c-de21-f55d-e66340dc9da3",
+      "nombre": "Aurora de Girasoles y Rosas",
+      "slug": "dia-de-la-mujer-aurora-girasoles-rosas",
+      "precio": 221436,
+      "precioAnterior": 252786,
+      "descripcion": "Contenido:\n8 Girasoles\n16 Rosas\n12 Fresas con chocolate\n1 Balde de madera\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/864672f5-Bouquetderosasygirasoles.webp",
+      "galeria": [
+        "/images/shop/864672f5-Bouquetderosasygirasoles.webp"
+      ],
+      "contenido": [
+        "8 Girasoles",
+        "16 Rosas",
+        "12 Fresas con chocolate",
+        "1 Balde de madera"
+      ],
+      "tags": [
+        "flores-frutas",
+        "fresas-con-chocolate",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "promociones",
+        "quinceanera",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_f45bb335-e9a1-ba07-bd7e-43f5970c33dd",
+      "nombre": "Perfect Colors Roses",
+      "slug": "dia-de-la-madre-productos-top-perfect-colors-roses",
+      "precio": 352061,
+      "precioAnterior": 383411,
+      "descripcion": "Contiene:\nArreglo floral en rosas variadas 90 rosas aprox\n18 Fresas con chocolate\n12 fresas\n1 guacal negro de madera\n1 tarjeta personalizada\nLa decoración y color de bombas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/674055_26be0fdf30e7443694db152ae03042d7_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_26be0fdf30e7443694db152ae03042d7_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo floral en rosas variadas 90 rosas aprox",
+        "18 Fresas con chocolate",
+        "12 fresas",
+        "1 guacal negro de madera",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "dia-madre-top",
+        "flores-frutas",
+        "fresas-con-chocolate",
+        "mama",
+        "mejorate",
+        "para-ella",
+        "para-mama",
+        "promo",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_297b13e7-947b-6159-f5d9-e8a56f2b59b8",
+      "nombre": "Rosa Preservada Luces",
+      "slug": "regalo-cumpleanos-rosa-preservada-luces",
+      "precio": 273686,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Rosa preservada\n1 Set de Luces\n1 Base de madera\n1 Cúpula de vidrio\n1 cinta y moño decorativo\n1 Tarjeta con cuidados de la rosa\n1 Tarjeta con mensaje personalizado\nPétalos preservados\nLa decoración y los colores de la rosa están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/dfb815_7be2786928c04944a0f4de38a0e19a0a_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_7be2786928c04944a0f4de38a0e19a0a_mv2.webp"
+      ],
+      "contenido": [
+        "1 Rosa preservada",
+        "1 Set de Luces",
+        "1 Base de madera",
+        "1 Cúpula de vidrio",
+        "1 cinta y moño decorativo",
+        "1 Tarjeta con cuidados de la rosa",
+        "1 Tarjeta con mensaje personalizado",
+        "Pétalos preservados"
+      ],
+      "tags": [
+        "cumpleanos",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "perdoname",
+        "promociones",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4c1f8845-250f-bfaa-d16b-416f1ffce0f5",
+      "nombre": "Amor Lila",
+      "slug": "regalo-cumpleanos-amor-lila",
+      "precio": 181726,
+      "precioAnterior": 215166,
+      "descripcion": "Contiene:\n1 Arreglo Astromelias y rosas y follaje\n1 Base redonda\n3 Ferreros\n1 Tarjeta Personalizada\n**\nEl color de las flores esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_993ac212412a4ae29ab8109ae4f4acd1_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_993ac212412a4ae29ab8109ae4f4acd1_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo Astromelias y rosas y follaje",
+        "1 Base redonda",
+        "3 Ferreros",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "cumpleanos",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "promo",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_2fb36d1b-b253-c3c8-6694-cf22b845b9ee",
+      "nombre": "Resplandor Divino (A111)",
+      "slug": "ramos-de-flores-cumpleanos-resplandor-divino",
+      "precio": 325936,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo floral de 28 rosas en forma de media luna\n1 Caja de Chocolates Moment\n1 Caja de Chocolates Ferrero x8\n1 Caja de galletas Danish\n1 Botella de Crema de Wiskey Bailey´s\n1 Granadilla\n1 Manzana verde\n1 Manzana roja\n1 Kiwi\n1 Naranja\n3 Bombas R12 cromadas con helio\n3 Bombas R12 con helio\n1 Globo Redondo Metalizado Dorado con mensaje prediseñado\n1 Tarjeta Personalizada\n1 Guacal de madera decorado\nEl diseño del mensaje prediseñado, el color de los globos y las rosas está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.34_AM.webp",
+      "galeria": [
+        "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.34_AM.webp",
+        "/images/shop/dfb815_1b1245e4110e41fa91bffbb19e4b743e_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo floral de 28 rosas en forma de media luna",
+        "1 Caja de Chocolates Moment",
+        "1 Caja de Chocolates Ferrero x8",
+        "1 Caja de galletas Danish",
+        "1 Botella de Crema de Wiskey Bailey´s",
+        "1 Granadilla",
+        "1 Manzana verde",
+        "1 Manzana roja",
+        "1 Kiwi",
+        "1 Naranja",
+        "3 Bombas R12 cromadas con helio",
+        "3 Bombas R12 con helio",
+        "1 Globo Redondo Metalizado Dorado con mensaje prediseñado",
+        "1 Tarjeta Personalizada",
+        "1 Guacal de madera decorado"
+      ],
+      "tags": [],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_d5cf3bbb-9de8-9735-e846-6c2b64fefa20",
+      "nombre": "Sweet Gift",
+      "slug": "amor-amistad-sweet-gift",
+      "precio": 147241,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n12 fresas con chocolate\n6 rosas naturales\n1 balde en madera\n1 moño decorativo\n1 tarjeta personalizada",
+      "imagen": "/images/shop/fff53a_38e2112c711b40c1bf4798805a49fe20_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_38e2112c711b40c1bf4798805a49fe20_mv2.webp"
+      ],
+      "contenido": [
+        "12 fresas con chocolate",
+        "6 rosas naturales",
+        "1 balde en madera",
+        "1 moño decorativo",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "fresas-con-chocolate",
+        "mama",
+        "para-el",
+        "para-ella",
+        "para-mama",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_ba40dea3-8556-7565-1fee-4966de83cc78",
+      "nombre": "Canasta Corazón (R050-1)",
+      "slug": "regalo-mama-canasta-corazon",
+      "precio": 207851,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Peluche mediano\n12 Rosas en arreglo floral\n1 Piña o 2 Mandarinas\n1 Racimo de uvas de 125 gr\n1 Porción de fresas de125 gr\n1 Manzana\n1 Pera\n2 Chocolates Bonkies\n1 Tarjeta\n1 Globo Metalizado 20\"\n1 Canasta decorada\n*El diseño del peluche, el globo, la tarjeta y canasta pueden variar según disponibilidad*\nTodos los pedidos con flores necesitan una reserva minima de dos (2) días hábiles.",
+      "imagen": "/images/shop/dfb815_e6ae1b709eec4ea59d68ba6e19320a60_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_e6ae1b709eec4ea59d68ba6e19320a60_mv2.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "mama",
+        "para-mama",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_f2ec3f99-da52-4a74-2f59-716b32fe5d85",
+      "nombre": "Stylish lilies",
+      "slug": "regalo-cumpleanos-stylish-lilies",
+      "precio": 233976,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n10 Rosas con follaje tropical\n4 Lirios\nCesta\nBananos\nUvas\nNaranja\nPera\nFresas\nManzana\n1 Ferrero de 8 unidades\nTarjeta Personalizada\nMoño\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_276069839ee84c0591122125b5c9db2d_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_276069839ee84c0591122125b5c9db2d_mv2.webp"
+      ],
+      "contenido": [
+        "10 Rosas con follaje tropical",
+        "4 Lirios",
+        "Cesta",
+        "Bananos",
+        "Uvas",
+        "Naranja",
+        "Pera",
+        "Fresas",
+        "Manzana",
+        "1 Ferrero de 8 unidades",
+        "Tarjeta Personalizada",
+        "Moño"
+      ],
+      "tags": [
+        "cumpleanos",
+        "mama",
+        "para-mama",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_b3e8491d-a4f8-519e-66a3-5501bdc68c15",
+      "nombre": "Girasoles con Rosas",
+      "slug": "regalo-cumpleanos-girasoles-con-rosas",
+      "precio": 207851,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n3 Girasoles\n16 Rosas\n12 Fresas con chocolate\n1 Moño\n1 Balde de madera\n1 Tarjeta personalizada\nEl color de las rosas esta sujeto a diposnibilidad de la tienda",
+      "imagen": "/images/shop/674055_71495e7f412b4da2b4696f77cd1e1798_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_71495e7f412b4da2b4696f77cd1e1798_mv2.webp"
+      ],
+      "contenido": [
+        "3 Girasoles",
+        "16 Rosas",
+        "12 Fresas con chocolate",
+        "1 Moño",
+        "1 Balde de madera",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "cumpleanos",
+        "fresas-con-chocolate",
+        "mama",
+        "mejorate",
+        "para-ella",
+        "para-mama",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_e045a1da-3b3f-7d68-86f8-6441ce99a5bd",
+      "nombre": "La vie est rose",
+      "slug": "regalo-amor-vie-est-rose",
+      "precio": 195311,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Base en forma de corazón\n1 Arreglo de 30 rosas aprox\n1 Set de luces\n2 Alas doradas en porcelana\n1 Tarjeta personalizada.\nEl color de las luces, rosas y alas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_72241772c61a4621b1b22bfc6112951c_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_72241772c61a4621b1b22bfc6112951c_mv2.webp"
+      ],
+      "contenido": [
+        "1 Base en forma de corazón",
+        "1 Arreglo de 30 rosas aprox",
+        "1 Set de luces",
+        "2 Alas doradas en porcelana",
+        "1 Tarjeta personalizada."
+      ],
+      "tags": [
+        "amor",
+        "para-ella",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_658850f3-ad73-cdce-5e0b-875509f80360",
+      "nombre": "Love In Rose",
+      "slug": "regalo-mama-love-rose",
+      "precio": 521351,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Base de cartón duro\n1 Arreglo en rosas\n1 Arreglo de globos\n1 Botella de Champaña Chennet 750 ml\n2 Cajas de chocolates Ferrero X 8 unidades\n2 Copas de vidrio\n1 Tarjeta personalizada\n** Base disponible temporalmente solo en color natural\nLa decoración, el color de rosas y bombas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/WhatsAppImage2024-05-01at11.45.15PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2024-05-01at11.45.15PM.webp"
+      ],
+      "contenido": [
+        "1 Base de cartón duro",
+        "1 Arreglo en rosas",
+        "1 Arreglo de globos",
+        "1 Botella de Champaña Chennet 750 ml",
+        "2 Cajas de chocolates Ferrero X 8 unidades",
+        "2 Copas de vidrio",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "cumpleanos",
+        "flores-frutas",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "promociones",
+        "quinceanera",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_39a1fef8-d13c-3f63-35f0-dab0118a4a2b",
+      "nombre": "Ramo Luna Llena (A145)",
+      "slug": "ramos-de-flores-cumpleanos-ramo-luna-llena",
+      "precio": 524486,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo de 72 rosas\n1 Champaña J.P Chenet 700ml\n10\nChcocolatina hersheys Cookies and cream\n1 Caja de chocolates Ferrero* 8\n1 Globo 18 Metalizado incluye mensaje prediseñado\n8 Globos cromados R12\n1 moño\n1 Guacal de madera\n1 Tarjeta Personalizado\nEl color de las rosas, el color de los globos y los mensajes prediseñados estan sujeto a disponibilidad de la tienda o acuerdo previo con el cliente",
+      "imagen": "/images/shop/dfb815_2e5e6837571b4a34933b0ca323c4c864_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_2e5e6837571b4a34933b0ca323c4c864_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de 72 rosas",
+        "1 Champaña J.P Chenet 700ml",
+        "10 Chcocolatina hersheys Cookies and cream",
+        "1 Caja de chocolates Ferrero* 8",
+        "1 Globo 18 Metalizado incluye mensaje prediseñado",
+        "8 Globos cromados R12",
+        "1 moño",
+        "1 Guacal de madera",
+        "1 Tarjeta Personalizado"
+      ],
+      "tags": [],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_b0aa384b-3631-a5bc-31cd-4ac20fb7d78b",
+      "nombre": "Arreglo Majestic",
+      "slug": "dia-de-la-madre-productos-top-arreglo-majestic",
+      "precio": 456561,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo floral 80 rosas aprox .\n16 chocolates Ferrero Rocher.\n1 botella de vino Gato Negro 750 ML.\n1 tarjeta personalizada.\n1 base de cartón duro.\n** Base disponible temporalmente solo en color natural\nEl diseño y color de rosas están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.34_AM_1.webp",
+      "galeria": [
+        "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.34_AM_1.webp",
+        "/images/shop/fff53a_53e7b8804446443b9afa9772423216b7_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo floral 80 rosas aprox .",
+        "16 chocolates Ferrero Rocher.",
+        "1 botella de vino Gato Negro 750 ML.",
+        "1 tarjeta personalizada.",
+        "1 base de cartón duro."
+      ],
+      "tags": [
+        "amor",
+        "dia-madre-top",
+        "flores-frutas",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_e53681b8-24bf-7c8c-51dc-34ae2ffeab86",
+      "nombre": "Rosas Mistica",
+      "slug": "regalo-cumpleanos-rosas-mistica",
+      "precio": 273686,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Virgen en Yeso\n1 Arreglo de 60 rosas aprox\n1 Caja en forma de corazón\n6 Mariposas decorativas\n1 Tarjeta personalizada\nEl diseño, color de rosas y la vigen están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_2c06eea239364af99154148b7abd97d8_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_2c06eea239364af99154148b7abd97d8_mv2.webp"
+      ],
+      "contenido": [
+        "1 Virgen en Yeso",
+        "1 Arreglo de 60 rosas aprox",
+        "1 Caja en forma de corazón",
+        "6 Mariposas decorativas",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "cumpleanos",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_3e1aa9c2-2332-ee05-fc54-532d69b93176",
+      "nombre": "Rosas Coral (A122)",
+      "slug": "ramos-de-flores-cumpleanos-rosas-coral",
+      "precio": 404311,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo de 50 rosas en forma de espiral\n8 Chocolatinas Hershey´s\n1 Botella de vino 700mil\n1 Caja de Chocolates Raffaello\n4 Globos Cromados R12\n1 Globo metalizado 18 pulgadas incluye mensaje prediseñado\n1 guacal de madera decorado\nEl diseño del mensaje, el color de las bombas y la decoración está sujeta en disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_242f3182b6424a3db69d8d6ec4b4e221_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_242f3182b6424a3db69d8d6ec4b4e221_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de 50 rosas en forma de espiral",
+        "8 Chocolatinas Hershey´s",
+        "1 Botella de vino 700mil",
+        "1 Caja de Chocolates Raffaello",
+        "4 Globos Cromados R12",
+        "1 Globo metalizado 18 pulgadas incluye mensaje prediseñado",
+        "1 guacal de madera decorado"
+      ],
+      "tags": [],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_1e28d3ae-9ad1-c47c-c989-b3458ccd8ba7",
+      "nombre": "Love In Rose Bear",
+      "slug": "dia-de-la-madre-productos-top-love-rose-bear",
+      "precio": 521351,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Base de cartón duro\n1 Arreglo en rosas\n1 Arreglo de globos\n1 Botella de vino gato negro 750 ml\n16 Chocolates rellenos mercy\n1 Peluche\n1 Tarjeta personalizada\n** Base disponible temporalmente solo en color natural\nLa decoración, el color de rosas ,peluche y bombas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_79065bbbf9b448799993a5ae5fb890b6_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_79065bbbf9b448799993a5ae5fb890b6_mv2.webp"
+      ],
+      "contenido": [
+        "1 Base de cartón duro",
+        "1 Arreglo en rosas",
+        "1 Arreglo de globos",
+        "1 Botella de vino gato negro 750 ml",
+        "16 Chocolates rellenos mercy",
+        "1 Peluche",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "dia-madre-top",
+        "flores-frutas",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "perdoname",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_ad548786-53bb-8f22-b271-0fa40d07b574",
+      "nombre": "Corazón Romántico",
+      "slug": "regalo-mama-corazon-romantico",
+      "precio": 796186,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo 120 rosas aprox\n24 chocolates rellenos Merci\n1 botella de vino gato rosa 750 ml\n2 copas de vino\n1 base rectangular en madera\n1 base en forma de corazón en madera\npétalos decorativos\n1 tarjeta personalizada",
+      "imagen": "/images/shop/674055_851b21b1b43b437da170b3e6346ee555_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_851b21b1b43b437da170b3e6346ee555_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo 120 rosas aprox",
+        "24 chocolates rellenos Merci",
+        "1 botella de vino gato rosa 750 ml",
+        "2 copas de vino",
+        "1 base rectangular en madera",
+        "1 base en forma de corazón en madera",
+        "pétalos decorativos",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "flores-frutas",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_a9756507-01ba-81b5-e587-92f5e3ffbe54",
+      "nombre": "Ramo cristal",
+      "slug": "regalo-mama-ramo-cristal",
+      "precio": 429900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nJarrón de vidrio\nOasis de base\nArreglo de rosas en forma de Hongo\n1 Tarjeta Personalizada\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_54566295252f4ae0867926fd68f64d8d_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_54566295252f4ae0867926fd68f64d8d_mv2.webp"
+      ],
+      "contenido": [
+        "Jarrón de vidrio",
+        "Oasis de base",
+        "Arreglo de rosas en forma de Hongo",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "flores-frutas",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "quinceanera",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramos-de-flores-cumpleanos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

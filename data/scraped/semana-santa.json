@@ -1,0 +1,1352 @@
+{
+  "categoria": "semana-santa",
+  "nombre": "Semana Santa",
+  "slug": "semana-santa",
+  "descripcion": "Encuentra el detalle perfecto para vivir una época de reflexión y unión familiar. Nuestra colección de Semana Santa ha sido creada para honrar las tradiciones más profundas con una estética elegante y natural.",
+  "imagen": "/images/shop/WhatsAppImage2024-05-01at11.57.37PM_de931929-7eb4-4df8-bdeb-95e3f6efa327.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "product_dc8e9b3b-d704-c78c-08b0-a721ed743ae5",
+      "nombre": "Canasta Tropical (R052-1)",
+      "slug": "ramo-flores-canasta-tropical",
+      "precio": 110666,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Arreglo con 9 rosas, relleno con flores tropicales y follaje\n1 Racimo de bananos 200gr\n1 Racimo de uvas 150 gr\n1 Manzana Roja\n1 Manzana Verde\n1 Tarjeta\n1 Canasta decorada\nEl color de las flores está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_d4b1375380bd4bc19019e9df349bedeb_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_d4b1375380bd4bc19019e9df349bedeb_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo con 9 rosas, relleno con flores tropicales y follaje",
+        "1 Racimo de bananos 200gr",
+        "1 Racimo de uvas 150 gr",
+        "1 Manzana Roja",
+        "1 Manzana Verde",
+        "1 Tarjeta",
+        "1 Canasta decorada"
+      ],
+      "tags": [
+        "flores-frutas",
+        "mama",
+        "para-mama",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "holy-fruits",
+      "nombre": "Canasta Guadalupe",
+      "slug": "holy-fruits",
+      "precio": 162916,
+      "precioAnterior": 198446,
+      "descripcion": "Contenido:\n1 Arreglo con 9 rosas, relleno con flores tropicales y follaje\n1 Racimo de bananos 200 gr\n1 Racimo de uvas 150 gr\n1 Manzana Roja\n1 Manzana Verde\n1 Figura de la virgen\n1 Tarjeta\n1 Canasta decorada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/sapp-image-2024-04-17-at-3-19-51-pm.webp",
+      "galeria": [
+        "/images/shop/sapp-image-2024-04-17-at-3-19-51-pm.webp"
+      ],
+      "contenido": [
+        "1 Arreglo con 9 rosas, relleno con flores tropicales y follaje",
+        "1 Racimo de bananos 200 gr",
+        "1 Racimo de uvas 150 gr",
+        "1 Manzana Roja",
+        "1 Manzana Verde",
+        "1 Figura de la virgen",
+        "1 Tarjeta",
+        "1 Canasta decorada"
+      ],
+      "tags": [
+        "mama",
+        "para-mama",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "canasta-de-frutas-r053",
+      "nombre": "Canasta de frutas (R053)",
+      "slug": "canasta-de-frutas-r053",
+      "precio": 187996,
+      "precioAnterior": 225616,
+      "descripcion": "Contenido:\n1 Kilo de Uvas\n1 Porción de Fresas\n1 Racimo de Bananos X 6 Unidades\n1 Porción de Kiwi de 200 gr\n1 Piña\n1 Mango\n2 granadillas\n2 Manzanas Rojas\n2 Manzanas Verdes\n2 Peras\n2 Naranjas\n2 Mandarinas\n1 Durazno\n1 Ciruela\n1 Tarjeta\n1 Canasta decorada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_3.webp",
+      "galeria": [
+        "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_3.webp"
+      ],
+      "contenido": [
+        "1 Kilo de Uvas",
+        "1 Porción de Fresas",
+        "1 Racimo de Bananos X 6 Unidades",
+        "1 Porción de Kiwi de 200 gr",
+        "1 Piña",
+        "1 Mango",
+        "2 granadillas",
+        "2 Manzanas Rojas",
+        "2 Manzanas Verdes",
+        "2 Peras",
+        "2 Naranjas",
+        "2 Mandarinas",
+        "1 Durazno",
+        "1 Ciruela",
+        "1 Tarjeta",
+        "1 Canasta decorada"
+      ],
+      "tags": [
+        "desayunos",
+        "desayunos_gpt",
+        "mama",
+        "para-mama",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_6f8c8b1f-1bb1-0b54-3719-7a5fe30f9400",
+      "nombre": "Virgen  Floral",
+      "slug": "regalo-cumpleanos-virgen-floral",
+      "precio": 195311,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo floral (margaritas, pinopios, pompones y follaje)\n1 Cúpula en vidrio y base de madera\n1 set de luces\n1 figura de virgen en yeso\n1 Base circular en cartón con tapa\n1 moño decorativo\n1 tarjeta personalizada",
+      "imagen": "/images/shop/674055_bb4b5e20e93b460684e25716f69f8ef8_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_bb4b5e20e93b460684e25716f69f8ef8_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo floral (margaritas, pinopios, pompones y follaje)",
+        "1 Cúpula en vidrio y base de madera",
+        "1 set de luces",
+        "1 figura de virgen en yeso",
+        "1 Base circular en cartón con tapa",
+        "1 moño decorativo",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "cumpleanos",
+        "flores-frutas",
+        "mama",
+        "mejorate",
+        "para-ella",
+        "para-mama",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "mini-canasta-de-frutas",
+      "nombre": "Mini Canasta de frutas",
+      "slug": "mini-canasta-de-frutas",
+      "precio": 114846,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Piña\n1 Naranja\n2 Manzanas verdes\n2 Manzanas rojas\n1 Pera\n1 Porción de ciruela\n1 Porción de fresa\n2 Kiwis\n1 Granadilla\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_4.webp",
+      "galeria": [
+        "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_4.webp",
+        "/images/shop/jfifjdspjdfsadja-1.webp"
+      ],
+      "contenido": [
+        "1 Piña",
+        "1 Naranja",
+        "2 Manzanas verdes",
+        "2 Manzanas rojas",
+        "1 Pera",
+        "1 Porción de ciruela",
+        "1 Porción de fresa",
+        "2 Kiwis",
+        "1 Granadilla"
+      ],
+      "tags": [
+        "mama",
+        "mas-vendidos",
+        "para-mama",
+        "semana-santa"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_eaa43e5b-96d2-4dd0-0602-4d3965b18975",
+      "nombre": "Cascada De Rosas",
+      "slug": "navidad-cascada-rosas",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Arreglo de 35 rosas\n2 set de luces\n1 Botella de vino 187ml\n1 Copa\n1 Peluche de Ellie up\n1 Naranja\n1 Durazno\n2 Kiwi\n2 Manzanas rojas\n1 Pera\n8 Chocolates ferrero\n1 Base en madera 2 pisos\nEl diseño, color de rosas y peluche están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_8a0786bcf6594f7189a818483c948688_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_8a0786bcf6594f7189a818483c948688_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de 35 rosas",
+        "2 set de luces",
+        "1 Botella de vino 187ml",
+        "1 Copa",
+        "1 Peluche de Ellie up",
+        "1 Naranja",
+        "1 Durazno",
+        "2 Kiwi",
+        "2 Manzanas rojas",
+        "1 Pera",
+        "8 Chocolates ferrero",
+        "1 Base en madera 2 pisos"
+      ],
+      "tags": [
+        "navidad",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_77ece293-9609-7da7-d3bc-d7ce6e6a1de0",
+      "nombre": "Virgen Golden",
+      "slug": "dia-de-la-mujer-virgen-golden",
+      "precio": 273686,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n16 Rosas naturales aproximadamente pintadas con spray Dorado\n1 Cúpula en vidrio y base de madera\n1 figura de virgen en yeso\n1 Base circular\nSet de Luces\n1 Tarjeta personalizanada",
+      "imagen": "/images/shop/app-image-2024-04-09-at-10-55-27-pm.webp",
+      "galeria": [
+        "/images/shop/app-image-2024-04-09-at-10-55-27-pm.webp"
+      ],
+      "contenido": [
+        "16 Rosas naturales aproximadamente pintadas con spray Dorado",
+        "1 Cúpula en vidrio y base de madera",
+        "1 figura de virgen en yeso",
+        "1 Base circular",
+        "Set de Luces",
+        "1 Tarjeta personalizanada"
+      ],
+      "tags": [
+        "mama",
+        "mejorate",
+        "para-ella",
+        "para-mama",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_f2ec3f99-da52-4a74-2f59-716b32fe5d85",
+      "nombre": "Stylish lilies",
+      "slug": "regalo-cumpleanos-stylish-lilies",
+      "precio": 233976,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n10 Rosas con follaje tropical\n4 Lirios\nCesta\nBananos\nUvas\nNaranja\nPera\nFresas\nManzana\n1 Ferrero de 8 unidades\nTarjeta Personalizada\nMoño\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_276069839ee84c0591122125b5c9db2d_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_276069839ee84c0591122125b5c9db2d_mv2.webp"
+      ],
+      "contenido": [
+        "10 Rosas con follaje tropical",
+        "4 Lirios",
+        "Cesta",
+        "Bananos",
+        "Uvas",
+        "Naranja",
+        "Pera",
+        "Fresas",
+        "Manzana",
+        "1 Ferrero de 8 unidades",
+        "Tarjeta Personalizada",
+        "Moño"
+      ],
+      "tags": [
+        "cumpleanos",
+        "mama",
+        "para-mama",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5d11e0bb-214e-3ce5-7649-5ce4afb3dc82",
+      "nombre": "Ancheta Medalla Milagrosa",
+      "slug": "ancheta-cumpleanos-ancheta-medalla-milagrosa",
+      "precio": 247561,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Virgen en yeso pintada 30 cm aprox\nArreglo de rosas y follaje\n1 Pajarito decorativo\n1 Caja de galletas Danish\n1 Chocolatina Dolcevita\n1 Caja de chocolates Moments\n2 Manzanas rojas\n1 Manzana verde\n1 Pera\n2 Duraznos\n2 Kiwis\n1 Base en madera 2 niveles\n1 Set de luces\n1 Tarjeta personalizada\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2024-05-01at11.41.19PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2024-05-01at11.41.19PM.webp"
+      ],
+      "contenido": [
+        "1 Virgen en yeso pintada 30 cm aprox",
+        "Arreglo de rosas y follaje",
+        "1 Pajarito decorativo",
+        "1 Caja de galletas Danish",
+        "1 Chocolatina Dolcevita",
+        "1 Caja de chocolates Moments",
+        "2 Manzanas rojas",
+        "1 Manzana verde",
+        "1 Pera",
+        "2 Duraznos",
+        "2 Kiwis",
+        "1 Base en madera 2 niveles",
+        "1 Set de luces",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "mama",
+        "para-ella",
+        "para-mama",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "camino-de-gloria",
+      "nombre": "Camino de Gloria",
+      "slug": "camino-de-gloria",
+      "precio": 199900,
+      "precioAnterior": 249900,
+      "descripcion": "Contenido:\n5 Girasoles\nArreglo de Rosas y Lirios\nCanasta o Base Cilindrica\nPorcion de uvas (verdes o moradas)\n4 Manzanas rojas\n4 Manzanas verdes\n3 Kiwi\n1 Durazno\n1 Naranja\nImagen impresa religiosa\nTarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp"
+      ],
+      "contenido": [
+        "5 Girasoles",
+        "Arreglo de Rosas y Lirios",
+        "Canasta o Base Cilindrica",
+        "Porcion de uvas (verdes o moradas)",
+        "4 Manzanas rojas",
+        "4 Manzanas verdes",
+        "3 Kiwi",
+        "1 Durazno",
+        "1 Naranja",
+        "Imagen impresa religiosa",
+        "Tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "Aniversario",
+        "catalogo",
+        "cumpleanos",
+        "Dama",
+        "Dia de la mujer",
+        "dia-madre-top",
+        "entrega-hoy",
+        "flores-frutas",
+        "mas-vendidos",
+        "mejorate",
+        "mismo-dia",
+        "para-ella",
+        "para-mama",
+        "perdoname",
+        "promo",
+        "promociones",
+        "rosas",
+        "San Valentín",
+        "semana-santa",
+        "ultimo antojo"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "canasta-gold",
+      "nombre": "Canasta Gold",
+      "slug": "dia-de-la-madre-productos-top-canasta-gold",
+      "precio": 329900,
+      "precioAnterior": 438796,
+      "descripcion": "Contenido:\nArreglo de 48 rosas\n1 Porción de bananos\n1 Porción de uvas moradas\n1 Porción de uvas verdes\n2 Manzanas rojas\n2 Mandarinas\n1 Naranja\n1 Mango\n1 Porción de ciruela\n1 Porción de fresa\n1 Pera\n2 Kiwis\n1 Manzana verde\n** Producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/img-20240418-wa0026.webp",
+      "galeria": [
+        "/images/shop/img-20240418-wa0026.webp"
+      ],
+      "contenido": [
+        "Arreglo de 48 rosas",
+        "1 Porción de bananos",
+        "1 Porción de uvas moradas",
+        "1 Porción de uvas verdes",
+        "2 Manzanas rojas",
+        "2 Mandarinas",
+        "1 Naranja",
+        "1 Mango",
+        "1 Porción de ciruela",
+        "1 Porción de fresa",
+        "1 Pera",
+        "2 Kiwis",
+        "1 Manzana verde"
+      ],
+      "tags": [
+        "dia-madre-top",
+        "mama",
+        "mas-vendidos",
+        "para-mama",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_a4dcc43d-2844-f353-55f9-d76f799cb4e9",
+      "nombre": "Esplendor Frutal (R051-2)",
+      "slug": "semana-santa-esplendor-frutal",
+      "precio": 194266,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo floral con 4 Rosas\n1 Racimo de 6 bananos\n1 Porción de kiwis de 200g\n3 Manzanas verdes\n3 Manzanas Rojas\n6 Ciruelas\n6 Duraznos\n6 Naranjas\n2 Mangos\n1 Balde de madera\n1 Moño\n1 Tarjeta con mensaje personalizado\nSi alguna fruta no está disponible en el momento, será reemplazada por otra. El color de las rosas, diseño del balde, la decoración y globos están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/dfb815_d4bec55803014803802242dfa3d9131d_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_d4bec55803014803802242dfa3d9131d_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo floral con 4 Rosas",
+        "1 Racimo de 6 bananos",
+        "1 Porción de kiwis de 200g",
+        "3 Manzanas verdes",
+        "3 Manzanas Rojas",
+        "6 Ciruelas",
+        "6 Duraznos",
+        "6 Naranjas",
+        "2 Mangos",
+        "1 Balde de madera",
+        "1 Moño",
+        "1 Tarjeta con mensaje personalizado"
+      ],
+      "tags": [
+        "para-mama",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "virgen-luminosa",
+      "nombre": "Virgen Luminosa",
+      "slug": "virgen-luminosa",
+      "precio": 325936,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Cúpula en vidrio\n1 Figura de la virgen\n(sujeto a disponibilidad de la tienda)\nFlores preservadas\n1 Set de luces\n1 Moño en tela\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2023-11-28at12.16.03PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-11-28at12.16.03PM.webp"
+      ],
+      "contenido": [
+        "1 Cúpula en vidrio",
+        "1 Figura de la virgen (sujeto a disponibilidad de la tienda)",
+        "Flores preservadas",
+        "1 Set de luces",
+        "1 Moño en tela"
+      ],
+      "tags": [],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5225bda1-6526-2a4c-a61e-7e184b0f3909",
+      "nombre": "Virgen Celestial",
+      "slug": "dia-de-la-mujer-virgen-celestial",
+      "precio": 273686,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nArreglo 16 Rosas naturales aproximadamente y follaje\n1 Cúpula en vidrio\n1 Base de madera\n1 Set de luces\n1 Figura de Virgen pintada en yeso\n1 Base en cartón liso circular\n1 Moño decorativo\n1 Tarjeta personalizada\nEl color de las rosas y de la virgen están sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/fff53a_b786e74de51c4185a7763b6f255678ff_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_b786e74de51c4185a7763b6f255678ff_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo 16 Rosas naturales aproximadamente y follaje",
+        "1 Cúpula en vidrio",
+        "1 Base de madera",
+        "1 Set de luces",
+        "1 Figura de Virgen pintada en yeso",
+        "1 Base en cartón liso circular",
+        "1 Moño decorativo",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "mama",
+        "mejorate",
+        "para-ella",
+        "para-mama",
+        "rosas",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "christmas-fruits",
+      "nombre": "Christmas Fruits",
+      "slug": "christmas-fruits",
+      "precio": 247900,
+      "precioAnterior": null,
+      "descripcion": "Contenido\n:\nFigura en yeso de Bendición de los Alimentos\n500 gramos de Uvas\n1 Manzana roja\n1 Manzana verde\n1 Naranja\n1 Granadilla\n1 Mandarina\n1 Pera\n200gr Uchuvas\n200gr Arandanos\n200gr Ciruela\n200 gr Fresas\n1 Set de luces\nBase circular\nTarjeta personalizada\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2025-11-27at6.26.47PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2025-11-27at6.26.47PM.webp"
+      ],
+      "contenido": [
+        "Figura en yeso de Bendición de los Alimentos",
+        "500 gramos de Uvas",
+        "1 Manzana roja",
+        "1 Manzana verde",
+        "1 Naranja",
+        "1 Granadilla",
+        "1 Mandarina",
+        "1 Pera",
+        "200gr Uchuvas",
+        "200gr Arandanos",
+        "200gr Ciruela",
+        "200 gr Fresas",
+        "1 Set de luces",
+        "Base circular",
+        "Tarjeta personalizada"
+      ],
+      "tags": [
+        "navidad",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "virgen-dorada",
+      "nombre": "Virgen Dorada",
+      "slug": "virgen-dorada",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Cúpula en vidrio\n1 Base de madera\n1 Set de luces\n1 Figura de virgen en yeso acompañada de pétalos preservados\n1 Tarjeta personalizada\n1 Moño decorativo\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp",
+      "galeria": [
+        "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp"
+      ],
+      "contenido": [
+        "1 Cúpula en vidrio",
+        "1 Base de madera",
+        "1 Set de luces",
+        "1 Figura de virgen en yeso acompañada de pétalos preservados",
+        "1 Tarjeta personalizada",
+        "1 Moño decorativo"
+      ],
+      "tags": [
+        "mama",
+        "matrimonios-bautizos",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_d7cc37e4-69bf-cc9a-83d4-64d1b7cfbab3",
+      "nombre": "Virgen con velón",
+      "slug": "dia-de-la-mujer-virgen-con-velon",
+      "precio": 215166,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 cúpula en vidrio\n1 virgen en yeso\n1 set de luces\n1 moño en tela\n1 velon con mensaje",
+      "imagen": "/images/shop/674055_b26fc050db074ee19b122b85b6a125cc_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_b26fc050db074ee19b122b85b6a125cc_mv2.webp"
+      ],
+      "contenido": [
+        "1 cúpula en vidrio",
+        "1 virgen en yeso",
+        "1 set de luces",
+        "1 moño en tela",
+        "1 velon con mensaje"
+      ],
+      "tags": [
+        "para-ella",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "semana-santa",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

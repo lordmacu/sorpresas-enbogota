@@ -1,0 +1,49 @@
+{
+  "testimonios": [
+    {
+      "id": "test-1",
+      "nombre": "María Camila Rodríguez",
+      "ciudad": "Bogotá",
+      "texto": "Mi mamá lloró de felicidad cuando recibió el ramo. Las flores estaban increíbles y el empaque era precioso.",
+      "producto": "Ramo de 12 Rosas Rojas",
+      "rating": 5,
+      "fecha": "2026-02-14"
+    },
+    {
+      "id": "test-2",
+      "nombre": "Juan Sebastián Morales",
+      "ciudad": "Bogotá",
+      "texto": "Pedí la caja de vino y quesos para el cumpleaños de mi esposa. Llegó puntuales y todo estaba perfecto.",
+      "producto": "Caja Vino y Quesos",
+      "rating": 5,
+      "fecha": "2026-03-20"
+    },
+    {
+      "id": "test-3",
+      "nombre": "Laura Valentina Torres",
+      "ciudad": "Cali",
+      "texto": "El combo novia fue un éxito. Mi pareja amó cada detalle. Definitivamente volveré a comprar.",
+      "producto": "Combo Novia Romántica",
+      "rating": 5,
+      "fecha": "2026-04-10"
+    },
+    {
+      "id": "test-4",
+      "nombre": "Andrés Felipe Gómez",
+      "ciudad": "Bogotá",
+      "texto": "La entrega fue súper rápida y el arreglo de oficina quedó genial. Mis compañeros de trabajo preguntaron dónde lo pedí.",
+      "producto": "Arreglo Ejecutivo para Oficina",
+      "rating": 4,
+      "fecha": "2026-05-01"
+    },
+    {
+      "id": "test-5",
+      "nombre": "Carolina Méndez",
+      "ciudad": "Bogotá",
+      "texto": "Llevé el desayuno sorpresa a mi oficina y todo estaba fresco y delicioso. El servicio de WhatsApp es genial.",
+      "producto": "Canasta Desayuno Premium",
+      "rating": 5,
+      "fecha": "2026-05-15"
+    }
+  ]
+}

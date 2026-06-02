@@ -1,0 +1,83 @@
+{
+  "categoria": "cali-valle-del-cauca",
+  "nombre": "Cali, Valle del Cauca",
+  "slug": "cali-valle-del-cauca",
+  "descripcion": "Envía desayunos, regalos y ramos de flores a domicilio en Bogotá, Colombia con Momentos. Sorprende en cumpleaños, matrimonios, el Día de las Madres y mucho más con nuestra amplia selección de productos. ¡Haz felices a tus seres queridos hoy mismo!",
+  "imagen": "/images/shop/410286583037029-968453002516351540-n.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "beauty-flowers",
+      "nombre": "Beauty Flowers",
+      "slug": "cali-valle-del-cauca-beauty-flowers",
+      "precio": 250696,
+      "precioAnterior": 438796,
+      "descripcion": "Contenido:\n1 Ramo de rosas y follaje\n1 Caja de Ferreros\n1 Globo con pintura interna y mensaje\n1 Chenet de 200 ml\n1 Tarjeta\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/410286583037029-968453002516351540-n.webp",
+      "galeria": [
+        "/images/shop/410286583037029-968453002516351540-n.webp"
+      ],
+      "contenido": [
+        "1 Ramo de rosas y follaje",
+        "1 Caja de Ferreros",
+        "1 Globo con pintura interna y mensaje",
+        "1 Chenet de 200 ml",
+        "1 Tarjeta"
+      ],
+      "tags": [
+        "cumpleanos",
+        "mas-vendidos",
+        "para-ella",
+        "rosas"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cali-valle-del-cauca",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

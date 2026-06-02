@@ -1,0 +1,328 @@
+{
+  "categoria": "matrimonios-bautizos",
+  "nombre": "Matrimonios y Bautizos",
+  "slug": "matrimonios-bautizos",
+  "descripcion": "Encuentra un regalo perfecto para esas fechas tan especiales. Matrimonios, Bautizos y Primera Comunión.",
+  "imagen": "/images/shop/Matrimonios_y_Bautizos_-_Sorpresas_a_tiempo.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "combo-desayuno-1",
+      "nombre": "Combo Desayuno",
+      "slug": "regalo-amor-combo-desayuno",
+      "precio": 179900,
+      "precioAnterior": 209900,
+      "descripcion": "Contenido:\n2 Sandwich de jamon, queso y lechuga\n4 Mini tomates\n1 Porcion de papas con salsa rosada\n1 Jugo natural\n1 Porcion de fresas naturales con masmellos y uchuvas\n1 Porcion de galletas\n1 Porcion de torta\n1 Caja de 30x30cm\nTarjeta Personalizada\n- Bouquet de flores tropicales\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
+      "imagen": "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp"
+      ],
+      "contenido": [
+        "2 Sandwich de jamon, queso y lechuga",
+        "4 Mini tomates",
+        "1 Porcion de papas con salsa rosada",
+        "1 Jugo natural",
+        "1 Porcion de fresas naturales con masmellos y uchuvas",
+        "1 Porcion de galletas",
+        "1 Porcion de torta",
+        "1 Caja de 30x30cm",
+        "Tarjeta Personalizada - Bouquet de flores tropicales"
+      ],
+      "tags": [
+        "amor",
+        "brunch",
+        "catalogo",
+        "cumpleanos",
+        "Dama",
+        "desayunos",
+        "desayunos-mas-vendidos",
+        "desayunos-sorpresas",
+        "desayunos_gpt",
+        "dia-madre-top",
+        "entrega-hoy",
+        "mama",
+        "mas-vendidos",
+        "matrimonios-bautizos",
+        "mismo-dia",
+        "para-ella",
+        "para-mama",
+        "quinceanera",
+        "rosas",
+        "San valentin"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "matrimonios-bautizos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "virgen-dorada",
+      "nombre": "Virgen Dorada",
+      "slug": "virgen-dorada",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Cúpula en vidrio\n1 Base de madera\n1 Set de luces\n1 Figura de virgen en yeso acompañada de pétalos preservados\n1 Tarjeta personalizada\n1 Moño decorativo\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp",
+      "galeria": [
+        "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp"
+      ],
+      "contenido": [
+        "1 Cúpula en vidrio",
+        "1 Base de madera",
+        "1 Set de luces",
+        "1 Figura de virgen en yeso acompañada de pétalos preservados",
+        "1 Tarjeta personalizada",
+        "1 Moño decorativo"
+      ],
+      "tags": [
+        "mama",
+        "matrimonios-bautizos",
+        "semana-santa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "matrimonios-bautizos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "virgen-dorado",
+      "nombre": "Virgen Mítica",
+      "slug": "virgen-dorado",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Cúpula en vidrio\n1 Base de madera\n1 Set de luces\n1 Figura de virgen en yeso acompañada de pétalos preservados\n1 Tarjeta personalizada\n1 Moño decorativo\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/sapp-image-2024-03-14-at-8-59-06-am_1.webp",
+      "galeria": [
+        "/images/shop/sapp-image-2024-03-14-at-8-59-06-am_1.webp"
+      ],
+      "contenido": [
+        "1 Cúpula en vidrio",
+        "1 Base de madera",
+        "1 Set de luces",
+        "1 Figura de virgen en yeso acompañada de pétalos preservados",
+        "1 Tarjeta personalizada",
+        "1 Moño decorativo"
+      ],
+      "tags": [
+        "matrimonios-bautizos",
+        "para-mama"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "matrimonios-bautizos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_d7a3183c-d1f3-6281-c3cc-679f8d1b4131",
+      "nombre": "Balloon Pink",
+      "slug": "balloon-surprise-balloon-pink",
+      "precio": 273686,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n30 Rosas en arreglo floral\n1 Botella de vino de 750ml\n4 Chocolates redondos rellenos\n2 Barras de chocolate Snickers\n2 Chocolatina Hershey's\n1 Globo burbuja de 18\" con mensaje prediseñado\n1 Tarjeta Personalizada\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_abb13c6ef2974081a6faa180a2e04e0b_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_abb13c6ef2974081a6faa180a2e04e0b_mv2.webp"
+      ],
+      "contenido": [
+        "30 Rosas en arreglo floral",
+        "1 Botella de vino de 750ml",
+        "4 Chocolates redondos rellenos",
+        "2 Barras de chocolate Snickers",
+        "2 Chocolatina Hershey's",
+        "1 Globo burbuja de 18\" con mensaje prediseñado",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "cumpleanos",
+        "flores-frutas",
+        "globo burbuja",
+        "globos",
+        "mama",
+        "matrimonios-bautizos",
+        "para-ella",
+        "para-mama",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "matrimonios-bautizos",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

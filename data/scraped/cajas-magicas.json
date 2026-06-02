@@ -1,0 +1,2006 @@
+{
+  "categoria": "cajas-magicas",
+  "nombre": "Cajas Mágicas",
+  "slug": "cajas-magicas",
+  "descripcion": "Abre la caja, empieza la magia. Un regalo único, diseñado especialmente para quien más quieres. Entregas el mismo día.",
+  "imagen": "/images/shop/Cajas_Magicas_-_Sorpresas_a_tiempo.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "box-magica-chimuelo",
+      "nombre": "Box Magica Chimuelo",
+      "slug": "regalo-amor-box-magica-chimuelo",
+      "precio": 189900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nPeluche mediano\n2 mug\n80gr de Kisses\n1 nutella pequeña\n2 set de luces\nCaja magica decorada 30 cm x 30 cm\nTarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/postinstgrambyangela.webp",
+      "galeria": [
+        "/images/shop/postinstgrambyangela.webp"
+      ],
+      "contenido": [
+        "Peluche mediano",
+        "2 mug",
+        "80gr de Kisses",
+        "1 nutella pequeña",
+        "2 set de luces",
+        "Caja magica decorada 30 cm x 30 cm",
+        "Tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "amor",
+        "Aniversario",
+        "cajas-magicas",
+        "cumpleanos",
+        "mejorate",
+        "niños",
+        "para-ella"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "caja-magica-surprise-brunch",
+      "nombre": "Caja mágica surprise brunch",
+      "slug": "amor-amistad-caja-magica-surprise",
+      "precio": 313396,
+      "precioAnterior": 438796,
+      "descripcion": "Contenido:\nCaja mágica\nRamo de Rosas 🌹 18 rosas\nBandeja\nSandwich\nManzana\nPera\nKiwi\nJugo de naranja\nMaíz soplado\nParfait\nBombas con helio 9\nIncluye fotos\n** El contenido, productos y decoración están sujetas a validación",
+      "imagen": "/images/shop/WhatsApp_27.webp",
+      "galeria": [
+        "/images/shop/WhatsApp_27.webp"
+      ],
+      "contenido": [
+        "Caja mágica",
+        "Ramo de Rosas 🌹 18 rosas",
+        "Bandeja",
+        "Sandwich",
+        "Manzana",
+        "Pera",
+        "Kiwi",
+        "Jugo de naranja",
+        "Maíz soplado",
+        "Parfait",
+        "Bombas con helio 9",
+        "Incluye fotos"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "brunch",
+        "cajas-magicas",
+        "mas-vendidos",
+        "rosas"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "up-house-vip",
+      "nombre": "UP House VIP",
+      "slug": "up-house-vip",
+      "precio": 313396,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n2 Peluches en tela impresa de la pareja de Up (Ellie y Frederickson)\n1 Arreglo de globos\n2 Cervezas Budweiser\n1 Barquillos\nPiazza\n1 Vaso cervecero\n1 Porción de frutos secos\n1\nCabano\n1 Chocolatina\nHershey\n´s\n1 Chocolatina\nM&M\n2 Mini\nNutellas\n2 Set de luces\n1 Tarjeta Personalizada\n1 Caja 50x50 CM Decoración temática de Up\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2024-05-01at11.42.28PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2024-05-01at11.42.28PM.webp"
+      ],
+      "contenido": [
+        "2 Peluches en tela impresa de la pareja de Up (Ellie y Frederickson)",
+        "1 Arreglo de globos",
+        "2 Cervezas Budweiser",
+        "1 Barquillos Piazza",
+        "1 Vaso cervecero",
+        "1 Porción de frutos secos",
+        "1 Cabano",
+        "1 Chocolatina Hershey ´s",
+        "1 Chocolatina M&M",
+        "2 Mini Nutellas",
+        "2 Set de luces",
+        "1 Tarjeta Personalizada",
+        "1 Caja 50x50 CM Decoración temática de Up"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "cumpleanos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "caja-encanto",
+      "nombre": "Caja Encanto",
+      "slug": "caja-encanto",
+      "precio": 169186,
+      "precioAnterior": 200536,
+      "descripcion": "Contenido:\n1 Arreglo floral con rosas y follaje\n8 Chocolates con relleno\n1 Caja prediseñada\n1 Globo burbuja grande con mensaje personalizado\n** El contenido, decoración y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/sapp-image-2024-04-09-at-4-48-33-pm.webp",
+      "galeria": [
+        "/images/shop/sapp-image-2024-04-09-at-4-48-33-pm.webp"
+      ],
+      "contenido": [
+        "1 Arreglo floral con rosas y follaje",
+        "8 Chocolates con relleno",
+        "1 Caja prediseñada",
+        "1 Globo burbuja grande con mensaje personalizado"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "cumpleanos",
+        "globo burbuja",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariposas-magicas",
+      "nombre": "Mariposas Mágicas",
+      "slug": "mariposas-magicas",
+      "precio": 129476,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nChocolatina Moments\nBarquillos\nPringles Personal\n4 Bonkiss\n4 Mariposas",
+      "imagen": "/images/shop/Cajamagicamariposa.webp",
+      "galeria": [
+        "/images/shop/Cajamagicamariposa.webp"
+      ],
+      "contenido": [
+        "Chocolatina Moments",
+        "Barquillos",
+        "Pringles Personal",
+        "4 Bonkiss",
+        "4 Mariposas"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "cumpleanos",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4af9bac3-8dd5-e90f-911a-4f679310104f",
+      "nombre": "Surprise big box (C002)",
+      "slug": "caja-magica-surprise-big-box",
+      "precio": 233976,
+      "precioAnterior": 265326,
+      "descripcion": "Contenido:\n1 Globo burbuja inflado con helio y con mensaje perdiseñado\n12 - 16 Fotografías impresas a full color en papel bond.\n12 Chocolates con relleno\n8 Globos mini\n1 Set de iluminación portable\n1 Caja sorpresa decorada 50x50 cm con moño decorativo.\nEl diseño del mensaje esta prediseñado, el color de los globos de relleno esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_109a5826d9a24cecbbdf3f40fd80c928_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_109a5826d9a24cecbbdf3f40fd80c928_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo burbuja inflado con helio y con mensaje perdiseñado",
+        "12 - 16 Fotografías impresas a full color en papel bond.",
+        "12 Chocolates con relleno",
+        "8 Globos mini",
+        "1 Set de iluminación portable",
+        "1 Caja sorpresa decorada 50x50 cm con moño decorativo."
+      ],
+      "tags": [
+        "cajas-magicas",
+        "globo burbuja",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_2ee73b4e-6ff8-fd2b-7def-cca5034aece5",
+      "nombre": "Surprise Box (C001)",
+      "slug": "caja-magica-surprise-box",
+      "precio": 129476,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Globo burbuja pequeño\ninflado con helio y con mensaje perdiseñado.\n6 - 8 Fotografías impresas a full color en papel bond.\n6 Chocolates Bonkies con relleno\n1 Set de iluminación portable\n1 Caja sorpresa prediseñada 30x30cm.\nEl diseño del mensaje prediseñado, el color de los globos de relleno esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_81369c2d9db143f7bb4f208d4046fba9_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_81369c2d9db143f7bb4f208d4046fba9_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo burbuja pequeño inflado con helio y con mensaje perdiseñado.",
+        "6 - 8 Fotografías impresas a full color en papel bond.",
+        "6 Chocolates Bonkies con relleno",
+        "1 Set de iluminación portable",
+        "1 Caja sorpresa prediseñada 30x30cm."
+      ],
+      "tags": [
+        "cajas-magicas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_8cccd2f5-951f-2a29-cce8-eb36e8ddf35c",
+      "nombre": "Surprise love box (C003)",
+      "slug": "caja-magica-surprise-love-box",
+      "precio": 232930,
+      "precioAnterior": 274730,
+      "descripcion": "Contenido:\n1 Peluche Sr. Federickson 25 cm aprox.\n1 Peluche Ellie 25cm aprox.\n1 Chocolatina Hershey cokies n' creme 43gr\n1 Chocolatina Hershey Milk Chocolate 43gr\n1 Paquete de Chocolates M&M Penaut 49gr\n1 Paquete de Chocolates Milk Chocolate 47gr\n12 - 16 Fotografías impresas a full color en papel bond.\n6 Globos mini\n2 Bombas de corazon R12 en helio\n1 Set de iluminación portable\n1 Caja sorpresa decorada 50x50 cm con moño decorativo.\nEl diseño de los peluches está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_657375740757410a86613ee865fcc254_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_657375740757410a86613ee865fcc254_mv2.webp"
+      ],
+      "contenido": [
+        "1 Peluche Sr. Federickson 25 cm aprox.",
+        "1 Peluche Ellie 25cm aprox.",
+        "1 Chocolatina Hershey cokies n' creme 43gr",
+        "1 Chocolatina Hershey Milk Chocolate 43gr",
+        "1 Paquete de Chocolates M&M Penaut 49gr",
+        "1 Paquete de Chocolates Milk Chocolate 47gr",
+        "12 - 16 Fotografías impresas a full color en papel bond.",
+        "6 Globos mini",
+        "2 Bombas de corazon R12 en helio",
+        "1 Set de iluminación portable",
+        "1 Caja sorpresa decorada 50x50 cm con moño decorativo."
+      ],
+      "tags": [
+        "cajas-magicas",
+        "promociones"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4cc4ee24-4d28-4967-0e6d-58075ea7e4ce",
+      "nombre": "Surprise box chocolate (C004)",
+      "slug": "caja-magica-surprise-box-chocolate",
+      "precio": 207851,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Oso de peluche mediano\n1 Chocolatina Hershey cokies n' creme 43gr\n1 Chocolatina Hershey Milk Chocolate 43gr\n1 Paquete de Chocolates M&M Penaut 49gr\n1 Paquete de Chocolates Milk Chocolate 47gr\n12 - 16 Fotografías impresas a full color en papel bond.\n6 Globos mini\n2 Bombas R12 infladas con helio\n1 Set de iluminación portable\n1 Caja sorpresa decorada 50x50 cm con moño decorativo.\nEl diseño de los peluches y las bombas está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_13092dc66e44411caaec398d6eab2eb8_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_13092dc66e44411caaec398d6eab2eb8_mv2.webp"
+      ],
+      "contenido": [
+        "1 Oso de peluche mediano",
+        "1 Chocolatina Hershey cokies n' creme 43gr",
+        "1 Chocolatina Hershey Milk Chocolate 43gr",
+        "1 Paquete de Chocolates M&M Penaut 49gr",
+        "1 Paquete de Chocolates Milk Chocolate 47gr",
+        "12 - 16 Fotografías impresas a full color en papel bond.",
+        "6 Globos mini",
+        "2 Bombas R12 infladas con helio",
+        "1 Set de iluminación portable",
+        "1 Caja sorpresa decorada 50x50 cm con moño decorativo."
+      ],
+      "tags": [
+        "cajas-magicas",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_55474ba5-e8f1-a939-4bbf-e5c030410337",
+      "nombre": "Surprise Box Unicorn (C005)",
+      "slug": "caja-magica-surprise-box-unicorn",
+      "precio": 247560,
+      "precioAnterior": 278910,
+      "descripcion": "Contenido:\n1 Unicornio de peluche mediano\n2 Cajas de chocolates x 8 Unidades c/u\n12 - 16 Fotografías impresas a full color en papel bond.\n8 Globos mini\n2 Bombas infladas con helio\n1 Globo metalizado 20\"\n1 Set de iluminación portable\n1 Caja sorpresa decorada 50x50 cm con moño decorativo.\nEl diseño de los peluches y las bombas está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_11832dccb6c845a3800331bd69261a2d_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_11832dccb6c845a3800331bd69261a2d_mv2.webp"
+      ],
+      "contenido": [
+        "1 Unicornio de peluche mediano",
+        "2 Cajas de chocolates x 8 Unidades c/u",
+        "12 - 16 Fotografías impresas a full color en papel bond.",
+        "8 Globos mini",
+        "2 Bombas infladas con helio",
+        "1 Globo metalizado 20\"",
+        "1 Set de iluminación portable",
+        "1 Caja sorpresa decorada 50x50 cm con moño decorativo."
+      ],
+      "tags": [
+        "cajas-magicas",
+        "cumpleanos",
+        "ninos",
+        "promo",
+        "promociones"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_54bac4fc-6bd3-1350-76fa-ea407c7b602f",
+      "nombre": "Tiny Box Mom (C013)",
+      "slug": "caja-magica-tiny-box-mom",
+      "precio": 163961,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Peluche de Ellie 20cm aprox\n1 Bomba inflada con helio\n6 a 8 Fotos impresas a full color en papel bond\n1 Chocolatina Italo\n1 Set de iluminación portable\n1 Caja sorpresa mediana 30x30cm decorada según ocasión\nEl diseño del peluche, el letrero de la caja y la bomba esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_173b81948d1b4a7a8c2c7ff0b014e458_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_173b81948d1b4a7a8c2c7ff0b014e458_mv2.webp"
+      ],
+      "contenido": [
+        "1 Peluche de Ellie 20cm aprox",
+        "1 Bomba inflada con helio",
+        "6 a 8 Fotos impresas a full color en papel bond",
+        "1 Chocolatina Italo",
+        "1 Set de iluminación portable",
+        "1 Caja sorpresa mediana 30x30cm decorada según ocasión"
+      ],
+      "tags": [
+        "cajas-magicas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_c3c5be7d-9111-510e-cdb0-4efc51686a85",
+      "nombre": "Tiny Box Dad (C015)",
+      "slug": "caja-magica-tiny-box-dad",
+      "precio": 176501,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Peluche mediano de Sr. Federickson personaje pelicula UP de Disney\n6-8 Fotografías impresas full color impresas en papel bond\n1 Cerveza en lata importada\n1 Paquete de mani salado\n3 Chocostops\n1 Set de iluminación portable\n1 Caja magica de 30x30cm decorada\nEl diseño del peluche esta sujeto a disponibilidad de la tienda*",
+      "imagen": "/images/shop/dfb815_dbfd943a954341dd92dff833e405de3b_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_dbfd943a954341dd92dff833e405de3b_mv2.webp"
+      ],
+      "contenido": [
+        "1 Peluche mediano de Sr. Federickson personaje pelicula UP de Disney",
+        "6-8 Fotografías impresas full color impresas en papel bond",
+        "1 Cerveza en lata importada",
+        "1 Paquete de mani salado",
+        "3 Chocostops",
+        "1 Set de iluminación portable",
+        "1 Caja magica de 30x30cm decorada"
+      ],
+      "tags": [
+        "cajas-magicas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_90868a61-f1bb-213e-b62d-f211fe3da674",
+      "nombre": "Tiny box Homero (C019)",
+      "slug": "caja-magica-tiny-box-homero",
+      "precio": 207851,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Peluche de Homero mediano\n1 Lata de papas Pringles original tamaño familiar\n1 Cerveza Estrella de Barcelona en lata\n4 Cervezas Heincken en lata\n3 Bombas mini\n7 Bombas R12 infladas en helio\n6 - 8 Fotografías impresas en papel bond full color.\n1 Set de iluminación portable\n1 Caja mágica de 30 x 30cm decorada\nEl diseño del peluche, las bombas y la decoración de la caja esta sujeta a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_dce3e1fc895447a491bbf0d863de5e50_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_dce3e1fc895447a491bbf0d863de5e50_mv2.webp"
+      ],
+      "contenido": [
+        "1 Peluche de Homero mediano",
+        "1 Lata de papas Pringles original tamaño familiar",
+        "1 Cerveza Estrella de Barcelona en lata",
+        "4 Cervezas Heincken en lata",
+        "3 Bombas mini",
+        "7 Bombas R12 infladas en helio",
+        "6 - 8 Fotografías impresas en papel bond full color.",
+        "1 Set de iluminación portable",
+        "1 Caja mágica de 30 x 30cm decorada"
+      ],
+      "tags": [
+        "cajas-magicas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_7d54eabc-4c1d-2d7a-468c-203ae1cffa07",
+      "nombre": "Tiny box love (C012)",
+      "slug": "regalo-amor-tiny-box-love",
+      "precio": 189041,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Peluche de Ellie pequeño, personaje de película Up Disney\n1 Peluche de Sr. Federickson pequeño, personaje de película Up Disney\n6- 8 Fotografías impresas a full color en papel bond\n1 Chocolatina Italo\n1 Cerveza mini coronita\n4 Bombas mini\n1 Bomba R12 inflada con helio\n1 Set de iluminación portable\n1 Caja mágica de 35 x 35 cm decorada\nEl diseño de los peluches y los globos esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_bad27f84971c437381541f7445421e8b_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_bad27f84971c437381541f7445421e8b_mv2.webp"
+      ],
+      "contenido": [
+        "1 Peluche de Ellie pequeño, personaje de película Up Disney",
+        "1 Peluche de Sr. Federickson pequeño, personaje de película Up Disney",
+        "6- 8 Fotografías impresas a full color en papel bond",
+        "1 Chocolatina Italo",
+        "1 Cerveza mini coronita",
+        "4 Bombas mini",
+        "1 Bomba R12 inflada con helio",
+        "1 Set de iluminación portable",
+        "1 Caja mágica de 35 x 35 cm decorada"
+      ],
+      "tags": [
+        "amor",
+        "cajas-magicas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_f156e061-b6ac-c013-425d-685ffa093b10",
+      "nombre": "Buenos Días Mamá! (D085)",
+      "slug": "caja-magica-buenos-dias-mama",
+      "precio": 207851,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Té Hatsu\n1 Jugo de naranja en Caja\n1 Sandwich artesanal (jamon, queso y pan árabe)\n1 Manzana Verde\n1 Manzana Roja\n1 Kiwi\n1 Durazno\n1 Porción de Fresas\n1 Rosa\n6 Chocolates rellenos\n1 Queso pera\n1 Bandeja decorada\n8 fotos full color impresas en papel fotográfico\n1 Set de luces\n1 Caja magica decorada 35cm *35 cm\n1 Moño\n1 Tarjeta personalizada\nEl diseño del mensaje, el color de globos y decoración está sujeta en disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_0eef248ba9cc4f9887be2ffff046bf38_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_0eef248ba9cc4f9887be2ffff046bf38_mv2.webp"
+      ],
+      "contenido": [
+        "1 Té Hatsu",
+        "1 Jugo de naranja en Caja",
+        "1 Sandwich artesanal (jamon, queso y pan árabe)",
+        "1 Manzana Verde",
+        "1 Manzana Roja",
+        "1 Kiwi",
+        "1 Durazno",
+        "1 Porción de Fresas",
+        "1 Rosa",
+        "6 Chocolates rellenos",
+        "1 Queso pera",
+        "1 Bandeja decorada",
+        "8 fotos full color impresas en papel fotográfico",
+        "1 Set de luces",
+        "1 Caja magica decorada 35cm *35 cm",
+        "1 Moño",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "cajas-magicas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_ef714647-9a03-25a5-4fc8-d01e3a5b8c62",
+      "nombre": "Dad's Box",
+      "slug": "caja-magica-dad-s-box",
+      "precio": 181726,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Globo con helio incluye mensaje prediseñado\n8 Fotos impresas full color en papel bond\n1 caja en forma de corazón\n1 Mug con mensaje prediseñado\n1 Cerveza Importada\n1 Porción de frutos secos\n1 Lata de salchichas\n8 Chocolates rellenos\n1 Set de luces portable\n1 Caja mágica de 35x35cm decorada\n1 Tarjeta personalizada\n1 Moño decorativo\nEl diseño del mug, los globos está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_1f2935f03b734116b6f9f2a0d1a7d956_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_1f2935f03b734116b6f9f2a0d1a7d956_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo con helio incluye mensaje prediseñado",
+        "8 Fotos impresas full color en papel bond",
+        "1 caja en forma de corazón",
+        "1 Mug con mensaje prediseñado",
+        "1 Cerveza Importada",
+        "1 Porción de frutos secos",
+        "1 Lata de salchichas",
+        "8 Chocolates rellenos",
+        "1 Set de luces portable",
+        "1 Caja mágica de 35x35cm decorada",
+        "1 Tarjeta personalizada",
+        "1 Moño decorativo"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "cumpleanos",
+        "para-el",
+        "para-papa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_13b710f2-7c7b-5c98-45a1-9cdd754b15cd",
+      "nombre": "Blue Magic Box",
+      "slug": "balloon-surprise-blue-magic-box",
+      "precio": 273686,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Caja de 50 cm x 50 cm con mensajes prediseñados\n1 Globo burbuja de 18\"\n10 Bombas pequeñas\n1 Caja de cartón decorada\n1 Set de luces\n1 Barra de chocolate Snicker\n1 Barra de chocolate Milkiway\n1 Paquete personal de maní\n2 Minicervezas Corona\n1 Papas Personales Pringles\n1 Tarjeta Personalizada\nEl color de luces y la decoración están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/dfb815_fbbac7a441ce465ab9474bed0171f0d7_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_fbbac7a441ce465ab9474bed0171f0d7_mv2.webp"
+      ],
+      "contenido": [
+        "1 Caja de 50 cm x 50 cm con mensajes prediseñados",
+        "1 Globo burbuja de 18\"",
+        "10 Bombas pequeñas",
+        "1 Caja de cartón decorada",
+        "1 Set de luces",
+        "1 Barra de chocolate Snicker",
+        "1 Barra de chocolate Milkiway",
+        "1 Paquete personal de maní",
+        "2 Minicervezas Corona",
+        "1 Papas Personales Pringles",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "cumpleanos",
+        "globo burbuja",
+        "globos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_48e165f1-fb86-3ff1-43fd-c7fa10d8c115",
+      "nombre": "Spiderman Box",
+      "slug": "caja-magica-spiderman-box",
+      "precio": 298900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Caja mágica 50 cm x 50 cm con base\nDecoración caja mágica\n8 Bombas cromadas R12 en helio\n6 Bombas R6 dentro de la caja\n1 Peluche mediano\n1 Paquete de chocolatesd M&M milk chocolate\n1 Paquete de chocolatesd M&M peanuts\n1 Hershey´s milk chocolate\n1 Hershey´s cookies and cream\n1 Barra de Milkyway\n3 Cajitas de chocolates Tobys\n1 Paquete de barquillos Piazza\n1 Chocorramo\n1 Papas Pringles familiar\n1 Maní La Especial\n1 Paquete de platanitos\n1 Moño decorativo\n1 Tarjeta personalizado\nLa decoración, el color de bombas y el peluche están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_092f708682574671b7c41ed2b91c8fcf_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_092f708682574671b7c41ed2b91c8fcf_mv2.webp",
+        "/images/shop/sapp-image-2024-04-08-at-1-23-27-pm.webp"
+      ],
+      "contenido": [
+        "1 Caja mágica 50 cm x 50 cm con base",
+        "Decoración caja mágica",
+        "8 Bombas cromadas R12 en helio",
+        "6 Bombas R6 dentro de la caja",
+        "1 Peluche mediano",
+        "1 Paquete de chocolatesd M&M milk chocolate",
+        "1 Paquete de chocolatesd M&M peanuts",
+        "1 Hershey´s milk chocolate",
+        "1 Hershey´s cookies and cream",
+        "1 Barra de Milkyway",
+        "3 Cajitas de chocolates Tobys",
+        "1 Paquete de barquillos Piazza",
+        "1 Chocorramo",
+        "1 Papas Pringles familiar",
+        "1 Maní La Especial",
+        "1 Paquete de platanitos",
+        "1 Moño decorativo",
+        "1 Tarjeta personalizado"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "cumpleanos",
+        "ninos",
+        "para-el"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_076af40c-d0ce-3fe6-99d8-658ee7f668c1",
+      "nombre": "Furia Luminosa Love Box",
+      "slug": "amor-amistad-furia-luminosa-love",
+      "precio": 273686,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n2 Peluches 40 cm\n1 Arreglo floral 20 rosas\n1 Bomba R12 de corazón\n2 Bombas R6 de corazón\n1 Set de luces\n4 Fotos tamaño grande impresos en papel fotográfico\n8 Chocolates relleno Mercí\nCaja 50cm x 50cm decorada con base\n1 Tarjeta Personalizada\nLa decoración, peluches, color de rosas y luces están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_b7da63fd735d4c77a8f63e6cf8b47a5c_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_b7da63fd735d4c77a8f63e6cf8b47a5c_mv2.webp"
+      ],
+      "contenido": [
+        "2 Peluches 40 cm",
+        "1 Arreglo floral 20 rosas",
+        "1 Bomba R12 de corazón",
+        "2 Bombas R6 de corazón",
+        "1 Set de luces",
+        "4 Fotos tamaño grande impresos en papel fotográfico",
+        "8 Chocolates relleno Mercí",
+        "Caja 50cm x 50cm decorada con base",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cajas-magicas",
+        "para-ella",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_1c71e1ba-7de8-2674-7464-dbd69206e535",
+      "nombre": "BTS  Musical Box",
+      "slug": "caja-magica-bts-musical-box",
+      "precio": 254876,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Caja de 35 cm x 35 cm decorada\n24 Rosas\n1 Nutella 350 g\n4 Bombas R12 en helio\n6 Chocolates Ferreros x 3 unidades\n1 Chocolate Rafaello x 3 unidades\n8 Chocolates rellenos\n1 Set de luces\n1 Tarjeta Personalizada\nLa decoración, el color de rosas, luces y bombas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_693baafe0f3747d1bf05adfeae3709f5_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_693baafe0f3747d1bf05adfeae3709f5_mv2.webp"
+      ],
+      "contenido": [
+        "1 Caja de 35 cm x 35 cm decorada",
+        "24 Rosas",
+        "1 Nutella 350 g",
+        "4 Bombas R12 en helio",
+        "6 Chocolates Ferreros x 3 unidades",
+        "1 Chocolate Rafaello x 3 unidades",
+        "8 Chocolates rellenos",
+        "1 Set de luces",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_93c31d53-b10e-a7fd-0c59-9c6555f39345",
+      "nombre": "Hallooween  box",
+      "slug": "caja-magica-hallooween-box",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo de rosas\n1 caja de chocolates moment\n1 caja de galletas cookies\n1 botella de vino gato negro 750ml\n1 nutella 350 gr\n1 copa de vino con modendas de chocolates\n1 caja de 50 x 50 decorada\n10 bombitas r6\n1 tarjeta persolizada\nEl diseño, color de rosas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_d47ba1060f244da9973b4bcf4117608a_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_d47ba1060f244da9973b4bcf4117608a_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de rosas",
+        "1 caja de chocolates moment",
+        "1 caja de galletas cookies",
+        "1 botella de vino gato negro 750ml",
+        "1 nutella 350 gr",
+        "1 copa de vino con modendas de chocolates",
+        "1 caja de 50 x 50 decorada",
+        "10 bombitas r6",
+        "1 tarjeta persolizada"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "halloween",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_02f58d11-7018-2bb5-f63a-c2161e271690",
+      "nombre": "Casa De Up",
+      "slug": "caja-magica-casa",
+      "precio": 221436,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n2 Peluches en tela impresa de la pareja de Up (Ellie y Frederickson)\n6 Globos en helio\n2 Cervezas Budweiser\n1 Barquillos\nPiazza\n1 Vaso cervecero\n1 Porción de frutos secos\n1\nCabano\n1 Chocolatina\nHershey\n´s\n1 Chocolatina\nM&M\n2 Mini\nNutellas\n2 Set de luces\n1 Tarjeta Personalizada\n1 Caja 35x35 CM Decoración temática de Up\n**El diseño, color de bombas y muñecos están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/casadeup.webp",
+      "galeria": [
+        "/images/shop/casadeup.webp"
+      ],
+      "contenido": [
+        "2 Peluches en tela impresa de la pareja de Up (Ellie y Frederickson)",
+        "6 Globos en helio",
+        "2 Cervezas Budweiser",
+        "1 Barquillos Piazza",
+        "1 Vaso cervecero",
+        "1 Porción de frutos secos",
+        "1 Cabano",
+        "1 Chocolatina Hershey ´s",
+        "1 Chocolatina M&M",
+        "2 Mini Nutellas",
+        "2 Set de luces",
+        "1 Tarjeta Personalizada",
+        "1 Caja 35x35 CM Decoración temática de Up"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "cumpleanos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_200125e7-c799-5951-c32c-72b3e877634d",
+      "nombre": "Caja  Black Up",
+      "slug": "regalo-amor-caja-black",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Caja negra 35x35 cm\n1 Moño con cinta roja\n1 Letrero impreso en vinil dorado\n1 Fotografía impresa\n1 Calendario de mes impreso en vinil blanco\n2 Mensajes prediseñados en vinil blanco\n1 Set de luces\n10 Chocolates cubiertos\n1 Pareja de up pequeño\n1 Arreglo de 7 rosas",
+      "imagen": "/images/shop/f3554f_3c888293a7fe4c079b3a34a61eb1ba20_mv2.webp",
+      "galeria": [
+        "/images/shop/f3554f_3c888293a7fe4c079b3a34a61eb1ba20_mv2.webp"
+      ],
+      "contenido": [
+        "1 Caja negra 35x35 cm",
+        "1 Moño con cinta roja",
+        "1 Letrero impreso en vinil dorado",
+        "1 Fotografía impresa",
+        "1 Calendario de mes impreso en vinil blanco",
+        "2 Mensajes prediseñados en vinil blanco",
+        "1 Set de luces",
+        "10 Chocolates cubiertos",
+        "1 Pareja de up pequeño",
+        "1 Arreglo de 7 rosas"
+      ],
+      "tags": [
+        "amor",
+        "Aniversario",
+        "cajas-magicas",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_08bdf63f-51b5-6fba-9fd3-7db85588e814",
+      "nombre": "Mini Black Box",
+      "slug": "regalo-amor-mini-black-box",
+      "precio": 221436,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nArreglo de 7 rosas\n1 Peluche mediano\n10 Choclates cubiertos\n1 Set de luces\n2 Mensajes prediseñados impresos en vinil blanco\n1 Calendario de mes impreso en vinil blancvo\n1 Letrero impreso en vinil dorado\n1 Caja negra de 35cm x 35cm\n1 Moño con cinta roja\n1 Foto impresa full color en papel fotográfico\n1 Tarjeta con mensaje personalizado\nEl diseño del mensaje prediseñado, el color de las bombas, el peluche, están sujetos a disponibilidad de la Tienda",
+      "imagen": "/images/shop/674055_5f7d4def5cc9482988f1ec905ae8a338_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_5f7d4def5cc9482988f1ec905ae8a338_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo de 7 rosas",
+        "1 Peluche mediano",
+        "10 Choclates cubiertos",
+        "1 Set de luces",
+        "2 Mensajes prediseñados impresos en vinil blanco",
+        "1 Calendario de mes impreso en vinil blancvo",
+        "1 Letrero impreso en vinil dorado",
+        "1 Caja negra de 35cm x 35cm",
+        "1 Moño con cinta roja",
+        "1 Foto impresa full color en papel fotográfico",
+        "1 Tarjeta con mensaje personalizado"
+      ],
+      "tags": [
+        "amor",
+        "cajas-magicas",
+        "para-ella",
+        "perdoname",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4069d570-5752-da11-d897-2000b0b91919",
+      "nombre": "Sorpresas con chocolate",
+      "slug": "amor-amistad-sorpresas-con-chocolate",
+      "precio": 233976,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Caja de 35*35\n9 Fotos en papel fotográfico\n1 Base en forma de corazón\n18 Fresas con chocolate\n2 Set de luces\n1 Tarjeta personalizada\n1 Moño",
+      "imagen": "/images/shop/674055_2a9be07e49d14673ad4fe7c71ef4c3c7_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_2a9be07e49d14673ad4fe7c71ef4c3c7_mv2.webp"
+      ],
+      "contenido": [
+        "1 Caja de 35*35",
+        "9 Fotos en papel fotográfico",
+        "1 Base en forma de corazón",
+        "18 Fresas con chocolate",
+        "2 Set de luces",
+        "1 Tarjeta personalizada",
+        "1 Moño"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cajas-magicas",
+        "fresas-con-chocolate",
+        "para-ella"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_6b82ad4b-b4c2-f2a7-d967-02aa7d607468",
+      "nombre": "Caja negra Iluminada",
+      "slug": "amor-amistad-caja-negra-iluminada",
+      "precio": 302946,
+      "precioAnterior": 352061,
+      "descripcion": "Contenido:\nCaja de 35*35 en color negra\nUn arreglo de rosas\n1 caja de ferrero *8\n2 Chocolatinas Hershey's\n1 porta retrato\n3 set de luces\nEl diseño y color de la base están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/674055_3483b561e67b47499304db449063901b_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_3483b561e67b47499304db449063901b_mv2.webp"
+      ],
+      "contenido": [
+        "Caja de 35*35 en color negra",
+        "Un arreglo de rosas",
+        "1 caja de ferrero *8",
+        "2 Chocolatinas Hershey's",
+        "1 porta retrato",
+        "3 set de luces"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cajas-magicas",
+        "promo",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "cajas-magicas",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

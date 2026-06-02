@@ -1,0 +1,1562 @@
+{
+  "categoria": "entregas-hoy-mismo",
+  "nombre": "Regalos Sorpresa - Entregas Hoy Mismo",
+  "slug": "entregas-hoy-mismo",
+  "descripcion": "💕¡Para ese ser especial! Sácale una sonrisa y llénalo de alegría con un regalo sorpresa para hoy mismo. Encuentra el mejor regalo para tu persona favorita. 😍",
+  "imagen": "/images/shop/dise195177o-sin-t195173tulo-13_09281adb-d500-451b-bafc-c9dde420f5d0.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "super-brunch",
+      "nombre": "Super Brunch",
+      "slug": "amor-amistad-super-brunch",
+      "precio": 87900,
+      "precioAnterior": 125900,
+      "descripcion": "Contenido:\n3 Bombas R12\n1 Queso personal\n3 Fresas cubiertas de chocolate con uchuvas\n1 Sándwich (pan con ajonjolí doble jamón y doble queso)\n1 Galletas tosh\n1 Parfait de yogurt, granola, kiwi, fresa y arándanos\n1 Jugo hit\n1 Manzana roja\n1 Granadilla\n1 Base de cartón decorada\n1 Tarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/sapp-image-2024-03-27-at-5-20-12-pm.webp",
+      "galeria": [
+        "/images/shop/sapp-image-2024-03-27-at-5-20-12-pm.webp"
+      ],
+      "contenido": [
+        "3 Bombas R12",
+        "1 Queso personal",
+        "3 Fresas cubiertas de chocolate con uchuvas",
+        "1 Sándwich (pan con ajonjolí doble jamón y doble queso)",
+        "1 Galletas tosh",
+        "1 Parfait de yogurt, granola, kiwi, fresa y arándanos",
+        "1 Jugo hit",
+        "1 Manzana roja",
+        "1 Granadilla",
+        "1 Base de cartón decorada",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "Amor y Amistad",
+        "brunch",
+        "desayunos",
+        "desayunos-mas-vendidos",
+        "desayunos-sorpresas",
+        "desayunos_gpt",
+        "entrega-hoy",
+        "para-el",
+        "para-papa"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "beauty-brunch",
+      "nombre": "Beauty Brunch",
+      "slug": "desayuno-beauty-brunch",
+      "precio": 119900,
+      "precioAnterior": 149900,
+      "descripcion": "Contenido:\n1 waffle con frutas picadas\n1 Sándwich de jamón y queso\n1 Jugo\n1 Avena\n1 Porción de masmelos\n6 Fresas con chocolate\n1 Porción de tostadas\n1 Queso pera\n4 Salsas\n** El contenido, decoración y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/app-image-2024-04-08-at-12-29-12-pm.webp",
+      "galeria": [
+        "/images/shop/app-image-2024-04-08-at-12-29-12-pm.webp"
+      ],
+      "contenido": [
+        "1 waffle con frutas picadas",
+        "1 Sándwich de jamón y queso",
+        "1 Jugo",
+        "1 Avena",
+        "1 Porción de masmelos",
+        "6 Fresas con chocolate",
+        "1 Porción de tostadas",
+        "1 Queso pera",
+        "4 Salsas"
+      ],
+      "tags": [
+        "brunch",
+        "desayunos",
+        "desayunos-sorpresas",
+        "desayunos_gpt",
+        "entrega-hoy"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "super-brunch-father",
+      "nombre": "Super Brunch buenos días",
+      "slug": "entregas-hoy-mismo-super-brunch-buenos",
+      "precio": 119900,
+      "precioAnterior": 179900,
+      "descripcion": "Contenido\n1 Jugo de naranja\n1\nMoffin\n1 Porción de\nwaffle\n1 Porción de miel\n1 Croissants de mantequilla con doble jamón doble queso y lechuga\nMini tabla de quesos (2 carnes, 3 quesos)\n1 Mini\nparfait\nPorción de mini masmelos\n1 Set de cubiertos\nPorción de arándanos\n** El contenido, productos y decoración\nesta\nsujeta a disponibilidad de la tienda",
+      "imagen": "/images/shop/9c7f903a-1e4f-4019-9e47-b7ede3302179.webp",
+      "galeria": [
+        "/images/shop/9c7f903a-1e4f-4019-9e47-b7ede3302179.webp"
+      ],
+      "contenido": [
+        "1 Jugo de naranja",
+        "1 Moffin",
+        "1 Porción de waffle",
+        "1 Porción de miel",
+        "1 Croissants de mantequilla con doble jamón doble queso y lechuga",
+        "Mini tabla de quesos (2 carnes, 3 quesos)",
+        "1 Mini parfait",
+        "Porción de mini masmelos",
+        "1 Set de cubiertos",
+        "Porción de arándanos"
+      ],
+      "tags": [
+        "brunch",
+        "desayunos",
+        "desayunos_gpt",
+        "entrega-hoy",
+        "para-papa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "caja-sorpresas-rosas-y-fresas",
+      "nombre": "Caja Sorpresas, Rosas y Fresas",
+      "slug": "caja-sorpresas-rosas-y-fresas",
+      "precio": 103351,
+      "precioAnterior": 135746,
+      "descripcion": "Contenido:\nRosas variadas de color de acuerdo a disponibilidad (No garantizamos un solo color)\n1 Caja Sorpresa\n6 Fresas con chocolate\n1 Tarjeta personalizada\n** El producto, contenido y decoración están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/dise195177o-sin-t195173tulo-13.webp",
+      "galeria": [
+        "/images/shop/dise195177o-sin-t195173tulo-13.webp"
+      ],
+      "contenido": [
+        "Rosas variadas de color de acuerdo a disponibilidad (No garantizamos un solo color)",
+        "1 Caja Sorpresa",
+        "6 Fresas con chocolate",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "entrega-hoy",
+        "flores-frutas",
+        "para-ella",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "red-brunch",
+      "nombre": "Red Brunch",
+      "slug": "regalo-cumpleanos-red-brunch",
+      "precio": 79900,
+      "precioAnterior": 129900,
+      "descripcion": "Contenido:\nGlobo metalizado\nBase de carton decorada\nJugo de naranja\nPorción de fresa\nPorción de arándanos\nPorción de masmelos\n3 waffles acompañados de Nutella y miel\nUn solitario con una rosa\nTarjetas personalizadas\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/sapp-image-2024-04-23-at-1-54-06-pm.webp",
+      "galeria": [
+        "/images/shop/sapp-image-2024-04-23-at-1-54-06-pm.webp"
+      ],
+      "contenido": [
+        "Globo metalizado",
+        "Base de carton decorada",
+        "Jugo de naranja",
+        "Porción de fresa",
+        "Porción de arándanos",
+        "Porción de masmelos",
+        "3 waffles acompañados de Nutella y miel",
+        "Un solitario con una rosa",
+        "Tarjetas personalizadas"
+      ],
+      "tags": [
+        "brunch",
+        "cumpleanos",
+        "desayunos",
+        "desayunos-mas-vendidos",
+        "desayunos-sorpresas",
+        "desayunos_gpt",
+        "entrega-hoy",
+        "san-valentin"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_9a788c00-c0a2-6b2f-b239-d9d033a79a69",
+      "nombre": "Ancheta Primavera (A006)",
+      "slug": "amor-amistad-ancheta-primavera",
+      "precio": 80900,
+      "precioAnterior": 119900,
+      "descripcion": "Contenido:\n1 Peluche pequeño\n1 Caja de Chocolates corazón x 8 Unidades\n1 Rosa\n1 Globo metalizado 20\"\n1 Caja de cartón corrugada decorada\nEl diseño de las bombas, y el peluche pueden variar según disponibilidad.",
+      "imagen": "/images/shop/WhatsAppImage2023-10-15at8.08.48PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-10-15at8.08.48PM.webp"
+      ],
+      "contenido": [
+        "1 Peluche pequeño",
+        "1 Caja de Chocolates corazón x 8 Unidades",
+        "1 Rosa",
+        "1 Globo metalizado 20\"",
+        "1 Caja de cartón corrugada decorada"
+      ],
+      "tags": [
+        "Amor y Amistad",
+        "cumpleanos",
+        "entrega-hoy",
+        "mas-vendidos",
+        "mismo-dia",
+        "para-ella",
+        "promo",
+        "promociones"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "break-floker",
+      "nombre": "Break Floker",
+      "slug": "break-floker",
+      "precio": 104396,
+      "precioAnterior": 135746,
+      "descripcion": "1 Baúl de madera\n1 Te H\natsu\nWaffles\n1 Set de luces\nWraps\nde jamón,\nqueso y\nuchuvas\nBarra de granola\n1 Mini\nparfait\n** el color y la decoracion esta sujeta a disponibilidad.",
+      "imagen": "/images/shop/WhatsAppImage2023-08-05at9.13.43AM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-08-05at9.13.43AM.webp"
+      ],
+      "contenido": [
+        "1 Baúl de madera",
+        "1 Te H atsu",
+        "Waffles",
+        "1 Set de luces",
+        "Wraps de jamón, queso y uchuvas",
+        "Barra de granola",
+        "1 Mini parfait"
+      ],
+      "tags": [
+        "desayunos",
+        "desayunos-sorpresas",
+        "entrega-hoy",
+        "grados",
+        "para-ella",
+        "promo",
+        "promociones"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_a27f55b7-4ae4-e514-3617-e6ed0ff554b3",
+      "nombre": "Mini Box Rosas",
+      "slug": "regalo-cumpleanos-mini-box-rosas",
+      "precio": 114900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Base de Carton Decorada\n1 Arreglo de rosas y Ferreros\n1 Tarjeta Personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/ChatGPT_Image_Mar_23_2026_05_18_44_PM.webp",
+      "galeria": [
+        "/images/shop/ChatGPT_Image_Mar_23_2026_05_18_44_PM.webp",
+        "/images/shop/ChatGPT_Image_Mar_23_2026_05_17_25_PM.webp",
+        "/images/shop/ChatGPT_Image_Mar_23_2026_05_20_19_PM.webp",
+        "/images/shop/ChatGPT_Image_Mar_23_2026_05_26_00_PM.webp",
+        "/images/shop/ChatGPT_Image_Mar_23_2026_05_21_40_PM.webp",
+        "/images/shop/ChatGPT_Image_Mar_23_2026_05_23_15_PM.webp",
+        "/images/shop/ChatGPTImageMar23_2026_05_03_58PM.webp"
+      ],
+      "contenido": [
+        "1 Base de Carton Decorada",
+        "1 Arreglo de rosas y Ferreros",
+        "1 Tarjeta Personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "cumpleanos",
+        "entrega-hoy",
+        "flores-frutas",
+        "mismo-dia",
+        "para-ella",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "special-breakfast",
+      "nombre": "Special breakfast",
+      "slug": "amor-amistad-special-breakfast",
+      "precio": 143060,
+      "precioAnterior": 174410,
+      "descripcion": "Contenido\nSándwich de jamón Pavo, Queso y lechuga\nWaffle con miel y mini Nutella\nCupcake\n2 Galletas Artesanal\nJugo de naranja en botella\nCapuchino bebida fría en Botella\nBowl de Yogur, Granola y Fruta\nPorción de fresas\n2 Sobres de té\nCubiertos\nCaja cuadrada en cartón\nTarjeta\n** El producto, contenido y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/p-image-2024-01-04-at-5-23-01-pm-1.webp",
+      "galeria": [
+        "/images/shop/p-image-2024-01-04-at-5-23-01-pm-1.webp"
+      ],
+      "contenido": [
+        "Sándwich de jamón Pavo, Queso y lechuga",
+        "Waffle con miel y mini Nutella",
+        "Cupcake",
+        "2 Galletas Artesanal",
+        "Jugo de naranja en botella",
+        "Capuchino bebida fría en Botella",
+        "Bowl de Yogur, Granola y Fruta",
+        "Porción de fresas",
+        "2 Sobres de té",
+        "Cubiertos",
+        "Caja cuadrada en cartón",
+        "Tarjeta"
+      ],
+      "tags": [
+        "Amor y Amistad",
+        "corporativos",
+        "desayunos",
+        "desayunos-sorpresas",
+        "entrega-hoy",
+        "para-el",
+        "para-papa"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_403af1f5-269e-5dfc-42be-63d123af1472",
+      "nombre": "Ramo Dulzura (R088)",
+      "slug": "regalo-cumpleanos-ramo-dulzura",
+      "precio": 84541,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo floral piramidal de: Rosas, Margaritas, coquetas y follaje.\n1 Globo Metalizado R12\n1 Base de Madera\nEl color de las flores esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_025ce6b3dd3a453b8fd64f93181ddbaa_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_025ce6b3dd3a453b8fd64f93181ddbaa_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo floral piramidal de: Rosas, Margaritas, coquetas y follaje.",
+        "1 Globo Metalizado R12",
+        "1 Base de Madera"
+      ],
+      "tags": [
+        "cumpleanos",
+        "entrega-hoy",
+        "para-ella",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "mom-flowers",
+      "nombre": "Mom Flowers",
+      "slug": "regalo-amor-mom-flowers",
+      "precio": 104396,
+      "precioAnterior": 125296,
+      "descripcion": "Contenido:\n1 arreglo de rosas\n1 globo burbuja con mensaje\n1 sandwich\n1 queso pera\n1 jugo de naranja\n1 manzana\n1 Base decorada\n1 tarjeta\n** El producto, contenido y decoración esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/IMG-20240413-WA0018.webp",
+      "galeria": [
+        "/images/shop/IMG-20240413-WA0018.webp"
+      ],
+      "contenido": [
+        "1 arreglo de rosas",
+        "1 globo burbuja con mensaje",
+        "1 sandwich",
+        "1 queso pera",
+        "1 jugo de naranja",
+        "1 manzana",
+        "1 Base decorada",
+        "1 tarjeta"
+      ],
+      "tags": [
+        "amor",
+        "entrega-hoy",
+        "globo burbuja",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "pink-flork",
+      "nombre": "Pink Flork",
+      "slug": "dia-de-la-mujer-pink-flork",
+      "precio": 103351,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Base de madera decorada\n6 Fresas con chocolate\n1 Botella de JP Chennet de 200 ml\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2024-02-02at10.43.25AM_11zon.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2024-02-02at10.43.25AM_11zon.webp"
+      ],
+      "contenido": [
+        "1 Base de madera decorada",
+        "6 Fresas con chocolate",
+        "1 Botella de JP Chennet de 200 ml"
+      ],
+      "tags": [
+        "entrega-hoy",
+        "para-ella",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ancheta-para-el",
+      "nombre": "Ancheta para él",
+      "slug": "ancheta-para-el",
+      "precio": 104396,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n2 Cervezas Importadas\n1 Chocolatina Hershey's\n1 Paquete de chocolates M&M\n1 Chocolatina Snickers\n1 Chocolatina Milkyway\n1 Lata de papas Pringles pequeña\n1 Paquete mani la especial\n2 Barras de Choco Stop\n2 Pinchos de dulces surtidos\n3 Bombas r12\n1 Bandeja Corrugada de cartón decorada\n1 Tarjeta personalizada\n** El producto, contenido y decoración está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsApp_4_d03fbd46-af41-4dcc-bb94-2e4e7d6f899a.webp",
+      "galeria": [
+        "/images/shop/WhatsApp_4_d03fbd46-af41-4dcc-bb94-2e4e7d6f899a.webp"
+      ],
+      "contenido": [
+        "2 Cervezas Importadas",
+        "1 Chocolatina Hershey's",
+        "1 Paquete de chocolates M&M",
+        "1 Chocolatina Snickers",
+        "1 Chocolatina Milkyway",
+        "1 Lata de papas Pringles pequeña",
+        "1 Paquete mani la especial",
+        "2 Barras de Choco Stop",
+        "2 Pinchos de dulces surtidos",
+        "3 Bombas r12",
+        "1 Bandeja Corrugada de cartón decorada",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "entrega-hoy",
+        "para-el"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_13a6e578-39b9-2a7f-cbe6-28f92134ea9d",
+      "nombre": "Perfect Woman (R105)",
+      "slug": "dia-de-la-mujer-perfect-woman",
+      "precio": 180681,
+      "precioAnterior": 208896,
+      "descripcion": "Contenido:\n1 Ramo de 18 rosas\n1 Chocolatina Kinder Bueno\n1 Chocolatina Hershey´s Milk Chocolate\n1 Champaña J.P Chenet 200ml\n1 Chocolates Ferrero x3\n1 Moño\n1 Caja decorada\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_2c8e6baf7c6d415b862ed9fcd2525de2_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_2c8e6baf7c6d415b862ed9fcd2525de2_mv2.webp"
+      ],
+      "contenido": [
+        "1 Ramo de 18 rosas",
+        "1 Chocolatina Kinder Bueno",
+        "1 Chocolatina Hershey´s Milk Chocolate",
+        "1 Champaña J.P Chenet 200ml",
+        "1 Chocolates Ferrero x3",
+        "1 Moño",
+        "1 Caja decorada"
+      ],
+      "tags": [
+        "entrega-hoy",
+        "mismo-dia",
+        "para-ella",
+        "promo",
+        "promociones",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "fresas-para-mi-damita",
+      "nombre": "Fresas para mi damita",
+      "slug": "fresas-para-mi-damita",
+      "precio": 70900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n6 Fresas con chocolate\n1 Caja especial\n1 Tarjeta\n**El producto, la decoración y el contenido están sujetos a disponibilidad de la tienda.",
+      "imagen": "/images/shop/WhatsAppImage2023-10-11at12.15.59PM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-10-11at12.15.59PM.webp"
+      ],
+      "contenido": [
+        "6 Fresas con chocolate",
+        "1 Caja especial",
+        "1 Tarjeta"
+      ],
+      "tags": [
+        "Amor y Amistad",
+        "cumpleanos",
+        "entrega-hoy",
+        "para-ella",
+        "para-mama"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_3e8e1daa-0ee1-59ce-c38a-15b4565ec65f",
+      "nombre": "Corazón de Girasoles (A021-2)",
+      "slug": "dia-de-la-mujer-corazon-girasoles",
+      "precio": 139926,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nArreglo de Girasoles, cantidad de acuerdo al tamaño de caja.\n1 Chocolatina Hershey de 43gr\n2 Paquetes de Chocolates M&M\n2 Huevos Kinder\n6 Chocolates Bonkies\n1 Brownie\n1 Chocolores mani 20 gr\n1 Tarjeta\n1 Caja de corazón en cartón corrugado\nEl diseño de la caja, la tarjeta y el color de las rosas está sujeto a disponibilidad del cliente",
+      "imagen": "/images/shop/dfb815_f1e5f20bccbf4e92b6f6cce14a24a635_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_f1e5f20bccbf4e92b6f6cce14a24a635_mv2.webp"
+      ],
+      "contenido": [
+        "Arreglo de Girasoles, cantidad de acuerdo al tamaño de caja.",
+        "1 Chocolatina Hershey de 43gr",
+        "2 Paquetes de Chocolates M&M",
+        "2 Huevos Kinder",
+        "6 Chocolates Bonkies",
+        "1 Brownie",
+        "1 Chocolores mani 20 gr",
+        "1 Tarjeta",
+        "1 Caja de corazón en cartón corrugado"
+      ],
+      "tags": [
+        "entrega-hoy",
+        "para-ella",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_98d8701e-4398-9c4f-0c98-87199168da24",
+      "nombre": "Exclusive  Box",
+      "slug": "dia-del-hombre-exclusive-box",
+      "precio": 111711,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Botella de vino Gato Negro 750 ml\n1 copa de vino con monedas de chocolates\n1 caja en cartón decorada\n1 tarjeta con mensaje personalizado\nEl diseño, está sujeto a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/fff53a_0aa2016607fe4cd298846c8cb63ba198_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_0aa2016607fe4cd298846c8cb63ba198_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de vino Gato Negro 750 ml",
+        "1 copa de vino con monedas de chocolates",
+        "1 caja en cartón decorada",
+        "1 tarjeta con mensaje personalizado"
+      ],
+      "tags": [
+        "entrega-hoy",
+        "mismo-dia",
+        "para-el"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_9b8aba0a-3b17-3b8e-5f09-e86505fda75a",
+      "nombre": "Ancheta Corona (A094-1)",
+      "slug": "ancheta-cumpleanos-ancheta-corona",
+      "precio": 129476,
+      "precioAnterior": 162916,
+      "descripcion": "Contenido:\n1 Globo burbuja grande con mensaje perdiseñado.\n6 Bombas mini o 3 Bombas grandes.\n6 Botellas de cerveza Corona.\n1 Balde decorado.\n1 Tarjeta personalizada\nLa decoración, las bombas, el balde, la tarjeta y el piropo esta sujeto a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/WhatsApp_7.webp",
+      "galeria": [
+        "/images/shop/WhatsApp_7.webp"
+      ],
+      "contenido": [
+        "1 Globo burbuja grande con mensaje perdiseñado.",
+        "6 Bombas mini o 3 Bombas grandes.",
+        "6 Botellas de cerveza Corona.",
+        "1 Balde decorado.",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "cumpleanos",
+        "entrega-hoy",
+        "globo burbuja"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ancheta-one-piece",
+      "nombre": "Ancheta One Piece",
+      "slug": "ancheta-one-piece",
+      "precio": 104396,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Globo metalizado\n1 Caja de carton\n1 Chocolatina italo\n1 Jugo hit\n1 Barra de chocostop\n1 Barquillo piazza\n1 Galleta oreo *6\n1 Milky way\n1 Paquete de gomitas\n1 m&m\n1 Papas Pringles\n1 Tarjeta Personalizada\nEl personaje del peluche y la decoración esta sujeta a disponibilidad de la tienda",
+      "imagen": "/images/shop/sapp-image-2024-04-13-at-3-16-24-pm.webp",
+      "galeria": [
+        "/images/shop/sapp-image-2024-04-13-at-3-16-24-pm.webp"
+      ],
+      "contenido": [
+        "1 Globo metalizado",
+        "1 Caja de carton",
+        "1 Chocolatina italo",
+        "1 Jugo hit",
+        "1 Barra de chocostop",
+        "1 Barquillo piazza",
+        "1 Galleta oreo *6",
+        "1 Milky way",
+        "1 Paquete de gomitas",
+        "1 m&m",
+        "1 Papas Pringles",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "entrega-hoy",
+        "ninos",
+        "para-el"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "promo-desayuno-1",
+      "nombre": "Promo Desayuno",
+      "slug": "promo-desayuno-1",
+      "precio": 119900,
+      "precioAnterior": 169900,
+      "descripcion": "Contenido :\n2 Sandwich de jamón, queso, lechuga y tomate cherry\n1 Porción de papas con salsa\n1 Porción de fresas naturales con masmellosy uchuvas\n1 Porción de galletas\n1 Porción de tortas\ncaja decorada\n1 set de cubiertos\n1 cerveza\n** El contenido, decoración y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2026-05-20at9.00.43AM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2026-05-20at9.00.43AM.webp"
+      ],
+      "contenido": [
+        "2 Sandwich de jamón, queso, lechuga y tomate cherry",
+        "1 Porción de papas con salsa",
+        "1 Porción de fresas naturales con masmellosy uchuvas",
+        "1 Porción de galletas",
+        "1 Porción de tortas",
+        "caja decorada",
+        "1 set de cubiertos",
+        "1 cerveza"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "Aniversario",
+        "brunch",
+        "catalogo",
+        "corporativos",
+        "cumpleanos",
+        "desayunos",
+        "desayunos-mas-vendidos",
+        "desayunos-sorpresas",
+        "desayunos_gpt",
+        "entrega-hoy",
+        "futbolera",
+        "mas-vendidos",
+        "mejorate",
+        "para-el",
+        "para-papa",
+        "promo",
+        "promociones",
+        "San Valentín"
+      ],
+      "popular": true,
+      "visible": true,
+      "stock": 10,
+      "categoria": "entregas-hoy-mismo",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

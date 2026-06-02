@@ -1,0 +1,372 @@
+{
+  "categoria": "ramo-de-flores-graduacion",
+  "nombre": "Ramos de Flores",
+  "slug": "ramo-de-flores-graduacion",
+  "descripcion": "💐Descubre los mejores Ramos de Flores en Bogotá con Momentos para celebrar tu Graduación. Ofrecemos entrega el mismo día, calidad excepcional y garantía en cada compra. ¡Sorprende a tus seres queridos hoy mismo!",
+  "imagen": "/images/shop/dfb815_18d89baf423a440ab891d4099f83c74a_mv2.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "product_4fcc267d-9d2c-de21-f55d-e66340dc9da3",
+      "nombre": "Aurora de Girasoles y Rosas",
+      "slug": "dia-de-la-mujer-aurora-girasoles-rosas",
+      "precio": 221436,
+      "precioAnterior": 252786,
+      "descripcion": "Contenido:\n8 Girasoles\n16 Rosas\n12 Fresas con chocolate\n1 Balde de madera\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/864672f5-Bouquetderosasygirasoles.webp",
+      "galeria": [
+        "/images/shop/864672f5-Bouquetderosasygirasoles.webp"
+      ],
+      "contenido": [
+        "8 Girasoles",
+        "16 Rosas",
+        "12 Fresas con chocolate",
+        "1 Balde de madera"
+      ],
+      "tags": [
+        "flores-frutas",
+        "fresas-con-chocolate",
+        "mama",
+        "para-ella",
+        "para-mama",
+        "promociones",
+        "quinceanera",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-graduacion",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_7a9c3b7c-bd1a-de14-7198-ebf307524abe",
+      "nombre": "Birrete Dorado (R010-2)",
+      "slug": "dia-de-la-mujer-birrete-dorado",
+      "precio": 181726,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Globo burbuja grande con mensaje prediseñado y relleno de 3 Bombas R12\n18 Rosas rojas\n1 Caja en catón corrugado tipo birrete decorada\n1 Tarjeta decorativa\nEl color de las rosas, el diseño del mensaje prediseñado y las bombas está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/dfb815_80da63df60b44389b63608129d660b78_mv2.webp",
+      "galeria": [
+        "/images/shop/dfb815_80da63df60b44389b63608129d660b78_mv2.webp"
+      ],
+      "contenido": [
+        "1 Globo burbuja grande con mensaje prediseñado y relleno de 3 Bombas R12",
+        "18 Rosas rojas",
+        "1 Caja en catón corrugado tipo birrete decorada",
+        "1 Tarjeta decorativa"
+      ],
+      "tags": [
+        "globo burbuja",
+        "grados",
+        "para-ella",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-graduacion",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ramo-graduacion",
+      "nombre": "Ramo graduación",
+      "slug": "ramo-graduacion",
+      "precio": 104396,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n10 Rosas en tela\n1 caja de chocolates Ferrero Rocher\n1 Tarjeta\n** El contenido, productos y decoración están sujetas a validación",
+      "imagen": "/images/shop/WhatsApp_20.webp",
+      "galeria": [
+        "/images/shop/WhatsApp_20.webp",
+        "/images/shop/ChatGPT_Image_24_may_2026_08_00_35_p.m._4.webp",
+        "/images/shop/ChatGPT_Image_24_may_2026_08_00_40_p.m._7.webp",
+        "/images/shop/ChatGPT_Image_24_may_2026_08_00_34_p.m._3.webp",
+        "/images/shop/ChatGPT_Image_24_may_2026_08_00_34_p.m._1.webp",
+        "/images/shop/ChatGPT_Image_24_may_2026_08_00_36_p.m._5.webp",
+        "/images/shop/ChatGPT_Image_24_may_2026_08_00_39_p.m._6.webp"
+      ],
+      "contenido": [
+        "10 Rosas en tela",
+        "1 caja de chocolates Ferrero Rocher",
+        "1 Tarjeta"
+      ],
+      "tags": [],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-graduacion",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_20d46036-0d59-4e95-6334-648a3dacb0ae",
+      "nombre": "Caja birrete (R010-1)",
+      "slug": "grados-caja-birrete",
+      "precio": 116936,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n18 Rosas rojas tipo exportación\n1 Caja en catón corrugado tipo birrete decorada\n1 Tarjeta decorativa\nEl color de las rosas y la caja está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/1f67cf3b-dfb815_18d89baf423a440ab891d4099f83c74a_mv2.webp",
+      "galeria": [
+        "/images/shop/1f67cf3b-dfb815_18d89baf423a440ab891d4099f83c74a_mv2.webp"
+      ],
+      "contenido": [
+        "18 Rosas rojas tipo exportación",
+        "1 Caja en catón corrugado tipo birrete decorada",
+        "1 Tarjeta decorativa"
+      ],
+      "tags": [
+        "grados",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-graduacion",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "lirios-y-rosas",
+      "nombre": "Lirios y rosas",
+      "slug": "lirios-y-rosas",
+      "precio": 181726,
+      "precioAnterior": 371916,
+      "descripcion": "Contenido\nArreglo de\nAstromelias\ny Rosas\nArreglo de follaje\n1 Tarjeta\n1 Cilindro de cartón\n1 Globo burbuja R18 (con 8 globos mini\n** El color de las flores está sujeta a disponibilidad de la tienda\n** El color de los globos está sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/floresglobos.webp",
+      "galeria": [
+        "/images/shop/floresglobos.webp"
+      ],
+      "contenido": [
+        "Arreglo de Astromelias y Rosas",
+        "Arreglo de follaje",
+        "1 Tarjeta",
+        "1 Cilindro de cartón",
+        "1 Globo burbuja R18 (con 8 globos mini"
+      ],
+      "tags": [
+        "cumpleanos",
+        "globo burbuja",
+        "globos",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "ramo-de-flores-graduacion",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

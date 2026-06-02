@@ -1,0 +1,2613 @@
+{
+  "categoria": "halloween",
+  "nombre": "Halloween",
+  "slug": "halloween",
+  "descripcion": "¡Prepárate para la temporada de Halloween con nuestra colección de regalos espeluznantes! Sorprende con algo muy especial de nuestra tienda en línea y haz de Halloween una experiencia inolvidable.",
+  "imagen": "/images/shop/Halloween_-_Sorpresas_a_tiempo.webp",
+  "fuente": "https://www.sorpresasatiempo.com",
+  "productos": [
+    {
+      "id": "dulce-o-truco-catrina",
+      "nombre": "Dulce o Truco Catrina",
+      "slug": "dulce-o-truco-catrina",
+      "precio": 136900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n8 Fresas con chocolate\n1 Corazón de chocolate relleno de gomas\n1 Tarjeta personalizada\n1 Caja de cartón\n1 Martillo\n**El producto, la decoración y el contenido están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/WhatsAppImage2023-10-11at10.12.37AM.webp",
+      "galeria": [
+        "/images/shop/WhatsAppImage2023-10-11at10.12.37AM.webp",
+        "/images/shop/Diseno_sin_titulo_3.webp"
+      ],
+      "contenido": [
+        "8 Fresas con chocolate",
+        "1 Corazón de chocolate relleno de gomas",
+        "1 Tarjeta personalizada",
+        "1 Caja de cartón",
+        "1 Martillo"
+      ],
+      "tags": [
+        "amor",
+        "fresas-con-chocolate",
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_8e7b5385-8aef-8e75-e93d-fb5ea6b912e4",
+      "nombre": "Happy Halloween",
+      "slug": "halloween-happy-halloween",
+      "precio": 169900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Peluche pequeño\n1 Paquete de gomas Trululú\n1 Papas Pringles personales\n1 Piazza\n1 M&M peanut\n1 M&M milk chocolate\n1 Brownie\n1 Paquete personal de Maní La Especial\n1 Hershey´s cookies and cream\n2 Huevos Kinder\n2 Chocolates Rellenos\n1 Dulce Mechas Locas\n1 Set de luces\n1 Caja de cartón liso con tapa y mensaje prediseñado\n1 Tarjeta Personalizada\nLa decoración, el peluche y el color de luces están sujetos a disponibilidad de Tienda.",
+      "imagen": "/images/shop/f527ed_6335beb00bc2481ca3251f8126719603_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_6335beb00bc2481ca3251f8126719603_mv2.webp"
+      ],
+      "contenido": [
+        "1 Peluche pequeño",
+        "1 Paquete de gomas Trululú",
+        "1 Papas Pringles personales",
+        "1 Piazza",
+        "1 M&M peanut",
+        "1 M&M milk chocolate",
+        "1 Brownie",
+        "1 Paquete personal de Maní La Especial",
+        "1 Hershey´s cookies and cream",
+        "2 Huevos Kinder",
+        "2 Chocolates Rellenos",
+        "1 Dulce Mechas Locas",
+        "1 Set de luces",
+        "1 Caja de cartón liso con tapa y mensaje prediseñado",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_7f134f7e-7b35-6317-9db2-87b2f2e0ee1b",
+      "nombre": "Roses of darkness",
+      "slug": "halloween-roses-darkness",
+      "precio": 218900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Corazon de madera\nArreglo de rosas\n1 Ataud\n8 Ferreros\n1 Tarjeta Personalizada\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_a007952e379b4514a6cc5360374792ce_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_a007952e379b4514a6cc5360374792ce_mv2.webp"
+      ],
+      "contenido": [
+        "1 Corazon de madera",
+        "Arreglo de rosas",
+        "1 Ataud",
+        "8 Ferreros",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "halloween",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_5df790ea-6729-45fd-3f2a-1f4c23212808",
+      "nombre": "Minicaja Halloween",
+      "slug": "halloween-minicaja-halloween",
+      "precio": 68900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Paquete de gomas Trululú\n1 Papas Pringles personal\n1 M&M peanut\n1 M&M milk chocolate\n2 Chocorramo mini\n1 Chocmelo Ice cream\n2 Nutella mini\n1 Caja de cartón decorada con mensaje prediseñado\n1 Moño\n1 Tarjeta personalizada\nLa decoración, diseños y colores de cintas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_f4ba7515128643a3b0ddd8b472f68cc9_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_f4ba7515128643a3b0ddd8b472f68cc9_mv2.webp"
+      ],
+      "contenido": [
+        "1 Paquete de gomas Trululú",
+        "1 Papas Pringles personal",
+        "1 M&M peanut",
+        "1 M&M milk chocolate",
+        "2 Chocorramo mini",
+        "1 Chocmelo Ice cream",
+        "2 Nutella mini",
+        "1 Caja de cartón decorada con mensaje prediseñado",
+        "1 Moño",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_9f845796-de68-4c4c-c64e-8b4a52297d84",
+      "nombre": "Caja Imaginarium",
+      "slug": "regalo-cumpleanos-caja-imaginarium",
+      "precio": 129476,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Botella de crema de whisky Baileys de 375ml\n1 Caja de chocolates Ferrero x 8 unidades\n1 Caja de Cartón decorada\n1 Moño\n1 Tarjeta personalizada\nLa decoración y colores de moño están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_cb6d5953276b4397b2543fb0db41d112_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_cb6d5953276b4397b2543fb0db41d112_mv2.webp"
+      ],
+      "contenido": [
+        "1 Botella de crema de whisky Baileys de 375ml",
+        "1 Caja de chocolates Ferrero x 8 unidades",
+        "1 Caja de Cartón decorada",
+        "1 Moño",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "cumpleanos",
+        "halloween",
+        "mismo-dia",
+        "para-el",
+        "para-ella",
+        "para-papa",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_3d60883b-c927-7452-31f2-7814bf0adb2c",
+      "nombre": "El  Cadáver De La Novia",
+      "slug": "amor-amistad-cadaver-novia",
+      "precio": 260900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n36 Rosas Naturales\n1 Acordeon De 6Fotos\n1 Baul de carton duro de color negro con tematica el cadaver de la novia\n1 Tarjeta personalizada\n1 Set de luces\nEl diseño, color de las rosas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_d4b487b03981400ba9197bc80a4e11c6_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_d4b487b03981400ba9197bc80a4e11c6_mv2.webp"
+      ],
+      "contenido": [
+        "36 Rosas Naturales",
+        "1 Acordeon De 6Fotos",
+        "1 Baul de carton duro de color negro con tematica el cadaver de la novia",
+        "1 Tarjeta personalizada",
+        "1 Set de luces"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "halloween",
+        "para-ella",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_66934411-6a7a-0499-484f-43ad9de0281d",
+      "nombre": "Corpse Bride",
+      "slug": "amor-amistad-corpse-bride",
+      "precio": 343900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n22 Rosas Naturales\n1 Baúl De carton duro De Color Negro Con Temática Del Cadaver De La Novia\n1 Caja De Chocolates Ferrero Por 8\n1 Botella De Crema De Whisky Baileys 375 ml\n1 Copa\n1 Tarjeta personalizada\n**El diseño, color de las rosas están sujetos a disponibilidad de la Tienda",
+      "imagen": "/images/shop/f527ed_1a732743bb1940f6b76d1d67c44a9551_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_1a732743bb1940f6b76d1d67c44a9551_mv2.webp"
+      ],
+      "contenido": [
+        "22 Rosas Naturales",
+        "1 Baúl De carton duro De Color Negro Con Temática Del Cadaver De La Novia",
+        "1 Caja De Chocolates Ferrero Por 8",
+        "1 Botella De Crema De Whisky Baileys 375 ml",
+        "1 Copa",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "cumpleanos",
+        "flores-frutas",
+        "halloween",
+        "para-ella",
+        "rosas",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_abcd1d68-3bf7-8d11-6827-5b02a593b57a",
+      "nombre": "Donut Day",
+      "slug": "regalo-cumpleanos-donut-day",
+      "precio": 159900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n6 Donut\nMasmelos\n9 Dientes de gomas\n3 Lenguas de gomas\n1 Caja de carton decorada\n1 tarjeta personalizada\nEl diseño están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_c8b13219ca934d8aa9480f2c8de5b4bc_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_c8b13219ca934d8aa9480f2c8de5b4bc_mv2.webp"
+      ],
+      "contenido": [
+        "6 Donut",
+        "Masmelos",
+        "9 Dientes de gomas",
+        "3 Lenguas de gomas",
+        "1 Caja de carton decorada",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "cumpleanos",
+        "halloween",
+        "ninos",
+        "para-ella"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_3988623e-c694-5111-9c15-e30bdf651d25",
+      "nombre": "Calabaza",
+      "slug": "halloween-calabaza",
+      "precio": 150900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n14 Gomas trululu individual\n1 Caja de Tobi\n3 Chocóbreak\n3 Monedas de chocolate\n1 Chocolatina italo\n1 Papas pringles mediana\n1 Ferrero por 3\n8 Bonkys\n1 M&m\n1 Piazza\n3 Mini nutella\n2 Huevos kínder\n1 Milkyway\n1 Chocmelo paleta\n1 SeT de luces\n1 Globo r 40 con sticker prediseñado\n1 Caja negra 50 x 10 de alto con sticker prediseñado\n1 Tarjeta personalizada\nEl diseño, color de globos están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_5b285a7636804354a7d7d9461fdfdb06_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_5b285a7636804354a7d7d9461fdfdb06_mv2.webp"
+      ],
+      "contenido": [
+        "14 Gomas trululu individual",
+        "1 Caja de Tobi",
+        "3 Chocóbreak",
+        "3 Monedas de chocolate",
+        "1 Chocolatina italo",
+        "1 Papas pringles mediana",
+        "1 Ferrero por 3",
+        "8 Bonkys",
+        "1 M&m",
+        "1 Piazza",
+        "3 Mini nutella",
+        "2 Huevos kínder",
+        "1 Milkyway",
+        "1 Chocmelo paleta",
+        "1 SeT de luces",
+        "1 Globo r 40 con sticker prediseñado",
+        "1 Caja negra 50 x 10 de alto con sticker prediseñado",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_7989765d-8efe-d826-033e-287a16b61112",
+      "nombre": "Jack rosas",
+      "slug": "halloween-jack-rosas",
+      "precio": 136900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo de 30 rosas aprox\n1 Sticker prediseñado de jack\n1 Baul redondo en cartón\n1 Tarjeta personalizada\nEl diseño, color de rosas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_43c714210db3475fb48625f666b41372_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_43c714210db3475fb48625f666b41372_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de 30 rosas aprox",
+        "1 Sticker prediseñado de jack",
+        "1 Baul redondo en cartón",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "halloween",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_8f06e55c-d80e-2941-0f25-9f07c0b80924",
+      "nombre": "Halloween roses orange",
+      "slug": "halloween-halloween-roses-orange",
+      "precio": 139900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo de 30 rosas pintadas aprox\n1 Sticker prediseñado de jack\n1 Baul redondo en cartón\n1 Tarjeta personalizada\nEl diseño, color de rosas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_6695807ca46c4c8baf9cc874f79492e6_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_6695807ca46c4c8baf9cc874f79492e6_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de 30 rosas pintadas aprox",
+        "1 Sticker prediseñado de jack",
+        "1 Baul redondo en cartón",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "halloween",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_93c31d53-b10e-a7fd-0c59-9c6555f39345",
+      "nombre": "Hallooween  box",
+      "slug": "caja-magica-hallooween-box",
+      "precio": 260101,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo de rosas\n1 caja de chocolates moment\n1 caja de galletas cookies\n1 botella de vino gato negro 750ml\n1 nutella 350 gr\n1 copa de vino con modendas de chocolates\n1 caja de 50 x 50 decorada\n10 bombitas r6\n1 tarjeta persolizada\nEl diseño, color de rosas están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_d47ba1060f244da9973b4bcf4117608a_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_d47ba1060f244da9973b4bcf4117608a_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo de rosas",
+        "1 caja de chocolates moment",
+        "1 caja de galletas cookies",
+        "1 botella de vino gato negro 750ml",
+        "1 nutella 350 gr",
+        "1 copa de vino con modendas de chocolates",
+        "1 caja de 50 x 50 decorada",
+        "10 bombitas r6",
+        "1 tarjeta persolizada"
+      ],
+      "tags": [
+        "cajas-magicas",
+        "halloween",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_52ac70eb-a498-3fed-d6d2-01b9c0aa75b1",
+      "nombre": "Jack Roses",
+      "slug": "ramo-flores-jack-roses",
+      "precio": 211900,
+      "precioAnterior": 236066,
+      "descripcion": "Contenido:\n1 baúl redondo de cartón prediseñado\n1 arreglo de 32 rosas aprox\n32 chocolate kisses\n1 tarjeta personalizada\nEl diseño, estan sujetos a disponibilidad de la Tienda",
+      "imagen": "/images/shop/fff53a_510d3233c42e418581b967840cd07b40_mv2.webp",
+      "galeria": [
+        "/images/shop/fff53a_510d3233c42e418581b967840cd07b40_mv2.webp"
+      ],
+      "contenido": [
+        "1 baúl redondo de cartón prediseñado",
+        "1 arreglo de 32 rosas aprox",
+        "32 chocolate kisses",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "flores-frutas",
+        "halloween",
+        "promociones",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_7eae28c2-6e6d-b598-4905-7243ee544383",
+      "nombre": "Red Love",
+      "slug": "regalo-amor-red-love",
+      "precio": 123900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 corazón de chocolate decorado\n2 paquetes de gomitas moritas\n22 masmelos\n1 tarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_acd9b62bfc2c45628892a8035b836bd2_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_acd9b62bfc2c45628892a8035b836bd2_mv2.webp"
+      ],
+      "contenido": [
+        "1 corazón de chocolate decorado",
+        "2 paquetes de gomitas moritas",
+        "22 masmelos",
+        "1 tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "amor",
+        "halloween",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_d6f7a13e-a206-ffc4-8dcd-a15b000cb19c",
+      "nombre": "Dulce Momia",
+      "slug": "halloween-dulce-momia",
+      "precio": 68900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 media figura de chocolate decorada (momia)\n1 caja en forma de ataúd\n3 paquetes de gomas\n1 tarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_c08cb4f3342d443ea13fa96bfff2725c_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_c08cb4f3342d443ea13fa96bfff2725c_mv2.webp"
+      ],
+      "contenido": [
+        "1 media figura de chocolate decorada (momia)",
+        "1 caja en forma de ataúd",
+        "3 paquetes de gomas",
+        "1 tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_b9b9a8fa-1d94-b7fc-92d5-15b0a5e59a63",
+      "nombre": "Halloween Monsters",
+      "slug": "halloween-halloween-monsters",
+      "precio": 54900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n5 fresas con chocolate decoradas\n1 caja en forma de ataúd\n1 tarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_2112755c31314e259d0d57be3b50ccac_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_2112755c31314e259d0d57be3b50ccac_mv2.webp"
+      ],
+      "contenido": [
+        "5 fresas con chocolate decoradas",
+        "1 caja en forma de ataúd",
+        "1 tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_1cc0d7c1-6323-d0af-e03b-2a7341817ff5",
+      "nombre": "Halloween con licor",
+      "slug": "halloween-halloween-con-licor",
+      "precio": 94900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n5 fresas con chocolate decoradas acompañadas de 5 cápsulas de Ron\n1 caja en forma de ataúd\n1 tarjeta personalizada",
+      "imagen": "/images/shop/674055_772b67d283b14e0fb930676d58f233e6_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_772b67d283b14e0fb930676d58f233e6_mv2.webp"
+      ],
+      "contenido": [
+        "5 fresas con chocolate decoradas acompañadas de 5 cápsulas de Ron",
+        "1 caja en forma de ataúd",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_6e26422a-582a-0d34-25da-27738bc96f39",
+      "nombre": "Candy Box",
+      "slug": "halloween-candy-box",
+      "precio": 116936,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 media figura de chocolate en forma de oso\n3 fresas con chocolate decoradas\n1 base de masmelos\n1 caja circular",
+      "imagen": "/images/shop/674055_3473d373445b4357a7dabd2fa406eba8_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_3473d373445b4357a7dabd2fa406eba8_mv2.webp"
+      ],
+      "contenido": [
+        "1 media figura de chocolate en forma de oso",
+        "3 fresas con chocolate decoradas",
+        "1 base de masmelos",
+        "1 caja circular"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_06440343-784a-988d-d4d1-d1159d4d5002",
+      "nombre": "Dulce Encanto",
+      "slug": "entregas-para-el-mismo-dia-dulce-encanto",
+      "precio": 64900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n24 masmelos\n2 manzanas decoradas cubiertas de chocolates\n1 caja de cartòn\n1 tarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/f3554f_d12af67b73fd4207a41f1d78a3e59648_mv2.webp",
+      "galeria": [
+        "/images/shop/f3554f_d12af67b73fd4207a41f1d78a3e59648_mv2.webp"
+      ],
+      "contenido": [
+        "24 masmelos",
+        "2 manzanas decoradas cubiertas de chocolates",
+        "1 caja de cartòn",
+        "1 tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "fresas-con-chocolate",
+        "halloween",
+        "mismo-dia"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_9640ba60-23c7-ab14-e2ff-8d69c2944368",
+      "nombre": "Fresas con licor de Halloween",
+      "slug": "halloween-fresas-con-licor",
+      "precio": 181726,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n11 fresas con chocolate decoradas acompañadas de 10 cápsulas de Baileys\n1 corazón de chocolate acompañado de gomitas\n1 base de cartón en forma de corazón\n1 tarjeta personalizada",
+      "imagen": "/images/shop/674055_19d0ee28e796443ba67d3705df15b7a4_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_19d0ee28e796443ba67d3705df15b7a4_mv2.webp"
+      ],
+      "contenido": [
+        "11 fresas con chocolate decoradas acompañadas de 10 cápsulas de Baileys",
+        "1 corazón de chocolate acompañado de gomitas",
+        "1 base de cartón en forma de corazón",
+        "1 tarjeta personalizada"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_ad03c706-c983-4774-cd59-9329afe60996",
+      "nombre": "Sweet Jack",
+      "slug": "halloween-sweet-jack",
+      "precio": 108900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 paquete Gomas\n1 pinchó de dulces\n1 kínder bueno\n1 snikers\n1 milkyway\n1 barra de cereal\nCaja de carton 16x16\nUna bomba decorada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_38404effc5d442de933a63d42695baff_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_38404effc5d442de933a63d42695baff_mv2.webp"
+      ],
+      "contenido": [
+        "1 paquete Gomas",
+        "1 pinchó de dulces",
+        "1 kínder bueno",
+        "1 snikers",
+        "1 milkyway",
+        "1 barra de cereal",
+        "Caja de carton 16x16",
+        "Una bomba decorada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_73483553-bb83-fa48-4d66-143004d0e21a",
+      "nombre": "Beer Skeleton",
+      "slug": "halloween-beer-skeleton",
+      "precio": 77900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n2 Cervezas Coronitas\n2 Hershey\n1 Nutella\n2 Choco-stop\n1 Guacal de madera\n1 Bomba decorada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_8e2c85558b6649eb9f205606776cf477_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_8e2c85558b6649eb9f205606776cf477_mv2.webp"
+      ],
+      "contenido": [
+        "2 Cervezas Coronitas",
+        "2 Hershey",
+        "1 Nutella",
+        "2 Choco-stop",
+        "1 Guacal de madera",
+        "1 Bomba decorada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_d0538e4f-18d0-bcfa-eeac-ccbf508ab165",
+      "nombre": "Sweet Skull",
+      "slug": "fresas-chocolate-sweet-skull",
+      "precio": 95900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n4 Fresas con choclate decoradas\n1 Hershey\n1 Milkyway\n1 Paquete de gomas\n1 Trululu\n1 Choco- stop\n1 Guacal de carton duro 16x16\n1 Bomba decorada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_d3fb06b81580457e931e284d3f35c0f2_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_d3fb06b81580457e931e284d3f35c0f2_mv2.webp"
+      ],
+      "contenido": [
+        "4 Fresas con choclate decoradas",
+        "1 Hershey",
+        "1 Milkyway",
+        "1 Paquete de gomas",
+        "1 Trululu",
+        "1 Choco- stop",
+        "1 Guacal de carton duro 16x16",
+        "1 Bomba decorada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "fresas-con-chocolate",
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_14233101-6c0b-17de-ca6e-32da554080df",
+      "nombre": "Sweet zombie bear",
+      "slug": "halloween-sweet-zombie-bear",
+      "precio": 119900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n1 Arreglo floral 10 rosas\n1 Media figura de chocolate en forma de oso\n1 Manzana cubierta de chocolate\n1 Base circular en cartón\n1 Tarjeta personalizada\nEl color de las rosas esta sujeto a disponibilidad de la Biblia",
+      "imagen": "/images/shop/674055_e3e8c5f4064e4f4da6f9221c9a3bbfea_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_e3e8c5f4064e4f4da6f9221c9a3bbfea_mv2.webp"
+      ],
+      "contenido": [
+        "1 Arreglo floral 10 rosas",
+        "1 Media figura de chocolate en forma de oso",
+        "1 Manzana cubierta de chocolate",
+        "1 Base circular en cartón",
+        "1 Tarjeta personalizada"
+      ],
+      "tags": [
+        "halloween",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4e001851-2df0-0640-bf62-d6c0f40b0f19",
+      "nombre": "Sweet Halloween",
+      "slug": "halloween-sweet-halloween",
+      "precio": 164900,
+      "precioAnterior": 197400,
+      "descripcion": "Contiene:\n2000gramos mix de gomas y masmelos\n1 calavera accesorio\n1 base circular en carton decorada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_860e863fabe244db87662d223bb84a85_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_860e863fabe244db87662d223bb84a85_mv2.webp"
+      ],
+      "contenido": [
+        "2000gramos mix de gomas y masmelos",
+        "1 calavera accesorio",
+        "1 base circular en carton decorada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "halloween",
+        "promociones"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_cd5a96c5-34b9-f5f7-5e36-2eaef43b9186",
+      "nombre": "Victor and Emily forever",
+      "slug": "fresas-chocolate-victor-and-emily",
+      "precio": 150900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 caja de carton rectangular decorada\n5 chocolate relleno\n1 botella de vino gato negro 375ml\n1 copa de vino\n6 fresas con chocolate decoradas\n3 flores en globo\n1 set de luces\n5 monedas de chocolate\n1 tarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/f3554f_0e499167c4454fefb1f97bb1b740a725_mv2.webp",
+      "galeria": [
+        "/images/shop/f3554f_0e499167c4454fefb1f97bb1b740a725_mv2.webp"
+      ],
+      "contenido": [
+        "1 caja de carton rectangular decorada",
+        "5 chocolate relleno",
+        "1 botella de vino gato negro 375ml",
+        "1 copa de vino",
+        "6 fresas con chocolate decoradas",
+        "3 flores en globo",
+        "1 set de luces",
+        "5 monedas de chocolate",
+        "1 tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "fresas-con-chocolate",
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_8eb49e74-36ce-7ce5-730a-e68a9f3e7907",
+      "nombre": "Fresas del terror",
+      "slug": "fresas-chocolate-fresas-del-terror",
+      "precio": 136900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Peluche\n8 Fresas decoradas\n1 Caja de carton\n1 Set de luces\n1 Tarjeta Personalizada\nEl tipo de peluche esta sujeto a disponibilidad de la tienda",
+      "imagen": "/images/shop/674055_81164c233f41414199b6a054e60a0cf4_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_81164c233f41414199b6a054e60a0cf4_mv2.webp"
+      ],
+      "contenido": [
+        "1 Peluche",
+        "8 Fresas decoradas",
+        "1 Caja de carton",
+        "1 Set de luces",
+        "1 Tarjeta Personalizada"
+      ],
+      "tags": [
+        "fresas-con-chocolate",
+        "halloween",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_30e4aba5-06c5-15dc-e4ee-0ff4766d1966",
+      "nombre": "Strawberries of fear",
+      "slug": "fresas-chocolate-strawberries-fear",
+      "precio": 81900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 caja de carton en forma de atud\nUna porcion de masmellos\n4 Fresas decoradas con stiker\n1 Tarjeta Personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_91a96b12b01f4252aacf199b61855808_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_91a96b12b01f4252aacf199b61855808_mv2.webp"
+      ],
+      "contenido": [
+        "1 caja de carton en forma de atud",
+        "Una porcion de masmellos",
+        "4 Fresas decoradas con stiker",
+        "1 Tarjeta Personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "fresas-con-chocolate",
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_0740c62f-4d47-b366-4ea2-a689b76d6b47",
+      "nombre": "Dark Wish",
+      "slug": "halloween-dark-wish",
+      "precio": 81900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\nCaja en cartón cuadrada , incluye mensaje pre-diseñado\n16 mix de gomas surtidas\n1 tarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_e86c09db3fa84902a6fd478505964b5a_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_e86c09db3fa84902a6fd478505964b5a_mv2.webp"
+      ],
+      "contenido": [
+        "Caja en cartón cuadrada , incluye mensaje pre-diseñado",
+        "16 mix de gomas surtidas",
+        "1 tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "halloween",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "creepy-box",
+      "nombre": "Creepy Box",
+      "slug": "halloween-creepy-box",
+      "precio": 153900,
+      "precioAnterior": 198446,
+      "descripcion": "Contenido:\n1 Corazón de chocolate\n1 Caja decorada 30x40 cm\nMix de dulces\n1 Tarjeta personalizada\n** El contenido, Decoración y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/beab81ca-e1e0-4142-949f-ddbe08566eaa.webp",
+      "galeria": [
+        "/images/shop/beab81ca-e1e0-4142-949f-ddbe08566eaa.webp"
+      ],
+      "contenido": [
+        "1 Corazón de chocolate",
+        "1 Caja decorada 30x40 cm",
+        "Mix de dulces",
+        "1 Tarjeta personalizada ** El contenido, Decoración y productos están sujetos a disponibilidad de la tienda"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_c83886f0-291b-a71d-d7f3-51b1cf9c7986",
+      "nombre": "Botiquín de dulces (A010)",
+      "slug": "halloween-botiquin-dulces",
+      "precio": 81900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\n6 Frascos \"levanta ánimo\" rellenos de gomas surtidas\n1 Caja de cartón decorada\nEl diseño y decoración están sujetos a disponibilidad y al motivo del detalle",
+      "imagen": "/images/shop/a0d7111b-f527ed_c24f471a24824641902cc7cddd9990e8_mv2.webp",
+      "galeria": [
+        "/images/shop/a0d7111b-f527ed_c24f471a24824641902cc7cddd9990e8_mv2.webp"
+      ],
+      "contenido": [
+        "6 Frascos \"levanta ánimo\" rellenos de gomas surtidas",
+        "1 Caja de cartón decorada"
+      ],
+      "tags": [
+        "halloween",
+        "mejorate",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_4b84d12e-71cb-35ad-24a0-18bdcd8f1d90",
+      "nombre": "Bandeja Mix Gomas",
+      "slug": "entregas-para-el-mismo-dia-bandeja-mix-gomas",
+      "precio": 123900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nBandeja con 5 mix de gomas (1 kg)\nTarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_b1a100085c9641f78a9b91120817a752_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_b1a100085c9641f78a9b91120817a752_mv2.webp"
+      ],
+      "contenido": [
+        "Bandeja con 5 mix de gomas (1 kg)",
+        "Tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "halloween",
+        "mismo-dia",
+        "ninos"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_d8ec8d16-00ee-79ce-b61d-04b1caaebda0",
+      "nombre": "Candy Heart",
+      "slug": "regalo-cumpleanos-candy-heart",
+      "precio": 123900,
+      "precioAnterior": 152466,
+      "descripcion": "Contiene:\n10 Tipos De Gomas De 100 gr Cada Una\n1 Caja De Tic-Tac\n1 Caja De Carton En Forma De Corazón De Color Negro Con Tapa\nEl diseño, y el color están sujetos a disponibilidad de la Tienda.",
+      "imagen": "/images/shop/f527ed_2f7e2702ef5f491aa68e70c01fb7f5de_mv2.webp",
+      "galeria": [
+        "/images/shop/f527ed_2f7e2702ef5f491aa68e70c01fb7f5de_mv2.webp"
+      ],
+      "contenido": [
+        "10 Tipos De Gomas De 100 gr Cada Una",
+        "1 Caja De Tic-Tac",
+        "1 Caja De Carton En Forma De Corazón De Color Negro Con Tapa"
+      ],
+      "tags": [
+        "cumpleanos",
+        "halloween",
+        "mismo-dia",
+        "ninos",
+        "promo",
+        "promociones",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_630f6fa5-6b40-15ef-c89e-440c38d8de48",
+      "nombre": "Gomas Box",
+      "slug": "amor-amistad-gomas-box",
+      "precio": 95900,
+      "precioAnterior": null,
+      "descripcion": "Contenido:\nCaja de cartón\n2 vasos mix de gomas de 12 onzas\nTarjeta personalizada\nStiker personalizado - edicion Halloween/ fecha especial\n**\nEl contenido, colores y productos están sujetos a disponibilidad de la tienda",
+      "imagen": "/images/shop/Disenosintitulo_51.webp",
+      "galeria": [
+        "/images/shop/Disenosintitulo_51.webp"
+      ],
+      "contenido": [
+        "Caja de cartón",
+        "2 vasos mix de gomas de 12 onzas",
+        "Tarjeta personalizada",
+        "Stiker personalizado - edicion Halloween/ fecha especial"
+      ],
+      "tags": [
+        "amor",
+        "Amor y Amistad",
+        "halloween",
+        "mismo-dia",
+        "san-valentin"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_26306c89-64ad-1cda-26d8-0ec8e220b19c",
+      "nombre": "Dosis Personal",
+      "slug": "dia-de-la-mujer-dosis-personal",
+      "precio": 116900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n1 Mix de gomas de 2000 gramos\n1 Frasco de vidrio\n1 Tarjeta personalizada\n1 Caja de carton decorada\nEl tipo de Gomas esta sujeto a la disponibilidad de la tienda",
+      "imagen": "/images/shop/app-image-2024-04-16-at-10-13-04-am.webp",
+      "galeria": [
+        "/images/shop/app-image-2024-04-16-at-10-13-04-am.webp"
+      ],
+      "contenido": [
+        "1 Mix de gomas de 2000 gramos",
+        "1 Frasco de vidrio",
+        "1 Tarjeta personalizada",
+        "1 Caja de carton decorada"
+      ],
+      "tags": [
+        "halloween",
+        "ninos",
+        "para-el",
+        "para-ella"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "product_626e2697-1855-d613-2998-ca8157d93a24",
+      "nombre": "Vintage Colors",
+      "slug": "entregas-para-el-mismo-dia-vintage-colors",
+      "precio": 136900,
+      "precioAnterior": null,
+      "descripcion": "Contiene:\n10 fresas con chocolate decoradas\n11 rosas colores variados\n1 base en forma de nido\npapel decorativo\n1 moño personalizado\n1 tarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
+      "imagen": "/images/shop/674055_42c700c5e3ad4c478fec8aae5e987ae5_mv2.webp",
+      "galeria": [
+        "/images/shop/674055_42c700c5e3ad4c478fec8aae5e987ae5_mv2.webp"
+      ],
+      "contenido": [
+        "10 fresas con chocolate decoradas",
+        "11 rosas colores variados",
+        "1 base en forma de nido",
+        "papel decorativo",
+        "1 moño personalizado",
+        "1 tarjeta personalizada **El contenido, decoración y productos están sujetos a disponibilidad de la tien da"
+      ],
+      "tags": [
+        "fresas-con-chocolate",
+        "halloween",
+        "mismo-dia",
+        "rosas"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "halloween",
+      "camposExtra": {
+        "motivo": {
+          "label": "¿Cuál es el motivo del regalo?",
+          "tipo": "select",
+          "requerido": true,
+          "options": [
+            "Aniversario",
+            "Cumpleaños",
+            "Recupérate pronto",
+            "Feliz día",
+            "Otro"
+          ]
+        },
+        "foto": {
+          "label": "¿Deseas agregar foto?",
+          "tipo": "foto",
+          "requerido": false,
+          "precio": 5500,
+          "maxFotos": 5
+        },
+        "extras": {
+          "label": "Extras / Adicionales",
+          "tipo": "extras",
+          "requerido": false,
+          "items": [
+            {
+              "nombre": "Bombones Ferrero Rocher x8",
+              "precio": 38561
+            },
+            {
+              "nombre": "Whisky Deluxe BUCHANAN'S 375 ml",
+              "precio": 143061
+            },
+            {
+              "nombre": "Chocolatina HERSHEYS Cookies N Creme 43g",
+              "precio": 7838
+            },
+            {
+              "nombre": "Vino tinto Gato Negro",
+              "precio": 64686
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

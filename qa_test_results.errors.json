@@ -1,0 +1,1002 @@
+[
+  {
+    "cedula": "78000000",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000001",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000002",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000003",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000004",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000005",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000006",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000007",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000008",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000009",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000010",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000011",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000012",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000013",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000014",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000015",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000016",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000017",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000018",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000019",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000020",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000021",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000022",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000023",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000024",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000025",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000026",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000027",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000028",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000029",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000030",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000031",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000032",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000033",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000034",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000035",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000036",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000037",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000038",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000039",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000040",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000041",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000042",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000043",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000044",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000045",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000046",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000047",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000048",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000049",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000050",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000051",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000052",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000053",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000054",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000055",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000056",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000057",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000058",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000059",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000060",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000061",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000062",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000063",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000064",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000065",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000066",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000067",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000068",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000069",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000070",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000071",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000072",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000073",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000074",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000075",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000076",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000077",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000078",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000079",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000080",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000081",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000082",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000083",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000084",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000085",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000086",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000087",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000088",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000089",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000090",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000091",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000092",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000093",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000094",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000095",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000096",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000097",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000098",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  },
+  {
+    "cedula": "78000099",
+    "response": {
+      "message": "No se encontro un registro para ese tipo y numero de identificacion",
+      "info": {
+        "holderId": 0
+      }
+    },
+    "note": "Respuesta sin datos válidos de holder"
+  }
+]
