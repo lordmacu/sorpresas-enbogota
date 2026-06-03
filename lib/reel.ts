@@ -83,7 +83,7 @@ export function buildReelJson(reel: { slug: string; nombre: string; items: Scrap
     nombre: p.nombre,
     precio: p.precio,
     precioFormateado: formatCOP(p.precio),
-    imageUrl: `${SITE_URL}${p.imagen}`,
+    imageUrl: `${SITE_URL}/api/card/${p.slug}`, // JPEG (compatible con Instagram)
     productUrl: `${SITE_URL}/producto/${p.slug}`,
   }));
   const tema = TEMA[reel.slug] || reel.nombre.toLowerCase();
