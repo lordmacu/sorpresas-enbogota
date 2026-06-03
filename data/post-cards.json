@@ -1,0 +1,778 @@
+{
+  "cards": [
+    {
+      "slug": "amor-amistad-super-brunch",
+      "nombre": "Super Brunch",
+      "precio": 87900,
+      "precioAnterior": 125900,
+      "descripcion": "Contenido: 3 Bombas R12 1 Queso personal 3 Fresas cubiertas de chocolate con uchuvas 1 Sándwich (pan con ajonjolí doble jamón y doble queso) 1 Galletas tosh 1 Parfait de yogurt, granola, kiwi, fresa y arándanos 1 Jugo hit 1 Manzana roja 1 Granadilla 1 Base de cartón decorada 1 Tarjeta personalizada ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "3 Bombas R12",
+        "1 Queso personal",
+        "3 Fresas cubiertas de chocolate con uchuvas",
+        "1 Sándwich (pan con ajonjolí doble jamón y doble queso)"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-super-brunch.jpg"
+    },
+    {
+      "slug": "amor-amistad-amazing-breakfast",
+      "nombre": "Amazing Breakfast",
+      "precio": 103351,
+      "precioAnterior": null,
+      "descripcion": "Contenido: Juego naranja en botella Sándwich (pan con ajonjolí, doble jamón y doble queso) 5 fresas cubiertas de chocolate parfait de yogurt, granola, kiwi, fresa y arándanos 1 manzana 1 copa 1 porción de galletas 1 Base decorada 1 Set de cubiertos ** El producto, contenido y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "Juego naranja en botella",
+        "Sándwich (pan con ajonjolí, doble jamón y doble queso)",
+        "5 fresas cubiertas de chocolate",
+        "parfait de yogurt, granola, kiwi, fresa y arándanos"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-amazing-breakfast.jpg"
+    },
+    {
+      "slug": "amor-amistad-sweet-brunch",
+      "nombre": "Sweet Brunch",
+      "precio": 81900,
+      "precioAnterior": null,
+      "descripcion": "Contenido 1 Base de cartón 1 Frapuchino 1 Porción de Waffles 1 Mini Nutella 1 Porción de miel Wraps de jamón, queso y uchuvas Barra de milkyway 1 Mini parfait ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "1 Base de cartón",
+        "1 Frapuchino",
+        "1 Porción de Waffles",
+        "1 Mini Nutella"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-sweet-brunch.jpg"
+    },
+    {
+      "slug": "amor-amistad-ancheta-primavera",
+      "nombre": "Ancheta Primavera (A006)",
+      "precio": 80900,
+      "precioAnterior": 119900,
+      "descripcion": "Contenido: 1 Peluche pequeño 1 Caja de Chocolates corazón x 8 Unidades 1 Rosa 1 Globo metalizado 20\" 1 Caja de cartón corrugada decorada El diseño de las bombas, y el peluche pueden variar según disponibilidad.",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "1 Peluche pequeño",
+        "1 Caja de Chocolates corazón x 8 Unidades",
+        "1 Rosa",
+        "1 Globo metalizado 20\""
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-ancheta-primavera.jpg"
+    },
+    {
+      "slug": "amor-amistad-breakfast",
+      "nombre": "Breakfast UP",
+      "precio": 119900,
+      "precioAnterior": 159900,
+      "descripcion": "Contenido: 1 jugo de naranja 1 Muffin o ponquecito 1 sándwich de pan artesanal doble jamón doble queso porción de fresas naturales porcion de uva porcion de uchuvas porcion de waffles con arandanos porcion de nutella y miel 1 rosa en chorizo con queso y jamón *La disponibilidad de los productos quedan sujetos a tienda*",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "1 jugo de naranja",
+        "1 Muffin o ponquecito",
+        "1 sándwich de pan artesanal doble jamón doble queso",
+        "porción de fresas naturales"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-breakfast.jpg"
+    },
+    {
+      "slug": "amor-amistad-brunch-soleado",
+      "nombre": "Brunch Soleado",
+      "precio": 149900,
+      "precioAnterior": 179900,
+      "descripcion": "Contenido: 6 girasoles 1 jugo naranja en botella 3 Fresas cubiertas de chocolate con uchuvas 1 wafle con porción miel y nutella Tarjeta personalizada 1 base",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "6 girasoles",
+        "1 jugo naranja en botella",
+        "3 Fresas cubiertas de chocolate con uchuvas",
+        "1 wafle con porción miel y nutella"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-brunch-soleado.jpg"
+    },
+    {
+      "slug": "amor-amistad-combo-breakfast",
+      "nombre": "Combo Breakfast",
+      "precio": 124900,
+      "precioAnterior": 179900,
+      "descripcion": "Contenido: 1 Jugo 1 Kiwi 1 Manzana verde 1 Manzana Roja 1 Galleta 1 Queso Pera 1 Waffle Base decorada Tarjeta Personalizada - Bouquet de flores tropicales ** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "1 Jugo",
+        "1 Kiwi",
+        "1 Manzana verde",
+        "1 Manzana Roja"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-combo-breakfast.jpg"
+    },
+    {
+      "slug": "amor-amistad-combo-brunch",
+      "nombre": "Combo Brunch",
+      "precio": 189900,
+      "precioAnterior": 209900,
+      "descripcion": "Contenido: 2 Wraps de jamon y queso 1 Jugo de naranja 1 Porcion de fresas con uchuvas 1 Wafle con porcion de miel y nutella 1 Banano cubierto de chocolate y mani 1 Caja de 30x30cm Tarjeta Personalizada - Bouquet de flores tropicales ** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "2 Wraps de jamon y queso",
+        "1 Jugo de naranja",
+        "1 Porcion de fresas con uchuvas",
+        "1 Wafle con porcion de miel y nutella"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-combo-brunch.jpg"
+    },
+    {
+      "slug": "feliz-dia-mama",
+      "nombre": "Feliz Día Mamá",
+      "precio": 99900,
+      "precioAnterior": null,
+      "descripcion": "Contenido: 1 Botella de jugo 1 Queso pera 3 Fresas cubiertas de chocolate con uchuvas 1 Sandwich pan con ajonjolí, doble jamón y doble queso 1 Caja con mensaje 1 Tarjeta personalizada ** El contenido, Decoración y productos están sujetos a disponibilidad de la tienda",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "1 Botella de jugo",
+        "1 Queso pera",
+        "3 Fresas cubiertas de chocolate con uchuvas",
+        "1 Sandwich pan con ajonjolí, doble jamón y doble queso"
+      ],
+      "imagen": "/images/ig-cards/feliz-dia-mama.jpg"
+    },
+    {
+      "slug": "amor-amistad-sweet-mom",
+      "nombre": "Sweet Mom",
+      "precio": 159900,
+      "precioAnterior": 219900,
+      "descripcion": "Contiene: 1 Jugos de naranja 1 porcion de fruta picada 1 manzana 1 sándwich de doble jamon doble queso y lechuga 1 set de cubiertos 1 base decorada + 1 bouquet de flores variadas **El contenido, productos y decoración están sujetos a disponibilidad de la tienda**",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "1 Jugos de naranja",
+        "1 porcion de fruta picada",
+        "1 manzana",
+        "1 sándwich de doble jamon doble queso y lechuga"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-sweet-mom.jpg"
+    },
+    {
+      "slug": "amor-amistad-caja-magica-surprise",
+      "nombre": "Caja mágica surprise brunch",
+      "precio": 313396,
+      "precioAnterior": 438796,
+      "descripcion": "Contenido: Caja mágica Ramo de Rosas 🌹 18 rosas Bandeja Sandwich Manzana Pera Kiwi Jugo de naranja Maíz soplado Parfait Bombas con helio 9 Incluye fotos ** El contenido, productos y decoración están sujetas a validación",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "Caja mágica",
+        "Ramo de Rosas 🌹 18 rosas",
+        "Bandeja",
+        "Sandwich"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-caja-magica-surprise.jpg"
+    },
+    {
+      "slug": "camino-de-gloria",
+      "nombre": "Camino de Gloria",
+      "precio": 199900,
+      "precioAnterior": 249900,
+      "descripcion": "Contenido: 5 Girasoles Arreglo de Rosas y Lirios Canasta o Base Cilindrica Porcion de uvas (verdes o moradas) 4 Manzanas rojas 4 Manzanas verdes 3 Kiwi 1 Durazno 1 Naranja Imagen impresa religiosa Tarjeta personalizada ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "5 Girasoles",
+        "Arreglo de Rosas y Lirios",
+        "Canasta o Base Cilindrica",
+        "Porcion de uvas (verdes o moradas)"
+      ],
+      "imagen": "/images/ig-cards/camino-de-gloria.jpg"
+    },
+    {
+      "slug": "amor-de-stitch",
+      "nombre": "Amor de Stitch",
+      "precio": 313396,
+      "precioAnterior": 438796,
+      "descripcion": "Contenido: 1 Peluche de Stitch 30 CM 1 Corazón de rosas 10 Ferreros Mensaje personalizado en la tapa1 Tarjeta ** El contenido, productos y decoración están sujetas a validación",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "1 Peluche de Stitch 30 CM",
+        "1 Corazón de rosas",
+        "10 Ferreros",
+        "Mensaje personalizado en la tapa1 Tarjeta"
+      ],
+      "imagen": "/images/ig-cards/amor-de-stitch.jpg"
+    },
+    {
+      "slug": "amor-amistad-promo-special-breakfast",
+      "nombre": "Promo Special Breakfast",
+      "precio": 169900,
+      "precioAnterior": 219900,
+      "descripcion": "Contenido : Sándwich de jamón de cordero, queso y lechuga Waffle con miel y chocolate moffin porcion de galletas Jugo de naranja cafe frio o tehatsu Bowl de Yogur, Granola y Fruta Porción de fresas 2 Sobres de té set Cubiertos termo caja decorada ** El contenido, decoración y productos están sujetos a disponibilidad de la tienda",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "Sándwich de jamón de cordero, queso y lechuga",
+        "Waffle con miel y chocolate",
+        "moffin",
+        "porcion de galletas"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-promo-special-breakfast.jpg"
+    },
+    {
+      "slug": "amor-amistad-promo-brunch",
+      "nombre": "Promo Brunch",
+      "precio": 119900,
+      "precioAnterior": 169900,
+      "descripcion": "Contenido: Porción de wraps de jamón y queso 1 jugo naranja en botella 1 porción de fresas con uchuvas 1 wafle con porción miel y nutella 1 banano cubierto con chocolate y mani triturado Juego de cubierto 1 caja de 30*30 Moño Tarjeta personalizada - Cerveza Gratis **El producto, la decoración y el contenido están sujetos a disponibilidad de la tienda.",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "Porción de wraps de jamón y queso",
+        "1 jugo naranja en botella",
+        "1 porción de fresas con uchuvas",
+        "1 wafle con porción miel y nutella"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-promo-brunch.jpg"
+    },
+    {
+      "slug": "amor-amistad-combo-ejecutiva",
+      "nombre": "Combo Ejecutiva",
+      "precio": 169900,
+      "precioAnterior": 199900,
+      "descripcion": "Contenido: Caja de 6 Fresas Bouquet de Flor variada ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "Caja de 6 Fresas",
+        "Bouquet de Flor variada"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-combo-ejecutiva.jpg"
+    },
+    {
+      "slug": "promo-desayuno-1",
+      "nombre": "Promo Desayuno",
+      "precio": 119900,
+      "precioAnterior": 169900,
+      "descripcion": "Contenido : 2 Sandwich de jamón, queso, lechuga y tomate cherry 1 Porción de papas con salsa 1 Porción de fresas naturales con masmellosy uchuvas 1 Porción de galletas 1 Porción de tortas caja decorada 1 set de cubiertos 1 cerveza ** El contenido, decoración y productos están sujetos a disponibilidad de la tienda",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "2 Sandwich de jamón, queso, lechuga y tomate cherry",
+        "1 Porción de papas con salsa",
+        "1 Porción de fresas naturales con masmellosy uchuvas",
+        "1 Porción de galletas"
+      ],
+      "imagen": "/images/ig-cards/promo-desayuno-1.jpg"
+    },
+    {
+      "slug": "amor-amistad-bouquet-futbolero-panini",
+      "nombre": "Bouquet Futbolero Panini + Tabla de Queso",
+      "precio": 209900,
+      "precioAnterior": 259900,
+      "descripcion": "Contenido 1 Base decorada 13 Sobres Panini Moño decorativo Papel decorativo Tarjeta Personalizada + Mini Tabla De Quesos ** El contenido, productos, decoración y sobres están sujetos a disponibilidad de la tienda **",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "1 Base decorada",
+        "13 Sobres Panini",
+        "Moño decorativo",
+        "Papel decorativo"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-bouquet-futbolero-panini.jpg"
+    },
+    {
+      "slug": "amor-amistad-ancheta-amore-mio",
+      "nombre": "Ancheta Amore Mio (A051)",
+      "precio": 348900,
+      "precioAnterior": null,
+      "descripcion": "Contenido: 1 Tabla de quesos madurados con fruta 1 Botella de vinon tinto 2 Copas de vino rellenas de monedas de chocolate 1 Paquete de chocolates Ferrero Rocher x 3 unidades 1 Porción de frutos secos 125gr 1 Porción de fruta deshidratada 125gr 1 Globo burbuja con mensaje prediseñado incluye bombas R12 en el interior 1 Balde de madera decorado El diseño del mensaje y el color de las bombas está sujeto a disponibilidad de la tienda.",
+      "categoria": "amor-amistad",
+      "contenido": [
+        "1 Tabla de quesos madurados con fruta",
+        "1 Botella de vinon tinto",
+        "2 Copas de vino rellenas de monedas de chocolate",
+        "1 Paquete de chocolates Ferrero Rocher x 3 unidades"
+      ],
+      "imagen": "/images/ig-cards/amor-amistad-ancheta-amore-mio.jpg"
+    },
+    {
+      "slug": "aniversario-real",
+      "nombre": "Aniversario Real",
+      "precio": 128000,
+      "precioAnterior": 169900,
+      "descripcion": "Contenido: 1 Corazón de chocolate 8 Fresas con licor 1 Base de cartón negra 8 Monedas de chocolate ** El contenido, Decoración y productos están sujetos a disponibilidad de la tienda**",
+      "categoria": "amor",
+      "contenido": [
+        "1 Corazón de chocolate",
+        "8 Fresas con licor",
+        "1 Base de cartón negra",
+        "8 Monedas de chocolate"
+      ],
+      "imagen": "/images/ig-cards/aniversario-real.jpg"
+    },
+    {
+      "slug": "regalo-amor-ramo-bicolor-lotso",
+      "nombre": "Ramo bicolor Lotso",
+      "precio": 319900,
+      "precioAnterior": 369900,
+      "descripcion": "Contenido: 1 Peluche 1 Arreglo en rosas 2 Globos en forma de corazón metalizados 1 Base de cartón duro ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "amor",
+      "contenido": [
+        "1 Peluche",
+        "1 Arreglo en rosas",
+        "2 Globos en forma de corazón metalizados",
+        "1 Base de cartón duro"
+      ],
+      "imagen": "/images/ig-cards/regalo-amor-ramo-bicolor-lotso.jpg"
+    },
+    {
+      "slug": "regalo-amor-combo-fresh",
+      "nombre": "Combo Fresh",
+      "precio": 233976,
+      "precioAnterior": 269900,
+      "descripcion": "Contenido: 1 Sandwich de jamón pavo, queso y lechuga. 1 Botella de jugo de naranja 327 ml 1 Porción de fresas naturales 1 Botella de Capuchino o Te Hatsu 285ml 1 Porción de miel 1 Honey Dipper 2 Waffles acompañados de mini nutella 1 Porción de frutos secos 1 Porción de frutos deshidratados 1 Paquete de galletas Quaker - Bouquet de Flores tropicales ** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
+      "categoria": "amor",
+      "contenido": [
+        "1 Sandwich de jamón pavo, queso y lechuga.",
+        "1 Botella de jugo de naranja 327 ml",
+        "1 Porción de fresas naturales",
+        "1 Botella de Capuchino o Te Hatsu 285ml"
+      ],
+      "imagen": "/images/ig-cards/regalo-amor-combo-fresh.jpg"
+    },
+    {
+      "slug": "regalo-amor-combo-desayuno",
+      "nombre": "Combo Desayuno",
+      "precio": 179900,
+      "precioAnterior": 209900,
+      "descripcion": "Contenido: 2 Sandwich de jamon, queso y lechuga 4 Mini tomates 1 Porcion de papas con salsa rosada 1 Jugo natural 1 Porcion de fresas naturales con masmellos y uchuvas 1 Porcion de galletas 1 Porcion de torta 1 Caja de 30x30cm Tarjeta Personalizada - Bouquet de flores tropicales ** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
+      "categoria": "amor",
+      "contenido": [
+        "2 Sandwich de jamon, queso y lechuga",
+        "4 Mini tomates",
+        "1 Porcion de papas con salsa rosada",
+        "1 Jugo natural"
+      ],
+      "imagen": "/images/ig-cards/regalo-amor-combo-desayuno.jpg"
+    },
+    {
+      "slug": "regalo-amor-deluxe-mama",
+      "nombre": "Deluxe Mamá",
+      "precio": 209900,
+      "precioAnterior": 259900,
+      "descripcion": "Contiene: 1 Jugos de naranja 1 porción de fruta picada 1 mini parfait 1 sándwich con doble jamon doble queso y lechuga 1 set de cubiertos 2 sobres de aromatica 1 rosa de salami con jamon y queso 1 porción de galletas 1 porción de fresas, uchuvas y arandanos 1 caja decorada + 1 bouquet de flores variadas **El contenido, productos y decoración están sujetos a disponibilidad de la tienda**",
+      "categoria": "amor",
+      "contenido": [
+        "1 Jugos de naranja",
+        "1 porción de fruta picada",
+        "1 mini parfait",
+        "1 sándwich con doble jamon doble queso y lechuga"
+      ],
+      "imagen": "/images/ig-cards/regalo-amor-deluxe-mama.jpg"
+    },
+    {
+      "slug": "infinite-bliss",
+      "nombre": "Infinite Bliss",
+      "precio": 179900,
+      "precioAnterior": 219900,
+      "descripcion": "Contiene: 1 sandwihs doble jamon doble queso y lechuga 1 manzana roja 1 porcion de fruta picada 1 jugo de naranja 2 aromaticas set de cubiertos caja decorada + Bouquet de Flores Variadas **El contenido, productos y decoración están sujetos a disponibilidad de la tienda**",
+      "categoria": "amor",
+      "contenido": [
+        "1 sandwihs doble jamon doble queso y lechuga",
+        "1 manzana roja",
+        "1 porcion de fruta picada",
+        "1 jugo de naranja"
+      ],
+      "imagen": "/images/ig-cards/infinite-bliss.jpg"
+    },
+    {
+      "slug": "regalo-amor-bouquet-futbolero-panini",
+      "nombre": "Bouquet Futbolero Panini",
+      "precio": 129900,
+      "precioAnterior": 179900,
+      "descripcion": "Contenido 1 Base decorada 13 Sobres Panini Moño decorativo Papel decorativo Tarjeta Personalizada ** El contenido, productos, decoración y sobres están sujetos a disponibilidad de la tienda **",
+      "categoria": "amor",
+      "contenido": [
+        "1 Base decorada",
+        "13 Sobres Panini",
+        "Moño decorativo",
+        "Papel decorativo"
+      ],
+      "imagen": "/images/ig-cards/regalo-amor-bouquet-futbolero-panini.jpg"
+    },
+    {
+      "slug": "ancheta-divina-guadalupe-copia",
+      "nombre": "Ancheta Divina milagrosa",
+      "precio": 313396,
+      "precioAnterior": null,
+      "descripcion": "Contiene: 8 globos cromados r12 en forma de ramillete 1 virgen 40 cm pintada en dorado 2 velones con mensaje arreglo floral de 33 rosas aprox 10 chocolates rellenos 1 guacal en madera 50 cm con mensaje personalizado 1 tarjeta personalizada ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "anchetas-de-cumpleanos",
+      "contenido": [
+        "8 globos cromados r12 en forma de ramillete",
+        "1 virgen 40 cm pintada en dorado",
+        "2 velones con mensaje",
+        "arreglo floral de 33 rosas aprox"
+      ],
+      "imagen": "/images/ig-cards/ancheta-divina-guadalupe-copia.jpg"
+    },
+    {
+      "slug": "balloon-surprise-balloon-fantasy-woman",
+      "nombre": "Balloon fantasy woman (B004-2)",
+      "precio": 227706,
+      "precioAnterior": 259056,
+      "descripcion": "Contenido: 1 Peluche mediano 1 Globo burbuja con mensaje prediseñado 6 Bombas mini o 3 Bombas R12 1 Caja de chocolates 8 unidades 1 Cerveza Corona Mini 207 ml 1 Paquete de barquillos Piazza 1 Paquete de maní la especial 1 Chocolatina Hershey's milk mhocolate 1 Chocolatina Hershey's milk chocolate cookies and cream 1 Paquete de chocolates M & M milk chocolate 1 Paquete de chocolates Ferrero Rocher x 3 Unidades 3 Chocolatinas Chocostop 1 Tarjeta 1 Base de madera tipo papelera decorada El diseño del mensaje prediseñado, el peluche, el color de los globos de relleno esta sujeto a disponibilidad de la tienda",
+      "categoria": "balloon-surprise",
+      "contenido": [
+        "1 Peluche mediano",
+        "1 Globo burbuja con mensaje prediseñado",
+        "6 Bombas mini o 3 Bombas R12",
+        "1 Caja de chocolates 8 unidades"
+      ],
+      "imagen": "/images/ig-cards/balloon-surprise-balloon-fantasy-woman.jpg"
+    },
+    {
+      "slug": "balloon-surprise-ocaso-cervecero",
+      "nombre": "Ocaso Cervecero",
+      "precio": 312351,
+      "precioAnterior": null,
+      "descripcion": "Contenido: 5 Bombas R12 cromados en helio 1 Globo burbuja 24\" con mensaje personalizado 3 Bombas cromadas internas 3 Cervezas alemanas en lata 1 Caja de chocolates Ferrero X 8 unidades 1 Piazza 1 Caja de chocolates 2 Chocolatinas Hershey´s 1 Chocolatina Snickers 1 Chocolatina Milkyway 1 Papas Pringles personales 1 Guacal de 30 cm x 40 cm 1 Tarjeta personalizada La decoración y color de globos están sujetos a disponibilidad de la Tienda.",
+      "categoria": "balloon-surprise",
+      "contenido": [
+        "5 Bombas R12 cromados en helio",
+        "1 Globo burbuja 24\" con mensaje personalizado",
+        "3 Bombas cromadas internas",
+        "3 Cervezas alemanas en lata"
+      ],
+      "imagen": "/images/ig-cards/balloon-surprise-ocaso-cervecero.jpg"
+    },
+    {
+      "slug": "cali-valle-del-cauca-beauty-flowers",
+      "nombre": "Beauty Flowers",
+      "precio": 250696,
+      "precioAnterior": 438796,
+      "descripcion": "Contenido: 1 Ramo de rosas y follaje 1 Caja de Ferreros 1 Globo con pintura interna y mensaje 1 Chenet de 200 ml 1 Tarjeta ** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "cali-valle-del-cauca",
+      "contenido": [
+        "1 Ramo de rosas y follaje",
+        "1 Caja de Ferreros",
+        "1 Globo con pintura interna y mensaje",
+        "1 Chenet de 200 ml"
+      ],
+      "imagen": "/images/ig-cards/cali-valle-del-cauca-beauty-flowers.jpg"
+    },
+    {
+      "slug": "regalo-cumpleanos-sweet-girasol",
+      "nombre": "Sweet Girasol",
+      "precio": 84541,
+      "precioAnterior": null,
+      "descripcion": "Contiene: 6 Fresas con Chocolate 3 Girasoles Moño Decorativo Tarjeta Personalizada",
+      "categoria": "cumpleanos",
+      "contenido": [
+        "6 Fresas con Chocolate",
+        "3 Girasoles",
+        "Moño Decorativo",
+        "Tarjeta Personalizada"
+      ],
+      "imagen": "/images/ig-cards/regalo-cumpleanos-sweet-girasol.jpg"
+    },
+    {
+      "slug": "regalo-cumpleanos-red-brunch",
+      "nombre": "Red Brunch",
+      "precio": 79900,
+      "precioAnterior": 129900,
+      "descripcion": "Contenido: Globo metalizado Base de carton decorada Jugo de naranja Porción de fresa Porción de arándanos Porción de masmelos 3 waffles acompañados de Nutella y miel Un solitario con una rosa Tarjetas personalizadas ** El producto, decoración y contenido están sujetos a disponibilidad de la tienda.",
+      "categoria": "cumpleanos",
+      "contenido": [
+        "Globo metalizado",
+        "Base de carton decorada",
+        "Jugo de naranja",
+        "Porción de fresa"
+      ],
+      "imagen": "/images/ig-cards/regalo-cumpleanos-red-brunch.jpg"
+    },
+    {
+      "slug": "tabla-de-quesos-father",
+      "nombre": "Bouquet Flower",
+      "precio": 229900,
+      "precioAnterior": 269900,
+      "descripcion": "Contenido: Chorizo curado 280 gr 1 Queso mozzarella 250 gr Queso ahumado o peper jack en cubos Apio 1 Paquete de cabano x6 de 70 gr 3 Kiwis 3 Fresas naturales 1 Porción de 100 gr de uchuvas 1 Porción de arándanos de 10 gr 1 Salami 160 gr 1 Porción de frutos secos Hojas de menta y romero Caja ** El contenido, productos y decoración está sujeto a disponibilidad de la tienda",
+      "categoria": "cumpleanos",
+      "contenido": [
+        "Chorizo curado 280 gr",
+        "1 Queso mozzarella 250 gr",
+        "Queso ahumado o peper jack en cubos",
+        "Apio"
+      ],
+      "imagen": "/images/ig-cards/tabla-de-quesos-father.jpg"
+    },
+    {
+      "slug": "regalo-cumpleanos-brunch-premiun",
+      "nombre": "Brunch Premiun",
+      "precio": 319800,
+      "precioAnterior": null,
+      "descripcion": "Contiene:. 1 Porción de wafles con Nutella 1 parfait boul (arándanos, granalola, yogurt, kiwi, fresa) 1 porción de frutos secos 1 porción de frutos deshidratados 2 aromáticas 1 manzana roja manzana y 1 verde 1 kiwi 1 porción de uvas 1 Naranja tangelo 1 jugo de naranja 1 muffin 1 frapuchino 1 sándwich artesanal 1 porción de miel 1 queso pera 1 set de cubiertos 1 copa de vidrio 1 bandeja de desayuno 1 mantel 1 tarjeta con mensaje personalizado 1 globo burbuja #18 con 6 globos r5 y mensaje personalizado 6 globos r5 **El contenido, decoración, y productos están sujetos a disponibilidad de la tien da",
+      "categoria": "cumpleanos",
+      "contenido": [
+        "1 Porción de wafles con Nutella",
+        "1 parfait boul (arándanos, granalola, yogurt, kiwi, fresa)",
+        "1 porción de frutos secos",
+        "1 porción de frutos deshidratados"
+      ],
+      "imagen": "/images/ig-cards/regalo-cumpleanos-brunch-premiun.jpg"
+    },
+    {
+      "slug": "desayunos-sorpresa-mas-vendidos-brunch-sorpresa-dia",
+      "nombre": "Brunch Sorpresa Día Especial",
+      "precio": 104396,
+      "precioAnterior": null,
+      "descripcion": "Contenido: 2 wraps de jamon y queso 1 jugo naranja en botella 1 porción de fresas con uchuvas 1 wafle con porción miel y nutella 1 banano cubierto con chocolate y mani triturado Juego de cubierto Servilleta 1 caja de 30*30 Moño Tarjeta personalizada",
+      "categoria": "desayunos-sorpresa-mas-vendidos",
+      "contenido": [
+        "2 wraps de jamon y queso",
+        "1 jugo naranja en botella",
+        "1 porción de fresas con uchuvas",
+        "1 wafle con porción miel y nutella"
+      ],
+      "imagen": "/images/ig-cards/desayunos-sorpresa-mas-vendidos-brunch-sorpresa-dia.jpg"
+    },
+    {
+      "slug": "desayunos-sorpresa-mas-vendidos-brunch-snoopy",
+      "nombre": "Brunch Snoopy",
+      "precio": 89900,
+      "precioAnterior": null,
+      "descripcion": "Contenido : 2 waffles 1 porción de miel 1 porción de Nutella 1 jugo de naranja 1 sandwich de pan artesanal con doble jamón y doble queso 1 manzana roja 1 manzana verde 1 granadilla 1 porción de fresas con uchuvas y arándanos 1 porción de gomitas surtidas 1 Smoothie fruta picada y Froot loops ** El contenido, decoración y productos están sujetos a disponibilidad de la tienda",
+      "categoria": "desayunos-sorpresa-mas-vendidos",
+      "contenido": [
+        "2 waffles",
+        "1 porción de miel",
+        "1 porción de Nutella",
+        "1 jugo de naranja"
+      ],
+      "imagen": "/images/ig-cards/desayunos-sorpresa-mas-vendidos-brunch-snoopy.jpg"
+    },
+    {
+      "slug": "desayunos-sorpresa-mas-vendidos-brunch-para-mama",
+      "nombre": "Brunch para Mamá",
+      "precio": 189900,
+      "precioAnterior": 209900,
+      "descripcion": "Contenido: 1 jugo 300ml 5 fresas naturales 1 porción de arándanos 1 porción uchuvas 3 fresas con chocolate 1 porción de wafle 1porcion de miel y nutela 1 porción de mini 1 masmellos 300gr de fruta picada Sándwich pan tajado sin bordes 1 galleta quaker porción de uva set de cubiertos ** El producto, la decoración y el contenido están sujetos a disponibilidad de la tienda",
+      "categoria": "desayunos-sorpresa-mas-vendidos",
+      "contenido": [
+        "1 jugo 300ml",
+        "5 fresas naturales",
+        "1 porción de arándanos",
+        "1 porción uchuvas"
+      ],
+      "imagen": "/images/ig-cards/desayunos-sorpresa-mas-vendidos-brunch-para-mama.jpg"
+    },
+    {
+      "slug": "desayunos-sorpresa-mas-vendidos-mega-brunch",
+      "nombre": "Mega Brunch",
+      "precio": 238000,
+      "precioAnterior": 261146,
+      "descripcion": "Contenido: 1 Porción de wafles con nutella 1 parfait boul (arandanos, granalola, yogour, kiwi, fresa) 1 porción de frutos secos 1 porción de frutos deshidratados 2 aromáticas 1 manzana roja manzana verde 1 kiwi 1 porción de uvas 1 porción de fresas con uchuvas 1 jugo de naranja 1 muffin 1 frapuchino 1 sándwich artesanal 1 porción de miel 1 set de cubiertos 1 copa de vidrio 1 bandeja de desayuno 1 decoracion de mantel 1 tarjeta con mensaje personalizado",
+      "categoria": "desayunos-sorpresa-mas-vendidos",
+      "contenido": [
+        "1 Porción de wafles con nutella",
+        "1 parfait boul (arandanos, granalola, yogour, kiwi, fresa)",
+        "1 porción de frutos secos",
+        "1 porción de frutos deshidratados"
+      ],
+      "imagen": "/images/ig-cards/desayunos-sorpresa-mas-vendidos-mega-brunch.jpg"
+    },
+    {
+      "slug": "desayunos-sorpresa-mas-vendidos-luna-roja",
+      "nombre": "Luna Roja (D042)",
+      "precio": 248606,
+      "precioAnterior": 279956,
+      "descripcion": "Contenido: 26 Rosas en arreglo floral media luna 1 Peluche mediano 1 Sandwich de pan, jamón y queso 1 Vaso de vidrio relleno de granola 1 Yogurt griego Alpina 1 Paquete de platanitos natuchips 1 Queso Pera 1 Botella de jugo 2 Manzana rojas 1 Manzana verde 1 Kiwi 1 Pera 1 Globo burbuja grande con mensaje prediseñado 7 Bombas R12 cromadas infladas con helio 3 Bombas R12 1 Guacal de madera decorado ** El diseño del mensaje, el globo burbuja, el peluche y el color de las rosas está sujeta a disponibilidad de la tienda.",
+      "categoria": "desayunos-sorpresa-mas-vendidos",
+      "contenido": [
+        "26 Rosas en arreglo floral media luna",
+        "1 Peluche mediano",
+        "1 Sandwich de pan, jamón y queso",
+        "1 Vaso de vidrio relleno de granola"
+      ],
+      "imagen": "/images/ig-cards/desayunos-sorpresa-mas-vendidos-luna-roja.jpg"
+    },
+    {
+      "slug": "desayuno-brunch-graduacion",
+      "nombre": "Brunch Graduación",
+      "precio": 87900,
+      "precioAnterior": 125296,
+      "descripcion": "Contenido: 3 Bombas R12 3 Fresas cubiertas de chocolate con uchuvas 1 Sándwich (pan con ajonjolí doble jamón y doble queso) 1 Galletas tosh 1 Parfait de yogurt, granola, kiwi, fresa y arándanos 1 Jugo hit 1 Manzana roja 1 Granadilla 1 Yogurt 1 Base de cartón decorada 1 Tarjeta personalizada ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "desayunos-sorpresas",
+      "contenido": [
+        "3 Bombas R12",
+        "3 Fresas cubiertas de chocolate con uchuvas",
+        "1 Sándwich (pan con ajonjolí doble jamón y doble queso)",
+        "1 Galletas tosh"
+      ],
+      "imagen": "/images/ig-cards/desayuno-brunch-graduacion.jpg"
+    },
+    {
+      "slug": "desayuno-brunch-mickey",
+      "nombre": "Brunch Mickey",
+      "precio": 83496,
+      "precioAnterior": 114846,
+      "descripcion": "Contenido: 2 waffles de Mickey 1 porción de miel 1 porción de Nutella 1 jugo de naranja 1 sandwich de pan artesanal con doble jamón y doble queso 1 manzana roja 1 manzana verde 1 granadilla 1 porción de fresas con uchuvas y arándanos 1 porción de gomitas surtidas 1 Smoothie fruta picada y Froot loops ** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "categoria": "desayunos-sorpresas",
+      "contenido": [
+        "2 waffles de Mickey",
+        "1 porción de miel",
+        "1 porción de Nutella",
+        "1 jugo de naranja"
+      ],
+      "imagen": "/images/ig-cards/desayuno-brunch-mickey.jpg"
+    },
+    {
+      "slug": "desayuno-happy-brunch",
+      "nombre": "Happy brunch",
+      "precio": 109900,
+      "precioAnterior": 139900,
+      "descripcion": "Contenido: 2 Globo metalizado pequeño 1 Bombas R12 1 Peluche pequeño 3 Fresas cubiertas de chocolate con uchuvas 1 Sándwich (pan con ajonjolí doble jamón y doble queso) 1 Galletas tosh 1 Bonyurt 1 Jugo hit 1 Manzana verde 1 Base de cartón decorada 1 Tarjeta personalizada ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "desayunos-sorpresas",
+      "contenido": [
+        "2 Globo metalizado pequeño",
+        "1 Bombas R12",
+        "1 Peluche pequeño",
+        "3 Fresas cubiertas de chocolate con uchuvas"
+      ],
+      "imagen": "/images/ig-cards/desayuno-happy-brunch.jpg"
+    },
+    {
+      "slug": "dia-de-la-madre-productos-top-canasta-gold",
+      "nombre": "Canasta Gold",
+      "precio": 329900,
+      "precioAnterior": 438796,
+      "descripcion": "Contenido: Arreglo de 48 rosas 1 Porción de bananos 1 Porción de uvas moradas 1 Porción de uvas verdes 2 Manzanas rojas 2 Mandarinas 1 Naranja 1 Mango 1 Porción de ciruela 1 Porción de fresa 1 Pera 2 Kiwis 1 Manzana verde ** Producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "categoria": "dia-de-la-madre-productos-top",
+      "contenido": [
+        "Arreglo de 48 rosas",
+        "1 Porción de bananos",
+        "1 Porción de uvas moradas",
+        "1 Porción de uvas verdes"
+      ],
+      "imagen": "/images/ig-cards/dia-de-la-madre-productos-top-canasta-gold.jpg"
+    },
+    {
+      "slug": "dia-de-la-mujer-eternal-roses",
+      "nombre": "Eternal Roses",
+      "precio": 143900,
+      "precioAnterior": 449350,
+      "descripcion": "Contenido: 8 Rosas eternas en tela 8 Ferreros ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "dia-de-la-mujer",
+      "contenido": [
+        "8 Rosas eternas en tela",
+        "8 Ferreros"
+      ],
+      "imagen": "/images/ig-cards/dia-de-la-mujer-eternal-roses.jpg"
+    },
+    {
+      "slug": "ramo-flores-big-roses",
+      "nombre": "Big Roses",
+      "precio": 195900,
+      "precioAnterior": 289900,
+      "descripcion": "Contenido: 48 Rosas aprox. Base decorada **El contenido, productos, flores y colores están sujetos a disponibilidad de la tienda",
+      "categoria": "flores-rosas",
+      "contenido": [
+        "48 Rosas aprox.",
+        "Base decorada"
+      ],
+      "imagen": "/images/ig-cards/ramo-flores-big-roses.jpg"
+    },
+    {
+      "slug": "ramo-flores-luxury-breakfast",
+      "nombre": "Luxury Breakfast",
+      "precio": 312900,
+      "precioAnterior": 369900,
+      "descripcion": "Contiene: Arco en globo cromados 1 globo burbuja 24\" incluye globos internos y mensaje personalizado Arreglo floral 1 waffle 1 aromatica en sobre 3 mini croissants 1 porcion de fruta picada 1 avena 1 porción de mermelada 1 caja de chocolates 1 botella de jugo 1 tarjeta personalizada 1 bandeja de desayuno La decoración y color de bombas están sujetos a disponibilidad de la Tienda.",
+      "categoria": "flores-rosas",
+      "contenido": [
+        "Arco en globo cromados",
+        "1 globo burbuja 24\" incluye globos internos y mensaje personalizado",
+        "Arreglo floral",
+        "1 waffle"
+      ],
+      "imagen": "/images/ig-cards/ramo-flores-luxury-breakfast.jpg"
+    },
+    {
+      "slug": "balloon-beer",
+      "nombre": "Balloon Beer",
+      "precio": 198446,
+      "precioAnterior": 449350,
+      "descripcion": "Contenido: 1 Globo burbuja grande decorado 3 Bombas R12 cromados 1 Lata de papas Pringles original tamaño personal 6 Cervezas de acuerdo disponibilidad 2 Paquetes de mani La Especial 1 Base de cartón decorada ** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "flores-rosas",
+      "contenido": [
+        "1 Globo burbuja grande decorado",
+        "3 Bombas R12 cromados",
+        "1 Lata de papas Pringles original tamaño personal",
+        "6 Cervezas de acuerdo disponibilidad"
+      ],
+      "imagen": "/images/ig-cards/balloon-beer.jpg"
+    },
+    {
+      "slug": "mini-canasta-de-frutas",
+      "nombre": "Mini Canasta de frutas",
+      "precio": 114846,
+      "precioAnterior": null,
+      "descripcion": "Contenido: 1 Piña 1 Naranja 2 Manzanas verdes 2 Manzanas rojas 1 Pera 1 Porción de ciruela 1 Porción de fresa 2 Kiwis 1 Granadilla ** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
+      "categoria": "los-mas-vendidos",
+      "contenido": [
+        "1 Piña",
+        "1 Naranja",
+        "2 Manzanas verdes",
+        "2 Manzanas rojas"
+      ],
+      "imagen": "/images/ig-cards/mini-canasta-de-frutas.jpg"
+    },
+    {
+      "slug": "bendiciones-mama",
+      "nombre": "Bendiciones Mamá",
+      "precio": 251741,
+      "precioAnterior": null,
+      "descripcion": "Contenido: 1 Peluche 1 Arreglos de flores 6 Fresas con chocolate 1 Manzana 1 Pera 1 Galletas Moments 1 Chocolatina Hersheys ** El contenido, Decoración y productos están sujetos a disponibilidad de la tienda",
+      "categoria": "los-mas-vendidos",
+      "contenido": [
+        "1 Peluche",
+        "1 Arreglos de flores",
+        "6 Fresas con chocolate",
+        "1 Manzana"
+      ],
+      "imagen": "/images/ig-cards/bendiciones-mama.jpg"
+    },
+    {
+      "slug": "los-mas-vendidos-love-rose-pink",
+      "nombre": "Love In Rose Pink",
+      "precio": 521351,
+      "precioAnterior": null,
+      "descripcion": "Contiene: 1 Arreglo en rosas 1 Base de cartón duro 1 Arreglo de globos Arroz soplado Maíz soplado snack de frutos secos 1 Botella de vino gato negro 750 ml 16 Chocolates rellenos mercy 1 Peluche 1 Tarjeta personalizada ** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
+      "categoria": "los-mas-vendidos",
+      "contenido": [
+        "1 Arreglo en rosas",
+        "1 Base de cartón duro",
+        "1 Arreglo de globos",
+        "Arroz soplado"
+      ],
+      "imagen": "/images/ig-cards/los-mas-vendidos-love-rose-pink.jpg"
+    },
+    {
+      "slug": "los-mas-vendidos-beauty-sunflowers",
+      "nombre": "Beauty Sunflowers",
+      "precio": 386546,
+      "precioAnterior": null,
+      "descripcion": "Contenido: 20 Girasoles 12 Fresas con chocolate 1 Mariposa decorada en Luces. 3 Set de Luces. 6 Globos en helio 1 Balde de madera #4 negro 1 Tarjeta ** El contenido, Decoración y productos están sujetos a disponibilidad de la tienda",
+      "categoria": "los-mas-vendidos",
+      "contenido": [
+        "20 Girasoles",
+        "12 Fresas con chocolate",
+        "1 Mariposa decorada en Luces.",
+        "3 Set de Luces."
+      ],
+      "imagen": "/images/ig-cards/los-mas-vendidos-beauty-sunflowers.jpg"
+    },
+    {
+      "slug": "los-mas-vendidos-balloon-family",
+      "nombre": "Balloon Family (B021)",
+      "precio": 325936,
+      "precioAnterior": null,
+      "descripcion": "Contenido: 1 Arreglo de 15 rosas tipo exportación 1 Botella de vino tinto o Champaña 1 Caja de chocolates Ferrero Rocher x 8 unidades 2 Chocolatinas Hershey 43gr 2 Manzanas 2 Paquetes de mani la especial 1 Globo burbuja con mensaje prediseñado en el interior 4 Bombas R12 cromadas y 2 mil figuras 1 Balde de madera decorado 1 Mantel El diseño de mensaje prediseñado y el color de las rosas está sujeto a disponiblidad de la tienda",
+      "categoria": "los-mas-vendidos",
+      "contenido": [
+        "1 Arreglo de 15 rosas tipo exportación",
+        "1 Botella de vino tinto o Champaña",
+        "1 Caja de chocolates Ferrero Rocher x 8 unidades",
+        "2 Chocolatinas Hershey 43gr"
+      ],
+      "imagen": "/images/ig-cards/los-mas-vendidos-balloon-family.jpg"
+    }
+  ]
+}
