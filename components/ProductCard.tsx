@@ -30,7 +30,7 @@ export function ProductCard({ producto }: ProductCardProps) {
     // toda la card y el botón de WhatsApp queda como hermano, no anidado.
     <div className="group relative flex flex-col bg-white rounded-2xl overflow-hidden border border-[#F5E6D3] card-hover">
       {/* Image */}
-      <div className="relative aspect-[4/3] img-zoom bg-[#F5E6D3]/30 overflow-hidden">
+      <div className="relative aspect-[4/5] img-zoom bg-[#F5E6D3]/30 overflow-hidden">
         {producto.imagen ? (
           <Image
             src={producto.imagen}

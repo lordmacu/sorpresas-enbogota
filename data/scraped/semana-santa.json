@@ -13,7 +13,7 @@
       "precio": 110666,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Arreglo con 9 rosas, relleno con flores tropicales y follaje\n1 Racimo de bananos 200gr\n1 Racimo de uvas 150 gr\n1 Manzana Roja\n1 Manzana Verde\n1 Tarjeta\n1 Canasta decorada\nEl color de las flores está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_d4b1375380bd4bc19019e9df349bedeb_mv2.webp",
+      "imagen": "/images/cards/ramo-flores-canasta-tropical.webp",
       "galeria": [
         "/images/shop/674055_d4b1375380bd4bc19019e9df349bedeb_mv2.webp"
       ],
@@ -80,7 +80,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_d4b1375380bd4bc19019e9df349bedeb_mv2.webp"
     },
     {
       "id": "holy-fruits",
@@ -89,7 +90,7 @@
       "precio": 162916,
       "precioAnterior": 198446,
       "descripcion": "Contenido:\n1 Arreglo con 9 rosas, relleno con flores tropicales y follaje\n1 Racimo de bananos 200 gr\n1 Racimo de uvas 150 gr\n1 Manzana Roja\n1 Manzana Verde\n1 Figura de la virgen\n1 Tarjeta\n1 Canasta decorada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/sapp-image-2024-04-17-at-3-19-51-pm.webp",
+      "imagen": "/images/cards/holy-fruits.webp",
       "galeria": [
         "/images/shop/sapp-image-2024-04-17-at-3-19-51-pm.webp"
       ],
@@ -156,7 +157,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/sapp-image-2024-04-17-at-3-19-51-pm.webp"
     },
     {
       "id": "canasta-de-frutas-r053",
@@ -165,7 +167,7 @@
       "precio": 187996,
       "precioAnterior": 225616,
       "descripcion": "Contenido:\n1 Kilo de Uvas\n1 Porción de Fresas\n1 Racimo de Bananos X 6 Unidades\n1 Porción de Kiwi de 200 gr\n1 Piña\n1 Mango\n2 granadillas\n2 Manzanas Rojas\n2 Manzanas Verdes\n2 Peras\n2 Naranjas\n2 Mandarinas\n1 Durazno\n1 Ciruela\n1 Tarjeta\n1 Canasta decorada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_3.webp",
+      "imagen": "/images/cards/canasta-de-frutas-r053.webp",
       "galeria": [
         "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_3.webp"
       ],
@@ -241,7 +243,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_3.webp"
     },
     {
       "id": "product_6f8c8b1f-1bb1-0b54-3719-7a5fe30f9400",
@@ -250,7 +253,7 @@
       "precio": 195311,
       "precioAnterior": null,
       "descripcion": "Contiene:\nArreglo floral (margaritas, pinopios, pompones y follaje)\n1 Cúpula en vidrio y base de madera\n1 set de luces\n1 figura de virgen en yeso\n1 Base circular en cartón con tapa\n1 moño decorativo\n1 tarjeta personalizada",
-      "imagen": "/images/shop/674055_bb4b5e20e93b460684e25716f69f8ef8_mv2.webp",
+      "imagen": "/images/cards/regalo-cumpleanos-virgen-floral.webp",
       "galeria": [
         "/images/shop/674055_bb4b5e20e93b460684e25716f69f8ef8_mv2.webp"
       ],
@@ -319,7 +322,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_bb4b5e20e93b460684e25716f69f8ef8_mv2.webp"
     },
     {
       "id": "mini-canasta-de-frutas",
@@ -328,7 +332,7 @@
       "precio": 114846,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Piña\n1 Naranja\n2 Manzanas verdes\n2 Manzanas rojas\n1 Pera\n1 Porción de ciruela\n1 Porción de fresa\n2 Kiwis\n1 Granadilla\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_4.webp",
+      "imagen": "/images/cards/mini-canasta-de-frutas.webp",
       "galeria": [
         "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_4.webp",
         "/images/shop/jfifjdspjdfsadja-1.webp"
@@ -397,7 +401,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.36_AM_4.webp"
     },
     {
       "id": "product_eaa43e5b-96d2-4dd0-0602-4d3965b18975",
@@ -406,7 +411,7 @@
       "precio": 260101,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Arreglo de 35 rosas\n2 set de luces\n1 Botella de vino 187ml\n1 Copa\n1 Peluche de Ellie up\n1 Naranja\n1 Durazno\n2 Kiwi\n2 Manzanas rojas\n1 Pera\n8 Chocolates ferrero\n1 Base en madera 2 pisos\nEl diseño, color de rosas y peluche están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_8a0786bcf6594f7189a818483c948688_mv2.webp",
+      "imagen": "/images/cards/navidad-cascada-rosas.webp",
       "galeria": [
         "/images/shop/f527ed_8a0786bcf6594f7189a818483c948688_mv2.webp"
       ],
@@ -476,7 +481,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_8a0786bcf6594f7189a818483c948688_mv2.webp"
     },
     {
       "id": "product_77ece293-9609-7da7-d3bc-d7ce6e6a1de0",
@@ -485,7 +491,7 @@
       "precio": 273686,
       "precioAnterior": null,
       "descripcion": "Contenido:\n16 Rosas naturales aproximadamente pintadas con spray Dorado\n1 Cúpula en vidrio y base de madera\n1 figura de virgen en yeso\n1 Base circular\nSet de Luces\n1 Tarjeta personalizanada",
-      "imagen": "/images/shop/app-image-2024-04-09-at-10-55-27-pm.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-virgen-golden.webp",
       "galeria": [
         "/images/shop/app-image-2024-04-09-at-10-55-27-pm.webp"
       ],
@@ -552,7 +558,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/app-image-2024-04-09-at-10-55-27-pm.webp"
     },
     {
       "id": "product_f2ec3f99-da52-4a74-2f59-716b32fe5d85",
@@ -561,7 +568,7 @@
       "precio": 233976,
       "precioAnterior": null,
       "descripcion": "Contenido:\n10 Rosas con follaje tropical\n4 Lirios\nCesta\nBananos\nUvas\nNaranja\nPera\nFresas\nManzana\n1 Ferrero de 8 unidades\nTarjeta Personalizada\nMoño\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_276069839ee84c0591122125b5c9db2d_mv2.webp",
+      "imagen": "/images/cards/regalo-cumpleanos-stylish-lilies.webp",
       "galeria": [
         "/images/shop/674055_276069839ee84c0591122125b5c9db2d_mv2.webp"
       ],
@@ -633,7 +640,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_276069839ee84c0591122125b5c9db2d_mv2.webp"
     },
     {
       "id": "product_5d11e0bb-214e-3ce5-7649-5ce4afb3dc82",
@@ -642,7 +650,7 @@
       "precio": 247561,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Virgen en yeso pintada 30 cm aprox\nArreglo de rosas y follaje\n1 Pajarito decorativo\n1 Caja de galletas Danish\n1 Chocolatina Dolcevita\n1 Caja de chocolates Moments\n2 Manzanas rojas\n1 Manzana verde\n1 Pera\n2 Duraznos\n2 Kiwis\n1 Base en madera 2 niveles\n1 Set de luces\n1 Tarjeta personalizada\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2024-05-01at11.41.19PM.webp",
+      "imagen": "/images/cards/ancheta-cumpleanos-ancheta-medalla-milagrosa.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2024-05-01at11.41.19PM.webp"
       ],
@@ -716,7 +724,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2024-05-01at11.41.19PM.webp"
     },
     {
       "id": "camino-de-gloria",
@@ -725,7 +734,7 @@
       "precio": 199900,
       "precioAnterior": 249900,
       "descripcion": "Contenido:\n5 Girasoles\nArreglo de Rosas y Lirios\nCanasta o Base Cilindrica\nPorcion de uvas (verdes o moradas)\n4 Manzanas rojas\n4 Manzanas verdes\n3 Kiwi\n1 Durazno\n1 Naranja\nImagen impresa religiosa\nTarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp",
+      "imagen": "/images/cards/camino-de-gloria.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp"
       ],
@@ -813,7 +822,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp"
     },
     {
       "id": "canasta-gold",
@@ -822,7 +832,7 @@
       "precio": 329900,
       "precioAnterior": 438796,
       "descripcion": "Contenido:\nArreglo de 48 rosas\n1 Porción de bananos\n1 Porción de uvas moradas\n1 Porción de uvas verdes\n2 Manzanas rojas\n2 Mandarinas\n1 Naranja\n1 Mango\n1 Porción de ciruela\n1 Porción de fresa\n1 Pera\n2 Kiwis\n1 Manzana verde\n** Producto, decoración y contenido están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/img-20240418-wa0026.webp",
+      "imagen": "/images/cards/dia-de-la-madre-productos-top-canasta-gold.webp",
       "galeria": [
         "/images/shop/img-20240418-wa0026.webp"
       ],
@@ -896,7 +906,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/img-20240418-wa0026.webp"
     },
     {
       "id": "product_a4dcc43d-2844-f353-55f9-d76f799cb4e9",
@@ -905,7 +916,7 @@
       "precio": 194266,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Arreglo floral con 4 Rosas\n1 Racimo de 6 bananos\n1 Porción de kiwis de 200g\n3 Manzanas verdes\n3 Manzanas Rojas\n6 Ciruelas\n6 Duraznos\n6 Naranjas\n2 Mangos\n1 Balde de madera\n1 Moño\n1 Tarjeta con mensaje personalizado\nSi alguna fruta no está disponible en el momento, será reemplazada por otra. El color de las rosas, diseño del balde, la decoración y globos están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/dfb815_d4bec55803014803802242dfa3d9131d_mv2.webp",
+      "imagen": "/images/cards/semana-santa-esplendor-frutal.webp",
       "galeria": [
         "/images/shop/dfb815_d4bec55803014803802242dfa3d9131d_mv2.webp"
       ],
@@ -975,7 +986,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dfb815_d4bec55803014803802242dfa3d9131d_mv2.webp"
     },
     {
       "id": "virgen-luminosa",
@@ -984,7 +996,7 @@
       "precio": 325936,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Cúpula en vidrio\n1 Figura de la virgen\n(sujeto a disponibilidad de la tienda)\nFlores preservadas\n1 Set de luces\n1 Moño en tela\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2023-11-28at12.16.03PM.webp",
+      "imagen": "/images/cards/virgen-luminosa.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-11-28at12.16.03PM.webp"
       ],
@@ -1043,7 +1055,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-11-28at12.16.03PM.webp"
     },
     {
       "id": "product_5225bda1-6526-2a4c-a61e-7e184b0f3909",
@@ -1052,7 +1065,7 @@
       "precio": 273686,
       "precioAnterior": null,
       "descripcion": "Contiene:\nArreglo 16 Rosas naturales aproximadamente y follaje\n1 Cúpula en vidrio\n1 Base de madera\n1 Set de luces\n1 Figura de Virgen pintada en yeso\n1 Base en cartón liso circular\n1 Moño decorativo\n1 Tarjeta personalizada\nEl color de las rosas y de la virgen están sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/fff53a_b786e74de51c4185a7763b6f255678ff_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-virgen-celestial.webp",
       "galeria": [
         "/images/shop/fff53a_b786e74de51c4185a7763b6f255678ff_mv2.webp"
       ],
@@ -1121,7 +1134,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_b786e74de51c4185a7763b6f255678ff_mv2.webp"
     },
     {
       "id": "christmas-fruits",
@@ -1130,7 +1144,7 @@
       "precio": 247900,
       "precioAnterior": null,
       "descripcion": "Contenido\n:\nFigura en yeso de Bendición de los Alimentos\n500 gramos de Uvas\n1 Manzana roja\n1 Manzana verde\n1 Naranja\n1 Granadilla\n1 Mandarina\n1 Pera\n200gr Uchuvas\n200gr Arandanos\n200gr Ciruela\n200 gr Fresas\n1 Set de luces\nBase circular\nTarjeta personalizada\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2025-11-27at6.26.47PM.webp",
+      "imagen": "/images/cards/christmas-fruits.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2025-11-27at6.26.47PM.webp"
       ],
@@ -1202,7 +1216,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2025-11-27at6.26.47PM.webp"
     },
     {
       "id": "virgen-dorada",
@@ -1211,7 +1226,7 @@
       "precio": 260101,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Cúpula en vidrio\n1 Base de madera\n1 Set de luces\n1 Figura de virgen en yeso acompañada de pétalos preservados\n1 Tarjeta personalizada\n1 Moño decorativo\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp",
+      "imagen": "/images/cards/virgen-dorada.webp",
       "galeria": [
         "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp"
       ],
@@ -1275,7 +1290,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp"
     },
     {
       "id": "product_d7cc37e4-69bf-cc9a-83d4-64d1b7cfbab3",
@@ -1284,7 +1300,7 @@
       "precio": 215166,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 cúpula en vidrio\n1 virgen en yeso\n1 set de luces\n1 moño en tela\n1 velon con mensaje",
-      "imagen": "/images/shop/674055_b26fc050db074ee19b122b85b6a125cc_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-virgen-con-velon.webp",
       "galeria": [
         "/images/shop/674055_b26fc050db074ee19b122b85b6a125cc_mv2.webp"
       ],
@@ -1346,7 +1362,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_b26fc050db074ee19b122b85b6a125cc_mv2.webp"
     }
   ]
 }

@@ -13,7 +13,7 @@
       "precio": 198446,
       "precioAnterior": 250696,
       "descripcion": "1 bandeja de madera natural\n1 ramo de 24 rosas (rosas a disponibilidad )\n1 Sandwich doble jamon doble queso\n1 bonyurt\n1 manzana verde\n1 manzana roja\n1 jugo de naranja\n1 granadilla\n1 queso pera\n1 kiwi\n1 peluche pequeño\n2 globos sin helio\n3 globos con helio\n1 globo burbuja 18 con mensaje",
-      "imagen": "/images/shop/ChatGPTImageMay5_2026_12_37_40PM.webp",
+      "imagen": "/images/cards/desayuno-petite-love-gold.webp",
       "galeria": [
         "/images/shop/ChatGPTImageMay5_2026_12_37_40PM.webp",
         "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.35_AM.webp",
@@ -82,7 +82,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ChatGPTImageMay5_2026_12_37_40PM.webp"
     },
     {
       "id": "big-roses",
@@ -91,7 +92,7 @@
       "precio": 195900,
       "precioAnterior": 289900,
       "descripcion": "Contenido:\n48 Rosas aprox.\nBase decorada\n**El contenido, productos, flores y colores están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp",
+      "imagen": "/images/cards/ramo-flores-big-roses.webp",
       "galeria": [
         "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp"
       ],
@@ -154,7 +155,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp"
     },
     {
       "id": "corona-love",
@@ -163,7 +165,7 @@
       "precio": 179900,
       "precioAnterior": 229900,
       "descripcion": "Contenido:\nArreglo de rosas\nFresas con chocolate\n1 Botella de Baileys de 375 ml\n1 Set de luces\n**El color de los globos, los productos, contenidos y flores están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/WhatsAppImage2023-10-12at2.58.09PM.webp",
+      "imagen": "/images/cards/amor-amistad-corona-love.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-10-12at2.58.09PM.webp"
       ],
@@ -228,7 +230,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-10-12at2.58.09PM.webp"
     },
     {
       "id": "product_b58a9396-2aa6-8ba5-6a1a-4dc865783d74",
@@ -237,7 +240,7 @@
       "precio": 313396,
       "precioAnterior": 407446,
       "descripcion": "Contenido:\n1 Oso de peluche mediano\n32 Rosas en arreglo floral semi esfera\n1 Sandwich de pan, jamón y queso\n1 Vaso de vidrio relleno de granola\n1 Yogurt griego Alpina\n1 Caja de jugo\n1 Paquete de chocolates Ferrero Rocher x 3 unidades\n1 Queso pera\n2 Manzanas Rojas\n2 Peras\n1 Kiwi\n3 Chocolatinas Hershey's mini\n1 Globo burbuja con mensaje prediseñado\n8 Bombas mini o 3 Bombas R12\n9 Bombas R12 inflados con helio\n1 Mesa de madera plegable para desayuno en la cama\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_51a17ecd623d4feebf87f8a7073965c0_mv2.webp",
+      "imagen": "/images/cards/balloon-surprise-love-gold.webp",
       "galeria": [
         "/images/shop/674055_51a17ecd623d4feebf87f8a7073965c0_mv2.webp",
         "/images/shop/Screenshot-2024-04-13-08-47-56-041_com.android.chrome-edit.webp"
@@ -319,7 +322,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_51a17ecd623d4feebf87f8a7073965c0_mv2.webp"
     }
   ]
 }

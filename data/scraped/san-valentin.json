@@ -13,7 +13,7 @@
       "precio": 129900,
       "precioAnterior": 169900,
       "descripcion": "Contenido:\n2 Globos Metalizados en Forma de Corazón\nJugo de Naranja\nCopa de Frutas y Granola\nYogurt\nPan de Jamón, Queso y Lechuga\nFoto\nTarjeta personalizada\nCaja decorada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2026-01-24at9.47.52AM_1.webp",
+      "imagen": "/images/cards/san-valentin-edicion-especial.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-01-24at9.47.52AM_1.webp"
       ],
@@ -84,7 +84,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-01-24at9.47.52AM_1.webp"
     },
     {
       "id": "mi-amor-sincero",
@@ -93,7 +94,7 @@
       "precio": 289900,
       "precioAnterior": 329900,
       "descripcion": "Contenido:\nMargaritas\nAstromelias\nPompones\nClaveles\n8 Ferreros\n8 Fresas con chocolate\n** El contenido, Decoración y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/CopiadeSanValentin2026-7.webp",
+      "imagen": "/images/cards/mi-amor-sincero.webp",
       "galeria": [
         "/images/shop/CopiadeSanValentin2026-7.webp",
         "/images/shop/CopiadeSanValentin2026-8.webp",
@@ -162,7 +163,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/CopiadeSanValentin2026-7.webp"
     },
     {
       "id": "donde-nadie-pueda-ir",
@@ -171,7 +173,7 @@
       "precio": 273900,
       "precioAnterior": 305900,
       "descripcion": "Contenido:\nBandeja en forma de corazon\nArreglo de 28 rosas aprox\n1 Frapuchino\n1 Porcion de waffle con miel y chocolate\n1 Sandwich en forma de corazon doble queso y doble jamon\n1 Muffin\n1 Porcion de fresas con uchuvas, arandanos y masmellos\n1 Manzana roja\n1 Porcion de uvas\n1 Yogurt griego\nTarjeta personalizada\n** El contenido, Decoración y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/CopiadeSanValentin2026-4_1.webp",
+      "imagen": "/images/cards/donde-nadie-pueda-ir.webp",
       "galeria": [
         "/images/shop/CopiadeSanValentin2026-4_1.webp",
         "/images/shop/CopiadeSanValentin2026-5_1.webp",
@@ -247,7 +249,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/CopiadeSanValentin2026-4_1.webp"
     },
     {
       "id": "pequeno-jardin-de-rosas",
@@ -256,7 +259,7 @@
       "precio": 79900,
       "precioAnterior": 272900,
       "descripcion": "Contenido\n12 Rosas\nBase de\ncartón\ncircular\n1 Tarjeta Personalizada edicion especial\nno incluye el peluche de la foto\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
-      "imagen": "/images/shop/14.webp",
+      "imagen": "/images/cards/pequeno-jardin-de-rosas.webp",
       "galeria": [
         "/images/shop/14.webp",
         "/images/shop/20.webp"
@@ -320,7 +323,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/14.webp"
     },
     {
       "id": "bouquet-de-rosas-peluche-ediccion-amor",
@@ -329,7 +333,7 @@
       "precio": 180000,
       "precioAnterior": 272900,
       "descripcion": "Contenido:\nRamo de 12 rosas rojas o surtidas\nPeluche de 35 cm Oso o\ndisponible en tienda\nTarjeta personalizada edicion libro\nCaja de cartón decorada con stiker de temporada tipo bolsa\n**El contenido, rosas, decoración y productos están sujetos a disponibilidad de la tien\nda",
-      "imagen": "/images/shop/18.webp",
+      "imagen": "/images/cards/regalo-amor-bouquet-rosas-peluche.webp",
       "galeria": [
         "/images/shop/18.webp"
       ],
@@ -392,7 +396,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/18.webp"
     },
     {
       "id": "magnificent-roses",
@@ -401,7 +406,7 @@
       "precio": 390726,
       "precioAnterior": null,
       "descripcion": "Contenido:\n100 Rosas\n2 Lirios\n1 Peluche de 40 cm aprox.\n** El contenido, productos y colores están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/app-image-2024-04-15-at-11-31-09-am.webp",
+      "imagen": "/images/cards/san-valentin-magnificent-roses.webp",
       "galeria": [
         "/images/shop/app-image-2024-04-15-at-11-31-09-am.webp"
       ],
@@ -464,7 +469,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/app-image-2024-04-15-at-11-31-09-am.webp"
     },
     {
       "id": "corona-love",
@@ -473,7 +479,7 @@
       "precio": 179900,
       "precioAnterior": 229900,
       "descripcion": "Contenido:\nArreglo de rosas\nFresas con chocolate\n1 Botella de Baileys de 375 ml\n1 Set de luces\n**El color de los globos, los productos, contenidos y flores están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/WhatsAppImage2023-10-12at2.58.09PM.webp",
+      "imagen": "/images/cards/amor-amistad-corona-love.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-10-12at2.58.09PM.webp"
       ],
@@ -538,7 +544,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-10-12at2.58.09PM.webp"
     },
     {
       "id": "fruits-and-flower",
@@ -547,7 +554,7 @@
       "precio": 129476,
       "precioAnterior": 157691,
       "descripcion": "Contenido:\nRamo 16 rosas\nLirios o Girasoles\nPera\nManzana\nKiwi\nManzana Roja\n** El contenido, producto y decoración está sujeta a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2023-12-19at5.34.06PM.webp",
+      "imagen": "/images/cards/fruits-and-flower.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-12-19at5.34.06PM.webp",
         "/images/shop/WhatsApp_Image_2026-05-16_at_1.58.16_PM.webp"
@@ -613,7 +620,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-12-19at5.34.06PM.webp"
     },
     {
       "id": "brunch-love",
@@ -622,7 +630,7 @@
       "precio": 87900,
       "precioAnterior": 119900,
       "descripcion": "3 Bombas R12\n1 Queso personal\n3 Fresas cubiertas de chocolate con uchuvas\n1 Sándwich (pan con ajonjolí doble jamón y doble queso)\n1 Galletas tosh\n1 Parfait de yogurt, granola, kiwi, fresa y arándanos\n1 Jugo hit\n1 Manzana roja\n1 Granadilla\n1 Base de cartón decorada\n1 Tarjeta personalizada",
-      "imagen": "/images/shop/WhatsApp_Image_2024-09-12_at_1.27.11_PM.webp",
+      "imagen": "/images/cards/amor-amistad-amor-amistad-brunch.webp",
       "galeria": [
         "/images/shop/WhatsApp_Image_2024-09-12_at_1.27.11_PM.webp"
       ],
@@ -682,7 +690,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsApp_Image_2024-09-12_at_1.27.11_PM.webp"
     },
     {
       "id": "red-brunch",
@@ -691,7 +700,7 @@
       "precio": 79900,
       "precioAnterior": 129900,
       "descripcion": "Contenido:\nGlobo metalizado\nBase de carton decorada\nJugo de naranja\nPorción de fresa\nPorción de arándanos\nPorción de masmelos\n3 waffles acompañados de Nutella y miel\nUn solitario con una rosa\nTarjetas personalizadas\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda.",
-      "imagen": "/images/shop/sapp-image-2024-04-23-at-1-54-06-pm.webp",
+      "imagen": "/images/cards/regalo-cumpleanos-red-brunch.webp",
       "galeria": [
         "/images/shop/sapp-image-2024-04-23-at-1-54-06-pm.webp"
       ],
@@ -763,7 +772,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/sapp-image-2024-04-23-at-1-54-06-pm.webp"
     },
     {
       "id": "valentine-s-box",
@@ -772,7 +782,7 @@
       "precio": 79900,
       "precioAnterior": 134700,
       "descripcion": "Contenido:\nWafles en forma de corazón\n1 Porción de miel\n1 Nutella personal\n1 Porción de fruta\n1 Jugo de naranja\n1 Naranja\n1 Manzana\n1 Granadilla\nPinchos de tomate Cherry, Jamón y Queso\n1 Porción de papas fritas\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/img-20240413-wa0021.webp",
+      "imagen": "/images/cards/desayuno-brunch-primavera.webp",
       "galeria": [
         "/images/shop/img-20240413-wa0021.webp"
       ],
@@ -842,7 +852,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/img-20240413-wa0021.webp"
     },
     {
       "id": "product_b58a9396-2aa6-8ba5-6a1a-4dc865783d74",
@@ -851,7 +862,7 @@
       "precio": 313396,
       "precioAnterior": 407446,
       "descripcion": "Contenido:\n1 Oso de peluche mediano\n32 Rosas en arreglo floral semi esfera\n1 Sandwich de pan, jamón y queso\n1 Vaso de vidrio relleno de granola\n1 Yogurt griego Alpina\n1 Caja de jugo\n1 Paquete de chocolates Ferrero Rocher x 3 unidades\n1 Queso pera\n2 Manzanas Rojas\n2 Peras\n1 Kiwi\n3 Chocolatinas Hershey's mini\n1 Globo burbuja con mensaje prediseñado\n8 Bombas mini o 3 Bombas R12\n9 Bombas R12 inflados con helio\n1 Mesa de madera plegable para desayuno en la cama\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_51a17ecd623d4feebf87f8a7073965c0_mv2.webp",
+      "imagen": "/images/cards/balloon-surprise-love-gold.webp",
       "galeria": [
         "/images/shop/674055_51a17ecd623d4feebf87f8a7073965c0_mv2.webp",
         "/images/shop/Screenshot-2024-04-13-08-47-56-041_com.android.chrome-edit.webp"
@@ -933,7 +944,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_51a17ecd623d4feebf87f8a7073965c0_mv2.webp"
     },
     {
       "id": "pink-flork",
@@ -942,7 +954,7 @@
       "precio": 103351,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Base de madera decorada\n6 Fresas con chocolate\n1 Botella de JP Chennet de 200 ml\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2024-02-02at10.43.25AM_11zon.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-pink-flork.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2024-02-02at10.43.25AM_11zon.webp"
       ],
@@ -1003,7 +1015,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2024-02-02at10.43.25AM_11zon.webp"
     },
     {
       "id": "product_5a1e908d-8dcd-9350-1c1f-01fb17f9642e",
@@ -1012,7 +1025,7 @@
       "precio": 143061,
       "precioAnterior": null,
       "descripcion": "Contiene:\n5 Rosas\n6 fresas cubiertas de chocolate con mani y coco\n6 fresas cubiertas de chocolate\n8 chocolates ferrero",
-      "imagen": "/images/shop/674055_85f31f77e9b446dab3085d0bcb4247bc_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-bouquet-fresas-con.webp",
       "galeria": [
         "/images/shop/674055_85f31f77e9b446dab3085d0bcb4247bc_mv2.webp"
       ],
@@ -1080,7 +1093,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_85f31f77e9b446dab3085d0bcb4247bc_mv2.webp"
     },
     {
       "id": "product_a27f55b7-4ae4-e514-3617-e6ed0ff554b3",
@@ -1089,7 +1103,7 @@
       "precio": 114900,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Base de Carton Decorada\n1 Arreglo de rosas y Ferreros\n1 Tarjeta Personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
-      "imagen": "/images/shop/ChatGPT_Image_Mar_23_2026_05_18_44_PM.webp",
+      "imagen": "/images/cards/regalo-cumpleanos-mini-box-rosas.webp",
       "galeria": [
         "/images/shop/ChatGPT_Image_Mar_23_2026_05_18_44_PM.webp",
         "/images/shop/ChatGPT_Image_Mar_23_2026_05_17_25_PM.webp",
@@ -1160,7 +1174,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ChatGPT_Image_Mar_23_2026_05_18_44_PM.webp"
     },
     {
       "id": "product_f45bb335-e9a1-ba07-bd7e-43f5970c33dd",
@@ -1169,7 +1184,7 @@
       "precio": 352061,
       "precioAnterior": 383411,
       "descripcion": "Contiene:\nArreglo floral en rosas variadas 90 rosas aprox\n18 Fresas con chocolate\n12 fresas\n1 guacal negro de madera\n1 tarjeta personalizada\nLa decoración y color de bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/674055_26be0fdf30e7443694db152ae03042d7_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-madre-productos-top-perfect-colors-roses.webp",
       "galeria": [
         "/images/shop/674055_26be0fdf30e7443694db152ae03042d7_mv2.webp"
       ],
@@ -1243,7 +1258,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_26be0fdf30e7443694db152ae03042d7_mv2.webp"
     },
     {
       "id": "desayuno-bouquet",
@@ -1252,7 +1268,7 @@
       "precio": 119900,
       "precioAnterior": 149900,
       "descripcion": "Contenido\n1 sándwich\n1 waffle por 4\n1 mini Nutella\n1 jugo pequeño\nPorción de galletas\nPorción de papas\nPorción de miel\nPorción de masmelos\n1 yogour\n6 fresas\n1 porción de uchuvas\n1 porción de froot loops\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda.",
-      "imagen": "/images/shop/ImagendeWhatsApp2025-02-10alas08.51.02_a91c3c3b.webp",
+      "imagen": "/images/cards/amor-amistad-brunch-bouquet.webp",
       "galeria": [
         "/images/shop/ImagendeWhatsApp2025-02-10alas08.51.02_a91c3c3b.webp"
       ],
@@ -1328,7 +1344,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ImagendeWhatsApp2025-02-10alas08.51.02_a91c3c3b.webp"
     },
     {
       "id": "happy-stitch",
@@ -1337,7 +1354,7 @@
       "precio": 87900,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Muñeco en tela Stitch\n2 Cerveza Coronita\n1 Paquete de M&M Peanuts\n1 Chocolatina Hershey´s\n1 Mani la especial\n6 Chocolates rellenos\n1 Tarjeta personalizada\n1 Base en cartón corrugado\n**El diseño y muñeco están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/p-image-2024-01-16-at-4-22-29-pm-1.webp",
+      "imagen": "/images/cards/regalo-cumpleanos-happy-stitch.webp",
       "galeria": [
         "/images/shop/p-image-2024-01-16-at-4-22-29-pm-1.webp"
       ],
@@ -1403,7 +1420,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/p-image-2024-01-16-at-4-22-29-pm-1.webp"
     },
     {
       "id": "product_13a6e578-39b9-2a7f-cbe6-28f92134ea9d",
@@ -1412,7 +1430,7 @@
       "precio": 180681,
       "precioAnterior": 208896,
       "descripcion": "Contenido:\n1 Ramo de 18 rosas\n1 Chocolatina Kinder Bueno\n1 Chocolatina Hershey´s Milk Chocolate\n1 Champaña J.P Chenet 200ml\n1 Chocolates Ferrero x3\n1 Moño\n1 Caja decorada\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/dfb815_2c8e6baf7c6d415b862ed9fcd2525de2_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-perfect-woman.webp",
       "galeria": [
         "/images/shop/dfb815_2c8e6baf7c6d415b862ed9fcd2525de2_mv2.webp"
       ],
@@ -1481,7 +1499,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dfb815_2c8e6baf7c6d415b862ed9fcd2525de2_mv2.webp"
     },
     {
       "id": "product_ca020602-6039-3307-2f8c-150399e2cac7",
@@ -1490,7 +1509,7 @@
       "precio": 173366,
       "precioAnterior": 204716,
       "descripcion": "Contenido:\nArreglo floral diseño corazón\n1 Frasco de Nutella 325g\n2 Chocolatina Hershey’s Cookies & Cream\n1 Chocolatina Kinder Bueno\n2 Huevo sorpresa Kinder\n1 Caja de cartón corrugado decorada en forma de corazón\nEl diseño del mensaje, el color de las bombas y la decoración está sujeta en disponibilidad de la tienda*",
-      "imagen": "/images/shop/f527ed_b2c30a38881243fbae4a16871258a8dd_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-ancheta-primera-dama.webp",
       "galeria": [
         "/images/shop/f527ed_b2c30a38881243fbae4a16871258a8dd_mv2.webp"
       ],
@@ -1558,7 +1577,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_b2c30a38881243fbae4a16871258a8dd_mv2.webp"
     },
     {
       "id": "hola-amor",
@@ -1567,7 +1587,7 @@
       "precio": 233976,
       "precioAnterior": 265326,
       "descripcion": "Contenido:\n1 Baúl tapa volada en madera\n2 Set de luces\n1 Corazón en rosas (Arreglo de rosas)\n1 JP Channet de 200 ml\n2 Copas\n1 Caja de Ferrero x8\nPétalos de rosas\nEl color de las rosas y decoración esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/Regaloromantico.webp",
+      "imagen": "/images/cards/hola-amor.webp",
       "galeria": [
         "/images/shop/Regaloromantico.webp"
       ],
@@ -1634,7 +1654,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/Regaloromantico.webp"
     },
     {
       "id": "product_2787b81a-88bf-6752-c387-3e05fa44eaac",
@@ -1643,7 +1664,7 @@
       "precio": 181726,
       "precioAnterior": null,
       "descripcion": "Contenido:\n4 Hershey´s\n6 Mini Hershey´s\nArreglo de 28 rosas aprox\n1 Base de cartón piedra\n1 Tarjeta Personalizada\nEl color de las rosas y del corazón de madera están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/WhatsAppImage2023-10-15at7.53.48PM.webp",
+      "imagen": "/images/cards/amor-amistad-hershey-s-roses.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-10-15at7.53.48PM.webp"
       ],
@@ -1712,7 +1733,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-10-15at7.53.48PM.webp"
     },
     {
       "id": "product_d8ec8d16-00ee-79ce-b61d-04b1caaebda0",
@@ -1721,7 +1743,7 @@
       "precio": 123900,
       "precioAnterior": 152466,
       "descripcion": "Contiene:\n10 Tipos De Gomas De 100 gr Cada Una\n1 Caja De Tic-Tac\n1 Caja De Carton En Forma De Corazón De Color Negro Con Tapa\nEl diseño, y el color están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_2f7e2702ef5f491aa68e70c01fb7f5de_mv2.webp",
+      "imagen": "/images/cards/regalo-cumpleanos-candy-heart.webp",
       "galeria": [
         "/images/shop/f527ed_2f7e2702ef5f491aa68e70c01fb7f5de_mv2.webp"
       ],
@@ -1786,7 +1808,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_2f7e2702ef5f491aa68e70c01fb7f5de_mv2.webp"
     },
     {
       "id": "product_4dfdeea0-0e50-c4d6-bcf1-c870e3033505",
@@ -1795,7 +1818,7 @@
       "precio": 195311,
       "precioAnterior": null,
       "descripcion": "Contiene:\n16 Rosas\n12 Fresas con chocolate\n1 Girasol\n1 Caja decorada\n1 tarjeta personalizada\nEl color de las rosas esta sujeto a la disponibilidad de la tienda.",
-      "imagen": "/images/shop/Disenosintitulo-2023-09-18T120504.173.webp",
+      "imagen": "/images/cards/amor-amistad-roses-sweet-box.webp",
       "galeria": [
         "/images/shop/Disenosintitulo-2023-09-18T120504.173.webp"
       ],
@@ -1866,7 +1889,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/Disenosintitulo-2023-09-18T120504.173.webp"
     },
     {
       "id": "product_a28df042-e8bb-91e4-c81a-af5a9a994478",
@@ -1875,7 +1899,7 @@
       "precio": 198446,
       "precioAnterior": 239200,
       "descripcion": "Contiene:\n1 Globo burbuja 18 \" con mensaje personalizado\n12 fresas con chocolate\n6 chocolates bonkies\n1 Arreglo de gerberas\n1 Balde en madera\n1 moño decorativo\n1 Tarjeta personalizada\nLa decoración y color de bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/674055_9978f92a2ff3432993d21a2e36a35cd4_mv2.webp",
+      "imagen": "/images/cards/regalo-amor-sweet-colors.webp",
       "galeria": [
         "/images/shop/674055_9978f92a2ff3432993d21a2e36a35cd4_mv2.webp"
       ],
@@ -1940,7 +1964,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_9978f92a2ff3432993d21a2e36a35cd4_mv2.webp"
     },
     {
       "id": "product_c3571d4b-9cff-5316-fcfb-112f72386604",
@@ -1949,7 +1974,7 @@
       "precio": 129476,
       "precioAnterior": null,
       "descripcion": "Contenido:\nCorazón de chocolate\nRelleno de gomas variadas\nMartillo\nMasmelos\nTarjeta Personalizada",
-      "imagen": "/images/shop/e7026111e4770b83d9997948251ef-mv2-1.webp",
+      "imagen": "/images/cards/amor-amistad-fucsia-heart.webp",
       "galeria": [
         "/images/shop/e7026111e4770b83d9997948251ef-mv2-1.webp"
       ],
@@ -2013,7 +2038,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/e7026111e4770b83d9997948251ef-mv2-1.webp"
     },
     {
       "id": "bouquet-de-24-rosas-personalizado",
@@ -2022,7 +2048,7 @@
       "precio": 83496,
       "precioAnterior": 104396,
       "descripcion": "24 Rosas\n1 moño de cinta\n1 Tarjeta personalizada\n1 Ruana de floristería\nFiguras prediseñadas en papel fotográfico\n**El diseño de la ruana y la tarjeta, el color de la ruana y la cinta está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2024-09-13at2.23.03PM.webp",
+      "imagen": "/images/cards/amor-amistad-bouquet-rosas-personalizado.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2024-09-13at2.23.03PM.webp",
         "/images/shop/WhatsApp_Image_2024-09-13_at_2.23.04_PM.webp"
@@ -2092,7 +2118,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2024-09-13at2.23.03PM.webp"
     },
     {
       "id": "flork-strawberry",
@@ -2101,7 +2128,7 @@
       "precio": 103351,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Base de madera decorada\n9 Fresas con cubierta de chocolate rojo\n8 Ferrero\n1 Tarjeta\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2024-02-02at10.42.18AM_11zon.webp",
+      "imagen": "/images/cards/flork-strawberry.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2024-02-02at10.42.18AM_11zon.webp"
       ],
@@ -2162,7 +2189,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2024-02-02at10.42.18AM_11zon.webp"
     },
     {
       "id": "product_297b13e7-947b-6159-f5d9-e8a56f2b59b8",
@@ -2171,7 +2199,7 @@
       "precio": 273686,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Rosa preservada\n1 Set de Luces\n1 Base de madera\n1 Cúpula de vidrio\n1 cinta y moño decorativo\n1 Tarjeta con cuidados de la rosa\n1 Tarjeta con mensaje personalizado\nPétalos preservados\nLa decoración y los colores de la rosa están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/dfb815_7be2786928c04944a0f4de38a0e19a0a_mv2.webp",
+      "imagen": "/images/cards/regalo-cumpleanos-rosa-preservada-luces.webp",
       "galeria": [
         "/images/shop/dfb815_7be2786928c04944a0f4de38a0e19a0a_mv2.webp"
       ],
@@ -2241,7 +2269,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dfb815_7be2786928c04944a0f4de38a0e19a0a_mv2.webp"
     },
     {
       "id": "product_658850f3-ad73-cdce-5e0b-875509f80360",
@@ -2250,7 +2279,7 @@
       "precio": 521351,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Base de cartón duro\n1 Arreglo en rosas\n1 Arreglo de globos\n1 Botella de Champaña Chennet 750 ml\n2 Cajas de chocolates Ferrero X 8 unidades\n2 Copas de vidrio\n1 Tarjeta personalizada\n** Base disponible temporalmente solo en color natural\nLa decoración, el color de rosas y bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/WhatsAppImage2024-05-01at11.45.15PM.webp",
+      "imagen": "/images/cards/regalo-mama-love-rose.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2024-05-01at11.45.15PM.webp"
       ],
@@ -2322,7 +2351,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2024-05-01at11.45.15PM.webp"
     },
     {
       "id": "product_39e8f3a9-1d3e-fd7e-9f16-28569974a8a4",
@@ -2331,7 +2361,7 @@
       "precio": 262191,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Bouquet de 24 rosas\n1 Foto Impresa en papel fotográfico Full color\n1 Caja decorada\n1 Caja de chocolate Ferrero x 8 unidades\n1 Chocolatina Italo\n1 Tarjeta personalizada\n**\nEl color de las rosas y cofre están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/674055_7367e1ab341f484da65f7e9d060540de_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-luxury-roses.webp",
       "galeria": [
         "/images/shop/674055_7367e1ab341f484da65f7e9d060540de_mv2.webp"
       ],
@@ -2396,7 +2426,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_7367e1ab341f484da65f7e9d060540de_mv2.webp"
     },
     {
       "id": "talla-de-quesos-navidena",
@@ -2405,7 +2436,7 @@
       "precio": 143900,
       "precioAnterior": null,
       "descripcion": "Contenido\n:\nBotella vino tinto 750 ml\nMini tabla de quesos jamones y frutas\n** El contenido, colores y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2024-01-03at6.14.15PM.webp",
+      "imagen": "/images/cards/talla-de-quesos-navidena.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2024-01-03at6.14.15PM.webp"
       ],
@@ -2464,7 +2495,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2024-01-03at6.14.15PM.webp"
     },
     {
       "id": "product_076af40c-d0ce-3fe6-99d8-658ee7f668c1",
@@ -2473,7 +2505,7 @@
       "precio": 273686,
       "precioAnterior": null,
       "descripcion": "Contenido:\n2 Peluches 40 cm\n1 Arreglo floral 20 rosas\n1 Bomba R12 de corazón\n2 Bombas R6 de corazón\n1 Set de luces\n4 Fotos tamaño grande impresos en papel fotográfico\n8 Chocolates relleno Mercí\nCaja 50cm x 50cm decorada con base\n1 Tarjeta Personalizada\nLa decoración, peluches, color de rosas y luces están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_b7da63fd735d4c77a8f63e6cf8b47a5c_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-furia-luminosa-love.webp",
       "galeria": [
         "/images/shop/f527ed_b7da63fd735d4c77a8f63e6cf8b47a5c_mv2.webp"
       ],
@@ -2543,7 +2575,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_b7da63fd735d4c77a8f63e6cf8b47a5c_mv2.webp"
     },
     {
       "id": "product_d395aa88-01ff-9a89-fa8b-528f0b1a5586",
@@ -2552,7 +2585,7 @@
       "precio": 98126,
       "precioAnterior": 119026,
       "descripcion": "Contenido:\n1 Globo metalizado de 20\"\n2 Peluches pequeños de tela (Viejitos UP)\n1 Paquetes de Chocolates M&M\n1 Barra de chocolate MilkyWay\n1 Paquete de Chocmelo\n1 Paquete Nuggets Trululú\n2 Barquillo Piazza Jirafa\n1 Pincho de dulces surtidos\n1 Caja de cartón decorada\n1 Tarjeta Personalizada\nLa decoración, los peluches, los globos y bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_642bc71df745416d8a32b949d0b0822d_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-dulce-fantasia.webp",
       "galeria": [
         "/images/shop/f527ed_642bc71df745416d8a32b949d0b0822d_mv2.webp"
       ],
@@ -2624,7 +2657,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_642bc71df745416d8a32b949d0b0822d_mv2.webp"
     },
     {
       "id": "product_ea649bc2-c93f-add7-9444-18017ad4d30c",
@@ -2633,7 +2667,7 @@
       "precio": 221436,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Botella de whisky Buchanna´s 375 ml\n12 fresas decoradas y cubiertas de chocolate, galletas\n10 monedas de chocolate",
-      "imagen": "/images/shop/674055_bc960c47d8c442dd80e4402e28359b09_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-elegant-berries.webp",
       "galeria": [
         "/images/shop/674055_bc960c47d8c442dd80e4402e28359b09_mv2.webp"
       ],
@@ -2699,7 +2733,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_bc960c47d8c442dd80e4402e28359b09_mv2.webp"
     },
     {
       "id": "product_de327b31-3639-fa46-4891-6eb760f45be9",
@@ -2708,7 +2743,7 @@
       "precio": 181726,
       "precioAnterior": null,
       "descripcion": "Contiene:\n10 fresas con chocolate decoradas acompañadas de 10 cápsulas de Baileys\n1 corazón de chocolate acompañado de monedas\n1 base de cartón en forma de corazón\n1 tarjeta personalizada\n**El producto, contenido y color estan sujetos a disponibilidad de la tienda.",
-      "imagen": "/images/shop/674055_bb74672cc7c041979d89753ae0593329_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-fresas-con-licor.webp",
       "galeria": [
         "/images/shop/674055_bb74672cc7c041979d89753ae0593329_mv2.webp",
         "/images/shop/WhatsAppImage2023-10-20at6.06.38PM.webp"
@@ -2775,7 +2810,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_bb74672cc7c041979d89753ae0593329_mv2.webp"
     },
     {
       "id": "product_630f6fa5-6b40-15ef-c89e-440c38d8de48",
@@ -2784,7 +2820,7 @@
       "precio": 95900,
       "precioAnterior": null,
       "descripcion": "Contenido:\nCaja de cartón\n2 vasos mix de gomas de 12 onzas\nTarjeta personalizada\nStiker personalizado - edicion Halloween/ fecha especial\n**\nEl contenido, colores y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/Disenosintitulo_51.webp",
+      "imagen": "/images/cards/amor-amistad-gomas-box.webp",
       "galeria": [
         "/images/shop/Disenosintitulo_51.webp"
       ],
@@ -2848,7 +2884,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/Disenosintitulo_51.webp"
     },
     {
       "id": "product_1e0d8ce1-30e5-97b5-027b-747c209380aa",
@@ -2857,7 +2894,7 @@
       "precio": 64686,
       "precioAnterior": null,
       "descripcion": "Contenido:\n2 figuras de chocolate (como en la foto)\n4 corazones mini de chocolate\nCaja de cartón\nTarjeta personalizada\n**\nEl contenido, colores y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/Disenosintitulo_49.webp",
+      "imagen": "/images/cards/amor-amistad-choco-eiffel.webp",
       "galeria": [
         "/images/shop/Disenosintitulo_49.webp"
       ],
@@ -2920,7 +2957,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/Disenosintitulo_49.webp"
     },
     {
       "id": "product_97186574-3799-bcc3-298c-2161be259160",
@@ -2929,7 +2967,7 @@
       "precio": 233976,
       "precioAnterior": null,
       "descripcion": "Contenido:\n48 Rosas aprox\n1 Peluche de 35cm aprox\n1 set de luces\nTarjeta personalizada\nEl color de las rosas y el tipo de peluche esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_31db8c5f249e4352a99380544bac9deb_mv2.webp",
+      "imagen": "/images/cards/regalo-cumpleanos-osito-carinoso.webp",
       "galeria": [
         "/images/shop/674055_31db8c5f249e4352a99380544bac9deb_mv2.webp"
       ],
@@ -2994,7 +3032,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_31db8c5f249e4352a99380544bac9deb_mv2.webp"
     },
     {
       "id": "product_fc41c2d8-f8f5-28c1-1f15-c7dd80d458ef",
@@ -3003,7 +3042,7 @@
       "precio": 116936,
       "precioAnterior": null,
       "descripcion": "Contenido:\nCorazón de Cartón\nGomas Variadas\nTarjeta Personalizada",
-      "imagen": "/images/shop/674055_508781162b484ae49656695cf13ee352_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-blueberries-with-love.webp",
       "galeria": [
         "/images/shop/674055_508781162b484ae49656695cf13ee352_mv2.webp"
       ],
@@ -3065,7 +3104,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_508781162b484ae49656695cf13ee352_mv2.webp"
     },
     {
       "id": "fresas-de-mis-soles",
@@ -3074,7 +3114,7 @@
       "precio": 378186,
       "precioAnterior": null,
       "descripcion": "Contenido:\n5 Girasoles\n35 Fresas con chocolate\n1 Balde de madera\n1 Moño\n1 Tarjeta personalizada\n** El producto, contenido y decoración está sujeta a disponibilidad",
-      "imagen": "/images/shop/p-image-2024-02-02-at-9-29-33-am-1.webp",
+      "imagen": "/images/cards/fresas-de-mis-soles.webp",
       "galeria": [
         "/images/shop/p-image-2024-02-02-at-9-29-33-am-1.webp"
       ],
@@ -3137,7 +3177,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/p-image-2024-02-02-at-9-29-33-am-1.webp"
     },
     {
       "id": "big-bouquet-fresas-con-chocolate",
@@ -3146,7 +3187,7 @@
       "precio": 169186,
       "precioAnterior": null,
       "descripcion": "Contenido:\n16 Rosas\n12 Fresas cubiertas de chocolate\n8 Chocolates Ferrero\n1 Tarjeta personalizada\n** El color de los productos y de la decoración está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/Big-Bouquet-fresas-con-chocolate.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-big-bouquet-fresas.webp",
       "galeria": [
         "/images/shop/Big-Bouquet-fresas-con-chocolate.webp",
         "/images/shop/WhatsAppImage2023-10-20at6.06.40PM_2.webp"
@@ -3209,7 +3250,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/Big-Bouquet-fresas-con-chocolate.webp"
     },
     {
       "id": "beauty-heart",
@@ -3218,7 +3260,7 @@
       "precio": 348900,
       "precioAnterior": 448200,
       "descripcion": "Contenido:\nBase en forma de corazón\nOso peluche 35 cm aprox.\nArreglo de rosas en forma de corazón aprox. 48 rosas\n1 Set de luces\n1 Botella de Baileys 750 ml\n6 Fresas cubiertas de chocolate\n2 Copas con chocolates\n**El contenido, los colores, y la decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2023-10-17at11.44.33AM.webp",
+      "imagen": "/images/cards/amor-amistad-beauty-heart.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-10-17at11.44.33AM.webp",
         "/images/shop/p-image-2024-02-02-at-9-29-35-am-1.webp"
@@ -3286,7 +3328,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-10-17at11.44.33AM.webp"
     },
     {
       "id": "product_905832e3-84a7-9851-addf-b379caa27020",
@@ -3295,7 +3338,7 @@
       "precio": 314441,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Arreglo de globos en forma circular (colores a disponibilidad en tienda)\n1 champaña JP CHENET rosada 700ml\n1 Caja de chocolates Ferrero x 8 unidades\n1 Arreglo de rosas 4 niveles color de rosas 2 tonos\nBalde negro en madera #3\n1 tarjeta personalizada\nLa decoración, el color de las rosas y las bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/674055_6b81b044d9d04224832dac04791b2448_mv2.webp",
+      "imagen": "/images/cards/regalo-amor-mistica-colorida.webp",
       "galeria": [
         "/images/shop/674055_6b81b044d9d04224832dac04791b2448_mv2.webp"
       ],
@@ -3364,7 +3407,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_6b81b044d9d04224832dac04791b2448_mv2.webp"
     },
     {
       "id": "product_d49d9b8b-a2d7-816e-8381-6665163cca1e",
@@ -3373,7 +3417,7 @@
       "precio": 198446,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Globo burbuja de 9\"\n1 Foto impresa en papel fotográfico\n1 Botella personal de vino Gato Negro de 187,5 ml\n1 Copa de vidrio\nMonedas de chocolate\n1 Botón de rosa preservada\n1 Set de luces\n1 Caja de cartón duro en forma de corazón\n1 Tarjeta personalizada\nLa decoración, globo, color de la rosa y luces están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_a8feb5defd5f408c8e481d991862e7e7_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-with-love.webp",
       "galeria": [
         "/images/shop/f527ed_a8feb5defd5f408c8e481d991862e7e7_mv2.webp"
       ],
@@ -3440,7 +3484,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_a8feb5defd5f408c8e481d991862e7e7_mv2.webp"
     },
     {
       "id": "product_d593e381-38e0-26a9-1713-04434c9c0097",
@@ -3449,7 +3494,7 @@
       "precio": 195311,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Corazón rojo grande con tapa en cartón duro\n1 Peluche pequeño\n1 Porción de torta\n3 paquetes de Waffles\n2 Nutellas pequeñas\n1 Manzana roja\n1 Kiwi\n1 Porción de frutos deshidratados\n1 Frasco de Miel\n1 Tarjeta Personalizada\nLa decoración y peluche están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_94e6ceae69ec4acd98ad6bb401b3df40_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-dulce-comienzo.webp",
       "galeria": [
         "/images/shop/f527ed_94e6ceae69ec4acd98ad6bb401b3df40_mv2.webp"
       ],
@@ -3518,7 +3563,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_94e6ceae69ec4acd98ad6bb401b3df40_mv2.webp"
     },
     {
       "id": "product_187f8a17-2877-efaf-eb20-91ca40d5bf7d",
@@ -3527,7 +3573,7 @@
       "precio": 129476,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Caja de cartón en forma de corazón\n1 Arreglo de Rosas\n12 Mini Nutellas\n1 Tarjeta Personalizadas",
-      "imagen": "/images/shop/674055_2c897f92a4734f45ac53fc78387216fb_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-sweet-roses.webp",
       "galeria": [
         "/images/shop/674055_2c897f92a4734f45ac53fc78387216fb_mv2.webp"
       ],
@@ -3591,7 +3637,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_2c897f92a4734f45ac53fc78387216fb_mv2.webp"
     },
     {
       "id": "product_c54e14be-972f-9a42-a4d3-79824e4cfe6e",
@@ -3600,7 +3647,7 @@
       "precio": 70956,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 caja decorada\n1 botella de vino gato negro 187 mil\n1 copa de vino con monedas de chocolate\n1 paquete de ferrero x3 und\n1 moño decorativo\n1 tarjeta personalizada\nLa decoración esta sujeta a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_0188a55ba43c441a8b7ab210a57e70a8_mv2.webp",
+      "imagen": "/images/cards/san-valentin-valentine-s-box.webp",
       "galeria": [
         "/images/shop/674055_0188a55ba43c441a8b7ab210a57e70a8_mv2.webp"
       ],
@@ -3662,7 +3709,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_0188a55ba43c441a8b7ab210a57e70a8_mv2.webp"
     },
     {
       "id": "product_cd18496d-eefe-f1ec-cc33-9d9a5dbb8e4c",
@@ -3671,7 +3719,7 @@
       "precio": 90811,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Rosa con tallo preservada empacada\n1 moño decorativo\n1 tarjeta personalizada",
-      "imagen": "/images/shop/fff53a_88ded8d862d8451293849d7412495823_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-rosa-preservada.webp",
       "galeria": [
         "/images/shop/fff53a_88ded8d862d8451293849d7412495823_mv2.webp"
       ],
@@ -3734,7 +3782,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_88ded8d862d8451293849d7412495823_mv2.webp"
     },
     {
       "id": "product_e1871077-eb2b-8698-b94d-e7bf0ad7fefc",
@@ -3743,7 +3792,7 @@
       "precio": 107531,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 caja negra decorada con mensaje pre- diseñado\n2 botellas de cerveza corona\n1 chocolatina hershey's cookies and cream\n1 chocolatina hershey's milk chocolate\n2 galletas momets\n1 porción de frutos secos\n6 monedas de chocolates",
-      "imagen": "/images/shop/Amor-Cavernicola.webp",
+      "imagen": "/images/cards/amor-amistad-amor-cavernicola.webp",
       "galeria": [
         "/images/shop/Amor-Cavernicola.webp"
       ],
@@ -3808,7 +3857,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/Amor-Cavernicola.webp"
     },
     {
       "id": "product_2bf05d37-d43d-01a2-bda4-b7a56df3584f",
@@ -3817,7 +3867,7 @@
       "precio": 227706,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Arreglo de rosas 25 aprox. plateadas\n13 Fresas con Chocolate Decoradas\n1 Corazón de Cartón Grande\n1 Tarjeta Personalizada\nLa decoración, el color de rosas y diseño de las fresas esta sujeto a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/fff53a_2ecb46c4b2504c589832bc7228f74de8_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-blue-hearth.webp",
       "galeria": [
         "/images/shop/fff53a_2ecb46c4b2504c589832bc7228f74de8_mv2.webp"
       ],
@@ -3885,7 +3935,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_2ecb46c4b2504c589832bc7228f74de8_mv2.webp"
     },
     {
       "id": "product_7f1e73e4-94c3-ed34-6186-df03545c6761",
@@ -3894,7 +3945,7 @@
       "precio": 189041,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Arreglo de Rosas 30 aprox\n6 Fresas con Chocolate Decoradas\n1 Base en Cartón en Forma de Corazón\n1 Tarjeta Personalizada\nLa decoración, el color de rosas y diseño de las fresas esta sujeto a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/fff53a_0bdbbea5cb5b4c04b0737a86deadc12e_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-chocoberry.webp",
       "galeria": [
         "/images/shop/fff53a_0bdbbea5cb5b4c04b0737a86deadc12e_mv2.webp"
       ],
@@ -3960,7 +4011,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_0bdbbea5cb5b4c04b0737a86deadc12e_mv2.webp"
     },
     {
       "id": "product_3b007964-b1e4-7ade-9825-a24b24baaf41",
@@ -3969,7 +4021,7 @@
       "precio": 84540,
       "precioAnterior": 126340,
       "descripcion": "Contiene:\n11 fresas con chocolate\n1 tarjeta personalizada\n1 moño\n1 cono",
-      "imagen": "/images/shop/f3554f_69948c6f659e48ca82832578f91d3a77_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-cono-dulce.webp",
       "galeria": [
         "/images/shop/f3554f_69948c6f659e48ca82832578f91d3a77_mv2.webp"
       ],
@@ -4036,7 +4088,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f3554f_69948c6f659e48ca82832578f91d3a77_mv2.webp"
     },
     {
       "id": "product_08bdf63f-51b5-6fba-9fd3-7db85588e814",
@@ -4045,7 +4098,7 @@
       "precio": 221436,
       "precioAnterior": null,
       "descripcion": "Contenido:\nArreglo de 7 rosas\n1 Peluche mediano\n10 Choclates cubiertos\n1 Set de luces\n2 Mensajes prediseñados impresos en vinil blanco\n1 Calendario de mes impreso en vinil blancvo\n1 Letrero impreso en vinil dorado\n1 Caja negra de 35cm x 35cm\n1 Moño con cinta roja\n1 Foto impresa full color en papel fotográfico\n1 Tarjeta con mensaje personalizado\nEl diseño del mensaje prediseñado, el color de las bombas, el peluche, están sujetos a disponibilidad de la Tienda",
-      "imagen": "/images/shop/674055_5f7d4def5cc9482988f1ec905ae8a338_mv2.webp",
+      "imagen": "/images/cards/regalo-amor-mini-black-box.webp",
       "galeria": [
         "/images/shop/674055_5f7d4def5cc9482988f1ec905ae8a338_mv2.webp"
       ],
@@ -4117,7 +4170,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_5f7d4def5cc9482988f1ec905ae8a338_mv2.webp"
     },
     {
       "id": "product_37a8e651-ebe9-be3a-c67a-de624c5003c8",
@@ -4126,7 +4180,7 @@
       "precio": 155601,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Botella Red Label 375ml\n5 Fresas con chocolate\n1 Set de luces\n1 Tarjeta Personalizada",
-      "imagen": "/images/shop/674055_e8eb3bd15bdb4deba0bcc3f1852725b6_mv2.webp",
+      "imagen": "/images/cards/dia-del-hombre-elegant-liquor.webp",
       "galeria": [
         "/images/shop/674055_e8eb3bd15bdb4deba0bcc3f1852725b6_mv2.webp"
       ],
@@ -4188,7 +4242,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_e8eb3bd15bdb4deba0bcc3f1852725b6_mv2.webp"
     },
     {
       "id": "product_6b66b3e9-e1e3-5226-d406-903efaa62235",
@@ -4197,7 +4252,7 @@
       "precio": 233976,
       "precioAnterior": 275776,
       "descripcion": "Contenido:\n24 Rosas\n12 Fresas con chocolate\n6 Fotos\n1 Set de luces\n1 Corazón de chocolate mercy\n1 Caja decorada\n1 Tarjeta personalizada\nEl color de las rosas esta sujeto a la disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2023-10-20at5.57.47PM.webp",
+      "imagen": "/images/cards/amor-amistad-roses-sweet-box-1.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-10-20at5.57.47PM.webp",
         "/images/shop/674055_eb101e39c0ab47f0a9744f4a555d2a55_mv2.webp"
@@ -4268,7 +4323,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-10-20at5.57.47PM.webp"
     },
     {
       "id": "product_cdd907a8-5da5-079c-d37d-d19d957f3269",
@@ -4277,7 +4333,7 @@
       "precio": 80361,
       "precioAnterior": null,
       "descripcion": "Contenido:\nPareja de viejitos UP (muñecos impresos en tela)\n4 bombones rellenos artesanales\nTarjeta personalizada\n**\nEl contenido, colores y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/Disenosintitulo_50.webp",
+      "imagen": "/images/cards/amor-amistad-sweet.webp",
       "galeria": [
         "/images/shop/Disenosintitulo_50.webp"
       ],
@@ -4339,7 +4395,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/Disenosintitulo_50.webp"
     },
     {
       "id": "product_42a461b7-6db8-6981-16b8-be68c89474c8",
@@ -4348,7 +4405,7 @@
       "precio": 221436,
       "precioAnterior": null,
       "descripcion": "Contenido:\nArreglo de 48 Rosas y Gipso\n2 Peluches pequeños\n1 Set de luces Moño\n1 Tarjeta Personalizada\nEl color de las rosas y el tipo de peluche esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_a7b5493bb46a437b9d5b849279b2aa60_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-bouquet-los-paticos.webp",
       "galeria": [
         "/images/shop/674055_a7b5493bb46a437b9d5b849279b2aa60_mv2.webp"
       ],
@@ -4412,7 +4469,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_a7b5493bb46a437b9d5b849279b2aa60_mv2.webp"
     },
     {
       "id": "teddy-love",
@@ -4421,7 +4479,7 @@
       "precio": 319900,
       "precioAnterior": 369900,
       "descripcion": "Contenido:\n1 Peluche\n1 Arreglo en rosas\n2 Globos en forma de corazón metalizados\n1 Base de cartón duro\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/ImagendeWhatsApp2025-03-04alas09.00.03_f6e8a502.webp",
+      "imagen": "/images/cards/regalo-amor-ramo-bicolor-lotso.webp",
       "galeria": [
         "/images/shop/ImagendeWhatsApp2025-03-04alas09.00.03_f6e8a502.webp"
       ],
@@ -4487,7 +4545,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ImagendeWhatsApp2025-03-04alas09.00.03_f6e8a502.webp"
     },
     {
       "id": "giant-bouquet",
@@ -4496,7 +4555,7 @@
       "precio": 2088851,
       "precioAnterior": null,
       "descripcion": "Contiene:\n450 Rosas aprox.\n1 Base de madera\n7 Set de luces\n1 Moño\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2024-02-02at10.40.39AM_11zon.webp",
+      "imagen": "/images/cards/dia-de-la-novia-giant-bouquet.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2024-02-02at10.40.39AM_11zon.webp"
       ],
@@ -4559,7 +4618,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2024-02-02at10.40.39AM_11zon.webp"
     },
     {
       "id": "big-love-box",
@@ -4568,7 +4628,7 @@
       "precio": 221436,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Base cuadrada de cartón duro\n1 Arreglo de 10 rosas\n18 Ferreros\n1 Tarjeta\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2024-02-02at10.30.14AM_11zon_1.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-big-love-box.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2024-02-02at10.30.14AM_11zon_1.webp"
       ],
@@ -4630,7 +4690,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2024-02-02at10.30.14AM_11zon_1.webp"
     },
     {
       "id": "magnific-brunch",
@@ -4639,7 +4700,7 @@
       "precio": 116936,
       "precioAnterior": null,
       "descripcion": "Contenido:\nJugo o agua Saviloe\n1 Manzana Verde\n1 Manzana Roja\n1 Galleta\n1 Bonyour\n1 Mani personal\n1 Figura en forma de perrito u otra forma\nBase con mensaje prediseñado\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/app-image-2024-02-06-at-10-14-12-am.webp",
+      "imagen": "/images/cards/regalo-papa-magnific-brunch.webp",
       "galeria": [
         "/images/shop/app-image-2024-02-06-at-10-14-12-am.webp"
       ],
@@ -4706,7 +4767,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/app-image-2024-02-06-at-10-14-12-am.webp"
     },
     {
       "id": "colors-up-box",
@@ -4715,7 +4777,7 @@
       "precio": 407446,
       "precioAnterior": null,
       "descripcion": "Contenido:\nCaja mágica de 50*50 negra con mensajes prediseñados\nArreglo de 100 globos (R6 y R9) aprox.\n2 viejitos de Up en peluches 35 cm\n1 chocolatina Milkyway\n1 chocolatina Snickers\nArreglo de 8 rosas\n10 bombas R6 de colores dentro de la caja\n1 set de luces\n10 chocolates rellenos dentro de la caja\n** El producto, contenido y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/dise195177o-sin-t195173tulo-5.webp",
+      "imagen": "/images/cards/san-valentin-colors-box.webp",
       "galeria": [
         "/images/shop/dise195177o-sin-t195173tulo-5.webp"
       ],
@@ -4783,7 +4845,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dise195177o-sin-t195173tulo-5.webp"
     },
     {
       "id": "love-heart",
@@ -4792,7 +4855,7 @@
       "precio": 561061,
       "precioAnterior": null,
       "descripcion": "Contenido:\nBase en forma de corazón\nOsos foami 35 cm\nArreglo de rosas en forma de corazón aprox 48 rosas\n1 Set de luces\n1 Botella de baileys 750 ml\n2 Copas con choclates\n**El contenido, los colores, y la decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2023-10-17at11.44.49AM.webp",
+      "imagen": "/images/cards/san-valentin-love-heart.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-10-17at11.44.49AM.webp"
       ],
@@ -4856,7 +4919,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-10-17at11.44.49AM.webp"
     },
     {
       "id": "product_a018d8bc-e950-8550-320e-6ff9bd599509",
@@ -4865,7 +4929,7 @@
       "precio": 469101,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Botella de vino tinto gato negro 750 ml\n2 Copas de cristal\n30 bombas corazón infladas con helio\n1 Ancheta frutal\n1 Caja de chocolates Ferrero Rocher x 8 unidades\n5 globos metalizados de letras con la palabra \"TE AMO\"\n2 Paquetes de petalos de rosa decorativos\n1 paquete de corazones ♥ cortados\n1 Caja de archivo\nReserve esté kit con dos días hábiles de anticipación",
-      "imagen": "/images/shop/dfb815_34af476eefdd4e3382c4363d576dcb86_mv2.webp",
+      "imagen": "/images/cards/ancheta-cumpleanos-ancheta-kit-noche.webp",
       "galeria": [
         "/images/shop/dfb815_34af476eefdd4e3382c4363d576dcb86_mv2.webp"
       ],
@@ -4933,7 +4997,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dfb815_34af476eefdd4e3382c4363d576dcb86_mv2.webp"
     },
     {
       "id": "product_c56b0112-8d23-25c9-8a24-96fa2cabf6e4",
@@ -4942,7 +5007,7 @@
       "precio": 589900,
       "precioAnterior": null,
       "descripcion": "Contenido:\n15 Bombas infladas con helio\n1 Canasta Plata (R034)\n5 globos metalizados de letras con la palabra \"TE AMO\"\n1 Paquete de pétalos de rosa decorativos\n1 Caja de archivo\nLa decoración y el color de bombas está sujeto a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/dfb815_291e200e77ff438a892c50cf7301da08_mv2.webp",
+      "imagen": "/images/cards/san-valentin-kit-romantico-mediano.webp",
       "galeria": [
         "/images/shop/dfb815_291e200e77ff438a892c50cf7301da08_mv2.webp"
       ],
@@ -5005,7 +5070,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dfb815_291e200e77ff438a892c50cf7301da08_mv2.webp"
     },
     {
       "id": "product_8e5d8395-10e7-e4f5-c4d2-a5666fd55a0c",
@@ -5014,7 +5080,7 @@
       "precio": 364601,
       "precioAnterior": null,
       "descripcion": "Contenido:\nArreglo floral 24 Rosas\n1 Sandwich de pan, jamón y queso\n1 Bebida Aloé\n1 Botella de jugo\n1 Granadilla\n2 Naranjas tangelo\n1 Kiwi\n1 Pera\n1 Manzana Roja\n1 Manzana Verde\n1 Caja de chocolates\n1 Paquete de platanitos\n1 Chocolatina Italo\n1 Paquete de chocolates M&M\n6 Bombas R12 infladas con helio\n1 Globo burbuja con mensaje prediseñado incluye 3 bombas R12\n1 Mesa de madera plegable para desayuno en la cama\nEl color de las rosas, los globos y el diseño del mensaje prediseñado está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/dfb815_4d8be20c41a0436ebb0e4cd5083ca3b2_mv2.webp",
+      "imagen": "/images/cards/ancheta-cumpleanos-ancheta-alas.webp",
       "galeria": [
         "/images/shop/dfb815_4d8be20c41a0436ebb0e4cd5083ca3b2_mv2.webp"
       ],
@@ -5094,7 +5160,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dfb815_4d8be20c41a0436ebb0e4cd5083ca3b2_mv2.webp"
     },
     {
       "id": "product_93d2c51d-73df-4fd4-29d5-fa63d893a3b8",
@@ -5103,7 +5170,7 @@
       "precio": 352061,
       "precioAnterior": 383411,
       "descripcion": "Contenido:\n1 Globo burbuja con mensaje prediseñado incluye 3 bombas R12\n1 Peluche Sr. Federickson 15 cm aprox.\n1 Peluche Ellie 15cm aprox.\n1 Arreglo de 20 rosas\n1 Botella de vino tinto 750 ml\n1 Caja de chocolates Ferrero x8\n12 - 16 Fotografías impresas a full color en papel bond.\n6 Globos mini\n10 Chocolates Bonkies\n1 Set de iluminación portable\n1 Caja sorpresa decorada 50x50 cm con moño decorativo.\nEl diseño de los peluches y las bombas está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/dfb815_bff2a40059784a92901ca119aac75bca_mv2.webp",
+      "imagen": "/images/cards/san-valentin-aniversario-fugaz.webp",
       "galeria": [
         "/images/shop/dfb815_bff2a40059784a92901ca119aac75bca_mv2.webp"
       ],
@@ -5174,7 +5241,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dfb815_bff2a40059784a92901ca119aac75bca_mv2.webp"
     },
     {
       "id": "product_f3a0988e-9ac5-2c45-e483-b46bfe776424",
@@ -5183,7 +5251,7 @@
       "precio": 207851,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Globo burbuja con mensaje prediseñado incluye 3 bombas R12 de corazón\n1 Peluche Sr. Federickson 15 cm aprox.\n1 Peluche Ellie 15cm aprox.\n3 Botellas de Cervezas Corona\n2 Latas de Cervezas Importadas\n3 Ferreros (3 unidades)\n4 Fotografías impresas a full color en papel bond.\n1 Moño decorativo\n1 Base decorada\n**\nEl diseño de los peluches y las bombas está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/IMG-7198.webp",
+      "imagen": "/images/cards/amor-amistad-balloon-amor-infinito.webp",
       "galeria": [
         "/images/shop/IMG-7198.webp"
       ],
@@ -5252,7 +5320,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/IMG-7198.webp"
     },
     {
       "id": "product_4ba5264d-ed03-0ddc-49ef-8bbfbad56c66",
@@ -5261,7 +5330,7 @@
       "precio": 263236,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Globo burbuja con mensaje personalizado incluye relleno de bombas R12\n2 Peluches Dragon 35 cm\n1 Caja de Chocolates Ferrero Rocher x 8 Unidades\n2 Botella de Cerveza Corona\n1 Paquete de maní cervecero La Especial\n1 Paquete de Barquillos Piazza\n1 Papas Pringles 40gr\n1 Lata de salchichas\n10 Bombas Cromadas R12con Helio\n2 Bombas de Corazon R12 con Helio\n1 Guacal de madera decorado\nEl diseño del mensaje, el color de las bombas y las rosas está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsApp_1.webp",
+      "imagen": "/images/cards/ancheta-cumpleanos-ancheta-furia-nocturna.webp",
       "galeria": [
         "/images/shop/WhatsApp_1.webp"
       ],
@@ -5330,7 +5399,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsApp_1.webp"
     },
     {
       "id": "product_57c7d379-ea4b-0b29-5d9f-4cfadac48fd7",
@@ -5339,7 +5409,7 @@
       "precio": 221436,
       "precioAnterior": null,
       "descripcion": "Contenido:\n20 Bombones de chocolates rellenos Mercí\nChocolates Kisses\n7 Fotos full color impresas en papel fotográfico\nSet de luces\nBaúl de madera\n1 Tarjeta con mensaje personalizado\nLa decoración, el color de rosas y baúl están sujetos a disponibilidad de la Tienda",
-      "imagen": "/images/shop/dfb815_439e109233e149cd8419611898ebb17c_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-baul-you-and.webp",
       "galeria": [
         "/images/shop/dfb815_439e109233e149cd8419611898ebb17c_mv2.webp"
       ],
@@ -5408,7 +5478,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dfb815_439e109233e149cd8419611898ebb17c_mv2.webp"
     },
     {
       "id": "product_831fbb98-ccfc-18ae-1f1a-d5b053339c5a",
@@ -5417,7 +5488,7 @@
       "precio": 342656,
       "precioAnterior": null,
       "descripcion": "Contenido:\n8 Bombas cromadas R12 en helio\n1 Globo burbuja 24\" en helio con mensaje prediseñado\n1 Granadilla\n1 Naranja\n1 Manzana verde\n1 Poción de frutos deshidratados\n1 Porción de frutos secos\n1 Paquete de maíz soplado\n1 Paquete de arroz soplado\n1 Botella de té Hatsu\n3 Bananos\n1 Queso pera\n1 Yogurth griego\n1 Canasta en madera\n1 Moño decorativo\n1 Tarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/f527ed_55d69912ab9a41f9bb5b8a335f87b8fb_mv2.webp",
+      "imagen": "/images/cards/ancheta-cumpleanos-ancheta-plata.webp",
       "galeria": [
         "/images/shop/f527ed_55d69912ab9a41f9bb5b8a335f87b8fb_mv2.webp"
       ],
@@ -5495,7 +5566,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_55d69912ab9a41f9bb5b8a335f87b8fb_mv2.webp"
     },
     {
       "id": "product_378f882b-4414-ab9d-3ba0-75079cbc50d2",
@@ -5504,7 +5576,7 @@
       "precio": 665561,
       "precioAnterior": null,
       "descripcion": "Contenido:\n10 Chocolatinas Hershey´s Cookies and Cream\n1 Caja chocolates Ferrero x 8 unidades\n1 Arreglo de 100 rosas (las rosas de los extremos están ligeramente pintadas con spray dorado y palo de rosa)\n1 Champaña JP Chenet 200ml\n6 Manzanas rojas\n5 Manzanas verdes\n1 Tarjeta personalizada\n8 Bombas R12 cromados en helio\nLa decoración, color de rosas, base de madera y bombas están sujetos a disponibilidad de la Tienda",
-      "imagen": "/images/shop/WhatsAppImage2023-10-16at9.31.51AM.webp",
+      "imagen": "/images/cards/ramo-de-flores-agradecimiento-flora-dorada.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-10-16at9.31.51AM.webp"
       ],
@@ -5570,7 +5642,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-10-16at9.31.51AM.webp"
     },
     {
       "id": "product_4993a00a-580a-49f1-c74e-bf4e9ec0f72f",
@@ -5579,7 +5652,7 @@
       "precio": 796186,
       "precioAnterior": 889191,
       "descripcion": "Contenido:\n1 Base negra de madera en forma de corazón 50 cm\n1 Arreglo de rosas en relieve\n1 Botella de Vino tinto Gato Negro 750 ml\n1 Caja de Chocolates Ferrero x 8 unidades\n10 Bombas R12 cromadas en helio\n1 Tarjeta personalizada\nEl diseño, el color de rosas y de bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_6ced457f862142b2b3bade34510121a0_mv2.webp",
+      "imagen": "/images/cards/san-valentin-corazon-colosal.webp",
       "galeria": [
         "/images/shop/f527ed_6ced457f862142b2b3bade34510121a0_mv2.webp"
       ],
@@ -5647,7 +5720,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_6ced457f862142b2b3bade34510121a0_mv2.webp"
     },
     {
       "id": "product_3931a190-ef1d-1df3-dcd0-d9490cb8c6b5",
@@ -5656,7 +5730,7 @@
       "precio": 313396,
       "precioAnterior": null,
       "descripcion": "Contenido:\nArreglo de bombitas\n1 Chocolatina Snickers\nPétalos de Rosas\nPareja de peluches (a disponibilidad de tienda)\n1 Balde de madera\n1 Tarjeta personalizado\n1 Chocolate Milkyway\nLa decoración, peluches y colores de los pétalos de rosas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_136db61e01dc4b2c94637c842f646d10_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-balloon-children.webp",
       "galeria": [
         "/images/shop/f527ed_136db61e01dc4b2c94637c842f646d10_mv2.webp"
       ],
@@ -5723,7 +5797,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_136db61e01dc4b2c94637c842f646d10_mv2.webp"
     },
     {
       "id": "product_13978023-168d-fd0d-290f-28f3077ab20d",
@@ -5732,7 +5807,7 @@
       "precio": 143061,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Papas Pringles personal\n2 Paquetes de maní La Especial\n2 Cervezas Budweiser\n1 Hershey´s\n5 Chocolates rellenos\n1 Base de cartón decorada\n2 Figuras en tela de Homero y Marge\n1 Sticker\n1 Tarjeta Personalizada\nLa decoración, el sticker, las figuras en tela están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_f104656ae70040a4bfe57c12f0a3152b_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-simpsons-love.webp",
       "galeria": [
         "/images/shop/f527ed_f104656ae70040a4bfe57c12f0a3152b_mv2.webp"
       ],
@@ -5801,7 +5876,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_f104656ae70040a4bfe57c12f0a3152b_mv2.webp"
     },
     {
       "id": "product_6addbe47-9bb3-6be3-a678-e1907397f263",
@@ -5810,7 +5886,7 @@
       "precio": 152466,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Botella de vino Gato Negro cabernet 187.5ml\n1 Caja de chocolates Ferrero x 8 unidades\n1 Rosa\n1 Caja de corazón estilo picnic decorada con follaje\n1 Moño decorativo\n1 Tarjeta Personalizada\nLa decoración de la caja y color de rosas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_b0f06bd0201041cdad3744eb29646bd5_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-corazon-sensacion.webp",
       "galeria": [
         "/images/shop/f527ed_b0f06bd0201041cdad3744eb29646bd5_mv2.webp"
       ],
@@ -5876,7 +5952,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_b0f06bd0201041cdad3744eb29646bd5_mv2.webp"
     },
     {
       "id": "product_9f845796-de68-4c4c-c64e-8b4a52297d84",
@@ -5885,7 +5962,7 @@
       "precio": 129476,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Botella de crema de whisky Baileys de 375ml\n1 Caja de chocolates Ferrero x 8 unidades\n1 Caja de Cartón decorada\n1 Moño\n1 Tarjeta personalizada\nLa decoración y colores de moño están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_cb6d5953276b4397b2543fb0db41d112_mv2.webp",
+      "imagen": "/images/cards/regalo-cumpleanos-caja-imaginarium.webp",
       "galeria": [
         "/images/shop/f527ed_cb6d5953276b4397b2543fb0db41d112_mv2.webp"
       ],
@@ -5952,7 +6029,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_cb6d5953276b4397b2543fb0db41d112_mv2.webp"
     },
     {
       "id": "product_3d60883b-c927-7452-31f2-7814bf0adb2c",
@@ -5961,7 +6039,7 @@
       "precio": 260900,
       "precioAnterior": null,
       "descripcion": "Contiene:\n36 Rosas Naturales\n1 Acordeon De 6Fotos\n1 Baul de carton duro de color negro con tematica el cadaver de la novia\n1 Tarjeta personalizada\n1 Set de luces\nEl diseño, color de las rosas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/f527ed_d4b487b03981400ba9197bc80a4e11c6_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-cadaver-novia.webp",
       "galeria": [
         "/images/shop/f527ed_d4b487b03981400ba9197bc80a4e11c6_mv2.webp"
       ],
@@ -6028,7 +6106,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_d4b487b03981400ba9197bc80a4e11c6_mv2.webp"
     },
     {
       "id": "product_66934411-6a7a-0499-484f-43ad9de0281d",
@@ -6037,7 +6116,7 @@
       "precio": 343900,
       "precioAnterior": null,
       "descripcion": "Contenido:\n22 Rosas Naturales\n1 Baúl De carton duro De Color Negro Con Temática Del Cadaver De La Novia\n1 Caja De Chocolates Ferrero Por 8\n1 Botella De Crema De Whisky Baileys 375 ml\n1 Copa\n1 Tarjeta personalizada\n**El diseño, color de las rosas están sujetos a disponibilidad de la Tienda",
-      "imagen": "/images/shop/f527ed_1a732743bb1940f6b76d1d67c44a9551_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-corpse-bride.webp",
       "galeria": [
         "/images/shop/f527ed_1a732743bb1940f6b76d1d67c44a9551_mv2.webp"
       ],
@@ -6106,7 +6185,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/f527ed_1a732743bb1940f6b76d1d67c44a9551_mv2.webp"
     },
     {
       "id": "product_1e28d3ae-9ad1-c47c-c989-b3458ccd8ba7",
@@ -6115,7 +6195,7 @@
       "precio": 521351,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Base de cartón duro\n1 Arreglo en rosas\n1 Arreglo de globos\n1 Botella de vino gato negro 750 ml\n16 Chocolates rellenos mercy\n1 Peluche\n1 Tarjeta personalizada\n** Base disponible temporalmente solo en color natural\nLa decoración, el color de rosas ,peluche y bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/fff53a_79065bbbf9b448799993a5ae5fb890b6_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-madre-productos-top-love-rose-bear.webp",
       "galeria": [
         "/images/shop/fff53a_79065bbbf9b448799993a5ae5fb890b6_mv2.webp"
       ],
@@ -6187,7 +6267,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_79065bbbf9b448799993a5ae5fb890b6_mv2.webp"
     },
     {
       "id": "product_c8c4e193-7da4-bd0d-bbb0-ba28fa875d1e",
@@ -6196,7 +6277,7 @@
       "precio": 85586,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 pareja en tela (Marge y Homero Simpson)\n1 cerveza budweiser\n1 Vaso cervecero\n1 paquete de maní\n1 tarjeta personalizada\n1 moño decorativo\nLa decoración esta sujeta a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_3568bf0a06a1413fbd40ecc1ec1706a0_mv2.webp",
+      "imagen": "/images/cards/san-valentin-simpsons-valentine-s-day.webp",
       "galeria": [
         "/images/shop/674055_3568bf0a06a1413fbd40ecc1ec1706a0_mv2.webp"
       ],
@@ -6258,7 +6339,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_3568bf0a06a1413fbd40ecc1ec1706a0_mv2.webp"
     },
     {
       "id": "product_b993c654-62f0-3087-3ff1-edffc1df78cd",
@@ -6267,7 +6349,7 @@
       "precio": 207851,
       "precioAnterior": null,
       "descripcion": "Contiene:\nArreglo de 40 rosas aprox en forma de corazón\n2 copas de vino con monedas de chocolate\n1 botella de vino gato negro 750ml\n1 Guacal de madera 30 cm\n1 moño decorativo\n1 tarjeta personalizada\nEl color de la rosa esta sujeta a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_2415febd0b8b4b9a96ba2e532086df09_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-roses-heart.webp",
       "galeria": [
         "/images/shop/674055_2415febd0b8b4b9a96ba2e532086df09_mv2.webp"
       ],
@@ -6333,7 +6415,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_2415febd0b8b4b9a96ba2e532086df09_mv2.webp"
     },
     {
       "id": "product_ee7eac9d-f7f2-511b-cf99-005ce3dcc9dd",
@@ -6342,7 +6425,7 @@
       "precio": 594900,
       "precioAnterior": 859000,
       "descripcion": "Contiene:\nBouquet 110 rosas\n9 chocolatinas Hersheys\n1 moño decorativo\n1 tarjeta personalizada\nEl color de las rosas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/fff53a_9099a31f51cc4fb7a0bf56ce1a4ec6e4_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-novia-big-bouquet.webp",
       "galeria": [
         "/images/shop/fff53a_9099a31f51cc4fb7a0bf56ce1a4ec6e4_mv2.webp"
       ],
@@ -6409,7 +6492,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_9099a31f51cc4fb7a0bf56ce1a4ec6e4_mv2.webp"
     },
     {
       "id": "product_91656d1c-5374-ad7e-888f-41691a31909c",
@@ -6418,7 +6502,7 @@
       "precio": 181726,
       "precioAnterior": null,
       "descripcion": "Contenido:\nCaja en cartón negra incluye mensaje prediseñado\n2 globos metalizados (Ellie y Carl frederickson)\n1 botella de gato negro 375ml\n1 caja de galletas danish\n1 caja de chocolates de corazón\n2 copas de vino con monedas de chocolate\npétalos de rosa decorativo\n1 set de luces\n1 tarjeta personalizada",
-      "imagen": "/images/shop/fff53a_44624f20d7dc4858885b878d2a92207a_mv2.webp",
+      "imagen": "/images/cards/san-valentin-happy-ellie-carl.webp",
       "galeria": [
         "/images/shop/fff53a_44624f20d7dc4858885b878d2a92207a_mv2.webp"
       ],
@@ -6483,7 +6567,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_44624f20d7dc4858885b878d2a92207a_mv2.webp"
     },
     {
       "id": "product_ad548786-53bb-8f22-b271-0fa40d07b574",
@@ -6492,7 +6577,7 @@
       "precio": 796186,
       "precioAnterior": null,
       "descripcion": "Contiene:\nArreglo 120 rosas aprox\n24 chocolates rellenos Merci\n1 botella de vino gato rosa 750 ml\n2 copas de vino\n1 base rectangular en madera\n1 base en forma de corazón en madera\npétalos decorativos\n1 tarjeta personalizada",
-      "imagen": "/images/shop/674055_851b21b1b43b437da170b3e6346ee555_mv2.webp",
+      "imagen": "/images/cards/regalo-mama-corazon-romantico.webp",
       "galeria": [
         "/images/shop/674055_851b21b1b43b437da170b3e6346ee555_mv2.webp"
       ],
@@ -6563,7 +6648,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_851b21b1b43b437da170b3e6346ee555_mv2.webp"
     },
     {
       "id": "product_6758f2ab-0e57-731f-2ab9-f786bc51b271",
@@ -6572,7 +6658,7 @@
       "precio": 352061,
       "precioAnterior": null,
       "descripcion": "Contenido:\n40 chocolates Ferrero\n1 arreglo de 50 rosas aprox.\n2 mariposas decorativas\n1 base en cartón\n1 tarjeta personalizada\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_8f828472d9d64e32b8d964c66f4de4fb_mv2.webp",
+      "imagen": "/images/cards/ramos-de-flores-aniversario-giant-heart.webp",
       "galeria": [
         "/images/shop/674055_8f828472d9d64e32b8d964c66f4de4fb_mv2.webp"
       ],
@@ -6637,7 +6723,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_8f828472d9d64e32b8d964c66f4de4fb_mv2.webp"
     },
     {
       "id": "product_a7341a4a-bceb-aa59-cc44-e7c462530ecb",
@@ -6646,7 +6733,7 @@
       "precio": 169186,
       "precioAnterior": null,
       "descripcion": "Contiene:\nArreglo de 23 rosas\n15 Chocolates Raffaello\n1 Caja en cartón en forma de corazón\n1 Tarjeta personalizada",
-      "imagen": "/images/shop/fff53a_6149aa91dce54a59a744bace15e5a797_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-corazon-raffaellos.webp",
       "galeria": [
         "/images/shop/fff53a_6149aa91dce54a59a744bace15e5a797_mv2.webp"
       ],
@@ -6713,7 +6800,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_6149aa91dce54a59a744bace15e5a797_mv2.webp"
     },
     {
       "id": "product_0fd38c58-6104-03d9-a421-09d671c0b4de",
@@ -6722,7 +6810,7 @@
       "precio": 129476,
       "precioAnterior": null,
       "descripcion": "Contiene:\n2 medias figuras de chocolate en forma de osos\n50 masmelos\n20 gomitas\n1 set de luces\n1 tarjeta personalizada",
-      "imagen": "/images/shop/674055_d5bac2df86e441b094de49afa745b05d_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-chocolate-bear-love.webp",
       "galeria": [
         "/images/shop/674055_d5bac2df86e441b094de49afa745b05d_mv2.webp"
       ],
@@ -6786,7 +6874,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_d5bac2df86e441b094de49afa745b05d_mv2.webp"
     },
     {
       "id": "product_393a62c4-2577-12e1-3e67-d4ceaed00608",
@@ -6795,7 +6884,7 @@
       "precio": 325936,
       "precioAnterior": null,
       "descripcion": "Contiene:\n48 fresas con chocolate\n1 Caja en cartón duro decorada\n1 tarjeta decorada",
-      "imagen": "/images/shop/674055_16d4823aea1d4d8ca90d74ff259d9347_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-strawberries-box.webp",
       "galeria": [
         "/images/shop/674055_16d4823aea1d4d8ca90d74ff259d9347_mv2.webp"
       ],
@@ -6859,7 +6948,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_16d4823aea1d4d8ca90d74ff259d9347_mv2.webp"
     },
     {
       "id": "product_c3c595be-b2ba-db2c-a52d-e0b58f256ecf",
@@ -6868,7 +6958,7 @@
       "precio": 199491,
       "precioAnterior": null,
       "descripcion": "Contiene:\n12 fresas con chocolate\nAcompañada de monedas de chocolate\nMix de gomas 500 gr\n1 caja en forma de corazón\n1 moño decorativo\n1 tarjeta personalizada",
-      "imagen": "/images/shop/674055_efbb51045a3a4be9936207275ad7cc8f_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-chocolate-heart.webp",
       "galeria": [
         "/images/shop/674055_efbb51045a3a4be9936207275ad7cc8f_mv2.webp"
       ],
@@ -6935,7 +7025,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_efbb51045a3a4be9936207275ad7cc8f_mv2.webp"
     },
     {
       "id": "product_7eae28c2-6e6d-b598-4905-7243ee544383",
@@ -6944,7 +7035,7 @@
       "precio": 123900,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 corazón de chocolate decorado\n2 paquetes de gomitas moritas\n22 masmelos\n1 tarjeta personalizada\n**El contenido, decoración y productos están sujetos a disponibilidad de la tien\nda",
-      "imagen": "/images/shop/674055_acd9b62bfc2c45628892a8035b836bd2_mv2.webp",
+      "imagen": "/images/cards/regalo-amor-red-love.webp",
       "galeria": [
         "/images/shop/674055_acd9b62bfc2c45628892a8035b836bd2_mv2.webp"
       ],
@@ -7006,7 +7097,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_acd9b62bfc2c45628892a8035b836bd2_mv2.webp"
     },
     {
       "id": "product_05df2353-2a8a-cfbf-6dd4-b01da842b3b6",
@@ -7015,7 +7107,7 @@
       "precio": 181726,
       "precioAnterior": null,
       "descripcion": "Contiene:\n10 fresas con chocolate decoradas\n1 corazón de chocolate decorado con flores de chocolate relleno de gomitas\n1 base de cartón en forma de corazón\n1 tarjeta personalizada\n1 martillo",
-      "imagen": "/images/shop/674055_6d97215656d842b7ab996a70b6676ff9_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-neon-strawberry.webp",
       "galeria": [
         "/images/shop/674055_6d97215656d842b7ab996a70b6676ff9_mv2.webp"
       ],
@@ -7083,7 +7175,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_6d97215656d842b7ab996a70b6676ff9_mv2.webp"
     },
     {
       "id": "product_a8cb7041-8e3f-40b4-19b3-f81ad3ac83e9",
@@ -7092,7 +7185,7 @@
       "precio": 143061,
       "precioAnterior": null,
       "descripcion": "Contiene:\n2 Coca - Cola con Sticker Duff\n8 Donas en Forma de Bouquet\nMuñeco en Tela Impreso de Marge y Homero\nSet de Luces\nCofre Negro de Madera\nTarjeta Personalizada",
-      "imagen": "/images/shop/674055_95ff0767bac9495f9a3a7a2d4e550314_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-donas-duff.webp",
       "galeria": [
         "/images/shop/674055_95ff0767bac9495f9a3a7a2d4e550314_mv2.webp"
       ],
@@ -7158,7 +7251,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_95ff0767bac9495f9a3a7a2d4e550314_mv2.webp"
     },
     {
       "id": "product_1fb4feb9-3107-758e-af32-c66ecc459c26",
@@ -7167,7 +7261,7 @@
       "precio": 639436,
       "precioAnterior": null,
       "descripcion": "Contenido:\n150 rosas\n1 Tiara\nPapel coreano\nMoño decorativo\nTarjeta Personalizada\nEl color de las rosas y la decoración esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/68A9048C-E56F-413E-BFFB-9FF4282D0642.webp",
+      "imagen": "/images/cards/dia-de-la-novia-bouquet-supremo-red.webp",
       "galeria": [
         "/images/shop/68A9048C-E56F-413E-BFFB-9FF4282D0642.webp"
       ],
@@ -7235,7 +7329,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/68A9048C-E56F-413E-BFFB-9FF4282D0642.webp"
     },
     {
       "id": "product_80ac3459-1bd6-01b8-8938-37eb48f855f5",
@@ -7244,7 +7339,7 @@
       "precio": 103351,
       "precioAnterior": null,
       "descripcion": "Contenido:\nPareja de muñecos impresos en tela (Viejitos de UP)\nBotella de vino Gato Negro pequeña\nCaja de cartón\nTarjeta personalizada",
-      "imagen": "/images/shop/674055_354e6716abbd4d6199afd7c716b9bd48_mv2.webp",
+      "imagen": "/images/cards/san-valentin-amor-eterno.webp",
       "galeria": [
         "/images/shop/674055_354e6716abbd4d6199afd7c716b9bd48_mv2.webp"
       ],
@@ -7304,7 +7399,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_354e6716abbd4d6199afd7c716b9bd48_mv2.webp"
     },
     {
       "id": "product_f04d133d-d405-ffac-44da-33196960d84d",
@@ -7313,7 +7409,7 @@
       "precio": 97081,
       "precioAnterior": null,
       "descripcion": "Contenido:\nPareja de muñecos impresos en tela (según disponibilidad)\nVaso mix de gomas de 12 onzas\nCaja de cartón\nTarjeta personalizada",
-      "imagen": "/images/shop/674055_cd594063746d450db032776ebd3dc850_mv2.webp",
+      "imagen": "/images/cards/san-valentin-amor-hasta-infinito.webp",
       "galeria": [
         "/images/shop/674055_cd594063746d450db032776ebd3dc850_mv2.webp"
       ],
@@ -7373,7 +7469,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_cd594063746d450db032776ebd3dc850_mv2.webp"
     },
     {
       "id": "es-por-ti",
@@ -7382,7 +7479,7 @@
       "precio": 149900,
       "precioAnterior": 210900,
       "descripcion": "Contenido:\nCaja decorada\nArreglo de rosas y claveles\nJugo de naranja\nSandwich doble jamon y doble queso\nManzana roja\nPorcion de fresas con uchuvas, arandanos y masmellos\n1 Muffin\n6 Fresas con Chocolate\nTarjeta personalizada\n** El contenido, Decoración y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/CopiadeSanValentin2026-13.webp",
+      "imagen": "/images/cards/es-por-ti.webp",
       "galeria": [
         "/images/shop/CopiadeSanValentin2026-13.webp",
         "/images/shop/CopiadeSanValentin2026-14.webp",
@@ -7455,7 +7552,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/CopiadeSanValentin2026-13.webp"
     },
     {
       "id": "combo-desayuno-1",
@@ -7464,7 +7562,7 @@
       "precio": 179900,
       "precioAnterior": 209900,
       "descripcion": "Contenido:\n2 Sandwich de jamon, queso y lechuga\n4 Mini tomates\n1 Porcion de papas con salsa rosada\n1 Jugo natural\n1 Porcion de fresas naturales con masmellos y uchuvas\n1 Porcion de galletas\n1 Porcion de torta\n1 Caja de 30x30cm\nTarjeta Personalizada\n- Bouquet de flores tropicales\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
-      "imagen": "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp",
+      "imagen": "/images/cards/regalo-amor-combo-desayuno.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp"
       ],
@@ -7548,7 +7646,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp"
     },
     {
       "id": "combo-brunch-1",
@@ -7557,7 +7656,7 @@
       "precio": 189900,
       "precioAnterior": 209900,
       "descripcion": "Contenido:\n2 Wraps de jamon y queso\n1 Jugo de naranja\n1 Porcion de fresas con uchuvas\n1 Wafle con porcion de miel y nutella\n1 Banano cubierto de chocolate y mani\n1 Caja de 30x30cm\nTarjeta Personalizada\n- Bouquet de flores tropicales\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
-      "imagen": "/images/shop/WhatsAppImage2026-03-04at12.24.25PM.webp",
+      "imagen": "/images/cards/amor-amistad-combo-brunch.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-04at12.24.25PM.webp"
       ],
@@ -7642,7 +7741,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-04at12.24.25PM.webp"
     },
     {
       "id": "combo-breakfast-1",
@@ -7651,7 +7751,7 @@
       "precio": 124900,
       "precioAnterior": 179900,
       "descripcion": "Contenido:\n1 Jugo\n1 Kiwi\n1 Manzana verde\n1 Manzana Roja\n1 Galleta\n1 Queso Pera\n1 Waffle\nBase decorada\nTarjeta Personalizada\n- Bouquet de flores tropicales\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
-      "imagen": "/images/shop/WhatsAppImage2026-03-04at1.05.47PM.webp",
+      "imagen": "/images/cards/amor-amistad-combo-breakfast.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-04at1.05.47PM.webp"
       ],
@@ -7741,7 +7841,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-04at1.05.47PM.webp"
     },
     {
       "id": "combo-ejecutiva",
@@ -7750,7 +7851,7 @@
       "precio": 169900,
       "precioAnterior": 199900,
       "descripcion": "Contenido:\nCaja de 6 Fresas\nBouquet de Flor variada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2026-03-04at10.22.36PM.webp",
+      "imagen": "/images/cards/amor-amistad-combo-ejecutiva.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-04at10.22.36PM.webp"
       ],
@@ -7834,7 +7935,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-04at10.22.36PM.webp"
     },
     {
       "id": "brindis-de-amor",
@@ -7843,7 +7945,7 @@
       "precio": 89900,
       "precioAnterior": 129900,
       "descripcion": "Contenido:\nVino 700ml\nBolsa especial de Vino decorada\nTarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda **",
-      "imagen": "/images/shop/WhatsApp_Image_2026-03-04_at_12.52.56_PM_4.webp",
+      "imagen": "/images/cards/brindis-de-amor.webp",
       "galeria": [
         "/images/shop/WhatsApp_Image_2026-03-04_at_12.52.56_PM_4.webp",
         "/images/shop/WhatsAppImage2026-03-04at12.52.56PM_5.webp"
@@ -7911,7 +8013,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsApp_Image_2026-03-04_at_12.52.56_PM_4.webp"
     },
     {
       "id": "camino-de-gloria",
@@ -7920,7 +8023,7 @@
       "precio": 199900,
       "precioAnterior": 249900,
       "descripcion": "Contenido:\n5 Girasoles\nArreglo de Rosas y Lirios\nCanasta o Base Cilindrica\nPorcion de uvas (verdes o moradas)\n4 Manzanas rojas\n4 Manzanas verdes\n3 Kiwi\n1 Durazno\n1 Naranja\nImagen impresa religiosa\nTarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp",
+      "imagen": "/images/cards/camino-de-gloria.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp"
       ],
@@ -8008,7 +8111,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp"
     },
     {
       "id": "infinite-bliss",
@@ -8017,7 +8121,7 @@
       "precio": 179900,
       "precioAnterior": 219900,
       "descripcion": "Contiene:\n1 sandwihs doble jamon doble queso y lechuga\n1 manzana roja\n1 porcion de fruta picada\n1 jugo de naranja\n2 aromaticas\nset de cubiertos\ncaja decorada\n+ Bouquet de Flores Variadas\n**El contenido, productos y decoración están sujetos a disponibilidad de la tienda**",
-      "imagen": "/images/shop/WhatsAppImage2026-04-24at3.34.29PM_3.webp",
+      "imagen": "/images/cards/infinite-bliss.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-04-24at3.34.29PM_3.webp",
         "/images/shop/WhatsApp_Image_2026-05-23_at_10.02.11_AM.webp"
@@ -8107,7 +8211,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-04-24at3.34.29PM_3.webp"
     },
     {
       "id": "bouquet-futbolero-panini",
@@ -8116,7 +8221,7 @@
       "precio": 129900,
       "precioAnterior": 179900,
       "descripcion": "Contenido\n1 Base decorada\n13 Sobres Panini\nMoño decorativo\nPapel decorativo\nTarjeta Personalizada\n** El contenido, productos, decoración y sobres están sujetos a disponibilidad de la tienda **",
-      "imagen": "/images/shop/WhatsAppImage2026-05-19at1.14.23PM.webp",
+      "imagen": "/images/cards/regalo-amor-bouquet-futbolero-panini.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-05-19at1.14.23PM.webp"
       ],
@@ -8189,7 +8294,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-05-19at1.14.23PM.webp"
     },
     {
       "id": "promo-brunch-1",
@@ -8198,7 +8304,7 @@
       "precio": 119900,
       "precioAnterior": 169900,
       "descripcion": "Contenido:\nPorción de wraps de jamón y queso\n1 jugo naranja en botella\n1 porción de fresas con uchuvas\n1 wafle con porción miel y nutella\n1 banano cubierto con chocolate y mani triturado\nJuego de cubierto\n1 caja de 30*30\nMoño\nTarjeta personalizada\n- Cerveza Gratis\n**El producto, la decoración y el contenido están sujetos a disponibilidad de la tienda.",
-      "imagen": "/images/shop/WhatsAppImage2026-05-20at8.59.00AM.webp",
+      "imagen": "/images/cards/amor-amistad-promo-brunch.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-05-20at8.59.00AM.webp"
       ],
@@ -8284,7 +8390,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-05-20at8.59.00AM.webp"
     },
     {
       "id": "promo-desayuno-1",
@@ -8293,7 +8400,7 @@
       "precio": 119900,
       "precioAnterior": 169900,
       "descripcion": "Contenido :\n2 Sandwich de jamón, queso, lechuga y tomate cherry\n1 Porción de papas con salsa\n1 Porción de fresas naturales con masmellosy uchuvas\n1 Porción de galletas\n1 Porción de tortas\ncaja decorada\n1 set de cubiertos\n1 cerveza\n** El contenido, decoración y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2026-05-20at9.00.43AM.webp",
+      "imagen": "/images/cards/promo-desayuno-1.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-05-20at9.00.43AM.webp"
       ],
@@ -8376,7 +8483,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-05-20at9.00.43AM.webp"
     },
     {
       "id": "promo-special-breakfast",
@@ -8385,7 +8493,7 @@
       "precio": 169900,
       "precioAnterior": 219900,
       "descripcion": "Contenido :\nSándwich de jamón de cordero, queso y lechuga\nWaffle con miel y chocolate\nmoffin\nporcion de galletas\nJugo de naranja\ncafe frio o tehatsu\nBowl de Yogur, Granola y Fruta\nPorción de fresas\n2 Sobres de té\nset Cubiertos\ntermo\ncaja decorada\n** El contenido, decoración y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2026-05-20at9.03.42AM.webp",
+      "imagen": "/images/cards/amor-amistad-promo-special-breakfast.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-05-20at9.03.42AM.webp"
       ],
@@ -8472,7 +8580,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-05-20at9.03.42AM.webp"
     }
   ]
 }

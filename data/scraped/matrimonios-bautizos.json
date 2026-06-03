@@ -13,7 +13,7 @@
       "precio": 179900,
       "precioAnterior": 209900,
       "descripcion": "Contenido:\n2 Sandwich de jamon, queso y lechuga\n4 Mini tomates\n1 Porcion de papas con salsa rosada\n1 Jugo natural\n1 Porcion de fresas naturales con masmellos y uchuvas\n1 Porcion de galletas\n1 Porcion de torta\n1 Caja de 30x30cm\nTarjeta Personalizada\n- Bouquet de flores tropicales\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
-      "imagen": "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp",
+      "imagen": "/images/cards/regalo-amor-combo-desayuno.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp"
       ],
@@ -97,7 +97,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp"
     },
     {
       "id": "virgen-dorada",
@@ -106,7 +107,7 @@
       "precio": 260101,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Cúpula en vidrio\n1 Base de madera\n1 Set de luces\n1 Figura de virgen en yeso acompañada de pétalos preservados\n1 Tarjeta personalizada\n1 Moño decorativo\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp",
+      "imagen": "/images/cards/virgen-dorada.webp",
       "galeria": [
         "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp"
       ],
@@ -170,7 +171,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/p-image-2024-03-14-at-8-59-06-am-1_1.webp"
     },
     {
       "id": "virgen-dorado",
@@ -179,7 +181,7 @@
       "precio": 260101,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Cúpula en vidrio\n1 Base de madera\n1 Set de luces\n1 Figura de virgen en yeso acompañada de pétalos preservados\n1 Tarjeta personalizada\n1 Moño decorativo\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/sapp-image-2024-03-14-at-8-59-06-am_1.webp",
+      "imagen": "/images/cards/virgen-dorado.webp",
       "galeria": [
         "/images/shop/sapp-image-2024-03-14-at-8-59-06-am_1.webp"
       ],
@@ -242,7 +244,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/sapp-image-2024-03-14-at-8-59-06-am_1.webp"
     },
     {
       "id": "product_d7a3183c-d1f3-6281-c3cc-679f8d1b4131",
@@ -251,7 +254,7 @@
       "precio": 273686,
       "precioAnterior": null,
       "descripcion": "Contenido:\n30 Rosas en arreglo floral\n1 Botella de vino de 750ml\n4 Chocolates redondos rellenos\n2 Barras de chocolate Snickers\n2 Chocolatina Hershey's\n1 Globo burbuja de 18\" con mensaje prediseñado\n1 Tarjeta Personalizada\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_abb13c6ef2974081a6faa180a2e04e0b_mv2.webp",
+      "imagen": "/images/cards/balloon-surprise-balloon-pink.webp",
       "galeria": [
         "/images/shop/674055_abb13c6ef2974081a6faa180a2e04e0b_mv2.webp"
       ],
@@ -322,7 +325,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_abb13c6ef2974081a6faa180a2e04e0b_mv2.webp"
     }
   ]
 }

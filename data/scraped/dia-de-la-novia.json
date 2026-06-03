@@ -13,7 +13,7 @@
       "precio": 89900,
       "precioAnterior": 104396,
       "descripcion": "Contenido:\nRosas Rojas o Surtidas\n1 Moño de cinta\n1 Tarjeta\n1 Ruana de floristería\n**El diseño de la ruana y la tarjeta, el color de la ruana y la cinta está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/image-2024-03-23-at-12-24-38-pm-1_1.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-bouquet-rosas.webp",
       "galeria": [
         "/images/shop/image-2024-03-23-at-12-24-38-pm-1_1.webp"
       ],
@@ -76,7 +76,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/image-2024-03-23-at-12-24-38-pm-1_1.webp"
     },
     {
       "id": "desayuno-bouquet",
@@ -85,7 +86,7 @@
       "precio": 119900,
       "precioAnterior": 149900,
       "descripcion": "Contenido\n1 sándwich\n1 waffle por 4\n1 mini Nutella\n1 jugo pequeño\nPorción de galletas\nPorción de papas\nPorción de miel\nPorción de masmelos\n1 yogour\n6 fresas\n1 porción de uchuvas\n1 porción de froot loops\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda.",
-      "imagen": "/images/shop/ImagendeWhatsApp2025-02-10alas08.51.02_a91c3c3b.webp",
+      "imagen": "/images/cards/amor-amistad-brunch-bouquet.webp",
       "galeria": [
         "/images/shop/ImagendeWhatsApp2025-02-10alas08.51.02_a91c3c3b.webp"
       ],
@@ -161,7 +162,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ImagendeWhatsApp2025-02-10alas08.51.02_a91c3c3b.webp"
     },
     {
       "id": "pink-bouquet",
@@ -170,7 +172,7 @@
       "precio": 125296,
       "precioAnterior": 146196,
       "descripcion": "Contenido:\n24 rosas\n1 peluche mediano\n1 tarjeta\n1 ruana de floristeria",
-      "imagen": "/images/shop/ImagendeWhatsApp2024-10-18alas17.56.06_245a9ef3.webp",
+      "imagen": "/images/cards/regalo-amor-pink-bouquet.webp",
       "galeria": [
         "/images/shop/ImagendeWhatsApp2024-10-18alas17.56.06_245a9ef3.webp"
       ],
@@ -235,7 +237,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ImagendeWhatsApp2024-10-18alas17.56.06_245a9ef3.webp"
     },
     {
       "id": "product_67548fba-199c-c064-05df-5628db1a8f93",
@@ -244,7 +247,7 @@
       "precio": 143061,
       "precioAnterior": null,
       "descripcion": "Contenido:\n12 Girasoles\n1 Moño de cinta\n1 Tarjeta\n1 Ruana de floristeria\nEl diseño de la ruana y la tarjeta, el color de la ruana y la cinta está sujeto a disponibilidad de la tienda,",
-      "imagen": "/images/shop/BouquetdeGiraoles.webp",
+      "imagen": "/images/cards/dia-de-la-novia-bouquet-girasoles.webp",
       "galeria": [
         "/images/shop/BouquetdeGiraoles.webp"
       ],
@@ -305,7 +308,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/BouquetdeGiraoles.webp"
     },
     {
       "id": "bouquet-flor-de-sol",
@@ -314,7 +318,7 @@
       "precio": 181726,
       "precioAnterior": 371916,
       "descripcion": "Contenido:\nBalde de madera envuelto en papel\nGirasoles\nMargaritas\nPiñitas\nTarjeta\nRusco pintado\n**El contenido, decoración y productos están sujetos a disponibilidad de la tienda.",
-      "imagen": "/images/shop/BouquetFlordeSol.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-bouquet-flor-sol.webp",
       "galeria": [
         "/images/shop/BouquetFlordeSol.webp"
       ],
@@ -378,7 +382,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/BouquetFlordeSol.webp"
     },
     {
       "id": "product_803a88c3-1911-3142-0bb5-5f4515b5ad21",
@@ -387,7 +392,7 @@
       "precio": 233976,
       "precioAnterior": null,
       "descripcion": "Contiene:\n24 fresas naturales\n24 fresas con chocolate decoradas\npapel decorativo\n1 moño\n1 tarjeta personalizada",
-      "imagen": "/images/shop/674055_a053c8e8e2d44f759cba8f3a31d09396_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-bouquet-armonia.webp",
       "galeria": [
         "/images/shop/674055_a053c8e8e2d44f759cba8f3a31d09396_mv2.webp"
       ],
@@ -451,7 +456,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_a053c8e8e2d44f759cba8f3a31d09396_mv2.webp"
     },
     {
       "id": "product_398e1813-437e-4e0c-5987-ebf7f88b3e53",
@@ -460,7 +466,7 @@
       "precio": 260101,
       "precioAnterior": null,
       "descripcion": "Contenido:\nArreglo de aprox 60 rosas\n1 Tiara\nPapel coreano\nMoño decorativo\nTarjeta Personalizada\nEl color de la decoración y las rosas esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/674055_ff857fcab2764962894a57d4c8cc015f_mv2.webp",
+      "imagen": "/images/cards/amor-amistad-bouquet-ensueno.webp",
       "galeria": [
         "/images/shop/674055_ff857fcab2764962894a57d4c8cc015f_mv2.webp"
       ],
@@ -526,7 +532,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_ff857fcab2764962894a57d4c8cc015f_mv2.webp"
     },
     {
       "id": "bouquet-calm-stitch",
@@ -535,7 +542,7 @@
       "precio": 380276,
       "precioAnterior": 411626,
       "descripcion": "Contenido:\nPeluche de Stitch que respira\n48 Rosas (24 Naturales y 24 Pintadas)\nDecoración doble follaje pintado\nMoño\nTarjeta",
-      "imagen": "/images/shop/ImagendeWhatsApp2024-11-20alas14.04.37_5fd457e6.webp",
+      "imagen": "/images/cards/dia-de-la-novia-bouquet-calm-stitch.webp",
       "galeria": [
         "/images/shop/ImagendeWhatsApp2024-11-20alas14.04.37_5fd457e6.webp"
       ],
@@ -599,7 +606,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ImagendeWhatsApp2024-11-20alas14.04.37_5fd457e6.webp"
     },
     {
       "id": "product_ee7eac9d-f7f2-511b-cf99-005ce3dcc9dd",
@@ -608,7 +616,7 @@
       "precio": 594900,
       "precioAnterior": 859000,
       "descripcion": "Contiene:\nBouquet 110 rosas\n9 chocolatinas Hersheys\n1 moño decorativo\n1 tarjeta personalizada\nEl color de las rosas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/fff53a_9099a31f51cc4fb7a0bf56ce1a4ec6e4_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-novia-big-bouquet.webp",
       "galeria": [
         "/images/shop/fff53a_9099a31f51cc4fb7a0bf56ce1a4ec6e4_mv2.webp"
       ],
@@ -675,7 +683,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_9099a31f51cc4fb7a0bf56ce1a4ec6e4_mv2.webp"
     },
     {
       "id": "product_1fb4feb9-3107-758e-af32-c66ecc459c26",
@@ -684,7 +693,7 @@
       "precio": 639436,
       "precioAnterior": null,
       "descripcion": "Contenido:\n150 rosas\n1 Tiara\nPapel coreano\nMoño decorativo\nTarjeta Personalizada\nEl color de las rosas y la decoración esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/68A9048C-E56F-413E-BFFB-9FF4282D0642.webp",
+      "imagen": "/images/cards/dia-de-la-novia-bouquet-supremo-red.webp",
       "galeria": [
         "/images/shop/68A9048C-E56F-413E-BFFB-9FF4282D0642.webp"
       ],
@@ -752,7 +761,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/68A9048C-E56F-413E-BFFB-9FF4282D0642.webp"
     },
     {
       "id": "giant-bouquet",
@@ -761,7 +771,7 @@
       "precio": 2088851,
       "precioAnterior": null,
       "descripcion": "Contiene:\n450 Rosas aprox.\n1 Base de madera\n7 Set de luces\n1 Moño\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2024-02-02at10.40.39AM_11zon.webp",
+      "imagen": "/images/cards/dia-de-la-novia-giant-bouquet.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2024-02-02at10.40.39AM_11zon.webp"
       ],
@@ -824,7 +834,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2024-02-02at10.40.39AM_11zon.webp"
     }
   ]
 }

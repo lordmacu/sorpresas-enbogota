@@ -13,7 +13,7 @@
       "precio": 87900,
       "precioAnterior": 125900,
       "descripcion": "Contenido:\n3 Bombas R12\n1 Queso personal\n3 Fresas cubiertas de chocolate con uchuvas\n1 Sándwich (pan con ajonjolí doble jamón y doble queso)\n1 Galletas tosh\n1 Parfait de yogurt, granola, kiwi, fresa y arándanos\n1 Jugo hit\n1 Manzana roja\n1 Granadilla\n1 Base de cartón decorada\n1 Tarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/sapp-image-2024-03-27-at-5-20-12-pm.webp",
+      "imagen": "/images/cards/amor-amistad-super-brunch.webp",
       "galeria": [
         "/images/shop/sapp-image-2024-03-27-at-5-20-12-pm.webp"
       ],
@@ -88,7 +88,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/sapp-image-2024-03-27-at-5-20-12-pm.webp"
     },
     {
       "id": "pink-brunch",
@@ -97,7 +98,7 @@
       "precio": 87900,
       "precioAnterior": 125900,
       "descripcion": "Contenido:\n3 Bombas R12\n1 Queso personal\n3 Fresas cubiertas de chocolate con uchuvas\n1 Sándwich (pan con ajonjolí doble jamón y doble queso)\n1 Galletas tosh\n1 Parfait de yogurt, granola, kiwi, fresa y arándanos\n1 Jugo hit\n1 Manzana roja\n1 Granadilla\n1 Base de cartón decorada\n1 Tarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/sapp-image-2024-04-03-at-2-20-56-pm.webp",
+      "imagen": "/images/cards/amor-amistad-pink-brunch.webp",
       "galeria": [
         "/images/shop/sapp-image-2024-04-03-at-2-20-56-pm.webp"
       ],
@@ -169,7 +170,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/sapp-image-2024-04-03-at-2-20-56-pm.webp"
     },
     {
       "id": "product_4f724a87-9da1-b543-1835-84cdbcd8a175",
@@ -178,7 +180,7 @@
       "precio": 149900,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Arreglo floral de 12 rosas en forma de media luna\n1 Sandwich de pan, jamón y queso\n1 Paquete de galletas tosh\n1 Botella de té\n1 Yogurt Alpina\n1 Queso pera\n1 Manzana\n1 Kiwi\n1 Durazno\n1 Pera\n1 Base decorada\n1 Globo burbuja incluye 1 bomba R12 interna\n4 Globos en Helio\n**El color de la bombas y de las flores está sujeto a disponibilidad de la tienda**",
-      "imagen": "/images/shop/WhatsApp_Image_2026-05-20_at_9.43.20_AM.webp",
+      "imagen": "/images/cards/desayuno-mini-luna.webp",
       "galeria": [
         "/images/shop/WhatsApp_Image_2026-05-20_at_9.43.20_AM.webp"
       ],
@@ -255,7 +257,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsApp_Image_2026-05-20_at_9.43.20_AM.webp"
     },
     {
       "id": "beauty-brunch",
@@ -264,7 +267,7 @@
       "precio": 119900,
       "precioAnterior": 149900,
       "descripcion": "Contenido:\n1 waffle con frutas picadas\n1 Sándwich de jamón y queso\n1 Jugo\n1 Avena\n1 Porción de masmelos\n6 Fresas con chocolate\n1 Porción de tostadas\n1 Queso pera\n4 Salsas\n** El contenido, decoración y productos están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/app-image-2024-04-08-at-12-29-12-pm.webp",
+      "imagen": "/images/cards/desayuno-beauty-brunch.webp",
       "galeria": [
         "/images/shop/app-image-2024-04-08-at-12-29-12-pm.webp"
       ],
@@ -333,7 +336,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/app-image-2024-04-08-at-12-29-12-pm.webp"
     },
     {
       "id": "amazing-breakfast",
@@ -342,7 +346,7 @@
       "precio": 103351,
       "precioAnterior": null,
       "descripcion": "Contenido:\nJuego naranja en botella\nSándwich (pan con ajonjolí, doble jamón y doble queso)\n5 fresas cubiertas de chocolate\nparfait de yogurt, granola, kiwi, fresa y arándanos\n1 manzana\n1 copa\n1 porción de galletas\n1 Base decorada\n1 Set de cubiertos\n** El producto, contenido y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/IMG-20240629-WA0011.webp",
+      "imagen": "/images/cards/amor-amistad-amazing-breakfast.webp",
       "galeria": [
         "/images/shop/IMG-20240629-WA0011.webp"
       ],
@@ -415,7 +419,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/IMG-20240629-WA0011.webp"
     },
     {
       "id": "happy-brunch",
@@ -424,7 +429,7 @@
       "precio": 109900,
       "precioAnterior": 139900,
       "descripcion": "Contenido:\n2 Globo metalizado pequeño\n1 Bombas R12\n1 Peluche pequeño\n3 Fresas cubiertas de chocolate con uchuvas\n1 Sándwich (pan con ajonjolí doble jamón y doble queso)\n1 Galletas tosh\n1 Bonyurt\n1 Jugo hit\n1 Manzana verde\n1 Base de cartón decorada\n1 Tarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/p-image-2024-03-27-at-4-41-18-pm-1.webp",
+      "imagen": "/images/cards/desayuno-happy-brunch.webp",
       "galeria": [
         "/images/shop/p-image-2024-03-27-at-4-41-18-pm-1.webp"
       ],
@@ -496,7 +501,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/p-image-2024-03-27-at-4-41-18-pm-1.webp"
     },
     {
       "id": "desayunos-sorpresa-sweet-brunch",
@@ -505,7 +511,7 @@
       "precio": 81900,
       "precioAnterior": null,
       "descripcion": "Contenido\n1 Base de cartón\n1 Frapuchino\n1 Porción de Waffles\n1 Mini Nutella\n1 Porción de miel\nWraps de jamón, queso y uchuvas\nBarra de milkyway\n1 Mini parfait\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/776f3731-app-image-2024-04-01-at-11-10-01-pm.webp",
+      "imagen": "/images/cards/amor-amistad-sweet-brunch.webp",
       "galeria": [
         "/images/shop/776f3731-app-image-2024-04-01-at-11-10-01-pm.webp"
       ],
@@ -575,7 +581,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/776f3731-app-image-2024-04-01-at-11-10-01-pm.webp"
     },
     {
       "id": "petite-love-gold",
@@ -584,7 +591,7 @@
       "precio": 198446,
       "precioAnterior": 250696,
       "descripcion": "1 bandeja de madera natural\n1 ramo de 24 rosas (rosas a disponibilidad )\n1 Sandwich doble jamon doble queso\n1 bonyurt\n1 manzana verde\n1 manzana roja\n1 jugo de naranja\n1 granadilla\n1 queso pera\n1 kiwi\n1 peluche pequeño\n2 globos sin helio\n3 globos con helio\n1 globo burbuja 18 con mensaje",
-      "imagen": "/images/shop/ChatGPTImageMay5_2026_12_37_40PM.webp",
+      "imagen": "/images/cards/desayuno-petite-love-gold.webp",
       "galeria": [
         "/images/shop/ChatGPTImageMay5_2026_12_37_40PM.webp",
         "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.35_AM.webp",
@@ -653,7 +660,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ChatGPTImageMay5_2026_12_37_40PM.webp"
     },
     {
       "id": "big-roses",
@@ -662,7 +670,7 @@
       "precio": 195900,
       "precioAnterior": 289900,
       "descripcion": "Contenido:\n48 Rosas aprox.\nBase decorada\n**El contenido, productos, flores y colores están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp",
+      "imagen": "/images/cards/ramo-flores-big-roses.webp",
       "galeria": [
         "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp"
       ],
@@ -725,7 +733,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/sapp-image-2024-04-11-at-1-27-43-pm-dc761d.webp"
     },
     {
       "id": "brunch-para-mama",
@@ -734,7 +743,7 @@
       "precio": 189900,
       "precioAnterior": 209900,
       "descripcion": "Contenido:\n1 jugo 300ml\n5 fresas naturales\n1 porción de arándanos\n1 porción uchuvas\n3 fresas con chocolate\n1 porción de wafle\n1porcion de miel y nutela\n1 porción de mini\n1 masmellos 300gr de fruta picada\nSándwich pan tajado sin bordes\n1 galleta quaker\nporción de uva\nset de cubiertos\n** El producto, la decoración y el contenido están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/Imagen_de_WhatsApp_2025-06-25_a_las_15.20.01_0ce9acef.webp",
+      "imagen": "/images/cards/desayunos-sorpresa-mas-vendidos-brunch-para-mama.webp",
       "galeria": [
         "/images/shop/Imagen_de_WhatsApp_2025-06-25_a_las_15.20.01_0ce9acef.webp"
       ],
@@ -810,7 +819,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/Imagen_de_WhatsApp_2025-06-25_a_las_15.20.01_0ce9acef.webp"
     }
   ]
 }

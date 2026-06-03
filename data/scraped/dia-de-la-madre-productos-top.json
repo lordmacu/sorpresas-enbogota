@@ -13,7 +13,7 @@
       "precio": 179900,
       "precioAnterior": 219900,
       "descripcion": "Contiene:\n1 sandwihs doble jamon doble queso y lechuga\n1 manzana roja\n1 porcion de fruta picada\n1 jugo de naranja\n2 aromaticas\nset de cubiertos\ncaja decorada\n+ Bouquet de Flores Variadas\n**El contenido, productos y decoración están sujetos a disponibilidad de la tienda**",
-      "imagen": "/images/shop/WhatsAppImage2026-04-24at3.34.29PM_3.webp",
+      "imagen": "/images/cards/infinite-bliss.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-04-24at3.34.29PM_3.webp",
         "/images/shop/WhatsApp_Image_2026-05-23_at_10.02.11_AM.webp"
@@ -103,7 +103,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-04-24at3.34.29PM_3.webp"
     },
     {
       "id": "sweet-mom",
@@ -112,7 +113,7 @@
       "precio": 159900,
       "precioAnterior": 219900,
       "descripcion": "Contiene:\n1 Jugos de naranja\n1 porcion de fruta picada\n1 manzana\n1 sándwich de doble jamon doble queso y lechuga\n1 set de cubiertos\n1 base decorada\n+ 1 bouquet de flores variadas\n**El contenido, productos y decoración están sujetos a disponibilidad de la tienda**",
-      "imagen": "/images/shop/WhatsAppImage2026-04-24at3.34.15PM.webp",
+      "imagen": "/images/cards/amor-amistad-sweet-mom.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-04-24at3.34.15PM.webp",
         "/images/shop/WhatsAppImage2026-04-24at3.34.15PM_1.webp"
@@ -197,7 +198,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-04-24at3.34.15PM.webp"
     },
     {
       "id": "deluxe-mama",
@@ -206,7 +208,7 @@
       "precio": 209900,
       "precioAnterior": 259900,
       "descripcion": "Contiene:\n1 Jugos de naranja\n1 porción de fruta picada\n1 mini parfait\n1 sándwich con doble jamon doble queso y lechuga\n1 set de cubiertos\n2 sobres de aromatica\n1 rosa de salami con jamon y queso\n1 porción de galletas\n1 porción de fresas, uchuvas y arandanos\n1 caja decorada\n+ 1 bouquet de flores variadas\n**El contenido, productos y decoración están sujetos a disponibilidad de la tienda**",
-      "imagen": "/images/shop/WhatsAppImage2026-04-24at3.33.56PM_1.webp",
+      "imagen": "/images/cards/regalo-amor-deluxe-mama.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-04-24at3.33.56PM_1.webp",
         "/images/shop/WhatsApp_Image_2026-05-23_at_9.57.47_AM.webp"
@@ -296,7 +298,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-04-24at3.33.56PM_1.webp"
     },
     {
       "id": "camino-de-gloria",
@@ -305,7 +308,7 @@
       "precio": 199900,
       "precioAnterior": 249900,
       "descripcion": "Contenido:\n5 Girasoles\nArreglo de Rosas y Lirios\nCanasta o Base Cilindrica\nPorcion de uvas (verdes o moradas)\n4 Manzanas rojas\n4 Manzanas verdes\n3 Kiwi\n1 Durazno\n1 Naranja\nImagen impresa religiosa\nTarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp",
+      "imagen": "/images/cards/camino-de-gloria.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp"
       ],
@@ -393,7 +396,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-27at11.56.38AM_3.webp"
     },
     {
       "id": "combo-ejecutiva",
@@ -402,7 +406,7 @@
       "precio": 169900,
       "precioAnterior": 199900,
       "descripcion": "Contenido:\nCaja de 6 Fresas\nBouquet de Flor variada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsAppImage2026-03-04at10.22.36PM.webp",
+      "imagen": "/images/cards/amor-amistad-combo-ejecutiva.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-04at10.22.36PM.webp"
       ],
@@ -486,7 +490,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-04at10.22.36PM.webp"
     },
     {
       "id": "combo-breakfast-1",
@@ -495,7 +500,7 @@
       "precio": 124900,
       "precioAnterior": 179900,
       "descripcion": "Contenido:\n1 Jugo\n1 Kiwi\n1 Manzana verde\n1 Manzana Roja\n1 Galleta\n1 Queso Pera\n1 Waffle\nBase decorada\nTarjeta Personalizada\n- Bouquet de flores tropicales\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
-      "imagen": "/images/shop/WhatsAppImage2026-03-04at1.05.47PM.webp",
+      "imagen": "/images/cards/amor-amistad-combo-breakfast.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-04at1.05.47PM.webp"
       ],
@@ -585,7 +590,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-04at1.05.47PM.webp"
     },
     {
       "id": "combo-brunch-1",
@@ -594,7 +600,7 @@
       "precio": 189900,
       "precioAnterior": 209900,
       "descripcion": "Contenido:\n2 Wraps de jamon y queso\n1 Jugo de naranja\n1 Porcion de fresas con uchuvas\n1 Wafle con porcion de miel y nutella\n1 Banano cubierto de chocolate y mani\n1 Caja de 30x30cm\nTarjeta Personalizada\n- Bouquet de flores tropicales\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
-      "imagen": "/images/shop/WhatsAppImage2026-03-04at12.24.25PM.webp",
+      "imagen": "/images/cards/amor-amistad-combo-brunch.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-04at12.24.25PM.webp"
       ],
@@ -679,7 +685,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-04at12.24.25PM.webp"
     },
     {
       "id": "combo-desayuno-1",
@@ -688,7 +695,7 @@
       "precio": 179900,
       "precioAnterior": 209900,
       "descripcion": "Contenido:\n2 Sandwich de jamon, queso y lechuga\n4 Mini tomates\n1 Porcion de papas con salsa rosada\n1 Jugo natural\n1 Porcion de fresas naturales con masmellos y uchuvas\n1 Porcion de galletas\n1 Porcion de torta\n1 Caja de 30x30cm\nTarjeta Personalizada\n- Bouquet de flores tropicales\n** El producto, decoración y contenido están sujetos a disponibilidad de la tienda **",
-      "imagen": "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp",
+      "imagen": "/images/cards/regalo-amor-combo-desayuno.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp"
       ],
@@ -772,7 +779,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2026-03-04at12.51.32PM.webp"
     },
     {
       "id": "arreglo-de-rosas-astromelias-marfaritas-y-claveles",
@@ -781,7 +789,7 @@
       "precio": 179900,
       "precioAnterior": null,
       "descripcion": "Contiene:\nChampaña jp 200ml\nGlobo burbuja 12 pulgadas con sticker personalizado\nArreglo de rosas astromelias magaritas y clavel\nBase decorada\nTarjeta Personalizada\n**El contenido, decoración, rosas y productos están sujetos a disponibilidad de la tien\nda",
-      "imagen": "/images/shop/postinstgrambyangela_1.webp",
+      "imagen": "/images/cards/arreglo-de-rosas-astromelias-marfaritas-y-claveles.webp",
       "galeria": [
         "/images/shop/postinstgrambyangela_1.webp"
       ],
@@ -854,7 +862,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/postinstgrambyangela_1.webp"
     },
     {
       "id": "brunch-para-mama",
@@ -863,7 +872,7 @@
       "precio": 189900,
       "precioAnterior": 209900,
       "descripcion": "Contenido:\n1 jugo 300ml\n5 fresas naturales\n1 porción de arándanos\n1 porción uchuvas\n3 fresas con chocolate\n1 porción de wafle\n1porcion de miel y nutela\n1 porción de mini\n1 masmellos 300gr de fruta picada\nSándwich pan tajado sin bordes\n1 galleta quaker\nporción de uva\nset de cubiertos\n** El producto, la decoración y el contenido están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/Imagen_de_WhatsApp_2025-06-25_a_las_15.20.01_0ce9acef.webp",
+      "imagen": "/images/cards/desayunos-sorpresa-mas-vendidos-brunch-para-mama.webp",
       "galeria": [
         "/images/shop/Imagen_de_WhatsApp_2025-06-25_a_las_15.20.01_0ce9acef.webp"
       ],
@@ -939,7 +948,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/Imagen_de_WhatsApp_2025-06-25_a_las_15.20.01_0ce9acef.webp"
     },
     {
       "id": "divine-woman-rose",
@@ -948,7 +958,7 @@
       "precio": 169900,
       "precioAnterior": 189900,
       "descripcion": "Contenido:\nRosas (en tela o naturales)\n1 Figura personalizada con base de cartón\n5 Ferreros\n3 chocolates Rafaello\n1 Caja circular\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/ImagendeWhatsApp2025-03-04alas09.00.03_fc2d591e.webp",
+      "imagen": "/images/cards/divine-woman-rose.webp",
       "galeria": [
         "/images/shop/ImagendeWhatsApp2025-03-04alas09.00.03_fc2d591e.webp"
       ],
@@ -1017,7 +1027,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ImagendeWhatsApp2025-03-04alas09.00.03_fc2d591e.webp"
     },
     {
       "id": "brunch-soleado",
@@ -1026,7 +1037,7 @@
       "precio": 149900,
       "precioAnterior": 179900,
       "descripcion": "Contenido:\n6 girasoles\n1 jugo naranja en botella\n3 Fresas cubiertas de chocolate con uchuvas\n1 wafle con porción miel y nutella\nTarjeta personalizada\n1 base",
-      "imagen": "/images/shop/ImagendeWhatsApp2025-01-16alas13.36.40_db4a1cf7.webp",
+      "imagen": "/images/cards/amor-amistad-brunch-soleado.webp",
       "galeria": [
         "/images/shop/ImagendeWhatsApp2025-01-16alas13.36.40_db4a1cf7.webp"
       ],
@@ -1103,7 +1114,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/ImagendeWhatsApp2025-01-16alas13.36.40_db4a1cf7.webp"
     },
     {
       "id": "canasta-gold",
@@ -1112,7 +1124,7 @@
       "precio": 329900,
       "precioAnterior": 438796,
       "descripcion": "Contenido:\nArreglo de 48 rosas\n1 Porción de bananos\n1 Porción de uvas moradas\n1 Porción de uvas verdes\n2 Manzanas rojas\n2 Mandarinas\n1 Naranja\n1 Mango\n1 Porción de ciruela\n1 Porción de fresa\n1 Pera\n2 Kiwis\n1 Manzana verde\n** Producto, decoración y contenido están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/img-20240418-wa0026.webp",
+      "imagen": "/images/cards/dia-de-la-madre-productos-top-canasta-gold.webp",
       "galeria": [
         "/images/shop/img-20240418-wa0026.webp"
       ],
@@ -1186,7 +1198,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/img-20240418-wa0026.webp"
     },
     {
       "id": "sweet-gift-girasol",
@@ -1195,7 +1208,7 @@
       "precio": 147241,
       "precioAnterior": null,
       "descripcion": "Contenido:\n12 Fresas con chocolate\n3 Girasoles naturales\n1 Balde de madera\n1 Moño decorativo\n1 Tarjeta personalizada\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/1eba169d-image-2024-04-16-at-10-13-05-am-1.webp",
+      "imagen": "/images/cards/dia-de-la-madre-productos-top-sweet-gift-girasol.webp",
       "galeria": [
         "/images/shop/1eba169d-image-2024-04-16-at-10-13-05-am-1.webp"
       ],
@@ -1259,7 +1272,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/1eba169d-image-2024-04-16-at-10-13-05-am-1.webp"
     },
     {
       "id": "floker-mommy",
@@ -1268,7 +1282,7 @@
       "precio": 113905,
       "precioAnterior": 146196,
       "descripcion": "Contenido\n:\n1 Baúl de madera\n1 jugo de naranja\nWaffles\n1 parfait\nFresas con chocolates\nSandwich\nUchuvas\n** El producto, la decoración y el contenido están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/IMG-20240413-WA0017.webp",
+      "imagen": "/images/cards/floker-mommy.webp",
       "galeria": [
         "/images/shop/IMG-20240413-WA0017.webp",
         "/images/shop/Imagen_de_WhatsApp_2025-04-23_a_las_19.24.46_2f72ec7b.webp"
@@ -1336,7 +1350,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/IMG-20240413-WA0017.webp"
     },
     {
       "id": "mom-breakfast",
@@ -1345,7 +1360,7 @@
       "precio": 138000,
       "precioAnterior": 189900,
       "descripcion": "Contenido:\n3 Bombas R12\n1 Queso pera\n1 avena\n3 Fresas cubiertas de chocolate con uchuvas\n1 Sándwich (pan con ajonjolí doble jamón y doble queso)\n1 Galletas tosh\n1 Parfait de yogurt, granola, kiwi, fresa y arándanos\n1 Jugo hit\n1 Manzana roja\n1 Granadilla\n1 manzana verde\n1 pera\n1 Base de cartón decorada\n1 Tarjeta personalizada\n1 fotografia\n** El contenido, productos y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/sapp-image-2024-04-13-at-3-21-50-pm.webp",
+      "imagen": "/images/cards/dia-de-la-madre-productos-top-mom-breakfast.webp",
       "galeria": [
         "/images/shop/sapp-image-2024-04-13-at-3-21-50-pm.webp"
       ],
@@ -1418,7 +1433,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/sapp-image-2024-04-13-at-3-21-50-pm.webp"
     },
     {
       "id": "product_b524762d-f7f3-88e6-7838-fc3a4f595892",
@@ -1427,7 +1443,7 @@
       "precio": 325936,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Peluche grande\n1 Caja de chocolates 8 unidades\n1 Cerveza Corona Mini 207 ml\n1 Paquete de barquillos Piazza\n1 Paquete de maní la especial\n1 Chocolatina Hershey's milk mhocolate\n1 Chocolatina Hershey's milk chocolate cookies and cream\n1 Paquete de chocolates M&M milk chocolate\n1 Paquete de chocolates Ferrero Rocher x 3 Unidades\n2 Barras de chocolatinas Chocostop\n10 Bombas R12 cromadas infladas con helio\n1 Globo burbuja con mensaje prediseñado incluye 6 Bombas mini o 3 Bombas R12 internas\n1 Base decorada\nEl diseño del mensaje prediseñado, el peluche, el color de los globos de relleno esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/WhatsApp_4.webp",
+      "imagen": "/images/cards/amor-amistad-balloon-century.webp",
       "galeria": [
         "/images/shop/WhatsApp_4.webp"
       ],
@@ -1504,7 +1520,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsApp_4.webp"
     },
     {
       "id": "product_7fedc25b-ab64-c9d2-15d7-aad76c75d3e9",
@@ -1513,7 +1530,7 @@
       "precio": 348900,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Tabla de quesos madurados con fruta\n1 Botella de vinon tinto\n2 Copas de vino rellenas de monedas de chocolate\n1 Paquete de chocolates Ferrero Rocher x 3 unidades\n1 Porción de frutos secos 125gr\n1 Porción de fruta deshidratada 125gr\n1 Globo burbuja con mensaje prediseñado incluye bombas R12 en el interior\n1 Balde de madera decorado\nEl diseño del mensaje y el color de las bombas está sujeto a disponibilidad de la tienda.",
-      "imagen": "/images/shop/WhatsAppImage2023-10-19at10.57.12AM.webp",
+      "imagen": "/images/cards/amor-amistad-ancheta-amore-mio.webp",
       "galeria": [
         "/images/shop/WhatsAppImage2023-10-19at10.57.12AM.webp",
         "/images/shop/dfb815_45b9a730aa194c51be9e1ea27.webp"
@@ -1590,7 +1607,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsAppImage2023-10-19at10.57.12AM.webp"
     },
     {
       "id": "product_1e28d3ae-9ad1-c47c-c989-b3458ccd8ba7",
@@ -1599,7 +1617,7 @@
       "precio": 521351,
       "precioAnterior": null,
       "descripcion": "Contiene:\n1 Base de cartón duro\n1 Arreglo en rosas\n1 Arreglo de globos\n1 Botella de vino gato negro 750 ml\n16 Chocolates rellenos mercy\n1 Peluche\n1 Tarjeta personalizada\n** Base disponible temporalmente solo en color natural\nLa decoración, el color de rosas ,peluche y bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/fff53a_79065bbbf9b448799993a5ae5fb890b6_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-madre-productos-top-love-rose-bear.webp",
       "galeria": [
         "/images/shop/fff53a_79065bbbf9b448799993a5ae5fb890b6_mv2.webp"
       ],
@@ -1671,7 +1689,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/fff53a_79065bbbf9b448799993a5ae5fb890b6_mv2.webp"
     },
     {
       "id": "product_b0aa384b-3631-a5bc-31cd-4ac20fb7d78b",
@@ -1680,7 +1699,7 @@
       "precio": 456561,
       "precioAnterior": null,
       "descripcion": "Contiene:\nArreglo floral 80 rosas aprox .\n16 chocolates Ferrero Rocher.\n1 botella de vino Gato Negro 750 ML.\n1 tarjeta personalizada.\n1 base de cartón duro.\n** Base disponible temporalmente solo en color natural\nEl diseño y color de rosas están sujetos a disponibilidad de la tienda.",
-      "imagen": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.34_AM_1.webp",
+      "imagen": "/images/cards/dia-de-la-madre-productos-top-arreglo-majestic.webp",
       "galeria": [
         "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.34_AM_1.webp",
         "/images/shop/fff53a_53e7b8804446443b9afa9772423216b7_mv2.webp"
@@ -1749,7 +1768,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsApp_Image_2026-04-24_at_8.34.34_AM_1.webp"
     },
     {
       "id": "product_f45bb335-e9a1-ba07-bd7e-43f5970c33dd",
@@ -1758,7 +1778,7 @@
       "precio": 352061,
       "precioAnterior": 383411,
       "descripcion": "Contiene:\nArreglo floral en rosas variadas 90 rosas aprox\n18 Fresas con chocolate\n12 fresas\n1 guacal negro de madera\n1 tarjeta personalizada\nLa decoración y color de bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/674055_26be0fdf30e7443694db152ae03042d7_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-madre-productos-top-perfect-colors-roses.webp",
       "galeria": [
         "/images/shop/674055_26be0fdf30e7443694db152ae03042d7_mv2.webp"
       ],
@@ -1832,7 +1852,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_26be0fdf30e7443694db152ae03042d7_mv2.webp"
     },
     {
       "id": "product_9bc1e214-b00a-533e-d8a2-249bfe821bb3",
@@ -1841,7 +1862,7 @@
       "precio": 233976,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Balde en madera negro #3 con mensaje\n1 velón con mensaje\n2 alas\n1 ferrero *3\n6 bombas en helio\n1 globo burbuja\nLa decoración y color de bombas están sujetos a disponibilidad de la Tienda.",
-      "imagen": "/images/shop/674055_6ef2436175574614ace9891fe2a7d576_mv2.webp",
+      "imagen": "/images/cards/balloon-surprise-balloon-bendicion.webp",
       "galeria": [
         "/images/shop/674055_6ef2436175574614ace9891fe2a7d576_mv2.webp"
       ],
@@ -1906,7 +1927,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/674055_6ef2436175574614ace9891fe2a7d576_mv2.webp"
     }
   ]
 }

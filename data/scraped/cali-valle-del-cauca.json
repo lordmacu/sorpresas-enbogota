@@ -13,7 +13,7 @@
       "precio": 250696,
       "precioAnterior": 438796,
       "descripcion": "Contenido:\n1 Ramo de rosas y follaje\n1 Caja de Ferreros\n1 Globo con pintura interna y mensaje\n1 Chenet de 200 ml\n1 Tarjeta\n** El contenido, producto y decoración están sujetos a disponibilidad de la tienda",
-      "imagen": "/images/shop/410286583037029-968453002516351540-n.webp",
+      "imagen": "/images/cards/cali-valle-del-cauca-beauty-flowers.webp",
       "galeria": [
         "/images/shop/410286583037029-968453002516351540-n.webp"
       ],
@@ -77,7 +77,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/410286583037029-968453002516351540-n.webp"
     }
   ]
 }

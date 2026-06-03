@@ -130,7 +130,7 @@ function ItemBlock({ item, n, postH1 }: { item: BlogItem; n: number; postH1: str
 
         <Link
           href={prod ? `/producto/${prod.slug}` : `/categorias/${item.ctaCategoria}`}
-          className="relative block order-1 sm:order-2 aspect-[4/3] sm:aspect-auto sm:min-h-[230px] bg-[#F5E6D3]/30 img-zoom overflow-hidden"
+          className="relative block order-1 sm:order-2 aspect-[4/5] bg-[#F5E6D3]/30 img-zoom overflow-hidden"
         >
           {prod?.imagen && (
             <Image

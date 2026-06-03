@@ -13,7 +13,7 @@
       "precio": 221436,
       "precioAnterior": 252786,
       "descripcion": "Contenido:\n8 Girasoles\n16 Rosas\n12 Fresas con chocolate\n1 Balde de madera\nEl color de las rosas esta sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/864672f5-Bouquetderosasygirasoles.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-aurora-girasoles-rosas.webp",
       "galeria": [
         "/images/shop/864672f5-Bouquetderosasygirasoles.webp"
       ],
@@ -80,7 +80,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/864672f5-Bouquetderosasygirasoles.webp"
     },
     {
       "id": "product_7a9c3b7c-bd1a-de14-7198-ebf307524abe",
@@ -89,7 +90,7 @@
       "precio": 181726,
       "precioAnterior": null,
       "descripcion": "Contenido:\n1 Globo burbuja grande con mensaje prediseñado y relleno de 3 Bombas R12\n18 Rosas rojas\n1 Caja en catón corrugado tipo birrete decorada\n1 Tarjeta decorativa\nEl color de las rosas, el diseño del mensaje prediseñado y las bombas está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/dfb815_80da63df60b44389b63608129d660b78_mv2.webp",
+      "imagen": "/images/cards/dia-de-la-mujer-birrete-dorado.webp",
       "galeria": [
         "/images/shop/dfb815_80da63df60b44389b63608129d660b78_mv2.webp"
       ],
@@ -152,7 +153,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/dfb815_80da63df60b44389b63608129d660b78_mv2.webp"
     },
     {
       "id": "ramo-graduacion",
@@ -161,7 +163,7 @@
       "precio": 104396,
       "precioAnterior": null,
       "descripcion": "Contenido:\n10 Rosas en tela\n1 caja de chocolates Ferrero Rocher\n1 Tarjeta\n** El contenido, productos y decoración están sujetas a validación",
-      "imagen": "/images/shop/WhatsApp_20.webp",
+      "imagen": "/images/cards/ramo-graduacion.webp",
       "galeria": [
         "/images/shop/WhatsApp_20.webp",
         "/images/shop/ChatGPT_Image_24_may_2026_08_00_35_p.m._4.webp",
@@ -224,7 +226,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/WhatsApp_20.webp"
     },
     {
       "id": "product_20d46036-0d59-4e95-6334-648a3dacb0ae",
@@ -233,7 +236,7 @@
       "precio": 116936,
       "precioAnterior": null,
       "descripcion": "Contenido:\n18 Rosas rojas tipo exportación\n1 Caja en catón corrugado tipo birrete decorada\n1 Tarjeta decorativa\nEl color de las rosas y la caja está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/1f67cf3b-dfb815_18d89baf423a440ab891d4099f83c74a_mv2.webp",
+      "imagen": "/images/cards/grados-caja-birrete.webp",
       "galeria": [
         "/images/shop/1f67cf3b-dfb815_18d89baf423a440ab891d4099f83c74a_mv2.webp"
       ],
@@ -293,7 +296,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/1f67cf3b-dfb815_18d89baf423a440ab891d4099f83c74a_mv2.webp"
     },
     {
       "id": "lirios-y-rosas",
@@ -302,7 +306,7 @@
       "precio": 181726,
       "precioAnterior": 371916,
       "descripcion": "Contenido\nArreglo de\nAstromelias\ny Rosas\nArreglo de follaje\n1 Tarjeta\n1 Cilindro de cartón\n1 Globo burbuja R18 (con 8 globos mini\n** El color de las flores está sujeta a disponibilidad de la tienda\n** El color de los globos está sujeto a disponibilidad de la tienda",
-      "imagen": "/images/shop/floresglobos.webp",
+      "imagen": "/images/cards/lirios-y-rosas.webp",
       "galeria": [
         "/images/shop/floresglobos.webp"
       ],
@@ -366,7 +370,8 @@
             }
           ]
         }
-      }
+      },
+      "imagenOriginal": "/images/shop/floresglobos.webp"
     }
   ]
 }
