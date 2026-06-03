@@ -1,5 +1,4 @@
 import { SITE_URL, formatCOP, waLink } from "@/lib/site";
-import config from "@/data/config.json";
 import postCards from "@/data/post-cards.json";
 
 export interface PostCard {
@@ -90,11 +89,11 @@ export function buildCaption(card: PostCard, now: Date): string {
       : card.descripcion
       ? `\n\n${cleanDesc(card.descripcion).slice(0, 140)}`
       : "";
-  const wa = String(config.whatsapp).replace(/(\d{3})(\d{3})(\d{4})/, "$1 $2 $3");
+  const web = SITE_URL.replace(/^https?:\/\//, "");
   return (
     `${hook}\n\n${card.nombre}.${incluye}\n\n` +
     `💛 ${formatCOP(card.precio)}\n` +
-    `📲 Pídelo por WhatsApp: ${wa}\n` +
+    `🛒 Pídelo en ${web}\n` +
     `📍 Entrega el mismo día en toda Bogotá\n\n` +
     buildHashtags(card).join(" ")
   );

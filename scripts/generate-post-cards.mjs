@@ -33,7 +33,7 @@ console.log(`🖼  Generando ${elegibles.length} tarjetas de post…\n`);
 const cards = [];
 for (const p of elegibles) {
   try {
-    const png = await renderPost(p, { whatsapp: String(config.whatsapp).replace(/(\d{3})(\d{3})(\d{4})/, "$1 $2 $3") });
+    const png = await renderPost(p, { web: String(config.dominio || "").replace(/^https?:\/\//, "") || "sorpresas.enbogota.app" });
     const jpg = await sharp(png).jpeg({ quality: 88 }).toBuffer(); // IG/automatización: JPEG
     fs.writeFileSync(path.join(outDir, `${p.slug}.jpg`), jpg);
     cards.push({

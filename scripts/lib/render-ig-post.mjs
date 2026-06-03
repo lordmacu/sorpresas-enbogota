@@ -43,7 +43,7 @@ async function photoDataUri(localImagePath) {
   return `data:image/jpeg;base64,${buf.toString("base64")}`;
 }
 
-function template({ photo, eyebrow, titulo, precio, whatsapp }) {
+function template({ photo, eyebrow, titulo, precio, web }) {
   const pill = (children, style) =>
     h(
       "div",
@@ -211,14 +211,14 @@ function template({ photo, eyebrow, titulo, precio, whatsapp }) {
         h(
           "div",
           { style: { display: "flex", color: "rgba(255,255,255,0.92)", fontSize: 27, fontWeight: 500 } },
-          `WhatsApp ${whatsapp}`
+          web
         )
       )
     )
   );
 }
 
-export async function renderPost(product, { whatsapp = "315 464 5370" } = {}) {
+export async function renderPost(product, { web = "sorpresas.enbogota.app" } = {}) {
   const photo = await photoDataUri(product.imagen);
   const titulo = (product.nombre || "").length > 42
     ? product.nombre.slice(0, 40).trim() + "…"
@@ -229,7 +229,7 @@ export async function renderPost(product, { whatsapp = "315 464 5370" } = {}) {
     eyebrow: prettyCat(product.categoria),
     titulo,
     precio: formatCOP(product.precio),
-    whatsapp,
+    web,
   });
 
   const svg = await satori(element, {
