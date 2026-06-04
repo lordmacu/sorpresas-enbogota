@@ -404,13 +404,16 @@ POST_JSON_SHAPE = """{
   "excerpt": "1 frase gancho de 120-160 chars",
   "etiqueta": "etiqueta corta (ej: Para papá, Aniversario, Cumpleaños, Desayunos)",
   "heroProductSlug": "un slug EXACTO de la lista de productos (el regalo principal del post)",
-  "lead": "1 a 2 frases que abren el post con calidez",
-  "intro": ["párrafo 1", "párrafo 2"],
+  "lead": "2 a 3 frases que abren el post con calidez y contexto",
+  "intro": ["párrafo 1", "párrafo 2", "párrafo 3"],
   "items": [
-    { "titulo": "subtítulo con gancho", "texto": "2-3 frases que describen el detalle y a quién le sirve", "productoSlug": "slug EXACTO de la lista", "ctaCategoria": "slug de categoría real", "ctaTexto": "Ver desayunos" }
+    { "titulo": "subtítulo con gancho", "texto": "4 a 6 frases con detalle real: qué incluye el regalo, a quién le sirve, para qué momento u ocasión, y por qué emociona", "productoSlug": "slug EXACTO de la lista", "ctaCategoria": "slug de categoría real", "ctaTexto": "Ver desayunos" }
   ],
-  "cierre": ["párrafo de cierre invitando a pedir por WhatsApp / a domicilio el mismo día en Bogotá"],
-  "faq": [ { "pregunta": "...", "respuesta": "..." } ],
+  "secciones": [
+    { "titulo": "subtítulo de consejo o contexto (ej: 'Cómo elegir el detalle correcto', 'Entrega el mismo día en Bogotá')", "parrafos": ["párrafo de fondo útil con keywords naturales", "segundo párrafo"] }
+  ],
+  "cierre": ["párrafo de cierre 1", "párrafo de cierre 2 invitando a pedir por WhatsApp / a domicilio el mismo día en Bogotá"],
+  "faq": [ { "pregunta": "...", "respuesta": "respuesta de 2-3 frases, concreta y útil" } ],
   "categoriasRelacionadas": ["slug", "slug", "slug"],
   "imagePrompt": "descripción EN INGLÉS de una escena estilo PIXAR 3D animado (personajes caricaturescos, NO fotorrealista) recibiendo o entregando el regalo del tema (ej: una mujer feliz recibe un desayuno sorpresa en la puerta; una pareja con un ramo de rosas; un papá abriendo una ancheta con su familia); expresiones alegres, hogar cálido de Bogotá, sin texto en la imagen"
 }"""
@@ -444,8 +447,9 @@ def prompt_post(store, cats, theme, menu, fecha, humanize_text):
             "Devuelve un JSON con EXACTAMENTE esta forma:",
             POST_JSON_SHAPE,
             "",
-            "Requisitos: 5 items (cada uno con un productoSlug DISTINTO y real de la lista, y un ctaCategoria real),",
-            "3 a 4 faq, 3 categoriasRelacionadas reales, e imagePrompt en inglés con personas reales. Solo JSON.",
+            "Requisitos: intro de 3 párrafos; 5 items (texto de 4 a 6 frases cada uno, con productoSlug DISTINTO y real de la lista y un ctaCategoria real);",
+            "2 a 3 secciones de consejo/contexto (prosa de fondo, 2 párrafos cada una); cierre de 2 párrafos; 4 a 5 faq;",
+            "3 categoriasRelacionadas reales, e imagePrompt en inglés estilo Pixar. Escribe con calidez y detalle real, sin relleno ni repetir ideas. Solo JSON.",
         ]
     )
     return system, user
@@ -536,6 +540,11 @@ def sanitize_post(obj, valid_set, prod_set, fecha, existing_slugs, fallback_cat)
     if not hero:
         hero = next((i["productoSlug"] for i in items if i.get("productoSlug")), "")
 
+    secciones = []
+    for s in (obj.get("secciones") or [])[:4]:
+        if s and s.get("titulo") and isinstance(s.get("parrafos"), list) and s.get("parrafos"):
+            secciones.append({"titulo": _s(s.get("titulo")).strip(), "parrafos": [_s(p) for p in s["parrafos"]]})
+
     return {
         "slug": unique_slug(slugify(obj["h1"]), existing_slugs),
         "metaTitle": trim_meta(obj.get("metaTitle"), 60),
@@ -548,6 +557,7 @@ def sanitize_post(obj, valid_set, prod_set, fecha, existing_slugs, fallback_cat)
         "lead": _s(obj.get("lead")).strip(),
         "intro": [_s(x) for x in (obj.get("intro") or [])],
         "items": items,
+        "secciones": secciones,
         "cierre": [_s(x) for x in (obj.get("cierre") or [])],
         "faq": [
             {"pregunta": _s(f.get("pregunta")).strip(), "respuesta": _s(f.get("respuesta")).strip()}

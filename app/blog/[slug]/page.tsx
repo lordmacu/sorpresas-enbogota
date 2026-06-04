@@ -30,6 +30,7 @@ interface Post {
   lead: string;
   intro: string[];
   items: BlogItem[];
+  secciones?: { titulo: string; parrafos: string[] }[];
   cierre: string[];
   faq: { pregunta: string; respuesta: string }[];
   categoriasRelacionadas: string[];
@@ -284,6 +285,22 @@ export default async function BlogPostPage({
               </div>
             ))}
           </div>
+
+          {/* Secciones de fondo (prosa editorial, opcionales) */}
+          {post.secciones && post.secciones.length > 0 && (
+            <div className="space-y-10 mt-12">
+              {post.secciones.map((sec, i) => (
+                <section key={i}>
+                  <h2 className="font-display text-2xl font-bold text-[#2D2A26] mb-3">{sec.titulo}</h2>
+                  <div className="space-y-4">
+                    {sec.parrafos.map((p, j) => (
+                      <p key={j} className="text-lg text-[#6B6560] leading-relaxed">{p}</p>
+                    ))}
+                  </div>
+                </section>
+              ))}
+            </div>
+          )}
 
           {/* Cierre */}
           <div className="space-y-4 mt-10">
