@@ -46,7 +46,8 @@ class RangeHandler(SimpleHTTPRequestHandler):
 
     def do_GET(self):
         path = self.translate_path(self.path)
-        if not os.path.isfile(path):
+        # solo el mp4 usa la lógica de rangos; lo demás (imágenes, listados) normal
+        if not (os.path.isfile(path) and path.endswith(".mp4")):
             return super().do_GET()
         rng = self.headers.get("Range")
         size = os.path.getsize(path)

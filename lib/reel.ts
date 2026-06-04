@@ -99,7 +99,8 @@ export function buildReelJson(reel: { slug: string; nombre: string; items: Scrap
     `Regalos a domicilio en Bogotá · entrega el mismo día.\n\n` +
     items.map((it, i) => `${["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣"][i]} ${it.nombre} — ${it.precioFormateado}`).join("\n") +
     `\n\n💌 ¿Cuál le regalarías a ${tema}? Envíaselo o etiquétalo en los comentarios 👇\n` +
-    `🛒 Pídelo hoy en ${web}\n\n` +
+    `🛒 Pídelo hoy en ${web}\n` +
+    `📲 Síguenos @sorpresas_en_bogota para más ideas 💝\n\n` +
     [...BASE_TAGS, `#regalospara${tema.replace(/[^a-záéíóúñ]/gi, "")}`].join(" ");
 
   return {

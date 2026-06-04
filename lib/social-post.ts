@@ -96,7 +96,8 @@ export function buildCaption(card: PostCard, now: Date): string {
     `Regalo a domicilio en Bogotá · entrega el mismo día.${incluye}\n\n` +
     `💛 ${formatCOP(card.precio)}\n` +
     `💌 Envíaselo a quien le regalarías esto (o etiquétalo en los comentarios 👇)\n` +
-    `🛒 Pídelo en ${web}\n\n` +
+    `🛒 Pídelo en ${web}\n` +
+    `📲 Síguenos @sorpresas_en_bogota para más ideas 💝\n\n` +
     buildHashtags(card).join(" ")
   );
 }

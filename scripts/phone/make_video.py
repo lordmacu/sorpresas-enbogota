@@ -49,23 +49,25 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 FONT_SRC = os.path.join(HERE, "assets", "fonts")
 MUSIC_SRC = os.path.join(HERE, "assets", "music.mp3")
 
+# Estilo 3D Pixar: personajes alegres, expresivos, colores vibrantes de marca.
 STYLE = (
-    "editorial lifestyle photography, vertical 9:16 composition, warm soft natural light, "
-    "creamy shallow depth of field bokeh, romantic premium boutique gift aesthetic, "
-    "cream burgundy and gold palette, elegant, high-end magazine quality, photorealistic, "
-    "lots of empty negative space in the center for text, no text, no watermark, no logo"
+    "3D Pixar-style animated render, rounded friendly characters, exaggerated joyful expressions, "
+    "expressive big eyes, vibrant inviting colors, smooth 3D shading with soft light bloom, "
+    "warm cinematic lighting, dynamic playful energy, cream burgundy and gold palette, "
+    "shallow depth of field, vertical 9:16 composition, ultra detailed, no text, no watermark, no logo"
 )
+# Escena con persona + acción + emoción (recibir/regalar), por categoría.
 THEME = {
-    "para-papa": "an elegant gift table for dad with a leather wallet, a classic watch and warm amber tones",
-    "para-mama": "a delicate gift scene for mom with roses, a candle and soft pink tones",
-    "para-ella": "a romantic gift arrangement with roses, chocolates and gold ribbon",
-    "para-el": "a refined masculine gift scene with dark wood, amber and subtle gold accents",
-    "amor": "a romantic surprise with red roses, candles and soft warm bokeh",
-    "san-valentin": "a Valentine's surprise with red roses, hearts and warm candlelight",
-    "cumpleanos": "a festive birthday scene with golden balloons, confetti and a gift box",
-    "desayunos-sorpresas": "a luxurious surprise breakfast with croissants, strawberries and roses on a tray",
-    "flores-rosas": "an elegant bouquet of fresh roses wrapped in cream paper with gold ribbon",
-    "fresas-con-chocolate": "fresh strawberries dipped in chocolate elegantly arranged",
+    "para-papa": "a cheerful cartoon father joyfully receiving a big gift box with a golden bow from his happy kids, confetti and balloons, cozy stylized living room",
+    "para-mama": "a happy cartoon mother delighted while receiving a bouquet of flowers and a gift from her children, warm cozy home, soft pink and gold tones",
+    "para-ella": "a joyful cartoon woman surprised and smiling while receiving red roses and a gift box from her partner, floating hearts, romantic cozy setting",
+    "para-el": "a happy cartoon man delighted receiving a gift box from his partner, warm stylized cozy room",
+    "amor": "a cute cartoon couple hugging joyfully holding a gift box and red roses, floating hearts, warm romantic stylized scene",
+    "san-valentin": "a cute cartoon couple exchanging a heart-shaped gift, red roses and floating hearts, warm Valentine's stylized scene",
+    "cumpleanos": "a joyful cartoon character celebrating a birthday with a cake, balloons, confetti and a gift box, festive stylized party",
+    "desayunos-sorpresas": "a delighted cartoon character receiving a surprise breakfast tray in bed with croissants, strawberries and flowers, cozy sunny morning",
+    "flores-rosas": "a happy cartoon character beaming while receiving a big bouquet of roses, warm stylized scene",
+    "fresas-con-chocolate": "a cute cartoon character joyfully enjoying chocolate-covered strawberries, playful stylized scene",
 }
 
 
@@ -299,7 +301,8 @@ def main():
                 print("  🎨 MiniMax: fondo outro…")
                 outro_img = P("outro.jpg")
                 igkit.download(igkit.minimax_image(
-                    f"a warm celebratory gift delivery scene with gift boxes and roses. {STYLE}",
+                    "a cute cartoon delivery person happily handing a big gift box with roses to a "
+                    f"delighted person at their door, confetti, bright sunny stylized street. {STYLE}",
                     W, H)[0], outro_img)
             except Exception as e:
                 print(f"  ⚠ intro/outro MiniMax no disponible ({e}); sigo sin ellos.")
@@ -308,9 +311,9 @@ def main():
         if use_ai:
             write_text(P("t_intro1.txt"), "3 ideas para")
             write_text(P("t_intro2.txt"), cat["nombre"])
-            write_text(P("t_outro1.txt"), "Pídelo hoy")
-            write_text(P("t_outro2.txt"), "sorpresas.enbogota.app")
-            write_text(P("t_outro3.txt"), "Entrega el mismo día en Bogotá")
+            write_text(P("t_outro1.txt"), "Síguenos")
+            write_text(P("t_outro2.txt"), "@sorpresas_en_bogota")
+            write_text(P("t_outro3.txt"), "Pídelo hoy · entrega el mismo día en Bogotá")
 
         # 4) MÚSICA: por defecto el track MiniMax incluido; --fresh-music genera nuevo
         has_music = False

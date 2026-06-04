@@ -283,3 +283,64 @@ def publish(token, ig_id, creation_id):
     if "id" not in r:
         raise SystemExit(f"✗ Error al publicar: {r}")
     return r["id"]
+
+
+def _container(token, ig_id, data):
+    data = {**data, "access_token": token}
+    r = post(f"{GRAPH}/{ig_id}/media", data)
+    if "id" not in r:
+        raise SystemExit(f"✗ Error creando contenedor: {r}")
+    return r["id"]
+
+
+# Helpers de alto nivel (el caller revisa guard_publish() antes de llamarlos).
+def publish_single(image_url, caption=""):
+    token = ig_token(); ig_id = ig_user_id(token)
+    cid = _container(token, ig_id, {"image_url": image_url, "caption": caption})
+    wait_ready(token, cid)
+    return publish(token, ig_id, cid)
+
+
+def publish_carousel(image_urls, caption=""):
+    token = ig_token(); ig_id = ig_user_id(token)
+    children = [_container(token, ig_id, {"image_url": u, "is_carousel_item": "true"}) for u in image_urls]
+    car = _container(token, ig_id, {"media_type": "CAROUSEL", "children": ",".join(children), "caption": caption})
+    wait_ready(token, car)
+    return publish(token, ig_id, car)
+
+
+def publish_story(image_url):
+    token = ig_token(); ig_id = ig_user_id(token)
+    cid = _container(token, ig_id, {"image_url": image_url, "media_type": "STORIES"})
+    wait_ready(token, cid)
+    return publish(token, ig_id, cid)
+
+
+# ----------------------------------------------- contenido emocional (texto) ----
+def minimax_frases(tema, n=5, max_words=18):
+    """Genera `n` frases cortas y compartibles sobre `tema`. Devuelve lista."""
+    system = (
+        "Eres redactor de Sorpresas, regalos a domicilio en Bogotá. Escribes frases cortas, "
+        "bonitas, originales y muy compartibles sobre el amor y los detalles, en español "
+        "neutro-colombiano. Devuelve SOLO las frases, una por línea, sin numerarlas, sin "
+        f"comillas, sin emojis, sin hashtags. Cada frase máximo {max_words} palabras."
+    )
+    txt = minimax_text(system, f"Dame {n} frases distintas sobre: {tema}.")
+    out = []
+    for line in txt.splitlines():
+        s = line.strip().lstrip("-•").strip()
+        while s[:1].isdigit() or s[:1] in ".)":
+            s = s[1:].strip()
+        if s:
+            out.append(s)
+    return out[:n]
+
+
+def minimax_poema(tema, lineas=6):
+    """Genera un poema breve sobre `tema`."""
+    system = (
+        "Eres poeta de Sorpresas (regalos a domicilio en Bogotá). Escribes poemas breves, "
+        "tiernos y compartibles en español neutro-colombiano. Devuelve SOLO el poema: sin "
+        "título, sin comillas, sin emojis, sin hashtags."
+    )
+    return minimax_text(system, f"Escribe un poema breve de unas {lineas} líneas sobre {tema}, cálido y para dedicar.")
