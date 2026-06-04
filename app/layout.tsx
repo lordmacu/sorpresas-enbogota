@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     template: `%s | ${SITE_NAME} Bogotá`,
   },
   description:
-    "Flores y sorpresas premium en Bogotá. Ramos de rosas, cajas de regalo, canastas gourmet y experiencias únicas. Entrega en Bogotá. WhatsApp: +57 315 464 5370",
+    "Flores y sorpresas premium en Bogotá. Ramos de rosas, cajas de regalo, canastas gourmet y experiencias únicas. Entrega en Bogotá. WhatsApp: +57 300 498 0395",
   keywords: [
     "flores Bogotá",
     "regalos Bogotá",
