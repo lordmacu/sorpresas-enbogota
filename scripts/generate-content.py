@@ -265,15 +265,16 @@ def call_llm(system, user, base_url, api_key, model, api_style, max_tokens=16000
 
 
 # ──────────────────── imagen (MiniMax image-01) ────────────────────
-# Endpoint NATIVO (PAYG), no el de /anthropic. Fotorrealista, personas reales.
+# Endpoint NATIVO (PAYG), no el de /anthropic. Estilo Pixar 3D (igual que el
+# contenido de Instagram), encuadre horizontal para el hero del blog.
 IMG_BASE = "https://api.minimax.io"
 IMG_STYLE = (
-    "photorealistic editorial lifestyle photography, REAL PEOPLE, candid, Colombian / "
-    "Latin American people receiving or giving a surprise gift at home or at the door in "
-    "Bogotá, genuine joyful emotion, warm soft natural light, premium boutique gift "
-    "aesthetic with flowers, breakfast boxes, balloons or chocolate-covered strawberries, "
-    "cream burgundy and gold tones, shallow depth of field, high-end magazine quality, "
-    "no text, no letters, no words, no watermark, no logo, no brand names"
+    "3D Pixar-style animated render, rounded friendly characters, exaggerated joyful "
+    "expressions, expressive big eyes, vibrant inviting colors, smooth 3D shading with soft "
+    "light bloom, warm cinematic lighting, dynamic playful energy, cream burgundy and gold "
+    "palette, a character happily receiving or giving a surprise gift (flowers, breakfast box, "
+    "balloons, chocolate-covered strawberries) in a cozy Bogotá home, horizontal 16:10 "
+    "composition, ultra detailed, no text, no letters, no words, no watermark, no logo"
 )
 
 
@@ -411,7 +412,7 @@ POST_JSON_SHAPE = """{
   "cierre": ["párrafo de cierre invitando a pedir por WhatsApp / a domicilio el mismo día en Bogotá"],
   "faq": [ { "pregunta": "...", "respuesta": "..." } ],
   "categoriasRelacionadas": ["slug", "slug", "slug"],
-  "imagePrompt": "descripción EN INGLÉS de una foto fotorrealista con PERSONAS REALES recibiendo o entregando el regalo del tema (ej: una mujer feliz recibe un desayuno sorpresa en la puerta de su casa; una pareja con un ramo de rosas; un papá abriendo una ancheta con su familia); escena cálida y natural en un hogar de Bogotá, sin texto en la imagen"
+  "imagePrompt": "descripción EN INGLÉS de una escena estilo PIXAR 3D animado (personajes caricaturescos, NO fotorrealista) recibiendo o entregando el regalo del tema (ej: una mujer feliz recibe un desayuno sorpresa en la puerta; una pareja con un ramo de rosas; un papá abriendo una ancheta con su familia); expresiones alegres, hogar cálido de Bogotá, sin texto en la imagen"
 }"""
 
 GUIA_JSON_SHAPE = """{
