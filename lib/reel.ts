@@ -55,26 +55,33 @@ async function loadProducts(slug: string): Promise<ScrapedProducto[]> {
   }
 }
 
-/** Elige una categoría (random o dada) y 3 productos distintos de ella. */
-export async function pickReel(opts: { categoria?: string } = {}) {
+/** Elige una categoría (random o dada) y `count` productos distintos de ella. */
+export async function pickReel(opts: { categoria?: string; count?: number } = {}) {
+  const count = Math.min(Math.max(opts.count ?? 3, 3), 6);
   if (opts.categoria) {
     const prods = await loadProducts(opts.categoria);
     if (prods.length < 3) return null;
-    return { slug: opts.categoria, nombre: catName(opts.categoria), items: shuffle(prods).slice(0, 3) };
+    return { slug: opts.categoria, nombre: catName(opts.categoria), items: shuffle(prods).slice(0, count) };
   }
+  // 1ª pasada: categorías con al menos `count` productos (para honrar el pedido)
+  for (const slug of shuffle(REEL_CATEGORIES)) {
+    const prods = await loadProducts(slug);
+    if (prods.length >= count) {
+      return { slug, nombre: catName(slug), items: shuffle(prods).slice(0, count) };
+    }
+  }
+  // 2ª pasada: si ninguna llega a `count`, baja a 3 y devuelve lo que haya
   for (const slug of shuffle(REEL_CATEGORIES)) {
     const prods = await loadProducts(slug);
     if (prods.length >= 3) {
-      return { slug, nombre: catName(slug), items: shuffle(prods).slice(0, 3) };
+      return { slug, nombre: catName(slug), items: shuffle(prods).slice(0, count) };
     }
   }
   return null;
 }
 
-const BASE_TAGS = [
-  "#sorpresas", "#sorpresasbogota", "#regalosbogota", "#regalosadomicilio",
-  "#regalosadomiciliobogota", "#detallesconamor", "#bogota",
-];
+// 2026: pocos hashtags y locales; el alcance lo da el SEO del caption.
+const BASE_TAGS = ["#regalosbogota", "#sorpresasbogota", "#regalosadomiciliobogota"];
 
 export function buildReelJson(reel: { slug: string; nombre: string; items: ScrapedProducto[] }) {
   const web = SITE_URL.replace(/^https?:\/\//, "");
@@ -88,11 +95,11 @@ export function buildReelJson(reel: { slug: string; nombre: string; items: Scrap
   }));
   const tema = TEMA[reel.slug] || reel.nombre.toLowerCase();
   const caption =
-    `3 ideas para sorprender · ${reel.nombre} 🎁\n\n` +
-    items.map((it, i) => `${["1️⃣", "2️⃣", "3️⃣"][i]} ${it.nombre} — ${it.precioFormateado}`).join("\n") +
-    `\n\n¿Cuál elegirías para ${tema}?\n` +
-    `🛒 Pídelo en ${web}\n` +
-    `📍 Entrega el mismo día en toda Bogotá\n\n` +
+    `${items.length} ideas para sorprender en ${reel.nombre} 🎁\n` +
+    `Regalos a domicilio en Bogotá · entrega el mismo día.\n\n` +
+    items.map((it, i) => `${["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣"][i]} ${it.nombre} — ${it.precioFormateado}`).join("\n") +
+    `\n\n💌 ¿Cuál le regalarías a ${tema}? Envíaselo o etiquétalo en los comentarios 👇\n` +
+    `🛒 Pídelo hoy en ${web}\n\n` +
     [...BASE_TAGS, `#regalospara${tema.replace(/[^a-záéíóúñ]/gi, "")}`].join(" ");
 
   return {

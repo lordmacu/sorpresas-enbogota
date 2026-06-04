@@ -1,0 +1,4 @@
+# Binarios pesados del worker (fuentes ya están en scripts/assets, música en content/)
+assets/
+__pycache__/
+*.pyc

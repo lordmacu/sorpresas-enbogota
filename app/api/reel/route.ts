@@ -4,14 +4,17 @@ import { pickReel, buildReelJson } from "@/lib/reel";
 export const dynamic = "force-dynamic";
 
 /**
- * Devuelve 3 productos random de una misma categoría (para armar un reel).
- *   GET /api/reel              → categoría aleatoria
+ * Devuelve N productos random de una misma categoría (para armar un reel).
+ *   GET /api/reel                      → 3 productos, categoría aleatoria
  *   GET /api/reel?categoria=para-papa  → fuerza una categoría
- * Cada llamada regenera 3 distintos.
+ *   GET /api/reel?count=5              → 5 productos (3–6; lo usa el video)
+ * Cada llamada regenera productos distintos.
  */
 export async function GET(req: Request) {
-  const categoria = new URL(req.url).searchParams.get("categoria") || undefined;
-  const reel = await pickReel({ categoria });
+  const params = new URL(req.url).searchParams;
+  const categoria = params.get("categoria") || undefined;
+  const count = parseInt(params.get("count") || "3", 10);
+  const reel = await pickReel({ categoria, count });
 
   if (!reel) {
     return Response.json(

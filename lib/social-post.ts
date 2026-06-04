@@ -62,10 +62,8 @@ const HOOKS = [
   "Sorpréndela hoy mismo, sin moverte de casa 💝",
   "Dile lo que sientes con un detalle inolvidable 💛",
 ];
-const BASE_TAGS = [
-  "#sorpresas", "#sorpresasbogota", "#regalosbogota", "#regalosadomicilio",
-  "#regalosadomiciliobogota", "#detallesconamor", "#sorpresasadomicilio", "#bogota",
-];
+// En 2026 los hashtags pesan poco (manda el SEO del caption). Pocos y locales.
+const BASE_TAGS = ["#regalosbogota", "#sorpresasbogota", "#regalosadomiciliobogota"];
 const TAG_MAP: [RegExp, string[]][] = [
   [/desayuno|brunch|breakfast/i, ["#desayunosorpresa", "#desayunoadomicilio"]],
   [/flor|rosa|ramo/i, ["#floresbogota", "#ramodeflores"]],
@@ -78,23 +76,27 @@ const TAG_MAP: [RegExp, string[]][] = [
 export function buildHashtags(card: PostCard): string[] {
   const hay = `${card.nombre} ${card.categoria}`;
   const extra = TAG_MAP.filter(([re]) => re.test(hay)).flatMap(([, t]) => t);
-  return [...new Set([...BASE_TAGS, ...extra])].slice(0, 16);
+  return [...new Set([...BASE_TAGS, ...extra])].slice(0, 5);
 }
 
 export function buildCaption(card: PostCard, now: Date): string {
   const hook = HOOKS[(bogota(now).dayNumber + currentSlot(now)) % HOOKS.length];
   const incluye =
     card.contenido.length > 0
-      ? `\n\n🎁 Incluye: ${card.contenido.slice(0, 3).join(", ")}.`
+      ? `\n🎁 Incluye: ${card.contenido.slice(0, 3).join(", ")}.`
       : card.descripcion
-      ? `\n\n${cleanDesc(card.descripcion).slice(0, 140)}`
+      ? `\n${cleanDesc(card.descripcion).slice(0, 140)}`
       : "";
   const web = SITE_URL.replace(/^https?:\/\//, "");
+  // 1ª línea = gancho; 2ª línea = palabras clave para el SEO del caption;
+  // CTA de "envíaselo/etiqueta" para disparar los sends (señal #1 del algoritmo).
   return (
-    `${hook}\n\n${card.nombre}.${incluye}\n\n` +
+    `${hook}\n\n` +
+    `${card.nombre} 🎁\n` +
+    `Regalo a domicilio en Bogotá · entrega el mismo día.${incluye}\n\n` +
     `💛 ${formatCOP(card.precio)}\n` +
-    `🛒 Pídelo en ${web}\n` +
-    `📍 Entrega el mismo día en toda Bogotá\n\n` +
+    `💌 Envíaselo a quien le regalarías esto (o etiquétalo en los comentarios 👇)\n` +
+    `🛒 Pídelo en ${web}\n\n` +
     buildHashtags(card).join(" ")
   );
 }

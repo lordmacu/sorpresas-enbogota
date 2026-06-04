@@ -1,0 +1,15 @@
+# Sorpresas — calendario Recomendado (7/sem feed + 1 Story/día). Hora de Bogotá.
+# dow: 0=Dom 1=Lun 2=Mar 3=Mié 4=Jue 5=Vie 6=Sáb
+# Publica solo si IG_PUBLISH=1 (lo controla cron_run.sh).
+
+# Story diaria (mañana) — capa extra de presencia
+0 9 * * * /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh post_story.py
+
+# Feed (1/día, liderado por Reels)
+30 12 * * 1 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh post_carousel.py
+25 19 * * 2 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh post_video.py
+25 19 * * 3 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh post_video.py
+30 12 * * 4 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh post_carousel.py
+25 19 * * 5 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh post_video.py
+0 11 * * 6 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh post_image.py
+25 19 * * 0 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh post_video.py
