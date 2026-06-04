@@ -42,7 +42,7 @@ export function Footer({ config }: FooterProps) {
                 </svg>
               </a>
               <a
-                href={`https://facebook.com/${config.facebook}`}
+                href={`https://instagram.com/${config.instagram}`}
                 target="_blank"
                 className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-[#8B2635] transition-colors"
                 aria-label="Facebook"

@@ -105,8 +105,8 @@ const organizationLd = {
     },
   ],
   sameAs: [
+    // Solo Instagram por ahora (aún no hay Facebook real).
     `https://instagram.com/${config.instagram}`,
-    `https://facebook.com/${config.facebook}`,
   ],
   aggregateRating: {
     "@type": "AggregateRating",
