@@ -527,9 +527,10 @@ async function main() {
     ? sanitizePost(raw, validSet, prodSet, fecha, existingSlugs, fallbackCat)
     : sanitizeGuia(raw, validSet, fecha, existingSlugs, fallbackCat);
 
+  const tituloSeo = nuevo.metaTitle || nuevo.title; // posts usan metaTitle, guías usan title
   console.error(`\n→ ${type}: ${nuevo.h1}`);
   console.error(`  slug: ${nuevo.slug}`);
-  console.error(`  metaTitle (${nuevo.metaTitle.length}): ${nuevo.metaTitle}`);
+  console.error(`  metaTitle (${tituloSeo.length}): ${tituloSeo}`);
   console.error(`  metaDescription (${nuevo.metaDescription.length})`);
   if (type === "post") {
     console.error(`  hero: ${nuevo.heroProductSlug}`);
