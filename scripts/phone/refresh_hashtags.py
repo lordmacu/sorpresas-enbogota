@@ -28,6 +28,7 @@ import igkit      # noqa: E402
 import occasions  # noqa: E402
 
 OUT = igkit.HASHTAGS_FILE
+DISCOVERED = os.path.join(os.path.dirname(os.path.abspath(__file__)), "discovered_hashtags.json")
 N_SETS = 6
 
 # Banco curado por niveles (mezclar tamaños es la clave en 2026).
@@ -84,6 +85,17 @@ def minimax_occasion_tags(nombre):
     return [t for t in dict.fromkeys(tags) if t]  # únicos, en orden
 
 
+def load_discovered():
+    """Hashtags populares reales que halló hashtag_research.py (Hashtag Search API).
+    Si no existe el archivo (búsqueda no activada aún), devuelve []."""
+    try:
+        d = json.load(open(DISCOVERED, encoding="utf-8"))
+        tags = [sanitize(t) for t in (d.get("descubiertos") or [])]
+        return [t for t in tags if t]
+    except Exception:
+        return []
+
+
 def pick(pool, k, used):
     """k elementos del pool que no estén ya en `used` (mezclados)."""
     opts = [x for x in pool if x not in used]
@@ -93,10 +105,11 @@ def pick(pool, k, used):
     return out
 
 
-def build_set(occ_tags):
+def build_set(occ_tags, discovered):
     used = set()
     tags = (pick(BANK["grandes"], 2, used)
-            + pick(BANK["medianos"], 5, used)
+            + pick(BANK["medianos"], 4, used)
+            + pick(discovered, 2, used)  # tags reales descubiertos del nicho
             + pick(BANK["locales"], 2, used)
             + pick(BANK["nicho"], 2, used)
             + (random.sample(occ_tags, min(3, len(occ_tags))) if occ_tags else []))
@@ -121,19 +134,22 @@ def main():
     if nombre:  # MiniMax suma frescos de la temporada (best-effort)
         occ_tags = list(dict.fromkeys(occ_tags + minimax_occasion_tags(nombre)))
 
-    sets = [" ".join(build_set(occ_tags)) for _ in range(N_SETS)]
+    discovered = load_discovered()
+    sets = [" ".join(build_set(occ_tags, discovered)) for _ in range(N_SETS)]
 
     data = {
         "actualizado": datetime.date.today().isoformat(),
         "ocasion": nombre or "(sin ocasión)",
         "categoria": cat,
         "occasion_tags": occ_tags,
+        "descubiertos_usados": len(discovered),
         "sets": sets,
     }
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ hashtags.json actualizado — ocasión: {data['ocasion']} ({len(sets)} sets)")
+    print(f"✅ hashtags.json actualizado — ocasión: {data['ocasion']} ({len(sets)} sets, "
+          f"{len(discovered)} descubiertos)")
     for s in sets:
         print("  ·", s)
 

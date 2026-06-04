@@ -21,7 +21,7 @@ fi
 # Jobs de solo-lectura (analítica/salud/email): corren aunque IG_PUBLISH=0,
 # porque no publican ni gastan cuota — así sigues recibiendo stats y alertas.
 case "$job" in
-  report|shadowban_check|health_check|daily_stats|mentions|best_time|data_content|leads) ro=1 ;;
+  report|shadowban_check|health_check|daily_stats|mentions|best_time|data_content|leads|hashtag_research) ro=1 ;;
   *) ro=0 ;;
 esac
 if [ "$ro" = 0 ] && ! grep -q '^IG_PUBLISH=1' .env; then

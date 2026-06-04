@@ -11,4 +11,5 @@ shadowban_history.json
 .health_state.json
 daily_stats.jsonl
 hashtags.json
+discovered_hashtags.json
 .env

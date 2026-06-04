@@ -34,6 +34,7 @@
 50 8 * * * /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh shadowban_check.py
 0 21 * * * /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh daily_stats.py
 0 8 * * 1 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh report.py
+50 7 * * 1 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh hashtag_research.py
 10 8 * * 1 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh refresh_hashtags.py
 20 8 * * 1 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh data_content.py
 40 8 * * 1 /data/data/com.termux/files/home/sorpresas-worker/cron_run.sh best_time.py
