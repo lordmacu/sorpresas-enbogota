@@ -34,6 +34,7 @@ import subprocess
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import igkit  # noqa: E402
+import occasions  # noqa: E402
 
 # ---------------------------------------------------------------- config -----
 W, H = 1080, 1920
@@ -42,7 +43,7 @@ XFADE = 0.7
 TRANSITION = "fade"
 WEIGHT = {"intro": 2.6, "card": 3.6, "outro": 3.2}
 TAIL = 0.8
-VOICE_ID = "Spanish_SereneWoman"
+VOICE_ID = "Spanish_Kind-heartedGirl"  # voz de los reels de producto
 CARDS_N = 5  # nº de productos del catálogo en el Reel (3–6)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -83,10 +84,38 @@ def write_text(path, text):
         f.write(text)
 
 
-def debian(cmd):
-    return subprocess.run(
-        ["proot-distro", "login", "debian", "--", "bash", "-lc", cmd],
-        capture_output=True, text=True)
+def debian(cmd, timeout=420):
+    """Corre `cmd` dentro de Debian (proot) usando os.system.
+
+    Por qué os.system y no subprocess: tras muchas conexiones SSL de urllib
+    (MiniMax), el fork de subprocess de Python se deadlockea en el celular (el
+    hijo queda atascado entre fork y exec porque hereda un lock de Python).
+    os.system hace el fork a nivel C (libc → /bin/sh) sin los handlers de fork de
+    Python, así que no se cuelga. El comando se escribe a un script (evita
+    problemas de comillas) y la salida se captura en un archivo.
+    """
+    prefix = os.environ.get("PREFIX", "/data/data/com.termux/files/usr")
+    rootfs = os.path.join(prefix, "var/lib/proot-distro/installed-rootfs/debian")
+    script = os.path.join(rootfs, "root", "_debian_cmd.sh")
+    log = os.path.join(prefix, "tmp", "_debian_out.log")
+    os.makedirs(os.path.dirname(log), exist_ok=True)
+    with open(script, "w", encoding="utf-8") as f:
+        f.write("#!/bin/bash\n" + cmd + "\n")
+    full = f"timeout {timeout} proot-distro login debian -- bash /root/_debian_cmd.sh > '{log}' 2>&1"
+    code = os.system(full)
+    out = ""
+    try:
+        with open(log, encoding="utf-8", errors="replace") as f:
+            out = f.read()
+    except Exception:
+        pass
+    rc = os.waitstatus_to_exitcode(code) if hasattr(os, "waitstatus_to_exitcode") else (0 if code == 0 else 1)
+
+    class _R:
+        returncode = rc
+        stdout = out
+        stderr = out
+    return _R()
 
 
 def ffprobe_dur(debian_path):
@@ -104,10 +133,10 @@ def build_guion(cat_nombre, items):
     secs = round(max_words / 3.2)    # aprox. segundos al leerse
     system = (
         "Eres redactor de Sorpresas, una marca de regalos a domicilio en Bogotá con "
-        "entrega el mismo día. Escribes guiones de voz en off para Reels de Instagram, "
-        "en español neutro-colombiano, cálido, cercano y con ritmo. Devuelve SOLO el texto "
-        "que se va a leer en voz alta: sin emojis, sin hashtags, sin comillas, sin "
-        f"acotaciones ni viñetas. Máximo {max_words} palabras (~{secs} segundos al leerse)."
+        "entrega el mismo día. Escribes guiones de voz en off para Reels de Instagram. "
+        "RESPONDE SIEMPRE EN ESPAÑOL neutro-colombiano, NUNCA en inglés; cálido, cercano y "
+        "con ritmo. Devuelve SOLO el texto que se va a leer en voz alta: sin emojis, sin "
+        f"hashtags, sin comillas, sin acotaciones ni viñetas. Máximo {max_words} palabras (~{secs} s)."
     )
     lista = "\n".join(
         f"{i+1}) {it['nombre']} ({it.get('precioFormateado', '')})"
@@ -133,7 +162,7 @@ def _ass_time(s):
     return f"{h}:{m:02d}:{sec:02d}.{cs:02d}"
 
 
-def build_ass(segs, total, max_words=4):
+def build_ass(segs, total, max_words=3):
     """Genera subtítulos sincronizados (caja negra, texto blanco, abajo).
 
     Parte cada frase de MiniMax en grupos de ~max_words palabras y reparte el
@@ -142,14 +171,15 @@ def build_ass(segs, total, max_words=4):
     head = (
         "[Script Info]\n"
         "ScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\n"
-        "WrapStyle: 2\nScaledBorderAndShadow: yes\n\n"
+        # WrapStyle 0 = auto-ajuste de líneas largas dentro de los márgenes
+        "WrapStyle: 0\nScaledBorderAndShadow: yes\n\n"
         "[V4+ Styles]\n"
         "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, "
         "BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, "
         "BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n"
-        # blanco sobre caja negra (BorderStyle=3), negrita, centrado abajo
-        "Style: Sub,Inter,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,"
-        "100,100,0,0,3,18,0,2,90,90,300,1\n\n"
+        # blanco sobre caja negra (BorderStyle=3), negrita, centrado abajo, márgenes amplios
+        "Style: Sub,Inter,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,"
+        "100,100,0,0,3,16,0,2,120,120,300,1\n\n"
         "[Events]\n"
         "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n"
     )
@@ -225,7 +255,9 @@ def main():
     no_music = "--no-music" in sys.argv
     fresh_music = "--fresh-music" in sys.argv
     skip_gen = "--skip-gen" in sys.argv
-    categoria = args[0] if args else None
+    categoria = args[0] if args else (occasions.occasion_category() or occasions.preferred_category())
+    if categoria and not args:
+        print(f"  📅 categoría auto (ocasión/datos): {categoria}")
 
     tdir, ddir = workdirs()
     os.makedirs(tdir, exist_ok=True)

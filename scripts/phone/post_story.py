@@ -40,16 +40,8 @@ def main():
         print(f"\n  [preparado] Story lista: {story_url}")
         return
 
-    token = igkit.ig_token()
-    ig_id = igkit.ig_user_id(token)
-    print("· creando contenedor STORY…")
-    c = igkit.post(f"{igkit.GRAPH}/{ig_id}/media",
-                   {"image_url": story_url, "media_type": "STORIES", "access_token": token})
-    if "id" not in c:
-        raise SystemExit(f"✗ Error creando Story: {c}")
-    igkit.wait_ready(token, c["id"])
-    print("· publicando…")
-    mid = igkit.publish(token, ig_id, c["id"])
+    print("· publicando Story…")
+    mid = igkit.publish_story(story_url)
     print(f"\n✅ Story publicada. Media ID: {mid}")
 
 

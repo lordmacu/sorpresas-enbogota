@@ -2,3 +2,13 @@
 assets/
 __pycache__/
 *.pyc
+.replied_*.json
+leads.jsonl
+preferred_categories.json
+.reposted.json
+.dm_log.json
+shadowban_history.json
+.health_state.json
+daily_stats.jsonl
+hashtags.json
+.env

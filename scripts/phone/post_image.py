@@ -36,16 +36,8 @@ def main():
         print(f"\n  [preparado] 1 imagen lista para publicar:\n    {image_url}")
         return
 
-    token = igkit.ig_token()
-    ig_id = igkit.ig_user_id(token)
-    print("· creando contenedor…")
-    c = igkit.post(f"{igkit.GRAPH}/{ig_id}/media",
-                   {"image_url": image_url, "caption": caption, "access_token": token})
-    if "id" not in c:
-        raise SystemExit(f"✗ Error creando contenedor: {c}")
-    igkit.wait_ready(token, c["id"])
     print("· publicando…")
-    mid = igkit.publish(token, ig_id, c["id"])
+    mid = igkit.publish_single(image_url, caption)  # incluye 1er comentario + geotag
     print(f"\n✅ Publicado. Media ID: {mid}")
 
 

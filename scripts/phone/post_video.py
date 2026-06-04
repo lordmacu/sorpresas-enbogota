@@ -83,8 +83,11 @@ def start_server(directory):
 
 def start_tunnel():
     """Lanza cloudflared quick tunnel y devuelve (proc, public_url)."""
+    # --protocol http2 (TCP) en vez de QUIC (UDP): muchas redes móviles tiran el
+    # UDP de QUIC y el túnel se cae a los segundos. http2 es más robusto.
     proc = subprocess.Popen(
-        ["cloudflared", "tunnel", "--no-autoupdate", "--url", f"http://127.0.0.1:{PORT}"],
+        ["cloudflared", "tunnel", "--no-autoupdate", "--protocol", "http2",
+         "--url", f"http://127.0.0.1:{PORT}"],
         stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True, bufsize=1)
     url = None
     deadline = time.time() + 40
@@ -103,17 +106,23 @@ def start_tunnel():
 
 def main():
     igkit.load_env()
-    passthru = [a for a in sys.argv[1:] if a not in ("--skip-build", "--build-only")]
-    skip_build = "--skip-build" in sys.argv
-    build_only = "--build-only" in sys.argv
+    argv = sys.argv[1:]
+    builder = "make_video.py"
+    if "--builder" in argv:
+        bi = argv.index("--builder")
+        builder = argv[bi + 1]
+        del argv[bi:bi + 2]
+    passthru = [a for a in argv if a not in ("--skip-build", "--build-only")]
+    skip_build = "--skip-build" in argv
+    build_only = "--build-only" in argv
 
     wd = workdir()
     mp4 = os.path.join(wd, "reel.mp4")
 
     # 1) construir el reel
     if not skip_build or not os.path.exists(mp4):
-        print("▶ construyendo el reel…")
-        r = subprocess.run([sys.executable, os.path.join(HERE, "make_video.py"), *passthru])
+        print(f"▶ construyendo el reel ({builder})…")
+        r = subprocess.run([sys.executable, os.path.join(HERE, builder), *passthru])
         if r.returncode != 0 or not os.path.exists(mp4):
             raise SystemExit("✗ No se generó reel.mp4")
     caption = ""
@@ -130,16 +139,23 @@ def main():
         print(f"   {mp4}")
         return
 
-    # 2) servir + túnel
-    print("· levantando servidor local + túnel Cloudflare…")
-    httpd = start_server(wd)
-    proc, public = start_tunnel()
-    if not public:
-        httpd.shutdown()
-        proc.terminate()
-        raise SystemExit("✗ No obtuve URL del túnel de Cloudflare")
-    video_url = f"{public}/reel.mp4"
-    print(f"  túnel: {video_url}")
+    # 2) hospedar el reel: catbox (host público estable) con fallback a túnel
+    httpd = proc = None
+    try:
+        print("· subiendo el reel a catbox…")
+        video_url = igkit.upload_catbox(mp4)
+        print(f"  video: {video_url}")
+    except Exception as e:
+        print(f"  ⚠ catbox falló ({e}); intento túnel cloudflared…")
+        httpd = start_server(wd)
+        proc, public = start_tunnel()
+        if not public:
+            if proc:
+                proc.terminate()
+            httpd.shutdown()
+            raise SystemExit("✗ No pude hospedar el video (ni catbox ni túnel)")
+        video_url = f"{public}/reel.mp4"
+        print(f"  túnel: {video_url}")
 
     try:
         token = igkit.ig_token()
@@ -150,6 +166,7 @@ def main():
             "video_url": video_url,
             "caption": caption,
             "access_token": token,
+            **igkit.loc_params(),
         })
         if "id" not in c:
             raise SystemExit(f"✗ Error creando contenedor de reel: {c}")
@@ -157,11 +174,13 @@ def main():
         if not igkit.wait_ready(token, c["id"], tries=60, delay=5):
             raise SystemExit("✗ El video no quedó FINISHED a tiempo")
         print("· publicando…")
-        mid = igkit.publish(token, ig_id, c["id"])
+        mid = igkit._after_publish(igkit.publish(token, ig_id, c["id"]))
         print(f"\n✅ Reel publicado. Media ID: {mid}")
     finally:
-        proc.terminate()
-        httpd.shutdown()
+        if proc:
+            proc.terminate()
+        if httpd:
+            httpd.shutdown()
 
 
 if __name__ == "__main__":
