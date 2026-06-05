@@ -248,6 +248,9 @@ export function Footer({ config }: FooterProps) {
             <Link href="/terminos" className="text-gray-500 hover:text-white transition-colors text-sm">
               Términos y condiciones
             </Link>
+            <Link href="/devoluciones" className="text-gray-500 hover:text-white transition-colors text-sm">
+              Devoluciones
+            </Link>
           </div>
         </div>
       </div>

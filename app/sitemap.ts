@@ -20,6 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/opiniones`, lastModified: now, changeFrequency: "monthly", priority: 0.5 },
     { url: `${SITE_URL}/preguntas-frecuentes`, lastModified: now, changeFrequency: "monthly", priority: 0.5 },
     { url: `${SITE_URL}/contacto`, lastModified: now, changeFrequency: "monthly", priority: 0.4 },
+    { url: `${SITE_URL}/devoluciones`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
   ];
 
   const landingUrls: MetadataRoute.Sitemap = landings.landings.map((l) => ({
