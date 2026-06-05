@@ -41,3 +41,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 _preview-*.mp4
+
+# Google Merchant Center service account (secreto, NUNCA commitear)
+scripts/merchant-sa.json
+merchant-sa.json
