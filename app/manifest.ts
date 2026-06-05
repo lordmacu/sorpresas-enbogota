@@ -4,7 +4,7 @@ import config from "@/data/config.json";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: `${SITE_NAME} | Flores, desayunos y regalos a domicilio en Bogotá`,
+    name: `${SITE_NAME} | Flores, desayunos y regalos a domicilio`,
     short_name: SITE_NAME,
     description: config.descripcion,
     start_url: "/",

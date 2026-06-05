@@ -15,8 +15,8 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: `${SITE_NAME} | Flores, Desayunos y Regalos a Domicilio en Bogotá`,
-    template: `%s | ${SITE_NAME} Bogotá`,
+    default: `${SITE_NAME} | Flores, Desayunos y Regalos a Domicilio`,
+    template: `%s | ${SITE_NAME}`,
   },
   description:
     "Flores y sorpresas premium en Bogotá. Ramos de rosas, cajas de regalo, canastas gourmet y experiencias únicas. Entrega en Bogotá. WhatsApp: +57 300 498 0395",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: `${SITE_NAME} | Flores, Desayunos y Regalos a Domicilio en Bogotá`,
+    title: `${SITE_NAME} | Flores, Desayunos y Regalos a Domicilio`,
     description:
       "Ramos de rosas, cajas de regalo, canastas gourmet y experiencias únicas. Entrega en Bogotá.",
     url: SITE_URL,
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE_NAME} | Flores, Desayunos y Regalos a Domicilio en Bogotá`,
+    title: `${SITE_NAME} | Flores, Desayunos y Regalos a Domicilio`,
     description:
       "Ramos de rosas, cajas de regalo, canastas gourmet y experiencias únicas.",
   },
