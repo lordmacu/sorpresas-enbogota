@@ -4,6 +4,7 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { WhatsAppFloat } from "@/components/WhatsAppFloat";
 import { JsonLd } from "@/components/JsonLd";
+import { GoogleTagManager } from "@next/third-parties/google";
 import { SITE_URL, SITE_NAME } from "@/lib/site";
 import config from "@/data/config.json";
 import testimonios from "@/data/testimonios.json";
@@ -136,11 +137,25 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
+      {/* Google Tag Manager: inyecta el script tras la hidratación (forma oficial Next). */}
+      {config.gtm && <GoogleTagManager gtmId={config.gtm} />}
       {/* suppressHydrationWarning: extensiones del navegador (ColorZilla, Grammarly…)
           inyectan atributos en <body> antes de que React hidrate. Esto evita el
           warning de hydration mismatch por ese atributo; no oculta errores reales
           del árbol de componentes. */}
       <body className="min-h-full flex flex-col" suppressHydrationWarning>
+        {/* GTM (noscript): fallback sin JavaScript, primer elemento del body. */}
+        {config.gtm && (
+          <noscript>
+            <iframe
+              src={`https://www.googletagmanager.com/ns.html?id=${config.gtm}`}
+              height="0"
+              width="0"
+              style={{ display: "none", visibility: "hidden" }}
+              title="gtm"
+            />
+          </noscript>
+        )}
         <JsonLd data={organizationLd} />
         <Header whatsapp={config.whatsapp} />
         <main className="flex-1">{children}</main>
