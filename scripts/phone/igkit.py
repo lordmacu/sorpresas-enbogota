@@ -73,20 +73,30 @@ def guard_publish():
 
 
 # -------------------------------------------------------------------- http ----
-def _req(url, data=None, headers=None, method=None, timeout=120):
+def _req(url, data=None, headers=None, method=None, timeout=120, retries=3):
     if data is not None and not isinstance(data, (bytes, bytearray)):
         data = urllib.parse.urlencode(data).encode()
     req = urllib.request.Request(url, data=data, method=method or ("POST" if data else "GET"))
     for k, v in (headers or {}).items():
         req.add_header(k, v)
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            return json.loads(r.read().decode())
-    except urllib.error.HTTPError as e:
+    last = None
+    for intento in range(retries):
         try:
-            return json.loads(e.read().decode())
-        except Exception:
-            return {"error": {"message": f"HTTP {e.code}"}}
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return json.loads(r.read().decode())
+        except urllib.error.HTTPError as e:
+            # Error HTTP del servidor (4xx/5xx): no se reintenta, se devuelve el cuerpo.
+            try:
+                return json.loads(e.read().decode())
+            except Exception:
+                return {"error": {"message": f"HTTP {e.code}"}}
+        except (urllib.error.URLError, TimeoutError, OSError) as e:
+            # Fallo de red/DNS transitorio (router con hipo): espera y reintenta.
+            last = e
+            if intento < retries - 1:
+                time.sleep(2 * (intento + 1))
+    # Tras los reintentos: error limpio (sin traceback), igual que con HTTPError.
+    return {"error": {"message": f"red/DNS no disponible: {str(last)[:120]}"}}
 
 
 def get(url, params=None):
