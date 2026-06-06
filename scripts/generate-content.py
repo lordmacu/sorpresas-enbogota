@@ -130,6 +130,21 @@ def read_text(path, default=""):
         return default
 
 
+# Validación de idioma: rechaza solo si el INGLÉS claramente domina el texto visible
+# (tolera nombres de producto en inglés sueltos como "Super Brunch"). No mira imagePrompt.
+_ES_WORDS = ("que", "de", "la", "el", "los", "las", "una", "para", "con", "por", "su", "tu",
+             "del", "al", "como", "pero", "muy", "ya", "esto", "esta", "cada", "en", "lo", "te")
+_EN_WORDS = ("the", "and", "of", "with", "your", "you", "this", "that", "for", "are", "our",
+             "from", "will", "would", "their", "there", "about", "more", "what", "when")
+
+
+def looks_spanish(text):
+    t = " " + (text or "").lower() + " "
+    es = sum(t.count(f" {w} ") for w in _ES_WORDS)
+    en = sum(t.count(f" {w} ") for w in _EN_WORDS)
+    return not (en >= 3 and en > es)
+
+
 # ──────────────────── ocasiones de regalo (Colombia) ───────────────
 def nth_weekday(year, month, weekday, n):
     """n-ésima ocurrencia de weekday (0=Lun..6=Dom) en el mes. Devuelve date."""
@@ -354,6 +369,7 @@ def reglas_humanas(humanize_text):
     es = "\n".join(
         [
             "## REGLAS DE ESCRITURA HUMANA (OBLIGATORIAS, máxima prioridad)",
+            "⚠️ REGLA IRROMPIBLE: TODO el texto va en ESPAÑOL (Colombia). PROHIBIDO escribir oraciones en inglés u otro idioma. Los nombres propios de producto pueden quedar como están. Si algo sale en otro idioma, la respuesta es INVÁLIDA.",
             "El texto se publica para posicionar en Google y debe leerse 100% humano, nunca como IA.",
             "- Frases cortas (10-20 palabras), voz activa, vocabulario cotidiano y concreto.",
             "- Varía el largo de las frases. Ritmo natural, no mecánico.",
@@ -765,13 +781,31 @@ def main():
         target_file, data_obj, arr_key = GUIAS_FILE, guias, "guias"
 
     existing_slugs = set(x["slug"] for x in data_obj[arr_key])
-    content = call_llm(system, user, base_url, api_key, model, api_style, max_tokens)
-    raw = extract_json(content)
-    nuevo = (
-        sanitize_post(raw, valid_set, prod_set, fecha, existing_slugs, fallback_cat)
-        if type_ == "post"
-        else sanitize_guia(raw, valid_set, fecha, existing_slugs, fallback_cat)
-    )
+    nuevo, raw = None, {}
+    for intento in range(3):
+        content = call_llm(system, user, base_url, api_key, model, api_style, max_tokens)
+        raw = extract_json(content)
+        cand = (
+            sanitize_post(raw, valid_set, prod_set, fecha, set(existing_slugs), fallback_cat)
+            if type_ == "post"
+            else sanitize_guia(raw, valid_set, fecha, set(existing_slugs), fallback_cat)
+        )
+        # Valida SOLO el texto visible (sin imagePrompt, que va en inglés a propósito).
+        visible = " ".join([
+            cand.get("h1", ""), cand.get("lead", ""),
+            " ".join(cand.get("intro", [])),
+            " ".join(i.get("texto", "") for i in cand.get("items", [])),
+            " ".join(" ".join(s.get("parrafos", [])) for s in cand.get("secciones", [])),
+            " ".join(cand.get("cierre", [])),
+            " ".join(f.get("respuesta", "") for f in cand.get("faq", [])),
+        ])
+        if looks_spanish(visible):
+            nuevo = cand
+            break
+        log(f"⚠ intento {intento + 1}: el texto no quedó en español, regenerando…")
+    if nuevo is None:
+        log("✗ No se pudo generar en español tras 3 intentos. Abortando (no se publica).")
+        sys.exit(1)
 
     titulo_seo = nuevo.get("metaTitle") or nuevo.get("title") or ""
     log(f"\n→ {type_}: {nuevo['h1']}")

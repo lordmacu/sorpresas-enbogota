@@ -249,12 +249,35 @@ def minimax_music(prompt, instrumental=True, model="music-2.6"):
     return bytes.fromhex(audio)
 
 
-def minimax_text(system, user, max_tokens=2000):
-    """Genera texto (guión) con el LLM del proyecto (MiniMax, estilo anthropic u openai).
+# Regla de idioma IRROMPIBLE para todo el texto público (no aplica a prompts de imagen).
+SPANISH_RULE = (
+    "\n\nREGLA IRROMPIBLE: TODO el texto debe ir en ESPAÑOL (Colombia). Está PROHIBIDO "
+    "escribir oraciones en inglés u otro idioma. Los nombres propios de producto pueden "
+    "quedar como están, pero ninguna frase puede estar en otro idioma."
+)
+_ES_WORDS = ("que", "de", "la", "el", "los", "las", "una", "para", "con", "por", "su", "tu",
+             "del", "al", "como", "pero", "muy", "ya", "esto", "esta", "cada", "en", "lo", "te")
+_EN_WORDS = ("the", "and", "of", "with", "your", "you", "this", "that", "for", "are", "our",
+             "from", "will", "would", "their", "there", "about", "more", "what", "when")
 
-    Nota: MiniMax-M3 es un modelo de *thinking* (la respuesta trae un bloque
-    'thinking' además del 'text'); por eso el presupuesto de tokens debe ser
-    holgado o el texto final sale vacío.
+
+def looks_spanish(text):
+    """Rechaza solo si el INGLÉS claramente domina (tolera nombres de producto en inglés)."""
+    t = " " + (text or "").lower() + " "
+    es = sum(t.count(f" {w} ") for w in _ES_WORDS)
+    en = sum(t.count(f" {w} ") for w in _EN_WORDS)
+    return not (en >= 3 and en > es)
+
+
+def minimax_text(system, user, max_tokens=2000, spanish_only=True):
+    """Genera texto con el LLM del proyecto (MiniMax, estilo anthropic u openai).
+
+    Con spanish_only=True (default) impone español: agrega la regla al system y, si
+    el texto sale en otro idioma, lo RECHAZA y regenera (hasta 4 intentos). Los
+    prompts de imagen (en inglés) deben pasar spanish_only=False.
+
+    Nota: MiniMax-M3 es *thinking*; el presupuesto de tokens debe ser holgado o el
+    texto final sale vacío.
     """
     key = minimax_key()
     base = os.environ.get("LLM_BASE_URL", "https://api.minimax.io/anthropic").rstrip("/")
@@ -262,30 +285,36 @@ def minimax_text(system, user, max_tokens=2000):
     style = os.environ.get("LLM_API_STYLE", "auto")
     if style == "auto":
         style = "anthropic" if re.search(r"/anthropic(?:/|$)", base) else "openai"
+    sys_prompt = system + SPANISH_RULE if spanish_only else system
 
-    if style == "anthropic":
-        r = post_json(
-            f"{base}/v1/messages",
-            {"model": model, "max_tokens": max_tokens, "system": system,
-             "messages": [{"role": "user", "content": user}]},
-            headers={"x-api-key": key, "anthropic-version": "2023-06-01"},
-        )
-        parts = r.get("content") or []
-        txt = "".join(p.get("text", "") for p in parts if p.get("type") == "text").strip()
-    else:
-        url = base if base.endswith("/chat/completions") else f"{base}/chat/completions"
-        r = post_json(
-            url,
-            {"model": model, "max_tokens": max_tokens,
-             "messages": [{"role": "system", "content": system},
-                          {"role": "user", "content": user}]},
-            headers={"Authorization": f"Bearer {key}"},
-        )
-        txt = (((r.get("choices") or [{}])[0].get("message") or {}).get("content") or "").strip()
+    for _intento in range(4):
+        if style == "anthropic":
+            r = post_json(
+                f"{base}/v1/messages",
+                {"model": model, "max_tokens": max_tokens, "system": sys_prompt,
+                 "messages": [{"role": "user", "content": user}]},
+                headers={"x-api-key": key, "anthropic-version": "2023-06-01"},
+            )
+            parts = r.get("content") or []
+            txt = "".join(p.get("text", "") for p in parts if p.get("type") == "text").strip()
+        else:
+            url = base if base.endswith("/chat/completions") else f"{base}/chat/completions"
+            r = post_json(
+                url,
+                {"model": model, "max_tokens": max_tokens,
+                 "messages": [{"role": "system", "content": sys_prompt},
+                              {"role": "user", "content": user}]},
+                headers={"Authorization": f"Bearer {key}"},
+            )
+            txt = (((r.get("choices") or [{}])[0].get("message") or {}).get("content") or "").strip()
 
-    if not txt:
-        raise SystemExit(f"✗ Guión vacío del LLM: {json.dumps(r)[:300]}")
-    return txt
+        if not txt:
+            raise SystemExit(f"✗ Guión vacío del LLM: {json.dumps(r)[:300]}")
+        if not spanish_only or looks_spanish(txt):
+            return txt
+        # salió en otro idioma: se rechaza y se reintenta
+
+    raise SystemExit("✗ El texto no quedó en español tras varios intentos (rechazado).")
 
 
 # --------------------------------------------------- Instagram Graph (publicar) ----
@@ -462,7 +491,7 @@ def minimax_scene_prompts(context, n=4):
         "cozy setting. STRICTLY avoid lit candles, fire, flames, text, logos and brands. "
         "Return ONLY the prompts, one per line, no numbering, no quotes."
     )
-    txt = minimax_text(system, f"Write {n} distinct visual scenes that fit this:\n{context}")
+    txt = minimax_text(system, f"Write {n} distinct visual scenes that fit this:\n{context}", spanish_only=False)
     out = []
     for line in txt.splitlines():
         s = line.strip().lstrip("-•").strip()
