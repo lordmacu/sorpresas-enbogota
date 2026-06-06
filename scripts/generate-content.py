@@ -130,19 +130,31 @@ def read_text(path, default=""):
         return default
 
 
-# Validación de idioma: rechaza solo si el INGLÉS claramente domina el texto visible
-# (tolera nombres de producto en inglés sueltos como "Super Brunch"). No mira imagePrompt.
+# Validación de idioma: acepta SOLO español. Rechaza chino/otros alfabetos, portugués
+# e inglés dominante. Tolera nombres de producto en inglés sueltos. No mira imagePrompt.
 _ES_WORDS = ("que", "de", "la", "el", "los", "las", "una", "para", "con", "por", "su", "tu",
              "del", "al", "como", "pero", "muy", "ya", "esto", "esta", "cada", "en", "lo", "te")
 _EN_WORDS = ("the", "and", "of", "with", "your", "you", "this", "that", "for", "are", "our",
              "from", "will", "would", "their", "there", "about", "more", "what", "when")
+_PT_WORDS = ("uma", "muito", "melhor", "melhores", "obrigado", "isso", "fazer", "voce",
+             "voces", "tambem", "entao", "nao", "seu", "sua")
+_ALLOWED = set("áéíóúüñÁÉÍÓÚÜÑºª")
+
+
+def _foreign_letters(text):
+    """True si hay letras fuera del alfabeto español (chino, cirílico, ç, ã, ê…)."""
+    return any(ch.isalpha() and ord(ch) > 127 and ch not in _ALLOWED for ch in (text or ""))
 
 
 def looks_spanish(text):
-    t = " " + (text or "").lower() + " "
-    es = sum(t.count(f" {w} ") for w in _ES_WORDS)
-    en = sum(t.count(f" {w} ") for w in _EN_WORDS)
-    return not (en >= 3 and en > es)
+    if _foreign_letters(text):
+        return False  # chino, japonés, cirílico, o portugués/otro con ç ã õ ê…
+    low = " " + (text or "").lower() + " "
+    if any(f" {w} " in low for w in _PT_WORDS):
+        return False  # portugués
+    es = sum(low.count(f" {w} ") for w in _ES_WORDS)
+    en = sum(low.count(f" {w} ") for w in _EN_WORDS)
+    return not (en >= 3 and en > es)  # inglés dominante
 
 
 # ──────────────────── ocasiones de regalo (Colombia) ───────────────
@@ -369,7 +381,7 @@ def reglas_humanas(humanize_text):
     es = "\n".join(
         [
             "## REGLAS DE ESCRITURA HUMANA (OBLIGATORIAS, máxima prioridad)",
-            "⚠️ REGLA IRROMPIBLE: TODO el texto va en ESPAÑOL (Colombia). PROHIBIDO escribir oraciones en inglés u otro idioma. Los nombres propios de producto pueden quedar como están. Si algo sale en otro idioma, la respuesta es INVÁLIDA.",
+            "⚠️ REGLA IRROMPIBLE: TODO el texto va en ESPAÑOL (Colombia). PROHIBIDO escribir oraciones en inglés, chino, portugués u otro idioma. Los nombres propios de producto en inglés SÍ pueden quedar como están (son intencionales). Si una oración sale en otro idioma, la respuesta es INVÁLIDA.",
             "El texto se publica para posicionar en Google y debe leerse 100% humano, nunca como IA.",
             "- Frases cortas (10-20 palabras), voz activa, vocabulario cotidiano y concreto.",
             "- Varía el largo de las frases. Ritmo natural, no mecánico.",

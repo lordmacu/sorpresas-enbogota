@@ -252,21 +252,35 @@ def minimax_music(prompt, instrumental=True, model="music-2.6"):
 # Regla de idioma IRROMPIBLE para todo el texto público (no aplica a prompts de imagen).
 SPANISH_RULE = (
     "\n\nREGLA IRROMPIBLE: TODO el texto debe ir en ESPAÑOL (Colombia). Está PROHIBIDO "
-    "escribir oraciones en inglés u otro idioma. Los nombres propios de producto pueden "
-    "quedar como están, pero ninguna frase puede estar en otro idioma."
+    "escribir oraciones en inglés, chino, portugués u otro idioma. Los nombres propios de "
+    "producto en inglés sí pueden quedar como están (son intencionales), pero ninguna "
+    "oración puede estar en otro idioma."
 )
 _ES_WORDS = ("que", "de", "la", "el", "los", "las", "una", "para", "con", "por", "su", "tu",
              "del", "al", "como", "pero", "muy", "ya", "esto", "esta", "cada", "en", "lo", "te")
 _EN_WORDS = ("the", "and", "of", "with", "your", "you", "this", "that", "for", "are", "our",
              "from", "will", "would", "their", "there", "about", "more", "what", "when")
+_PT_WORDS = ("uma", "muito", "melhor", "melhores", "obrigado", "isso", "fazer", "voce",
+             "voces", "tambem", "entao", "nao", "seu", "sua")
+_ALLOWED = set("áéíóúüñÁÉÍÓÚÜÑºª")
+
+
+def _foreign_letters(text):
+    """True si hay letras fuera del alfabeto español (chino, cirílico, ç, ã, ê…)."""
+    return any(ch.isalpha() and ord(ch) > 127 and ch not in _ALLOWED for ch in (text or ""))
 
 
 def looks_spanish(text):
-    """Rechaza solo si el INGLÉS claramente domina (tolera nombres de producto en inglés)."""
-    t = " " + (text or "").lower() + " "
-    es = sum(t.count(f" {w} ") for w in _ES_WORDS)
-    en = sum(t.count(f" {w} ") for w in _EN_WORDS)
-    return not (en >= 3 and en > es)
+    """Acepta SOLO español. Rechaza chino/otros alfabetos, portugués e inglés dominante.
+    Tolera nombres de producto en inglés sueltos (son intencionales)."""
+    if _foreign_letters(text):
+        return False  # chino, japonés, cirílico, o portugués/otro con ç ã õ ê…
+    low = " " + (text or "").lower() + " "
+    if any(f" {w} " in low for w in _PT_WORDS):
+        return False  # portugués
+    es = sum(low.count(f" {w} ") for w in _ES_WORDS)
+    en = sum(low.count(f" {w} ") for w in _EN_WORDS)
+    return not (en >= 3 and en > es)  # inglés dominante
 
 
 def minimax_text(system, user, max_tokens=2000, spanish_only=True):
