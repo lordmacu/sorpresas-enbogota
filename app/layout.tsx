@@ -4,6 +4,7 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { WhatsAppFloat } from "@/components/WhatsAppFloat";
 import { JsonLd } from "@/components/JsonLd";
+import { GtmTracker } from "@/components/GtmTracker";
 import { GoogleTagManager } from "@next/third-parties/google";
 import { SITE_URL, SITE_NAME } from "@/lib/site";
 import config from "@/data/config.json";
@@ -157,6 +158,7 @@ export default function RootLayout({
           </noscript>
         )}
         <JsonLd data={organizationLd} />
+        <GtmTracker />
         <Header whatsapp={config.whatsapp} />
         <main className="flex-1">{children}</main>
         <Footer config={config} />

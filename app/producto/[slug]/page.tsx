@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { JsonLd } from "@/components/JsonLd";
+import { GtmEvent } from "@/components/GtmEvent";
 import { ProductCard } from "@/components/ProductCard";
 import { ProductGallery } from "@/components/ProductGallery";
 import { ProductSeoContent } from "@/components/ProductSeoContent";
@@ -229,6 +230,16 @@ export default async function ProductPage({ params }: PageProps) {
   return (
     <div className="flex flex-col">
       <JsonLd data={jsonLdPayload} />
+      <GtmEvent
+        event="view_item"
+        data={{
+          item_id: producto.slug,
+          item_name: producto.nombre,
+          item_category: producto.categoria,
+          value: producto.precio,
+          currency: "COP",
+        }}
+      />
       {/* Breadcrumb */}
       <div className="bg-white border-b border-[#F5E6D3]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
@@ -357,6 +368,9 @@ export default async function ProductPage({ params }: PageProps) {
                   href={waLink(`Hola! Quiero pedir ${producto.nombre}`)}
                   target="_blank"
                   rel="noopener noreferrer"
+                  data-gtm-slug={producto.slug}
+                  data-gtm-name={producto.nombre}
+                  data-gtm-precio={producto.precio}
                   className="inline-flex items-center justify-center gap-2 flex-1 bg-[#25D366] hover:bg-[#20BD5A] text-white font-semibold text-base px-8 py-4 rounded-full transition-all hover:-translate-y-0.5"
                 >
                   <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">

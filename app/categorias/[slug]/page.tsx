@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Image from "next/image";
 import { ProductCard } from "@/components/ProductCard";
 import { JsonLd } from "@/components/JsonLd";
+import { GtmEvent } from "@/components/GtmEvent";
 import { SITE_URL, waLink } from "@/lib/site";
 import categorias from "@/data/categorias.json";
 import landings from "@/data/landings.json";
@@ -169,6 +170,14 @@ export default async function CategoryPage({ params }: PageProps) {
   return (
     <div className="flex flex-col">
       <JsonLd data={[breadcrumbLd, collectionLd]} />
+      <GtmEvent
+        event="view_item_list"
+        data={{
+          item_list_id: slug,
+          item_list_name: categoria.nombre,
+          items_count: productos.length,
+        }}
+      />
       {/* Hero con foto real de la categoría */}
       <section className="relative py-16 lg:py-28 bg-gradient-to-br from-[#8B2635] to-[#6B1D2A] text-white overflow-hidden">
         {categoria.imagen && (

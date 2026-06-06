@@ -67,7 +67,13 @@ export function ProductCard({ producto }: ProductCardProps) {
         </p>
         {/* Enlace principal estirado sobre toda la card */}
         <h3 className="font-display text-lg font-semibold text-[#2D2A26] mb-2 group-hover:text-[#8B2635] transition-colors line-clamp-2">
-          <Link href={`/producto/${producto.slug}`} className="after:absolute after:inset-0 after:content-['']">
+          <Link
+            href={`/producto/${producto.slug}`}
+            className="after:absolute after:inset-0 after:content-['']"
+            data-gtm-slug={producto.slug}
+            data-gtm-name={producto.nombre}
+            data-gtm-precio={producto.precio}
+          >
             {producto.nombre}
           </Link>
         </h3>
@@ -93,6 +99,9 @@ export function ProductCard({ producto }: ProductCardProps) {
             target="_blank"
             rel="noopener noreferrer"
             aria-label={`Pedir ${producto.nombre} por WhatsApp`}
+            data-gtm-slug={producto.slug}
+            data-gtm-name={producto.nombre}
+            data-gtm-precio={producto.precio}
             className="relative z-10 p-2 rounded-full bg-[#8B2635]/10 text-[#8B2635] hover:bg-[#25D366] hover:text-white transition-colors"
           >
             <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
