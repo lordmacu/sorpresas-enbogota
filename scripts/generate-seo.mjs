@@ -374,6 +374,21 @@ async function buildUserMessage(producto, categoriaNombre) {
   );
 }
 
+// Regla de idioma irrompible + detector de alfabetos extranjeros (chino, japonés,
+// coreano, cirílico, árabe). MiniMax es modelo chino y a veces cuela caracteres.
+const SPANISH_RULE =
+  "\n\nREGLA IRROMPIBLE: TODO el texto va en ESPAÑOL (Colombia). PROHIBIDO incluir " +
+  "cualquier palabra o carácter en chino, japonés, coreano, ruso u otro alfabeto. " +
+  "Si aparece un solo carácter de otro idioma, la respuesta es INVÁLIDA.";
+
+const _FOREIGN_RE = /[㐀-鿿぀-ヿ가-힯Ѐ-ӿ֐-ۿ]/;
+function hasForeignText(obj) {
+  if (typeof obj === "string") return _FOREIGN_RE.test(obj);
+  if (Array.isArray(obj)) return obj.some(hasForeignText);
+  if (obj && typeof obj === "object") return Object.values(obj).some(hasForeignText);
+  return false;
+}
+
 async function processOne(item, opts) {
   const { producto, categoriaNombre } = item;
   const target = path.join(SEO_DIR, `${producto.slug}.json`);
@@ -383,7 +398,7 @@ async function processOne(item, opts) {
     return { slug: producto.slug, status: "skip" };
   }
 
-  const system = buildSystemPrompt(opts.promptText);
+  const system = buildSystemPrompt(opts.promptText) + SPANISH_RULE;
   const user = await buildUserMessage(producto, categoriaNombre);
 
   if (opts.dryRun) {
@@ -393,20 +408,32 @@ async function processOne(item, opts) {
     return { slug: producto.slug, status: "dry" };
   }
 
-  const content = await callLlm({
-    system,
-    user,
-    baseUrl: opts.baseUrl,
-    apiKey: opts.apiKey,
-    model: opts.model,
-    apiStyle: opts.apiStyle,
-    jsonMode: opts.jsonMode,
-    maxTokens: opts.maxTokens,
-  });
-  const obj = extractJson(content);
-  const err = validateSeo(obj, producto.slug);
-  if (err) {
-    throw new Error(`Validación: ${err}`);
+  let obj = null;
+  for (let intento = 0; intento < 3; intento++) {
+    const content = await callLlm({
+      system,
+      user,
+      baseUrl: opts.baseUrl,
+      apiKey: opts.apiKey,
+      model: opts.model,
+      apiStyle: opts.apiStyle,
+      jsonMode: opts.jsonMode,
+      maxTokens: opts.maxTokens,
+    });
+    const cand = extractJson(content);
+    const err = validateSeo(cand, producto.slug);
+    if (err) {
+      if (intento < 2) continue;
+      throw new Error(`Validación: ${err}`);
+    }
+    if (hasForeignText(cand)) {
+      continue; // chino/otro alfabeto: se rechaza y se regenera
+    }
+    obj = cand;
+    break;
+  }
+  if (!obj) {
+    throw new Error("idioma: el texto no quedó en español (chino u otro alfabeto) tras 3 intentos");
   }
   await writeFile(target, JSON.stringify(obj, null, 2) + "\n", "utf8");
   return { slug: producto.slug, status: "ok" };
