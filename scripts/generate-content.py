@@ -347,7 +347,21 @@ def generate_imagen(slug, image_prompt, api_key, out_dir):
             out = bio.getvalue()
             ext = "webp"
         except Exception:
-            pass  # sin Pillow: se guarda el original
+            # Sin Pillow: usar cwebp (libwebp), liviano y sin dependencias de Python.
+            try:
+                import shutil
+                import subprocess
+                import tempfile
+                if shutil.which("cwebp"):
+                    with tempfile.NamedTemporaryFile(suffix=".jpg") as _tin:
+                        _tin.write(buf)
+                        _tin.flush()
+                        _r = subprocess.run(["cwebp", "-quiet", "-q", "84", _tin.name, "-o", "-"],
+                                            capture_output=True)
+                    if _r.returncode == 0 and _r.stdout:
+                        out, ext = _r.stdout, "webp"
+            except Exception:
+                pass  # sin Pillow ni cwebp: se guarda el JPG original
 
         file = os.path.join(out_dir, f"{slug}.{ext}")
         with open(file, "wb") as f:
