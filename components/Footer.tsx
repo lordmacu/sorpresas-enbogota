@@ -239,7 +239,8 @@ export function Footer({ config }: FooterProps) {
         {/* Bottom Bar */}
         <div className="border-t border-white/10 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm">
-            © {currentYear} {SITE_NAME}. Todos los derechos reservados.
+            © {currentYear} {SITE_NAME}. Todos los derechos reservados. · Parte de{" "}
+            <a href="https://enbogota.app" className="hover:text-white transition-colors">enbogota.app</a>
           </p>
           <div className="flex items-center gap-6">
             <Link href="/privacidad" className="text-gray-500 hover:text-white transition-colors text-sm">
