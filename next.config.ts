@@ -1,15 +1,21 @@
 import type { NextConfig } from "next";
-import path from "node:path";
+
+// process.cwd() (no __dirname): el config debe compilar en ESM (SWC WASM en
+// Termux/Android) y CJS (SWC nativo en PC); __dirname no existe en ESM.
+const projectRoot = process.cwd();
 
 const nextConfig: NextConfig = {
   // Fija la raíz del proyecto en este directorio (sorpresas/). Evita que Next
   // infiera mal la raíz por un package-lock.json huérfano en el directorio padre.
   turbopack: {
-    root: path.join(__dirname),
+    root: projectRoot,
   },
   // Mismo propósito para el bundler webpack (dev usa --webpack) y el file
   // tracing del build.
-  outputFileTracingRoot: path.join(__dirname),
+  outputFileTracingRoot: projectRoot,
+  // distDir gateado: el celu construye en otra carpeta (NEXT_DIST_DIR) y hace
+  // swap atómico. En Vercel no se setea → ".next" normal.
+  distDir: process.env.NEXT_DIST_DIR || ".next",
   // Los source maps en build/servidor consumen mucha RAM. Con ~750 páginas
   // estáticas no los necesitamos para producción.
   productionBrowserSourceMaps: false,
@@ -27,6 +33,9 @@ const nextConfig: NextConfig = {
     imgOptConcurrency: 2, // limita procesos sharp al optimizar las 826 imágenes
   },
   images: {
+    // En el celu (Termux) no hay `sharp`: con NO_IMAGE_OPT=1 se sirven sin
+    // optimizar. En Vercel no se setea → optimiza normal.
+    unoptimized: process.env.NO_IMAGE_OPT === "1",
     // Las imágenes ahora son self-host (/images/shop/...). Estos patrones
     // quedan por si alguna referencia remota se cuela tras re-scrapear.
     remotePatterns: [
