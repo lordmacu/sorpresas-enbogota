@@ -289,6 +289,8 @@ async function callLlm({ system, user, baseUrl, apiKey, model, apiStyle, jsonMod
         if (useJsonMode) body.response_format = { type: "json_object" };
       }
 
+      // MiniMax-M3: apagar razonamiento -> respuesta directa sin <think> (M2.x lo ignora; escape LLM_THINKING=on)
+      if (typeof model !== "undefined" && /m3/i.test(String(model)) && process.env.LLM_THINKING !== "on") body.thinking = { type: "disabled" };
       const res = await fetch(url, {
         method: "POST",
         headers,

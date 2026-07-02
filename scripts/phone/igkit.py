@@ -311,11 +311,15 @@ def minimax_text(system, user, max_tokens=2000, spanish_only=True):
         style = "anthropic" if re.search(r"/anthropic(?:/|$)", base) else "openai"
     sys_prompt = system + SPANISH_RULE if spanish_only else system
 
+    # MiniMax-M3: apagar razonamiento -> texto directo sin gastar presupuesto en <think> (escape LLM_THINKING=on)
+    extra = {}
+    if "m3" in str(model).lower() and os.environ.get("LLM_THINKING") != "on":
+        extra = {"thinking": {"type": "disabled"}}
     for _intento in range(4):
         if style == "anthropic":
             r = post_json(
                 f"{base}/v1/messages",
-                {"model": model, "max_tokens": max_tokens, "system": sys_prompt,
+                {"model": model, "max_tokens": max_tokens, **extra, "system": sys_prompt,
                  "messages": [{"role": "user", "content": user}]},
                 headers={"x-api-key": key, "anthropic-version": "2023-06-01"},
             )
@@ -325,7 +329,7 @@ def minimax_text(system, user, max_tokens=2000, spanish_only=True):
             url = base if base.endswith("/chat/completions") else f"{base}/chat/completions"
             r = post_json(
                 url,
-                {"model": model, "max_tokens": max_tokens,
+                {"model": model, "max_tokens": max_tokens, **extra,
                  "messages": [{"role": "system", "content": sys_prompt},
                               {"role": "user", "content": user}]},
                 headers={"Authorization": f"Bearer {key}"},

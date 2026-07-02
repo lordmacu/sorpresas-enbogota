@@ -63,6 +63,8 @@ async function callLlm(system, user) {
         headers = { "Content-Type": "application/json", Authorization: `Bearer ${apiKey}` };
         body = { model, temperature: 0.3, max_tokens: 8000, messages: [{ role: "system", content: system }, { role: "user", content: user }] };
       }
+      // MiniMax-M3: apagar razonamiento -> respuesta directa sin <think> (M2.x lo ignora; escape LLM_THINKING=on)
+      if (typeof model !== "undefined" && /m3/i.test(String(model)) && process.env.LLM_THINKING !== "on") body.thinking = { type: "disabled" };
       const res = await fetch(url, { method: "POST", headers, body: JSON.stringify(body) });
       if (!res.ok) {
         last = new Error(`HTTP ${res.status}: ${(await res.text()).slice(0, 150)}`);
