@@ -261,6 +261,9 @@ def call_llm(system, user, base_url, api_key, model, api_style, max_tokens=16000
                         {"role": "user", "content": user},
                     ],
                 }
+            # MiniMax-M3: apagar razonamiento -> respuesta directa sin <think> (M2.x lo ignora; escape LLM_THINKING=on)
+            if "m3" in str(model).lower() and os.environ.get("LLM_THINKING") != "on":
+                body["thinking"] = {"type": "disabled"}
             status, text = http_post_json(url, headers, body, timeout=300)
             if status < 200 or status >= 300:
                 last_err = RuntimeError(f"HTTP {status}: {text[:300]}")
