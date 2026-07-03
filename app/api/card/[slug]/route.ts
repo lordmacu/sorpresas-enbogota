@@ -12,7 +12,7 @@ export async function GET(
     return new Response("Bad request", { status: 400 });
   }
 
-  const origin = new URL(req.url).origin;
+  const origin = process.env.INTERNAL_ORIGIN || new URL(req.url).origin;
   const src = await fetch(`${origin}/images/cards/${slug}.webp`, {
     cache: "force-cache",
   });
