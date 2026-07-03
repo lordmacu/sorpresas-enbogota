@@ -215,18 +215,36 @@ def resolve_api_style(style, base_url):
 
 
 def extract_json(text):
-    t = text.strip()
+    # Robusto contra el JSON malformado que a veces devuelve el LLM (MiniMax):
+    # fences markdown, prosa antes/después, comas colgantes y caracteres de
+    # control crudos dentro de strings (strict=False los tolera).
+    t = (text or "").strip()
     m = re.match(r"^```(?:json)?\s*([\s\S]*?)\s*```\s*$", t)
     if m:
         t = m.group(1).strip()
-    try:
-        return json.loads(t)
-    except Exception:
-        start = t.find("{")
-        end = t.rfind("}")
-        if start != -1 and end > start:
-            return json.loads(t[start : end + 1])
-        raise ValueError("No se encontró JSON válido en la respuesta del modelo")
+    start, end = t.find("{"), t.rfind("}")
+    if start != -1 and end > start:
+        t = t[start : end + 1]
+    variantes = [t, re.sub(r",(\s*[}\]])", r"\1", t)]  # 2ª: sin comas colgantes
+    for cand in variantes:
+        for strict in (False, True):
+            try:
+                return json.loads(cand, strict=strict)
+            except Exception:
+                pass
+    # reparación acotada de comillas dobles sin escapar dentro de strings
+    s = t
+    for _ in range(300):
+        try:
+            return json.loads(s, strict=False)
+        except json.JSONDecodeError as e:
+            if "delimiter" not in e.msg or not (0 < e.pos <= len(s)):
+                break
+            q = s.rfind('"', 0, e.pos)
+            if q <= 0 or s[q - 1] == "\\":
+                break
+            s = s[:q] + "\\" + s[q:]
+    raise ValueError("No se encontró JSON válido en la respuesta del modelo")
 
 
 def call_llm(system, user, base_url, api_key, model, api_style, max_tokens=16000, max_retries=4):
